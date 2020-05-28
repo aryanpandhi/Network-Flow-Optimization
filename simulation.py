@@ -1,13 +1,12 @@
-import numpy as np 
-import pandas as pd
-import matplotlib.pyplot as plt
-import simpy as sp 
+from numpy import random 
+from pandas import read_csv, isna
+from simpy import Environment, Resource
 
 # read and create data frames for the csv files
-RMIDF = pd.read_csv('rmi_inventory_level.csv')
-CLSP = pd.read_csv('classifier_split.csv')
-PFS = pd.read_csv('prefinish_statistics.csv')
-PS = pd.read_csv('packaging_statistics.csv')
+RMIDF = read_csv('rmi_inventory_level.csv')
+CLSP = read_csv('classifier_split.csv')
+PFS = read_csv('prefinish_statistics.csv')
+PS = read_csv('packaging_statistics.csv')
 
 # store the data for the facilities in arrays
 NAME = ['Detroit','Columbus','Springfield','Green Bay','Omaha']
@@ -32,16 +31,14 @@ def simulate(k):
     Returns: 
         float: time taken in hours (float)
     """
-    print("Processing in " + NAME[k])
 
     # read the internal work order
-    df = pd.read_csv(NAME[k]+'.csv')
+    df = read_csv(NAME[k].lower() + '.csv')
 
     # create the RMI store
     rmi_store = [0]*40
-    for i in range(NUM_OF_RMI_DRUMS[k]):
-        i = i + START_FROM[k]
-        if not pd.isna(RMIDF.iloc[i,3]):
+    for i in range(START_FROM[k],START_FROM[k] + NUM_OF_RMI_DRUMS[k]):
+        if not isna(RMIDF.iloc[i,3]):
             color_number = int(str(RMIDF.iloc[i,2])[14:])
             rmi_store[color_number-1] += int(RMIDF.iloc[i,3])
     
@@ -49,11 +46,11 @@ def simulate(k):
     pfi_store = [0]*200
    
     # set up the simulation environment and resources
-    env = sp.Environment()
-    classifier = sp.Resource(env,1)
-    prefinish = sp.Resource(env,PREFINISH_EQUIPMENT[k])
-    bag_machine = sp.Resource(env,BAG_EQUIPMENT[k])
-    box_machine = sp.Resource(env,1)
+    env = Environment()
+    classifier = Resource(env,1)
+    prefinish = Resource(env,PREFINISH_EQUIPMENT[k])
+    bag_machine = Resource(env,BAG_EQUIPMENT[k])
+    box_machine = Resource(env,1)
 
     def calculate_prefinish_rate(size,flavor):
         """ 
@@ -78,7 +75,7 @@ def simulate(k):
         
         mean = PFS.iloc[index,4]
         sd = PFS.iloc[index,5]
-        return float(np.random.normal(mean,sd))
+        return float(random.normal(mean,sd))
 
     def calculate_packaging_rate(size,packaging_type):
         """ 
@@ -105,7 +102,7 @@ def simulate(k):
 
         mean = PS.iloc[index,4]
         sd = PS.iloc[index,5]
-        return float(np.random.normal(mean,sd)) 
+        return float(random.normal(mean,sd)) 
 
     def find_pit(color,size):
         """ 
@@ -245,5 +242,9 @@ def simulate(k):
     env.run()
     return env.now
 
-simulations = [simulate(0),simulate(1),simulate(2),simulate(3),simulate(4)]
-print(simulations)
+# print results
+print("Detroit takes " + str(round(simulate(0))) + " hours.")
+print("Columbus takes " + str(round(simulate(1))) + " hours.")
+print("Springfield takes " + str(round(simulate(2))) + " hours.")
+print("Green Bay takes " + str(round(simulate(3))) + " hours.")
+print("Omaha takes " + str(round(simulate(4))) + " hours.")
