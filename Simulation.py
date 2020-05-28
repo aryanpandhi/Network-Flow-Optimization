@@ -1,199 +1,248 @@
 import numpy as np 
 import pandas as pd
 import matplotlib.pyplot as plt
-import simpy
+import simpy as sp 
 
-# Reading and creating data frames for the csv files
-RMIdf = pd.read_csv('RMI Inventory Level.csv')
+# read and create data frames for the csv files
+RMIDF = pd.read_csv('RMI Inventory Level.csv')
 CLSP = pd.read_csv('Classifier Split.csv')
 PFS = pd.read_csv('Pre-finishStatistics.csv')
 PS = pd.read_csv('PackagingStatistics.csv')
 
-# Detroit, Columbus, Springfield, Green Bay, Omaha
-name = ['Detroit','Columbus','Springfield','Green Bay','Omaha']
-numOfRMIDrums = [40,30,50,20,30]
-startFrom = [0,40,70,120,140]
-RMICapacity = [300000,320000,88000,330000,440000]
-prefinishEquipment = [2,3,1,2,3]
-bagEquipment = [1,2,1,1,1]
+# store the data for the facilities in arrays
+NAME = ['Detroit','Columbus','Springfield','Green Bay','Omaha']
+NUM_OF_RMI_DRUMS = [40,30,50,20,30]
+START_FROM = [0,40,70,120,140]
+PREFINISH_EQUIPMENT = [2,3,1,2,3]
+BAG_EQUIPMENT = [1,2,1,1,1]
 
-def Simulate(k):
-    # print(name[k])
-    df = pd.read_csv(name[k]+str(2)+'.csv')
-
-    RMI = [0]*40
-    for i in range(numOfRMIDrums[k]):
-        i = i + startFrom[k]
-        if not pd.isna(RMIdf.iloc[i,3]):
-            colorNumber = int(str(RMIdf.iloc[i,2])[14:])
-            RMI[colorNumber-1] += int(RMIdf.iloc[i,3]) 
+def simulate(k):
+    """
+    Returns the time taken for a facility to complete its internal 
+    work order
     
-    # Creating the RMI Store for the manufacturing site
-    # RMIStore = [None]*numOfRMIDrums[k]
-    # for i in range(numOfRMIDrums[k]):
-    #     j = i + startFrom[k]
-    #     drum = str(RMIdf.iloc[j,1])
-    #     color = str(RMIdf.iloc[j,2])
-    #     capacity = RMICapacity[k]
-    #     if pd.isna(RMIdf.iloc[j,3]):
-    #         quantity = 0
-    #     else:
-    #         quantity = int(RMIdf.iloc[j,3])
-    #     RMIStore[i]= st.RMIDrum(drum,color,quantity,capacity)
+    Args:
+        k (int): the index of the facility in the arrays that store 
+        data
 
-    PFIStore = [0]*200
+    Precondition: 
+        k is an integer from 0 to 4 (inclusive)
+
+    Returns: 
+        float: time taken in hours (float)
+    """
+    print("Processing in " + NAME[k])
+
+    # read the internal work order
+    df = pd.read_csv(NAME[k]+'.csv')
+
+    # create the RMI store
+    rmi_store = [0]*40
+    for i in range(NUM_OF_RMI_DRUMS[k]):
+        i = i + START_FROM[k]
+        if not pd.isna(RMIDF.iloc[i,3]):
+            color_number = int(str(RMIDF.iloc[i,2])[14:])
+            rmi_store[color_number-1] += int(RMIDF.iloc[i,3]) 
+    
+    # initialize the PFI store
+    pfi_store = [0]*200
    
-    # Setting up the simulation environment and resources
-    env = simpy.Environment()
-    classifier = simpy.Resource(env,1)
-    prefinish = simpy.Resource(env,prefinishEquipment[k])
-    bagmachine = simpy.Resource(env,bagEquipment[k])
-    boxmachine = simpy.Resource(env,1)
+    # set up the simulation environment and resources
+    env = sp.Environment()
+    classifier = sp.Resource(env,1)
+    prefinish = sp.Resource(env,PREFINISH_EQUIPMENT[k])
+    bag_machine = sp.Resource(env,BAG_EQUIPMENT[k])
+    box_machine = sp.Resource(env,1)
 
-    # removes the required amount of jellybeans from the RMI drums
-    # throws an exception if the drums do not contain enough of the beans
-    
-    def emptyTheDrums(color,amount):
-        colorNumber = int(str(color)[14:])
-        RMI[colorNumber-1] -= amount      
-        # if round(RMI[colorNumber-1])<0 and amount!=0:
-        #     print(color+str(RMI[colorNumber-1]))
+    def calculate_prefinish_rate(size,flavor):
+        """ 
+        Returns the processing rate for a prefinish operation by sampling 
+        from a distribution that was fit to past data
 
-    # determines the processing rate for PF operation using statistics from the past
-    def calculateRatePF(size,flavor):
-        ind = 60
-        while not (PFS.iloc[ind,2]==size and PFS.iloc[ind,3]==flavor):
-            ind+=1
-        mean = PFS.iloc[ind,4]
-        sd = PFS.iloc[ind,5]
-        value = np.random.normal(mean,sd)
-        return value
+        Args:
+            size (int): size of the jellybeans processed in the prefinish 
+            flavor (int): flavor of the jellybeans processed in the prefinish
 
-    # determines the processing rate for PA operstion using statistics
-    def calculateRatePA(size,packagingtype):
-        ind = 10 
-        while not (PS.iloc[ind,2]==size and PS.iloc[ind,3]==packagingtype):
-            ind += 1
-        mean = PS.iloc[ind,4]
-        sd = PS.iloc[ind,5]
-        value = np.random.normal(mean,sd)
-        return value 
+        Precondition: 
+            1. size ranges from 1 to 5 inclusive
+            2. flavor ranges from 1 to 12 inclusive
 
-    # converts the quantity from Stock Keeping Unit to Pounds
-    def convertToPounds(quantity,packagingtype):
-        if packagingtype == 'Bag':
-            quantityinPounds = 0.25*quantity
-        else:
-            quantityinPounds = 2.5*quantity
-        return quantityinPounds
+        Returns: 
+            float: processing rate in pounds per hour
+        """
+        index = (size-1)*12 + flavor-1
 
-    def findPit(color,size):
-        colorNumber = (int(str(color)[14:])-1)*5
-        sizeNumber = int(str(size)[1:])-1
-        return colorNumber + sizeNumber
-
-    # determines the amount of jellybeans to remove from RMI based on the classifier split
-    def amountToRemove(color,size,quantity):
-        index = findPit(color,size)
-        amountExisting = PFIStore[index]
-        if amountExisting <= quantity:
-            # print(str(amountExisting)+ ' removed from store')
-            quantity -= amountExisting
-        else:
-            # print(str(amount)+ ' removed from store')
-            quantity = 0
-        k = 0
-        while not (CLSP.iloc[k,0]==color and CLSP.iloc[k,1]==size):
-            k+=1
-        percentage = int(CLSP.iloc[k,2])
-        amount = (quantity * 100)/percentage 
-        return amount
+        while not (str(PFS.iloc[index,1]) == NAME[k]):
+            index += 60
         
-    # finds the percentage split in the classifier of the color and size
-    def findPercentage(color,size):
-        k = (int(str(color)[14:])-1)*5
-        for i in range(5):
-            j = i + k
-            if CLSP.iloc[j,1]==size:
-                return CLSP.iloc[j,2]
+        mean = PFS.iloc[index,4]
+        sd = PFS.iloc[index,5]
+        return float(np.random.normal(mean,sd))
 
-    def fillTheDrums(color,size,amount):
-        PFIStore[findPit(color,size)] += amount*findPercentage(color,size)*0.01
-        for i in range(5):
-            j = i+1
-            currSize = 'S'+str(j)
-            if currSize != size:
-                quantity = amount*findPercentage(color,currSize)*0.01
-                index = findPit(color,currSize)
-                PFIStore[index]+=quantity
-                # print('filled '+str(quantity)+' of '+str(currSize)+' of '+str(color)+' in pos '+str(index))
+    def calculate_packaging_rate(size,packaging_type):
+        """ 
+        Returns the processing rate for a packaging operation by sampling 
+        from a distribution that was fit to past data
 
-    # Simulates the flow of each work order 
-    def flow(info,CLResource,PFResource,BAResource,BOResource):
+        Args:
+            size (int): size of the jellybeans processed in the prefinish
+            packaging_type (str): flavor of the jellybeans processed in the 
+            prefinish
+
+        Precondition: 
+            1. size ranges from 1 to 5 inclusive
+            2. packaging_type is a str of the form 'Bag' or 'Box'
+
+        Returns: 
+            float: processing rate in pounds per hour
+        """
+        packaging_number = 1 if packaging_type=='Bag' else 0
+        index = packaging_number + (size-1)*2
+
+        while not (str(PS.iloc[index,1]) == NAME[k]):
+            index += 10
+
+        mean = PS.iloc[index,4]
+        sd = PS.iloc[index,5]
+        return float(np.random.normal(mean,sd)) 
+
+    def find_pit(color,size):
+        """ 
+        Returns the index of the drum in prefinish store
+
+        Args:
+            color (int): color of the jellybeans whose drum is to be found
+            size (int): size of the jellybeans whose drum is to be found
+
+        Precondition:
+            1. color ranges from 1 to 40 inclusive
+            2. size ranges from 1 to 5 inclusive
+
+        Returns: 
+            int: index of the drum with the given color and size (integer)
+        """
+        return (color-1)*5 + size-1
+
+    def amount_to_remove(color,size,quantity):
+        """ 
+        Returns the amount of jellybeans to remove from RMI based on the 
+        classifier split
+
+        Args:
+            color (int): color of the jellybeans that have to be removed
+            size (int): size of the jellybeans that have to be removed
+            quantity (float): quantity (in pounds) of the jellybeans that 
+            will go in the prefinish
+        
+        Precondition:
+            1. color ranges from 1 to 40 inclusive
+            2. size ranges from 1 to 5 inclusive
+        
+        Returns: 
+            float: pounds of jellybeans to be emptied from the RMI
+        """
+        amount_existing = pfi_store[find_pit(color,size)]
+        quantity_to_remove = (quantity-amount_existing) if amount_existing <= quantity else 0
+        percentage = find_percentage(color,size)
+        return (quantity_to_remove * 100)/percentage 
+        
+    def find_percentage(color,size):
+        """ 
+        Returns the percentage split in the classifier of the given size for
+        the given color
+
+        Args:
+            color (int): color of the jellybeans that are to be split
+            size (int): the size whose percentage is to be found
+        
+        Preconditions:
+            1. color ranges from 1 to 40 inclusive
+            2. size ranges from 1 to 5 inclusive
+
+        Returns: 
+            int: percentage split of the size
+        """
+        index = (color-1)*5
+        while not (int(str(CLSP.iloc[index,1])[1:])==size):
+            index += 1
+
+        return int(CLSP.iloc[index,2])
+
+    def fill_the_drums(color,size,amount):
+        """ 
+        Fills the drum for the given size and color in the prefinish store by the 
+        given amount
+
+        Args:
+            color (int): color of the jellybeans that are filled
+            size (int): size of the jellybeans that are filled
+            amount (float): amount of jellybeans (in pounds) that are filled
+        
+        Preconditions:
+            1. color ranges from 1 to 40 inclusive
+            2. size ranges from 1 to 5 inclusive
+        """
+
+        pfi_store[find_pit(color,size)] += amount*find_percentage(color,size)*0.01
+        for i in range(1,6):
+            if i != size:
+                pfi_store[find_pit(color,i)] += amount*find_percentage(color,i)*0.01
+
+    def flow(info):
+        """ 
+        Simulates the flow of each instance in the internal work order
+
+        Arg: 
+            info: a row of the internal work order data frame. 
+        
+        Precondition: 
+            The row has columns in the order of plant ID, internal work order ID, 
+            color, size, flavor, packaging type, and quantity of that particular order
+        """
 
         # setting up the information of the work order
         ID = info.iloc[1]
-        color = info.iloc[2]
-        size = info.iloc[3]
-        flavor = info.iloc[4]
-        packagingtype = info.iloc[5]
-        quantityInPounds = info.iloc[6]
+        color = int(str(info.iloc[2])[14:])
+        size = int(str(info.iloc[3])[1:])
+        flavor = int(str(info.iloc[4])[1:])
+        packaging_type = str(info.iloc[5])
+        quantity_in_pounds = float(info.iloc[6])
 
         # using the classifier machine
-        with CLResource.request() as req:
-            yield req
-            # print(str(ID) + " entered classifier at " + str(env.now))
-            amount = amountToRemove(color,size,quantityInPounds)
-            emptyTheDrums(color,amount)
-            fillTheDrums(color,size,amount)
-            PFIStore[findPit(color,size)]-=quantityInPounds
-            # EXCEPTION IF OVERFILLED THE PFI DRUMS
+        with classifier.request() as classifier_req:
+            yield classifier_req
+            amount = amount_to_remove(color,size,quantity_in_pounds)
+            rmi_store[color-1] -= amount
+            fill_the_drums(color,size,amount)
             yield env.timeout(amount/2280)
 
         # using one of the pre-finish operation machines
-        with PFResource.request() as req1:
-            yield req1
-            # print(str(ID) + " entered Pre-finish at " + str(env.now))
-            processingTime = calculateRatePF(size,flavor)
-            yield env.timeout(quantityInPounds/processingTime)
+        with prefinish.request() as prefinish_req:
+            yield prefinish_req
+            pfi_store[find_pit(color,size)] -= quantity_in_pounds
+            prefinish_rate = calculate_prefinish_rate(size,flavor)
+            yield env.timeout(quantity_in_pounds/prefinish_rate)
 
         # using one of the packaging machines 
-        if packagingtype=='Bag':
-            with BAResource.request() as req2:
-                yield req2
-                # print(str(ID) + " entered Packaging at " + str(env.now))
-                processTime = calculateRatePA(size,packagingtype)
-                yield env.timeout(quantityInPounds/processTime)
+        if packaging_type=='Bag':
+            with bag_machine.request() as bag_machine_req:
+                yield bag_machine_req
+                bag_packaging_rate = calculate_packaging_rate(size,packaging_type)
+                yield env.timeout(quantity_in_pounds/bag_packaging_rate)
         else:
-            with BOResource.request() as req3:
-                yield req3
-                # print(str(ID) + " entered Packaging at " + str(env.now))
-                processTime = calculateRatePA(size,packagingtype)
-                yield env.timeout(quantityInPounds/processTime)
+            with box_machine.request() as box_machine_req:
+                yield box_machine_req
+                box_packaging_rate = calculate_packaging_rate(size,packaging_type)
+                yield env.timeout(quantity_in_pounds/box_packaging_rate)
 
     # adds the process of simulating each work order to the environment
     (rows,cols) = df.shape
     for i in range(rows):
-        env.process(flow(df.iloc[i],classifier,prefinish,bagmachine,boxmachine))
+        env.process(flow(df.iloc[i]))
 
-    # runs the processes and prints the results
+    # runs the processes and returns the time taken
     env.run()
     return env.now
 
-time = 0
-# collecting = []
-# xvalues = []
-for i in range(20):     
-    # xvalues = xvalues + [i]
-    # print(i)
-    simulations = [Simulate(0),Simulate(1),Simulate(2),Simulate(3),Simulate(4)]
-    # if i==0:
-    #     plt.bar([0,1,2,3,4],simulations)
-    #     plt.title('Production Times')
-    #     plt.xlabel('Iterations')
-    #     plt.ylabel('Time (hours)')
-    # #     plt.show()
-    # collecting = collecting + [max(simulations)]
-    time += max(simulations)
-
-print(time/20)
+simulations = [simulate(0),simulate(1),simulate(2),simulate(3),simulate(4)]
+print(simulations)
