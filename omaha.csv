@@ -1,1002 +1,1013 @@
-Plant Id,Internal Work Order Id,Color,Size,Flavor,Packaging Type,Qty
-Omaha,0,Coloring Agent34,S2,F10,Bag,19518.0
-Omaha,1,Coloring Agent1,S3,F5,Bag,17742.0
-Omaha,2,Coloring Agent27,S1,F10,Bag,16948.0
-Omaha,3,Coloring Agent14,S5,F11,Bag,16406.610000000015
-Omaha,4,Coloring Agent11,S5,F11,Bag,16257.0
-Omaha,5,Coloring Agent34,S4,F7,Bag,15687.0
-Omaha,6,Coloring Agent35,S2,F10,Bag,15434.0
-Omaha,7,Coloring Agent26,S5,F10,Bag,15376.0
-Omaha,8,Coloring Agent29,S4,F7,Bag,14813.0
-Omaha,9,Coloring Agent26,S3,F7,Bag,14523.0
-Omaha,10,Coloring Agent6,S4,F12,Bag,14518.999999999996
-Omaha,11,Coloring Agent15,S3,F12,Bag,14438.0
-Omaha,12,Coloring Agent26,S2,F12,Bag,14426.0
-Omaha,13,Coloring Agent27,S3,F6,Bag,14153.0
-Omaha,14,Coloring Agent15,S3,F9,Bag,14047.0
-Omaha,15,Coloring Agent2,S3,F10,Bag,13893.0
-Omaha,16,Coloring Agent40,S2,F11,Bag,13650.0
-Omaha,17,Coloring Agent2,S5,F9,Bag,13576.0
-Omaha,18,Coloring Agent26,S4,F8,Bag,13543.0
-Omaha,19,Coloring Agent31,S1,F10,Bag,13180.0
-Omaha,20,Coloring Agent2,S4,F10,Bag,13119.0
-Omaha,21,Coloring Agent31,S5,F5,Bag,12972.0
-Omaha,22,Coloring Agent40,S2,F9,Bag,12971.0
-Omaha,23,Coloring Agent5,S3,F5,Bag,12935.0
-Omaha,24,Coloring Agent34,S1,F6,Bag,12886.0
-Omaha,25,Coloring Agent29,S5,F3,Bag,12766.0
-Omaha,26,Coloring Agent1,S4,F1,Bag,12713.0
-Omaha,27,Coloring Agent29,S3,F8,Bag,12662.0
-Omaha,28,Coloring Agent17,S3,F10,Bag,12643.0
-Omaha,29,Coloring Agent31,S1,F4,Bag,12443.0
-Omaha,30,Coloring Agent2,S5,F8,Bag,12443.0
-Omaha,31,Coloring Agent11,S3,F9,Bag,12405.0
-Omaha,32,Coloring Agent15,S5,F10,Bag,12316.0
-Omaha,33,Coloring Agent29,S5,F6,Bag,12229.0
-Omaha,34,Coloring Agent2,S1,F8,Bag,12124.0
-Omaha,35,Coloring Agent1,S2,F5,Bag,12059.0
-Omaha,36,Coloring Agent26,S1,F5,Bag,11900.0
-Omaha,37,Coloring Agent11,S4,F11,Bag,11761.0
-Omaha,38,Coloring Agent34,S4,F12,Bag,11682.0
-Omaha,39,Coloring Agent17,S3,F9,Bag,11619.636022514082
-Omaha,40,Coloring Agent2,S3,F2,Bag,11592.428571428565
-Omaha,41,Coloring Agent26,S5,F11,Bag,11589.0
-Omaha,42,Coloring Agent26,S5,F4,Bag,11458.0
-Omaha,43,Coloring Agent29,S2,F12,Bag,11456.0
-Omaha,44,Coloring Agent5,S1,F11,Bag,11419.0
-Omaha,45,Coloring Agent1,S1,F6,Bag,11396.0
-Omaha,46,Coloring Agent2,S3,F3,Bag,11375.0
-Omaha,47,Coloring Agent5,S3,F12,Bag,11349.0
-Omaha,48,Coloring Agent2,S3,F7,Bag,11318.0
-Omaha,49,Coloring Agent5,S3,F7,Bag,11073.0
-Omaha,50,Coloring Agent34,S4,F8,Bag,11058.0
-Omaha,51,Coloring Agent34,S2,F2,Bag,10946.0
-Omaha,52,Coloring Agent5,S2,F10,Bag,10905.0
-Omaha,53,Coloring Agent26,S5,F3,Bag,10843.0
-Omaha,54,Coloring Agent8,S4,F12,Bag,10747.0
-Omaha,55,Coloring Agent5,S1,F7,Bag,10666.0
-Omaha,56,Coloring Agent1,S1,F12,Bag,10626.0
-Omaha,57,Coloring Agent27,S2,F10,Bag,10446.0
-Omaha,58,Coloring Agent35,S5,F10,Bag,10406.0
-Omaha,59,Coloring Agent15,S4,F11,Bag,10394.0
-Omaha,60,Coloring Agent26,S5,F7,Bag,10377.0
-Omaha,61,Coloring Agent1,S3,F12,Bag,10264.0
-Omaha,62,Coloring Agent2,S4,F11,Bag,10235.0
-Omaha,63,Coloring Agent1,S4,F8,Bag,10206.0
-Omaha,64,Coloring Agent29,S4,F8,Bag,10198.0
-Omaha,65,Coloring Agent26,S3,F10,Bag,10140.0
-Omaha,66,Coloring Agent1,S4,F7,Bag,10040.0
-Omaha,67,Coloring Agent34,S1,F11,Bag,9994.0
-Omaha,68,Coloring Agent1,S3,F11,Bag,9969.0
-Omaha,69,Coloring Agent31,S5,F6,Bag,9946.0
-Omaha,70,Coloring Agent15,S1,F9,Bag,9945.0
-Omaha,71,Coloring Agent8,S3,F10,Bag,9891.0
-Omaha,72,Coloring Agent5,S5,F8,Bag,9856.0
-Omaha,73,Coloring Agent2,S5,F11,Bag,9812.0
-Omaha,74,Coloring Agent40,S5,F8,Bag,9767.0
-Omaha,75,Coloring Agent11,S2,F11,Bag,9757.0
-Omaha,76,Coloring Agent27,S3,F11,Bag,9742.0
-Omaha,77,Coloring Agent17,S1,F12,Bag,9732.0
-Omaha,78,Coloring Agent26,S3,F8,Bag,9661.0
-Omaha,79,Coloring Agent5,S1,F10,Bag,9652.0
-Omaha,80,Coloring Agent29,S5,F12,Bag,9622.0
-Omaha,81,Coloring Agent8,S5,F11,Bag,9602.0
-Omaha,82,Coloring Agent2,S1,F2,Bag,9551.0
-Omaha,83,Coloring Agent27,S2,F8,Bag,9518.0
-Omaha,84,Coloring Agent29,S5,F7,Bag,9453.0
-Omaha,85,Coloring Agent31,S4,F4,Bag,9449.5
-Omaha,86,Coloring Agent27,S4,F6,Bag,9391.0
-Omaha,87,Coloring Agent34,S3,F5,Bag,9390.0
-Omaha,88,Coloring Agent15,S5,F11,Bag,9338.0
-Omaha,89,Coloring Agent40,S5,F10,Bag,9335.0
-Omaha,90,Coloring Agent1,S3,F8,Bag,9332.0
-Omaha,91,Coloring Agent40,S3,F11,Bag,9320.0
-Omaha,92,Coloring Agent26,S1,F6,Bag,9221.0
-Omaha,93,Coloring Agent11,S5,F9,Bag,9211.0
-Omaha,94,Coloring Agent1,S5,F10,Bag,9199.0
-Omaha,95,Coloring Agent29,S5,F5,Bag,9154.0
-Omaha,96,Coloring Agent30,S1,F9,Bag,9127.0
-Omaha,97,Coloring Agent26,S2,F4,Bag,9120.0
-Omaha,98,Coloring Agent34,S4,F11,Bag,9084.0
-Omaha,99,Coloring Agent31,S4,F6,Bag,9082.0
-Omaha,100,Coloring Agent15,S2,F11,Bag,9050.0
-Omaha,101,Coloring Agent5,S5,F7,Bag,9027.409999999996
-Omaha,102,Coloring Agent1,S1,F11,Bag,9024.0
-Omaha,103,Coloring Agent34,S3,F4,Bag,9016.0
-Omaha,104,Coloring Agent5,S5,F10,Bag,8992.0
-Omaha,105,Coloring Agent31,S4,F9,Bag,8983.0
-Omaha,106,Coloring Agent14,S1,F12,Bag,8982.0
-Omaha,107,Coloring Agent11,S4,F8,Bag,8923.0
-Omaha,108,Coloring Agent31,S5,F8,Bag,8881.0
-Omaha,109,Coloring Agent30,S3,F7,Bag,8827.66216216216
-Omaha,110,Coloring Agent2,S5,F4,Bag,8815.0
-Omaha,111,Coloring Agent27,S2,F5,Bag,8804.0
-Omaha,112,Coloring Agent31,S2,F11,Bag,8758.0
-Omaha,113,Coloring Agent30,S2,F7,Bag,8733.175675675673
-Omaha,114,Coloring Agent15,S4,F12,Bag,8649.0
-Omaha,115,Coloring Agent31,S4,F11,Bag,8646.0
-Omaha,116,Coloring Agent29,S1,F2,Bag,8635.683928571436
-Omaha,117,Coloring Agent5,S3,F9,Bag,8626.0
-Omaha,118,Coloring Agent5,S2,F7,Bag,8626.0
-Omaha,119,Coloring Agent34,S1,F5,Bag,8619.0
-Omaha,120,Coloring Agent29,S2,F6,Bag,8608.0
-Omaha,121,Coloring Agent27,S5,F10,Bag,8438.0
-Omaha,122,Coloring Agent2,S2,F11,Bag,8431.0
-Omaha,123,Coloring Agent17,S5,F9,Bag,8418.0
-Omaha,124,Coloring Agent1,S4,F6,Bag,8329.0
-Omaha,125,Coloring Agent31,S2,F5,Bag,8303.0
-Omaha,126,Coloring Agent17,S2,F12,Bag,8220.0
-Omaha,127,Coloring Agent2,S1,F12,Bag,8215.0
-Omaha,128,Coloring Agent5,S2,F9,Bag,8192.0
-Omaha,129,Coloring Agent26,S4,F10,Bag,8191.0
-Omaha,130,Coloring Agent30,S3,F8,Bag,8184.0
-Omaha,131,Coloring Agent26,S2,F8,Bag,8151.0
-Omaha,132,Coloring Agent2,S5,F7,Bag,8121.0
-Omaha,133,Coloring Agent29,S1,F8,Bag,8107.0
-Omaha,134,Coloring Agent29,S1,F9,Bag,8092.0
-Omaha,135,Coloring Agent2,S1,F9,Bag,8088.0
-Omaha,136,Coloring Agent1,S3,F4,Bag,8076.0
-Omaha,137,Coloring Agent8,S1,F9,Bag,8066.0
-Omaha,138,Coloring Agent1,S1,F8,Bag,8010.0
-Omaha,139,Coloring Agent35,S4,F12,Bag,8002.0
-Omaha,140,Coloring Agent40,S4,F12,Bag,7984.0
-Omaha,141,Coloring Agent31,S5,F12,Bag,7956.0
-Omaha,142,Coloring Agent34,S2,F7,Bag,7955.0
-Omaha,143,Coloring Agent1,S4,F10,Bag,7925.0
-Omaha,144,Coloring Agent29,S4,F12,Bag,7898.0
-Omaha,145,Coloring Agent17,S5,F8,Bag,7869.999999999993
-Omaha,146,Coloring Agent34,S1,F3,Bag,7833.0
-Omaha,147,Coloring Agent31,S3,F12,Bag,7817.0
-Omaha,148,Coloring Agent26,S3,F11,Bag,7810.0
-Omaha,149,Coloring Agent34,S2,F5,Bag,7789.0
-Omaha,150,Coloring Agent34,S3,F3,Bag,7764.0
-Omaha,151,Coloring Agent27,S2,F3,Bag,7751.0
-Omaha,152,Coloring Agent26,S3,F12,Bag,7750.0
-Omaha,153,Coloring Agent1,S2,F1,Bag,7730.120689655174
-Omaha,154,Coloring Agent31,S4,F12,Bag,7722.0
-Omaha,155,Coloring Agent27,S4,F8,Bag,7634.0
-Omaha,156,Coloring Agent27,S4,F11,Bag,7593.0
-Omaha,157,Coloring Agent30,S1,F8,Bag,7573.0
-Omaha,158,Coloring Agent26,S1,F9,Bag,7567.0
-Omaha,159,Coloring Agent14,S3,F11,Bag,7567.0
-Omaha,160,Coloring Agent26,S2,F10,Bag,7543.0
-Omaha,161,Coloring Agent35,S5,F9,Bag,7537.0
-Omaha,162,Coloring Agent40,S2,F6,Bag,7526.0
-Omaha,163,Coloring Agent31,S2,F8,Bag,7517.0
-Omaha,164,Coloring Agent34,S3,F12,Bag,7499.0
-Omaha,165,Coloring Agent30,S3,F10,Bag,7493.0
-Omaha,166,Coloring Agent29,S2,F8,Bag,7460.0
-Omaha,167,Coloring Agent2,S4,F5,Bag,7449.0
-Omaha,168,Coloring Agent30,S2,F11,Bag,7435.0
-Omaha,169,Coloring Agent34,S3,F10,Bag,7431.0
-Omaha,170,Coloring Agent30,S2,F10,Bag,7395.0
-Omaha,171,Coloring Agent15,S2,F9,Bag,7334.500000000015
-Omaha,172,Coloring Agent1,S2,F12,Bag,7331.0
-Omaha,173,Coloring Agent34,S5,F6,Bag,7323.0
-Omaha,174,Coloring Agent1,S1,F7,Bag,7305.0
-Omaha,175,Coloring Agent31,S1,F12,Bag,7295.0
-Omaha,176,Coloring Agent30,S4,F11,Bag,7288.0
-Omaha,177,Coloring Agent2,S5,F10,Bag,7270.0
-Omaha,178,Coloring Agent40,S5,F9,Bag,7235.0
-Omaha,179,Coloring Agent26,S5,F8,Bag,7220.0
-Omaha,180,Coloring Agent29,S2,F9,Bag,7211.0
-Omaha,181,Coloring Agent11,S5,F8,Bag,7111.0
-Omaha,182,Coloring Agent34,S4,F5,Bag,7110.0
-Omaha,183,Coloring Agent2,S1,F4,Bag,7101.0
-Omaha,184,Coloring Agent26,S3,F6,Bag,7097.0
-Omaha,185,Coloring Agent14,S4,F12,Bag,7094.0
-Omaha,186,Coloring Agent34,S1,F2,Bag,7081.0
-Omaha,187,Coloring Agent34,S3,F1,Bag,7057.0
-Omaha,188,Coloring Agent26,S4,F9,Bag,7056.0
-Omaha,189,Coloring Agent1,S4,F2,Bag,7042.0
-Omaha,190,Coloring Agent26,S1,F10,Bag,7031.0
-Omaha,191,Coloring Agent2,S2,F10,Bag,7022.0
-Omaha,192,Coloring Agent34,S1,F9,Bag,7017.0
-Omaha,193,Coloring Agent5,S4,F12,Bag,6985.0
-Omaha,194,Coloring Agent29,S1,F12,Bag,6945.0
-Omaha,195,Coloring Agent1,S2,F3,Bag,6901.0
-Omaha,196,Coloring Agent27,S3,F7,Bag,6866.0
-Omaha,197,Coloring Agent34,S5,F1,Bag,6856.0
-Omaha,198,Coloring Agent2,S2,F12,Bag,6824.0
-Omaha,199,Coloring Agent5,S2,F8,Bag,6797.0
-Omaha,200,Coloring Agent40,S1,F11,Bag,6748.0
-Omaha,201,Coloring Agent29,S3,F4,Bag,6742.0
-Omaha,202,Coloring Agent27,S5,F11,Bag,6729.0
-Omaha,203,Coloring Agent1,S3,F10,Bag,6721.0
-Omaha,204,Coloring Agent17,S2,F8,Bag,6717.0
-Omaha,205,Coloring Agent31,S3,F2,Bag,6713.0
-Omaha,206,Coloring Agent17,S4,F6,Bag,6701.328330206379
-Omaha,207,Coloring Agent11,S2,F12,Bag,6651.0
-Omaha,208,Coloring Agent30,S4,F12,Bag,6647.0
-Omaha,209,Coloring Agent34,S1,F12,Bag,6591.0
-Omaha,210,Coloring Agent15,S3,F7,Bag,6537.0
-Omaha,211,Coloring Agent29,S3,F7,Bag,6527.0
-Omaha,212,Coloring Agent2,S5,F5,Bag,6480.0
-Omaha,213,Coloring Agent1,S2,F4,Bag,6473.0
-Omaha,214,Coloring Agent11,S2,F10,Bag,6453.0
-Omaha,215,Coloring Agent27,S3,F10,Bag,6400.0
-Omaha,216,Coloring Agent11,S5,F12,Bag,6390.0
-Omaha,217,Coloring Agent8,S3,F11,Bag,6370.0
-Omaha,218,Coloring Agent40,S5,F11,Bag,6368.0
-Omaha,219,Coloring Agent27,S2,F11,Bag,6367.0
-Omaha,220,Coloring Agent26,S3,F2,Bag,6363.7692307692305
-Omaha,221,Coloring Agent31,S3,F11,Bag,6340.0
-Omaha,222,Coloring Agent26,S1,F8,Bag,6299.0
-Omaha,223,Coloring Agent31,S3,F6,Bag,6288.0
-Omaha,224,Coloring Agent2,S3,F12,Bag,6260.0
-Omaha,225,Coloring Agent40,S3,F9,Bag,6249.0
-Omaha,226,Coloring Agent27,S2,F9,Bag,6246.0
-Omaha,227,Coloring Agent17,S2,F6,Bag,6239.0
-Omaha,228,Coloring Agent27,S4,F12,Bag,6226.0
-Omaha,229,Coloring Agent29,S5,F4,Bag,6221.0
-Omaha,230,Coloring Agent27,S3,F12,Bag,6211.0
-Omaha,231,Coloring Agent1,S3,F7,Bag,6210.0
-Omaha,232,Coloring Agent34,S1,F7,Bag,6199.0
-Omaha,233,Coloring Agent29,S4,F10,Bag,6185.0
-Omaha,234,Coloring Agent29,S5,F10,Bag,6175.0
-Omaha,235,Coloring Agent27,S2,F6,Bag,6164.0
-Omaha,236,Coloring Agent26,S4,F1,Bag,6145.0
-Omaha,237,Coloring Agent31,S3,F7,Bag,6134.0
-Omaha,238,Coloring Agent29,S3,F3,Bag,6086.0
-Omaha,239,Coloring Agent31,S1,F9,Bag,6073.0
-Omaha,240,Coloring Agent26,S5,F12,Bag,6070.0
-Omaha,241,Coloring Agent34,S4,F10,Bag,6060.0
-Omaha,242,Coloring Agent31,S2,F10,Bag,6051.0
-Omaha,243,Coloring Agent34,S4,F6,Bag,6021.0
-Omaha,244,Coloring Agent2,S2,F7,Bag,5993.0
-Omaha,245,Coloring Agent29,S3,F5,Bag,5991.0
-Omaha,246,Coloring Agent15,S3,F10,Bag,5991.0
-Omaha,247,Coloring Agent40,S3,F8,Bag,5982.0
-Omaha,248,Coloring Agent15,S1,F11,Bag,5981.0
-Omaha,249,Coloring Agent2,S1,F11,Bag,5964.0
-Omaha,250,Coloring Agent26,S4,F11,Bag,5950.0
-Omaha,251,Coloring Agent26,S4,F4,Bag,5931.0
-Omaha,252,Coloring Agent34,S5,F2,Bag,5915.0
-Omaha,253,Coloring Agent35,S2,F12,Bag,5908.0
-Omaha,254,Coloring Agent1,S5,F12,Bag,5899.0
-Omaha,255,Coloring Agent5,S4,F9,Bag,5894.0
-Omaha,256,Coloring Agent31,S3,F1,Bag,5818.0
-Omaha,257,Coloring Agent31,S2,F9,Bag,5816.0
-Omaha,258,Coloring Agent34,S3,F7,Bag,5791.0
-Omaha,259,Coloring Agent11,S1,F12,Bag,5779.0
-Omaha,260,Coloring Agent27,S4,F10,Bag,5774.0
-Omaha,261,Coloring Agent34,S5,F12,Bag,5757.0
-Omaha,262,Coloring Agent29,S3,F9,Bag,5745.0
-Omaha,263,Coloring Agent34,S5,F3,Bag,5743.0
-Omaha,264,Coloring Agent17,S3,F12,Bag,5741.999999999993
-Omaha,265,Coloring Agent17,S1,F10,Bag,5725.0
-Omaha,266,Coloring Agent34,S3,F8,Bag,5711.0
-Omaha,267,Coloring Agent2,S4,F7,Bag,5663.0
-Omaha,268,Coloring Agent40,S2,F12,Bag,5658.0
-Omaha,269,Coloring Agent5,S1,F5,Bag,5649.0
-Omaha,270,Coloring Agent11,S5,F10,Bag,5627.0
-Omaha,271,Coloring Agent29,S5,F8,Bag,5613.0
-Omaha,272,Coloring Agent31,S4,F10,Bag,5571.0
-Omaha,273,Coloring Agent26,S2,F5,Bag,5567.0
-Omaha,274,Coloring Agent26,S2,F9,Bag,5566.0
-Omaha,275,Coloring Agent30,S2,F12,Bag,5540.0
-Omaha,276,Coloring Agent1,S2,F9,Bag,5526.0
-Omaha,277,Coloring Agent8,S1,F11,Bag,5498.0
-Omaha,278,Coloring Agent17,S4,F7,Bag,5488.0
-Omaha,279,Coloring Agent34,S5,F7,Bag,5485.0
-Omaha,280,Coloring Agent17,S4,F10,Bag,5480.0
-Omaha,281,Coloring Agent29,S2,F11,Bag,5460.0
-Omaha,282,Coloring Agent34,S2,F11,Bag,5458.0
-Omaha,283,Coloring Agent1,S2,F6,Bag,5428.0
-Omaha,284,Coloring Agent34,S4,F2,Bag,5421.0
-Omaha,285,Coloring Agent30,S2,F9,Bag,5395.0
-Omaha,286,Coloring Agent34,S2,F9,Bag,5341.0
-Omaha,287,Coloring Agent29,S2,F7,Bag,5309.0
-Omaha,288,Coloring Agent31,S4,F8,Bag,5287.0
-Omaha,289,Coloring Agent29,S5,F2,Bag,5267.0
-Omaha,290,Coloring Agent5,S1,F9,Bag,5260.0
-Omaha,291,Coloring Agent2,S4,F3,Bag,5246.5
-Omaha,292,Coloring Agent29,S1,F6,Bag,5245.0
-Omaha,293,Coloring Agent14,S3,F10,Bag,5241.0
-Omaha,294,Coloring Agent14,S4,F11,Bag,5215.0
-Omaha,295,Coloring Agent5,S3,F4,Bag,5204.0
-Omaha,296,Coloring Agent5,S2,F11,Bag,5192.0
-Omaha,297,Coloring Agent1,S2,F8,Bag,5142.0
-Omaha,298,Coloring Agent26,S4,F7,Bag,5141.0
-Omaha,299,Coloring Agent40,S4,F11,Bag,5126.0
-Omaha,300,Coloring Agent26,S5,F9,Bag,5122.0
-Omaha,301,Coloring Agent34,S1,F8,Bag,5117.0
-Omaha,302,Coloring Agent26,S1,F11,Bag,5116.0
-Omaha,303,Coloring Agent29,S4,F11,Bag,5074.0
-Omaha,304,Coloring Agent11,S1,F10,Bag,5072.0
-Omaha,305,Coloring Agent29,S4,F4,Bag,5055.5
-Omaha,306,Coloring Agent35,S2,F9,Bag,5038.0
-Omaha,307,Coloring Agent11,S4,F12,Bag,5030.0
-Omaha,308,Coloring Agent17,S4,F8,Bag,5029.0
-Omaha,309,Coloring Agent17,S5,F11,Bag,5023.0
-Omaha,310,Coloring Agent27,S3,F8,Bag,5015.0
-Omaha,311,Coloring Agent29,S5,F1,Bag,5014.0
-Omaha,312,Coloring Agent26,S4,F2,Bag,5014.0
-Omaha,313,Coloring Agent35,S5,F11,Bag,4961.0
-Omaha,314,Coloring Agent11,S4,F7,Bag,4925.0
-Omaha,315,Coloring Agent34,S4,F1,Bag,4910.0
-Omaha,316,Coloring Agent2,S4,F12,Bag,4793.0
-Omaha,317,Coloring Agent1,S4,F9,Bag,4760.0
-Omaha,318,Coloring Agent11,S1,F11,Bag,4734.0
-Omaha,319,Coloring Agent34,S3,F2,Bag,4699.0
-Omaha,320,Coloring Agent35,S1,F9,Bag,4681.0
-Omaha,321,Coloring Agent2,S2,F4,Bag,4681.0
-Omaha,322,Coloring Agent1,S2,F11,Bag,4656.0
-Omaha,323,Coloring Agent29,S1,F4,Bag,4654.0
-Omaha,324,Coloring Agent26,S4,F6,Bag,4631.0
-Omaha,325,Coloring Agent40,S3,F10,Bag,4616.0
-Omaha,326,Coloring Agent40,S1,F8,Bag,4611.3125
-Omaha,327,Coloring Agent5,S3,F10,Bag,4539.0
-Omaha,328,Coloring Agent5,S3,F11,Bag,4481.0
-Omaha,329,Coloring Agent29,S3,F10,Bag,4450.0
-Omaha,330,Coloring Agent17,S2,F10,Bag,4436.0
-Omaha,331,Coloring Agent15,S3,F11,Bag,4434.0
-Omaha,332,Coloring Agent15,S2,F10,Bag,4425.0
-Omaha,333,Coloring Agent34,S4,F3,Bag,4415.0
-Omaha,334,Coloring Agent2,S3,F6,Bag,4402.0
-Omaha,335,Coloring Agent2,S1,F7,Bag,4350.0
-Omaha,336,Coloring Agent31,S5,F10,Bag,4341.0
-Omaha,337,Coloring Agent5,S4,F11,Bag,4320.0
-Omaha,338,Coloring Agent2,S3,F9,Bag,4318.0
-Omaha,339,Coloring Agent35,S1,F12,Bag,4307.0
-Omaha,340,Coloring Agent40,S2,F10,Bag,4301.0
-Omaha,341,Coloring Agent30,S1,F10,Bag,4295.0
-Omaha,342,Coloring Agent1,S2,F2,Bag,4294.0
-Omaha,343,Coloring Agent34,S5,F9,Bag,4274.0
-Omaha,344,Coloring Agent27,S1,F11,Bag,4272.0
-Omaha,345,Coloring Agent5,S1,F6,Bag,4270.0
-Omaha,346,Coloring Agent14,S4,F8,Bag,4260.630000000001
-Omaha,347,Coloring Agent29,S2,F10,Bag,4211.0
-Omaha,348,Coloring Agent31,S3,F9,Bag,4193.0
-Omaha,349,Coloring Agent31,S5,F9,Bag,4185.0
-Omaha,350,Coloring Agent40,S4,F7,Bag,4183.0
-Omaha,351,Coloring Agent29,S4,F6,Bag,4175.0
-Omaha,352,Coloring Agent1,S1,F9,Bag,4174.0
-Omaha,353,Coloring Agent14,S4,F10,Bag,4156.0
-Omaha,354,Coloring Agent1,S4,F12,Bag,4141.0
-Omaha,355,Coloring Agent31,S3,F4,Bag,4131.0
-Omaha,356,Coloring Agent31,S1,F6,Bag,4122.0
-Omaha,357,Coloring Agent27,S1,F8,Bag,4122.0
-Omaha,358,Coloring Agent31,S1,F3,Bag,4120.321428571435
-Omaha,359,Coloring Agent8,S5,F10,Bag,4114.511695906433
-Omaha,360,Coloring Agent5,S1,F12,Bag,4087.0
-Omaha,361,Coloring Agent27,S2,F2,Bag,4084.0
-Omaha,362,Coloring Agent34,S1,F10,Bag,4078.0
-Omaha,363,Coloring Agent29,S4,F9,Bag,4063.0
-Omaha,364,Coloring Agent2,S1,F3,Bag,4051.0
-Omaha,365,Coloring Agent2,S5,F3,Bag,4044.0
-Omaha,366,Coloring Agent31,S1,F11,Bag,4043.0
-Omaha,367,Coloring Agent5,S5,F12,Bag,4042.9999999999927
-Omaha,368,Coloring Agent31,S1,F7,Bag,4039.0
-Omaha,369,Coloring Agent35,S5,F12,Bag,4035.0
-Omaha,370,Coloring Agent1,S1,F10,Bag,4023.0
-Omaha,371,Coloring Agent31,S2,F2,Bag,4016.3159340659367
-Omaha,372,Coloring Agent2,S4,F4,Bag,4011.0
-Omaha,373,Coloring Agent31,S5,F11,Bag,3997.0
-Omaha,374,Coloring Agent1,S5,F11,Bag,3994.0
-Omaha,375,Coloring Agent2,S1,F6,Bag,3989.0
-Omaha,376,Coloring Agent34,S5,F10,Bag,3988.0
-Omaha,377,Coloring Agent40,S4,F8,Bag,3969.0
-Omaha,378,Coloring Agent1,S3,F6,Bag,3966.0
-Omaha,379,Coloring Agent1,S5,F6,Bag,3941.0
-Omaha,380,Coloring Agent8,S5,F12,Bag,3929.0
-Omaha,381,Coloring Agent31,S2,F7,Bag,3900.0
-Omaha,382,Coloring Agent30,S1,F12,Bag,3899.0
-Omaha,383,Coloring Agent1,S5,F9,Bag,3872.0
-Omaha,384,Coloring Agent1,S4,F3,Bag,3866.0
-Omaha,385,Coloring Agent27,S5,F5,Bag,3861.25
-Omaha,386,Coloring Agent2,S1,F10,Bag,3845.0
-Omaha,387,Coloring Agent8,S1,F12,Bag,3825.0
-Omaha,388,Coloring Agent40,S4,F9,Bag,3766.0
-Omaha,389,Coloring Agent35,S3,F11,Bag,3756.0
-Omaha,390,Coloring Agent26,S4,F3,Bag,3740.0
-Omaha,391,Coloring Agent34,S1,F4,Bag,3739.0
-Omaha,392,Coloring Agent31,S5,F7,Bag,3721.0
-Omaha,393,Coloring Agent35,S4,F11,Bag,3661.0
-Omaha,394,Coloring Agent27,S2,F12,Bag,3652.0
-Omaha,395,Coloring Agent34,S5,F11,Bag,3616.0
-Omaha,396,Coloring Agent31,S2,F4,Bag,3611.0
-Omaha,397,Coloring Agent27,S2,F4,Bag,3608.0
-Omaha,398,Coloring Agent29,S1,F3,Bag,3578.0
-Omaha,399,Coloring Agent1,S1,F5,Bag,3561.0
-Omaha,400,Coloring Agent11,S3,F12,Bag,3537.0
-Omaha,401,Coloring Agent5,S4,F10,Bag,3518.0
-Omaha,402,Coloring Agent31,S3,F5,Bag,3485.0
-Omaha,403,Coloring Agent5,S5,F9,Bag,3456.0
-Omaha,404,Coloring Agent29,S2,F5,Bag,3449.650000000016
-Omaha,405,Coloring Agent34,S2,F1,Bag,3439.0
-Omaha,406,Coloring Agent11,S3,F8,Bag,3406.0
-Omaha,407,Coloring Agent11,S2,F9,Bag,3403.930555555562
-Omaha,408,Coloring Agent1,S4,F5,Bag,3366.0
-Omaha,409,Coloring Agent17,S5,F12,Bag,3361.0
-Omaha,410,Coloring Agent2,S2,F8,Bag,3359.0
-Omaha,411,Coloring Agent30,S2,F8,Bag,3344.0
-Omaha,412,Coloring Agent15,S1,F8,Bag,3324.6486486486465
-Omaha,413,Coloring Agent35,S1,F10,Bag,3313.0
-Omaha,414,Coloring Agent29,S5,F9,Bag,3288.0
-Omaha,415,Coloring Agent11,S1,F9,Bag,3257.75
-Omaha,416,Coloring Agent2,S5,F12,Bag,3256.0
-Omaha,417,Coloring Agent17,S1,F9,Bag,3239.0
-Omaha,418,Coloring Agent26,S1,F7,Bag,3192.0
-Omaha,419,Coloring Agent17,S1,F8,Bag,3177.3536585365655
-Omaha,420,Coloring Agent2,S2,F9,Bag,3173.0
-Omaha,421,Coloring Agent34,S3,F9,Bag,3158.0
-Omaha,422,Coloring Agent34,S3,F6,Bag,3149.0
-Omaha,423,Coloring Agent15,S4,F10,Bag,3123.9999999999927
-Omaha,424,Coloring Agent26,S4,F12,Bag,3101.0
-Omaha,425,Coloring Agent31,S3,F10,Bag,3077.0
-Omaha,426,Coloring Agent5,S2,F12,Bag,3075.9999999999927
-Omaha,427,Coloring Agent31,S4,F5,Bag,3058.0
-Omaha,428,Coloring Agent31,S2,F3,Bag,3055.0
-Omaha,429,Coloring Agent27,S1,F12,Bag,3046.0
-Omaha,430,Coloring Agent14,S3,F9,Bag,2993.0
-Omaha,431,Coloring Agent11,S5,F7,Bag,2981.0
-Omaha,432,Coloring Agent29,S3,F6,Bag,2961.0
-Omaha,433,Coloring Agent30,S3,F9,Bag,2944.0
-Omaha,434,Coloring Agent26,S5,F6,Bag,2934.0
-Omaha,435,Coloring Agent35,S2,F11,Bag,2848.0
-Omaha,436,Coloring Agent34,S1,F1,Bag,2848.0
-Omaha,437,Coloring Agent31,S3,F8,Bag,2835.0
-Omaha,438,Coloring Agent30,S1,F11,Bag,2833.0
-Omaha,439,Coloring Agent15,S5,F12,Bag,2821.0
-Omaha,440,Coloring Agent26,S3,F9,Bag,2770.0
-Omaha,441,Coloring Agent30,S3,F12,Bag,2736.0
-Omaha,442,Coloring Agent35,S1,F8,Bag,2728.0
-Omaha,443,Coloring Agent2,S5,F2,Bag,2718.41071428571
-Omaha,444,Coloring Agent8,S1,F10,Bag,2715.0
-Omaha,445,Coloring Agent35,S4,F9,Bag,2709.479999999996
-Omaha,446,Coloring Agent26,S2,F7,Bag,2685.0
-Omaha,447,Coloring Agent17,S4,F9,Bag,2680.0
-Omaha,448,Coloring Agent30,S1,F7,Bag,2668.0
-Omaha,449,Coloring Agent2,S1,F1,Bag,2618.0
-Omaha,450,Coloring Agent31,S1,F8,Bag,2601.0
-Omaha,451,Coloring Agent40,S3,F12,Bag,2591.0
-Omaha,452,Coloring Agent29,S3,F12,Bag,2583.0
-Omaha,453,Coloring Agent35,S4,F10,Bag,2578.0
-Omaha,454,Coloring Agent1,S3,F9,Bag,2567.0
-Omaha,455,Coloring Agent1,S2,F7,Bag,2560.0
-Omaha,456,Coloring Agent11,S4,F10,Bag,2556.0
-Omaha,457,Coloring Agent2,S1,F5,Bag,2551.0
-Omaha,458,Coloring Agent1,S5,F8,Bag,2549.0
-Omaha,459,Coloring Agent34,S2,F8,Bag,2523.0
-Omaha,460,Coloring Agent5,S3,F6,Bag,2516.0
-Omaha,461,Coloring Agent8,S4,F10,Bag,2511.841130604291
-Omaha,462,Coloring Agent40,S1,F10,Bag,2492.0
-Omaha,463,Coloring Agent11,S4,F9,Bag,2492.0
-Omaha,464,Coloring Agent2,S3,F4,Bag,2490.0
-Omaha,465,Coloring Agent27,S5,F6,Bag,2480.0
-Omaha,466,Coloring Agent34,S2,F3,Bag,2478.0
-Omaha,467,Coloring Agent34,S5,F8,Bag,2472.0
-Omaha,468,Coloring Agent1,S4,F11,Bag,2464.0
-Omaha,469,Coloring Agent35,S1,F6,Bag,2459.0
-Omaha,470,Coloring Agent17,S1,F11,Bag,2418.0
-Omaha,471,Coloring Agent15,S1,F10,Bag,2403.0
-Omaha,472,Coloring Agent40,S2,F7,Bag,2398.0
-Omaha,473,Coloring Agent27,S2,F7,Bag,2349.0
-Omaha,474,Coloring Agent11,S5,F3,Bag,2322.0
-Omaha,475,Coloring Agent5,S5,F11,Bag,2317.0
-Omaha,476,Coloring Agent34,S4,F9,Bag,2310.0
-Omaha,477,Coloring Agent26,S4,F5,Bag,2303.0
-Omaha,478,Coloring Agent40,S2,F8,Bag,2277.0
-Omaha,479,Coloring Agent1,S1,F3,Bag,2271.7999999999993
-Omaha,480,Coloring Agent6,S4,F10,Bag,2255.5000000000036
-Omaha,481,Coloring Agent29,S4,F5,Bag,2255.0
-Omaha,482,Coloring Agent26,S2,F6,Bag,2227.0
-Omaha,483,Coloring Agent29,S3,F11,Bag,2216.0
-Omaha,484,Coloring Agent17,S2,F9,Bag,2208.0
-Omaha,485,Coloring Agent40,S1,F12,Bag,2206.0
-Omaha,486,Coloring Agent11,S3,F10,Bag,2191.0
-Omaha,487,Coloring Agent34,S5,F4,Bag,2166.0
-Omaha,488,Coloring Agent2,S3,F11,Bag,2162.0
-Omaha,489,Coloring Agent26,S3,F3,Bag,2132.0
-Omaha,490,Coloring Agent30,S3,F11,Bag,2122.0
-Omaha,491,Coloring Agent17,S2,F7,Bag,2106.0
-Omaha,492,Coloring Agent2,S4,F6,Bag,2086.0
-Omaha,493,Coloring Agent34,S2,F4,Bag,2070.0
-Omaha,494,Coloring Agent26,S1,F12,Bag,2058.0
-Omaha,495,Coloring Agent31,S2,F12,Bag,2019.0
-Omaha,496,Coloring Agent29,S1,F10,Bag,1987.0
-Omaha,497,Coloring Agent17,S2,F11,Bag,1929.0
-Omaha,498,Coloring Agent31,S3,F3,Bag,1921.0
-Omaha,499,Coloring Agent2,S5,F6,Bag,1901.0
-Omaha,500,Coloring Agent2,S3,F8,Bag,1899.0
-Omaha,501,Coloring Agent11,S3,F7,Bag,1893.5
-Omaha,502,Coloring Agent27,S4,F5,Bag,1876.7499999999964
-Omaha,503,Coloring Agent27,S1,F9,Bag,1876.0
-Omaha,504,Coloring Agent5,S3,F8,Bag,1862.0
-Omaha,505,Coloring Agent34,S2,F12,Bag,1851.0
-Omaha,506,Coloring Agent1,S1,F4,Bag,1807.0
-Omaha,507,Coloring Agent26,S3,F5,Bag,1772.0
-Omaha,508,Coloring Agent17,S5,F10,Bag,1713.0
-Omaha,509,Coloring Agent1,S4,F4,Bag,1706.0
-Omaha,510,Coloring Agent40,S5,F12,Bag,1701.0
-Omaha,511,Coloring Agent15,S1,F12,Bag,1687.0
-Omaha,512,Coloring Agent31,S2,F6,Bag,1683.0
-Omaha,513,Coloring Agent27,S3,F9,Bag,1649.0
-Omaha,514,Coloring Agent34,S5,F5,Bag,1639.0
-Omaha,515,Coloring Agent2,S2,F5,Bag,1617.0
-Omaha,516,Coloring Agent11,S5,F4,Bag,1599.0
-Omaha,517,Coloring Agent34,S2,F6,Bag,1549.0
-Omaha,518,Coloring Agent40,S1,F9,Bag,1540.0
-Omaha,519,Coloring Agent2,S2,F6,Bag,1531.0
-Omaha,520,Coloring Agent11,S5,F6,Bag,1503.0
-Omaha,521,Coloring Agent27,S4,F7,Bag,1501.0
-Omaha,522,Coloring Agent14,S5,F12,Bag,1431.9999999999854
-Omaha,523,Coloring Agent11,S5,F5,Bag,1424.0
-Omaha,524,Coloring Agent34,S4,F4,Bag,1422.0
-Omaha,525,Coloring Agent15,S3,F8,Bag,1403.0
-Omaha,526,Coloring Agent35,S1,F7,Bag,1384.0
-Omaha,527,Coloring Agent29,S1,F7,Bag,1373.0
-Omaha,528,Coloring Agent14,S3,F12,Bag,1373.0
-Omaha,529,Coloring Agent26,S2,F11,Bag,1326.0
-Omaha,530,Coloring Agent35,S3,F12,Bag,1304.0
-Omaha,531,Coloring Agent2,S4,F8,Bag,1303.0
-Omaha,532,Coloring Agent26,S2,F3,Bag,1279.0
-Omaha,533,Coloring Agent27,S5,F7,Bag,1210.0
-Omaha,534,Coloring Agent5,S1,F8,Bag,1207.0
-Omaha,535,Coloring Agent8,S4,F11,Bag,1157.0
-Omaha,536,Coloring Agent2,S4,F9,Bag,1156.0
-Omaha,537,Coloring Agent27,S3,F5,Bag,1151.375
-Omaha,538,Coloring Agent17,S4,F12,Bag,1131.0
-Omaha,539,Coloring Agent2,S3,F5,Bag,1115.0
-Omaha,540,Coloring Agent17,S4,F11,Bag,1034.0
-Omaha,541,Coloring Agent27,S5,F9,Bag,1028.0
-Omaha,542,Coloring Agent2,S2,F3,Bag,1005.0
-Omaha,543,Coloring Agent1,S5,F5,Bag,964.4655172413695
-Omaha,544,Coloring Agent35,S2,F8,Bag,941.3499999999985
-Omaha,545,Coloring Agent35,S1,F5,Bag,918.4444444444343
-Omaha,546,Coloring Agent27,S5,F12,Bag,862.0
-Omaha,547,Coloring Agent1,S5,F7,Bag,859.0
-Omaha,548,Coloring Agent27,S4,F9,Bag,842.0
-Omaha,549,Coloring Agent31,S5,F4,Bag,754.8214285714348
-Omaha,550,Coloring Agent40,S4,F6,Bag,359.3125
-Omaha,551,Coloring Agent14,S1,F11,Bag,216.39999999999418
-Omaha,552,Coloring Agent8,S3,F9,Bag,175.29999999999927
-Omaha,553,Coloring Agent29,S3,F2,Bag,40.803571428579744
-Omaha,554,Coloring Agent2,S3,F9,Box,12635.0
-Omaha,555,Coloring Agent1,S3,F3,Box,10625.95
-Omaha,556,Coloring Agent31,S1,F10,Box,10577.5
-Omaha,557,Coloring Agent1,S3,F4,Box,10407.5
-Omaha,558,Coloring Agent11,S1,F12,Box,10322.5
-Omaha,559,Coloring Agent17,S5,F10,Box,9987.5
-Omaha,560,Coloring Agent14,S5,F11,Box,9837.5
-Omaha,561,Coloring Agent31,S4,F7,Box,9657.5
-Omaha,562,Coloring Agent26,S3,F4,Box,9527.5
-Omaha,563,Coloring Agent29,S4,F5,Box,9430.0
-Omaha,564,Coloring Agent2,S1,F10,Box,9122.5
-Omaha,565,Coloring Agent35,S5,F12,Box,8830.0
-Omaha,566,Coloring Agent17,S3,F9,Box,8575.0
-Omaha,567,Coloring Agent2,S5,F6,Box,8042.5
-Omaha,568,Coloring Agent17,S2,F12,Box,7912.5
-Omaha,569,Coloring Agent34,S4,F1,Box,7810.0
-Omaha,570,Coloring Agent30,S1,F12,Box,7772.5
-Omaha,571,Coloring Agent5,S2,F11,Box,7752.5
-Omaha,572,Coloring Agent1,S3,F6,Box,7747.5
-Omaha,573,Coloring Agent27,S4,F9,Box,7675.0
-Omaha,574,Coloring Agent27,S3,F10,Box,7667.5
-Omaha,575,Coloring Agent1,S1,F6,Box,7642.5
-Omaha,576,Coloring Agent15,S1,F9,Box,7522.5
-Omaha,577,Coloring Agent2,S3,F3,Box,7307.5
-Omaha,578,Coloring Agent29,S4,F6,Box,7285.0
-Omaha,579,Coloring Agent34,S4,F4,Box,7262.5
-Omaha,580,Coloring Agent34,S2,F11,Box,7107.5
-Omaha,581,Coloring Agent1,S2,F8,Box,7070.0
-Omaha,582,Coloring Agent5,S1,F9,Box,7050.0
-Omaha,583,Coloring Agent2,S2,F3,Box,7037.5
-Omaha,584,Coloring Agent29,S4,F12,Box,7000.0
-Omaha,585,Coloring Agent29,S4,F4,Box,6997.5
-Omaha,586,Coloring Agent2,S2,F8,Box,6945.0
-Omaha,587,Coloring Agent6,S4,F10,Box,6927.5
-Omaha,588,Coloring Agent2,S2,F6,Box,6795.0
-Omaha,589,Coloring Agent2,S5,F12,Box,6780.0
-Omaha,590,Coloring Agent5,S2,F6,Box,6604.299999999996
-Omaha,591,Coloring Agent35,S2,F10,Box,6600.0
-Omaha,592,Coloring Agent34,S4,F2,Box,6592.5
-Omaha,593,Coloring Agent34,S1,F6,Box,6592.5
-Omaha,594,Coloring Agent15,S5,F11,Box,6577.5
-Omaha,595,Coloring Agent40,S4,F12,Box,6465.0
-Omaha,596,Coloring Agent27,S4,F8,Box,6392.5
-Omaha,597,Coloring Agent29,S3,F9,Box,6282.5
-Omaha,598,Coloring Agent17,S1,F12,Box,6240.0
-Omaha,599,Coloring Agent31,S5,F5,Box,6150.0
-Omaha,600,Coloring Agent35,S4,F11,Box,6132.5
-Omaha,601,Coloring Agent17,S1,F9,Box,6077.5
-Omaha,602,Coloring Agent30,S3,F12,Box,6060.0
-Omaha,603,Coloring Agent26,S4,F11,Box,6055.0
-Omaha,604,Coloring Agent11,S3,F7,Box,6022.5
-Omaha,605,Coloring Agent2,S2,F5,Box,5995.0
-Omaha,606,Coloring Agent26,S2,F9,Box,5980.0
-Omaha,607,Coloring Agent2,S5,F11,Box,5972.5
-Omaha,608,Coloring Agent2,S3,F2,Box,5947.5
-Omaha,609,Coloring Agent31,S5,F12,Box,5932.5
-Omaha,610,Coloring Agent31,S3,F10,Box,5922.5
-Omaha,611,Coloring Agent40,S4,F10,Box,5890.0
-Omaha,612,Coloring Agent26,S2,F12,Box,5855.0
-Omaha,613,Coloring Agent5,S1,F4,Box,5808.8499999999985
-Omaha,614,Coloring Agent31,S3,F11,Box,5800.0
-Omaha,615,Coloring Agent31,S3,F6,Box,5800.0
-Omaha,616,Coloring Agent26,S3,F5,Box,5797.5
-Omaha,617,Coloring Agent40,S3,F8,Box,5720.0
-Omaha,618,Coloring Agent2,S5,F4,Box,5720.0
-Omaha,619,Coloring Agent29,S2,F6,Box,5705.0
-Omaha,620,Coloring Agent15,S3,F7,Box,5702.5
-Omaha,621,Coloring Agent14,S2,F12,Box,5688.762820512806
-Omaha,622,Coloring Agent2,S3,F12,Box,5652.5
-Omaha,623,Coloring Agent31,S4,F8,Box,5645.0
-Omaha,624,Coloring Agent29,S5,F6,Box,5515.0
-Omaha,625,Coloring Agent17,S5,F9,Box,5502.5
-Omaha,626,Coloring Agent31,S5,F10,Box,5472.5
-Omaha,627,Coloring Agent11,S3,F8,Box,5472.5
-Omaha,628,Coloring Agent11,S5,F4,Box,5462.5
-Omaha,629,Coloring Agent35,S3,F11,Box,5452.5
-Omaha,630,Coloring Agent29,S1,F8,Box,5435.0
-Omaha,631,Coloring Agent31,S4,F5,Box,5395.0
-Omaha,632,Coloring Agent30,S2,F10,Box,5362.5
-Omaha,633,Coloring Agent2,S2,F7,Box,5347.5
-Omaha,634,Coloring Agent5,S1,F7,Box,5337.5
-Omaha,635,Coloring Agent27,S2,F4,Box,5245.0
-Omaha,636,Coloring Agent31,S4,F11,Box,5195.0
-Omaha,637,Coloring Agent2,S4,F12,Box,5142.5
-Omaha,638,Coloring Agent27,S1,F9,Box,5100.0
-Omaha,639,Coloring Agent26,S3,F12,Box,5080.0
-Omaha,640,Coloring Agent27,S5,F9,Box,5032.5
-Omaha,641,Coloring Agent40,S3,F7,Box,5007.5
-Omaha,642,Coloring Agent1,S4,F6,Box,4995.0
-Omaha,643,Coloring Agent31,S2,F12,Box,4990.0
-Omaha,644,Coloring Agent26,S2,F3,Box,4945.0
-Omaha,645,Coloring Agent27,S5,F10,Box,4937.5
-Omaha,646,Coloring Agent34,S1,F1,Box,4930.0
-Omaha,647,Coloring Agent5,S5,F9,Box,4925.0
-Omaha,648,Coloring Agent1,S1,F11,Box,4920.0
-Omaha,649,Coloring Agent26,S2,F8,Box,4912.5
-Omaha,650,Coloring Agent2,S1,F12,Box,4902.5
-Omaha,651,Coloring Agent5,S4,F8,Box,4896.499999999993
-Omaha,652,Coloring Agent1,S5,F10,Box,4895.0
-Omaha,653,Coloring Agent31,S5,F4,Box,4875.0
-Omaha,654,Coloring Agent31,S3,F5,Box,4777.5
-Omaha,655,Coloring Agent14,S3,F10,Box,4767.5
-Omaha,656,Coloring Agent29,S1,F6,Box,4755.0
-Omaha,657,Coloring Agent27,S3,F5,Box,4730.0
-Omaha,658,Coloring Agent27,S2,F11,Box,4727.5
-Omaha,659,Coloring Agent2,S2,F4,Box,4652.5
-Omaha,660,Coloring Agent31,S3,F3,Box,4632.5
-Omaha,661,Coloring Agent34,S4,F9,Box,4620.0
-Omaha,662,Coloring Agent11,S1,F11,Box,4617.5
-Omaha,663,Coloring Agent2,S3,F6,Box,4615.0
-Omaha,664,Coloring Agent11,S2,F11,Box,4612.5
-Omaha,665,Coloring Agent8,S3,F10,Box,4612.5
-Omaha,666,Coloring Agent2,S1,F3,Box,4612.5
-Omaha,667,Coloring Agent26,S3,F11,Box,4600.0
-Omaha,668,Coloring Agent11,S2,F10,Box,4600.0
-Omaha,669,Coloring Agent2,S5,F2,Box,4585.0
-Omaha,670,Coloring Agent1,S4,F3,Box,4582.5
-Omaha,671,Coloring Agent29,S2,F7,Box,4577.5
-Omaha,672,Coloring Agent11,S5,F10,Box,4570.0
-Omaha,673,Coloring Agent40,S5,F12,Box,4562.5
-Omaha,674,Coloring Agent29,S3,F2,Box,4555.0
-Omaha,675,Coloring Agent30,S3,F8,Box,4550.0
-Omaha,676,Coloring Agent5,S3,F11,Box,4525.0
-Omaha,677,Coloring Agent5,S2,F9,Box,4495.0
-Omaha,678,Coloring Agent30,S1,F8,Box,4475.0
-Omaha,679,Coloring Agent1,S2,F10,Box,4447.5
-Omaha,680,Coloring Agent17,S4,F7,Box,4395.0
-Omaha,681,Coloring Agent26,S3,F7,Box,4380.0
-Omaha,682,Coloring Agent27,S3,F8,Box,4377.5
-Omaha,683,Coloring Agent40,S2,F7,Box,4375.0
-Omaha,684,Coloring Agent40,S5,F9,Box,4347.5
-Omaha,685,Coloring Agent26,S1,F7,Box,4347.5
-Omaha,686,Coloring Agent40,S4,F8,Box,4312.5
-Omaha,687,Coloring Agent29,S3,F10,Box,4285.0
-Omaha,688,Coloring Agent29,S5,F12,Box,4250.0
-Omaha,689,Coloring Agent11,S5,F7,Box,4227.5
-Omaha,690,Coloring Agent5,S5,F7,Box,4222.5
-Omaha,691,Coloring Agent5,S1,F5,Box,4215.0
-Omaha,692,Coloring Agent34,S2,F5,Box,4150.0
-Omaha,693,Coloring Agent26,S4,F5,Box,4132.5
-Omaha,694,Coloring Agent26,S1,F10,Box,4080.0
-Omaha,695,Coloring Agent1,S1,F5,Box,4075.0
-Omaha,696,Coloring Agent5,S4,F12,Box,4037.5
-Omaha,697,Coloring Agent29,S4,F9,Box,4025.0
-Omaha,698,Coloring Agent34,S4,F6,Box,4022.5
-Omaha,699,Coloring Agent26,S4,F2,Box,4020.0
-Omaha,700,Coloring Agent30,S3,F11,Box,3992.5
-Omaha,701,Coloring Agent34,S4,F10,Box,3987.5
-Omaha,702,Coloring Agent17,S4,F11,Box,3987.5
-Omaha,703,Coloring Agent5,S1,F11,Box,3967.5
-Omaha,704,Coloring Agent35,S1,F12,Box,3912.5
-Omaha,705,Coloring Agent34,S3,F8,Box,3905.0
-Omaha,706,Coloring Agent27,S1,F10,Box,3880.0
-Omaha,707,Coloring Agent14,S3,F9,Box,3877.5
-Omaha,708,Coloring Agent1,S5,F12,Box,3875.0
-Omaha,709,Coloring Agent26,S5,F10,Box,3872.5
-Omaha,710,Coloring Agent35,S4,F12,Box,3867.5
-Omaha,711,Coloring Agent34,S1,F5,Box,3867.5
-Omaha,712,Coloring Agent29,S5,F9,Box,3827.5
-Omaha,713,Coloring Agent14,S4,F10,Box,3822.5
-Omaha,714,Coloring Agent26,S5,F6,Box,3817.5
-Omaha,715,Coloring Agent8,S4,F11,Box,3815.0
-Omaha,716,Coloring Agent27,S4,F7,Box,3810.0
-Omaha,717,Coloring Agent27,S5,F7,Box,3797.5
-Omaha,718,Coloring Agent8,S5,F11,Box,3795.0
-Omaha,719,Coloring Agent29,S3,F12,Box,3747.5
-Omaha,720,Coloring Agent34,S5,F10,Box,3737.5
-Omaha,721,Coloring Agent34,S5,F8,Box,3735.0
-Omaha,722,Coloring Agent27,S3,F12,Box,3732.5
-Omaha,723,Coloring Agent17,S3,F10,Box,3720.0
-Omaha,724,Coloring Agent29,S3,F4,Box,3662.5
-Omaha,725,Coloring Agent31,S3,F8,Box,3657.5
-Omaha,726,Coloring Agent26,S4,F6,Box,3655.0
-Omaha,727,Coloring Agent2,S4,F9,Box,3652.5
-Omaha,728,Coloring Agent26,S4,F3,Box,3650.0
-Omaha,729,Coloring Agent5,S5,F11,Box,3640.0
-Omaha,730,Coloring Agent30,S4,F12,Box,3635.0
-Omaha,731,Coloring Agent1,S4,F4,Box,3630.0
-Omaha,732,Coloring Agent5,S3,F6,Box,3585.0
-Omaha,733,Coloring Agent31,S1,F5,Box,3550.0
-Omaha,734,Coloring Agent1,S2,F12,Box,3537.5
-Omaha,735,Coloring Agent11,S5,F3,Box,3510.0
-Omaha,736,Coloring Agent29,S5,F8,Box,3505.0
-Omaha,737,Coloring Agent35,S5,F9,Box,3502.5
-Omaha,738,Coloring Agent15,S5,F12,Box,3502.4999999999927
-Omaha,739,Coloring Agent34,S3,F4,Box,3492.5
-Omaha,740,Coloring Agent14,S3,F12,Box,3492.5
-Omaha,741,Coloring Agent40,S3,F6,Box,3481.5000000000036
-Omaha,742,Coloring Agent40,S1,F10,Box,3475.0
-Omaha,743,Coloring Agent27,S3,F7,Box,3472.5
-Omaha,744,Coloring Agent14,S4,F11,Box,3462.5
-Omaha,745,Coloring Agent15,S3,F10,Box,3455.0
-Omaha,746,Coloring Agent34,S5,F11,Box,3432.5
-Omaha,747,Coloring Agent11,S4,F7,Box,3417.5
-Omaha,748,Coloring Agent27,S3,F6,Box,3410.0
-Omaha,749,Coloring Agent1,S3,F12,Box,3400.0
-Omaha,750,Coloring Agent1,S1,F3,Box,3395.0
-Omaha,751,Coloring Agent34,S1,F4,Box,3390.0
-Omaha,752,Coloring Agent30,S1,F10,Box,3375.0
-Omaha,753,Coloring Agent2,S3,F11,Box,3367.5
-Omaha,754,Coloring Agent11,S3,F10,Box,3362.5
-Omaha,755,Coloring Agent2,S2,F9,Box,3352.5
-Omaha,756,Coloring Agent29,S1,F2,Box,3350.0
-Omaha,757,Coloring Agent8,S1,F8,Box,3348.48148148148
-Omaha,758,Coloring Agent40,S3,F9,Box,3325.0
-Omaha,759,Coloring Agent2,S1,F1,Box,3325.0
-Omaha,760,Coloring Agent29,S4,F7,Box,3322.5
-Omaha,761,Coloring Agent29,S1,F12,Box,3320.0
-Omaha,762,Coloring Agent27,S3,F9,Box,3307.5
-Omaha,763,Coloring Agent27,S4,F12,Box,3295.0
-Omaha,764,Coloring Agent31,S1,F4,Box,3287.5
-Omaha,765,Coloring Agent34,S2,F7,Box,3267.5
-Omaha,766,Coloring Agent29,S1,F3,Box,3262.5
-Omaha,767,Coloring Agent15,S2,F9,Box,3252.5
-Omaha,768,Coloring Agent11,S4,F12,Box,3205.0
-Omaha,769,Coloring Agent17,S2,F6,Box,3200.0
-Omaha,770,Coloring Agent30,S2,F8,Box,3195.0
-Omaha,771,Coloring Agent26,S5,F11,Box,3147.5
-Omaha,772,Coloring Agent29,S3,F11,Box,3142.5
-Omaha,773,Coloring Agent26,S2,F5,Box,3127.5
-Omaha,774,Coloring Agent15,S4,F10,Box,3127.5
-Omaha,775,Coloring Agent34,S4,F7,Box,3125.0
-Omaha,776,Coloring Agent8,S4,F10,Box,3120.0
-Omaha,777,Coloring Agent5,S3,F12,Box,3095.0
-Omaha,778,Coloring Agent8,S1,F9,Box,3070.0
-Omaha,779,Coloring Agent1,S4,F5,Box,3060.0
-Omaha,780,Coloring Agent5,S2,F10,Box,3042.5
-Omaha,781,Coloring Agent26,S3,F3,Box,3027.5
-Omaha,782,Coloring Agent29,S1,F7,Box,3012.5
-Omaha,783,Coloring Agent14,S4,F8,Box,2997.5
-Omaha,784,Coloring Agent29,S1,F10,Box,2960.0
-Omaha,785,Coloring Agent26,S5,F5,Box,2940.0
-Omaha,786,Coloring Agent34,S1,F9,Box,2930.0
-Omaha,787,Coloring Agent8,S1,F11,Box,2925.0
-Omaha,788,Coloring Agent26,S3,F6,Box,2905.0
-Omaha,789,Coloring Agent27,S5,F6,Box,2875.0
-Omaha,790,Coloring Agent11,S3,F11,Box,2870.0
-Omaha,791,Coloring Agent5,S3,F7,Box,2865.0
-Omaha,792,Coloring Agent29,S2,F10,Box,2857.5
-Omaha,793,Coloring Agent11,S3,F12,Box,2840.0
-Omaha,794,Coloring Agent30,S4,F10,Box,2828.8513513513462
-Omaha,795,Coloring Agent5,S3,F5,Box,2810.0
-Omaha,796,Coloring Agent34,S4,F8,Box,2767.5
-Omaha,797,Coloring Agent31,S5,F9,Box,2767.5
-Omaha,798,Coloring Agent31,S5,F11,Box,2762.5
-Omaha,799,Coloring Agent26,S5,F2,Box,2754.4999999999964
-Omaha,800,Coloring Agent34,S3,F6,Box,2735.0
-Omaha,801,Coloring Agent27,S1,F11,Box,2722.5
-Omaha,802,Coloring Agent31,S1,F7,Box,2717.5
-Omaha,803,Coloring Agent11,S2,F9,Box,2717.5
-Omaha,804,Coloring Agent31,S1,F12,Box,2712.5
-Omaha,805,Coloring Agent29,S3,F8,Box,2710.0
-Omaha,806,Coloring Agent1,S3,F7,Box,2710.0
-Omaha,807,Coloring Agent34,S4,F12,Box,2705.0
-Omaha,808,Coloring Agent34,S1,F12,Box,2705.0
-Omaha,809,Coloring Agent40,S3,F10,Box,2672.5
-Omaha,810,Coloring Agent40,S2,F10,Box,2655.0
-Omaha,811,Coloring Agent1,S5,F9,Box,2650.0
-Omaha,812,Coloring Agent40,S2,F9,Box,2615.0
-Omaha,813,Coloring Agent30,S3,F10,Box,2615.0
-Omaha,814,Coloring Agent5,S3,F4,Box,2615.0
-Omaha,815,Coloring Agent26,S1,F4,Box,2606.4648829431426
-Omaha,816,Coloring Agent31,S1,F11,Box,2600.0
-Omaha,817,Coloring Agent26,S1,F5,Box,2595.0
-Omaha,818,Coloring Agent2,S4,F10,Box,2535.0
-Omaha,819,Coloring Agent31,S4,F6,Box,2515.0
-Omaha,820,Coloring Agent31,S2,F4,Box,2502.5
-Omaha,821,Coloring Agent2,S2,F11,Box,2497.5
-Omaha,822,Coloring Agent29,S4,F10,Box,2485.0
-Omaha,823,Coloring Agent35,S4,F9,Box,2465.0
-Omaha,824,Coloring Agent35,S1,F10,Box,2455.0
-Omaha,825,Coloring Agent31,S4,F10,Box,2445.0
-Omaha,826,Coloring Agent29,S1,F11,Box,2435.0
-Omaha,827,Coloring Agent26,S4,F9,Box,2435.0
-Omaha,828,Coloring Agent15,S3,F8,Box,2425.0
-Omaha,829,Coloring Agent35,S5,F11,Box,2420.0
-Omaha,830,Coloring Agent31,S3,F4,Box,2415.0
-Omaha,831,Coloring Agent26,S1,F9,Box,2402.5
-Omaha,832,Coloring Agent30,S1,F9,Box,2382.5
-Omaha,833,Coloring Agent8,S4,F12,Box,2377.5
-Omaha,834,Coloring Agent8,S3,F12,Box,2362.5
-Omaha,835,Coloring Agent27,S2,F12,Box,2335.0
-Omaha,836,Coloring Agent26,S4,F4,Box,2335.0
-Omaha,837,Coloring Agent2,S1,F2,Box,2320.0
-Omaha,838,Coloring Agent27,S5,F5,Box,2310.0
-Omaha,839,Coloring Agent29,S1,F5,Box,2287.5
-Omaha,840,Coloring Agent40,S1,F9,Box,2280.0
-Omaha,841,Coloring Agent1,S1,F10,Box,2280.0
-Omaha,842,Coloring Agent31,S1,F6,Box,2267.5
-Omaha,843,Coloring Agent34,S3,F12,Box,2265.0
-Omaha,844,Coloring Agent31,S2,F7,Box,2250.0
-Omaha,845,Coloring Agent27,S2,F3,Box,2247.5
-Omaha,846,Coloring Agent34,S1,F7,Box,2230.0
-Omaha,847,Coloring Agent27,S2,F10,Box,2230.0
-Omaha,848,Coloring Agent27,S4,F10,Box,2222.5
-Omaha,849,Coloring Agent5,S4,F10,Box,2212.5
-Omaha,850,Coloring Agent35,S3,F12,Box,2210.0
-Omaha,851,Coloring Agent26,S4,F1,Box,2207.5
-Omaha,852,Coloring Agent2,S4,F8,Box,2207.5
-Omaha,853,Coloring Agent26,S1,F11,Box,2205.0
-Omaha,854,Coloring Agent2,S3,F8,Box,2200.0
-Omaha,855,Coloring Agent2,S4,F11,Box,2192.5
-Omaha,856,Coloring Agent11,S4,F10,Box,2160.0
-Omaha,857,Coloring Agent2,S4,F6,Box,2152.5
-Omaha,858,Coloring Agent26,S1,F8,Box,2135.0
-Omaha,859,Coloring Agent34,S3,F3,Box,2127.5
-Omaha,860,Coloring Agent29,S5,F5,Box,2125.0
-Omaha,861,Coloring Agent17,S5,F11,Box,2125.0
-Omaha,862,Coloring Agent17,S1,F11,Box,2120.0
-Omaha,863,Coloring Agent1,S1,F7,Box,2117.5
-Omaha,864,Coloring Agent1,S2,F3,Box,2110.0
-Omaha,865,Coloring Agent29,S2,F5,Box,2060.0
-Omaha,866,Coloring Agent1,S4,F1,Box,2055.0
-Omaha,867,Coloring Agent34,S2,F1,Box,2045.0
-Omaha,868,Coloring Agent35,S5,F10,Box,2037.5
-Omaha,869,Coloring Agent40,S2,F8,Box,2035.0
-Omaha,870,Coloring Agent31,S1,F8,Box,2032.5
-Omaha,871,Coloring Agent30,S3,F7,Box,2030.0
-Omaha,872,Coloring Agent5,S2,F8,Box,2030.0
-Omaha,873,Coloring Agent1,S5,F11,Box,2025.0
-Omaha,874,Coloring Agent34,S5,F6,Box,2017.5
-Omaha,875,Coloring Agent1,S2,F2,Box,2012.5
-Omaha,876,Coloring Agent26,S2,F2,Box,1996.7000000000007
-Omaha,877,Coloring Agent31,S2,F6,Box,1987.5
-Omaha,878,Coloring Agent17,S3,F11,Box,1970.0
-Omaha,879,Coloring Agent30,S2,F12,Box,1950.0
-Omaha,880,Coloring Agent30,S4,F11,Box,1945.0
-Omaha,881,Coloring Agent26,S4,F8,Box,1945.0
-Omaha,882,Coloring Agent40,S5,F8,Box,1937.5
-Omaha,883,Coloring Agent31,S5,F8,Box,1930.0
-Omaha,884,Coloring Agent15,S5,F10,Box,1912.5
-Omaha,885,Coloring Agent2,S5,F8,Box,1910.0
-Omaha,886,Coloring Agent1,S4,F7,Box,1910.0
-Omaha,887,Coloring Agent2,S5,F7,Box,1897.5
-Omaha,888,Coloring Agent27,S2,F6,Box,1882.5
-Omaha,889,Coloring Agent17,S1,F8,Box,1880.0
-Omaha,890,Coloring Agent2,S3,F4,Box,1877.5
-Omaha,891,Coloring Agent29,S1,F4,Box,1875.0
-Omaha,892,Coloring Agent40,S5,F7,Box,1864.0
-Omaha,893,Coloring Agent1,S3,F5,Box,1845.0
-Omaha,894,Coloring Agent5,S3,F9,Box,1840.0
-Omaha,895,Coloring Agent27,S2,F9,Box,1825.0
-Omaha,896,Coloring Agent35,S1,F11,Box,1807.5
-Omaha,897,Coloring Agent8,S5,F10,Box,1807.5
-Omaha,898,Coloring Agent17,S1,F10,Box,1800.0
-Omaha,899,Coloring Agent2,S3,F10,Box,1800.0
-Omaha,900,Coloring Agent34,S1,F8,Box,1790.0
-Omaha,901,Coloring Agent29,S3,F5,Box,1785.0
-Omaha,902,Coloring Agent5,S3,F8,Box,1782.5
-Omaha,903,Coloring Agent29,S2,F11,Box,1780.0
-Omaha,904,Coloring Agent11,S5,F12,Box,1767.5
-Omaha,905,Coloring Agent34,S4,F3,Box,1742.5
-Omaha,906,Coloring Agent26,S5,F7,Box,1740.0
-Omaha,907,Coloring Agent2,S5,F9,Box,1735.0
-Omaha,908,Coloring Agent34,S5,F12,Box,1730.0
-Omaha,909,Coloring Agent11,S5,F11,Box,1725.0
-Omaha,910,Coloring Agent26,S3,F9,Box,1720.0
-Omaha,911,Coloring Agent27,S4,F11,Box,1717.5
-Omaha,912,Coloring Agent14,S4,F9,Box,1700.0
-Omaha,913,Coloring Agent5,S4,F11,Box,1700.0
-Omaha,914,Coloring Agent2,S1,F5,Box,1697.5
-Omaha,915,Coloring Agent1,S2,F4,Box,1697.5
-Omaha,916,Coloring Agent1,S1,F9,Box,1687.5
-Omaha,917,Coloring Agent5,S1,F8,Box,1682.5
-Omaha,918,Coloring Agent2,S4,F3,Box,1675.0
-Omaha,919,Coloring Agent17,S4,F6,Box,1657.5
-Omaha,920,Coloring Agent40,S3,F11,Box,1642.5
-Omaha,921,Coloring Agent15,S3,F6,Box,1637.733524164556
-Omaha,922,Coloring Agent31,S3,F2,Box,1627.5
-Omaha,923,Coloring Agent34,S5,F5,Box,1622.5
-Omaha,924,Coloring Agent35,S1,F8,Box,1617.5
-Omaha,925,Coloring Agent26,S5,F8,Box,1605.0
-Omaha,926,Coloring Agent1,S4,F8,Box,1600.0
-Omaha,927,Coloring Agent31,S2,F2,Box,1555.0
-Omaha,928,Coloring Agent34,S1,F3,Box,1545.0
-Omaha,929,Coloring Agent29,S2,F8,Box,1545.0
-Omaha,930,Coloring Agent34,S5,F1,Box,1540.0
-Omaha,931,Coloring Agent2,S1,F6,Box,1515.0
-Omaha,932,Coloring Agent40,S4,F7,Box,1505.0
-Omaha,933,Coloring Agent40,S2,F11,Box,1505.0
-Omaha,934,Coloring Agent11,S5,F5,Box,1495.0
-Omaha,935,Coloring Agent8,S3,F11,Box,1470.0
-Omaha,936,Coloring Agent29,S3,F7,Box,1467.5
-Omaha,937,Coloring Agent17,S4,F10,Box,1462.5
-Omaha,938,Coloring Agent2,S4,F5,Box,1447.5
-Omaha,939,Coloring Agent34,S3,F2,Box,1440.0
-Omaha,940,Coloring Agent26,S5,F3,Box,1440.0
-Omaha,941,Coloring Agent1,S3,F8,Box,1435.0
-Omaha,942,Coloring Agent1,S2,F1,Box,1422.5
-Omaha,943,Coloring Agent1,S4,F12,Box,1375.0
-Omaha,944,Coloring Agent27,S4,F6,Box,1365.0
-Omaha,945,Coloring Agent29,S4,F11,Box,1355.0
-Omaha,946,Coloring Agent27,S4,F5,Box,1350.0
-Omaha,947,Coloring Agent15,S3,F12,Box,1345.0
-Omaha,948,Coloring Agent34,S5,F3,Box,1342.5
-Omaha,949,Coloring Agent26,S3,F10,Box,1330.0
-Omaha,950,Coloring Agent40,S4,F9,Box,1327.5
-Omaha,951,Coloring Agent1,S2,F5,Box,1290.0
-Omaha,952,Coloring Agent40,S5,F10,Box,1282.5
-Omaha,953,Coloring Agent31,S4,F12,Box,1274.9999999999854
-Omaha,954,Coloring Agent17,S4,F9,Box,1272.5
-Omaha,955,Coloring Agent6,S4,F11,Box,1260.0
-Omaha,956,Coloring Agent31,S2,F5,Box,1255.0
-Omaha,957,Coloring Agent27,S1,F8,Box,1255.0
-Omaha,958,Coloring Agent2,S3,F7,Box,1252.5
-Omaha,959,Coloring Agent5,S1,F10,Box,1245.0
-Omaha,960,Coloring Agent1,S1,F8,Box,1242.5
-Omaha,961,Coloring Agent34,S2,F2,Box,1237.5
-Omaha,962,Coloring Agent31,S2,F10,Box,1232.5
-Omaha,963,Coloring Agent15,S1,F12,Box,1230.0
-Omaha,964,Coloring Agent34,S5,F4,Box,1220.0
-Omaha,965,Coloring Agent15,S2,F12,Box,1209.9999999999854
-Omaha,966,Coloring Agent5,S3,F3,Box,1201.3999999999978
-Omaha,967,Coloring Agent1,S2,F7,Box,1197.5
-Omaha,968,Coloring Agent27,S5,F12,Box,1180.0
-Omaha,969,Coloring Agent1,S1,F12,Box,1172.4999999999854
-Omaha,970,Coloring Agent5,S2,F7,Box,1170.0
-Omaha,971,Coloring Agent40,S2,F6,Box,1140.0
-Omaha,972,Coloring Agent26,S2,F11,Box,1140.0
-Omaha,973,Coloring Agent29,S2,F12,Box,1127.5
-Omaha,974,Coloring Agent26,S4,F10,Box,1125.0
-Omaha,975,Coloring Agent26,S2,F10,Box,1122.5
-Omaha,976,Coloring Agent34,S5,F9,Box,1117.5
-Omaha,977,Coloring Agent2,S1,F8,Box,1110.0
-Omaha,978,Coloring Agent35,S1,F9,Box,1072.5
-Omaha,979,Coloring Agent11,S5,F6,Box,1072.5
-Omaha,980,Coloring Agent2,S1,F4,Box,1052.5
-Omaha,981,Coloring Agent34,S2,F3,Box,1047.5
-Omaha,982,Coloring Agent14,S1,F11,Box,1040.0
-Omaha,983,Coloring Agent17,S2,F8,Box,1032.5
-Omaha,984,Coloring Agent31,S3,F12,Box,1020.0
-Omaha,985,Coloring Agent31,S5,F7,Box,1017.5
-Omaha,986,Coloring Agent15,S2,F11,Box,1015.0
-Omaha,987,Coloring Agent15,S4,F12,Box,992.5
-Omaha,988,Coloring Agent11,S5,F9,Box,945.0
-Omaha,989,Coloring Agent11,S4,F6,Box,933.3188854489199
-Omaha,990,Coloring Agent34,S1,F11,Box,922.5
-Omaha,991,Coloring Agent11,S4,F8,Box,890.0
-Omaha,992,Coloring Agent2,S4,F4,Box,885.0
-Omaha,993,Coloring Agent31,S4,F9,Box,865.0
-Omaha,994,Coloring Agent14,S3,F8,Box,823.1833333333198
-Omaha,995,Coloring Agent27,S1,F7,Box,778.5
-Omaha,996,Coloring Agent2,S1,F7,Box,690.0
-Omaha,997,Coloring Agent40,S2,F5,Box,484.5
-Omaha,998,Coloring Agent35,S3,F10,Box,479.5
-Omaha,999,Coloring Agent35,S5,F8,Box,394.2200000000048
-Omaha,1000,Coloring Agent15,S5,F9,Box,334.3000000000102
+Color,Size,Flavor,Packaging Type,Quantity
+34,2,10,Bag,19518.0
+1,3,5,Bag,17742.0
+27,1,10,Bag,16948.0
+14,5,11,Bag,16406.61
+11,5,11,Bag,16257.0
+34,4,7,Bag,15687.0
+27,4,5,Bag,15519.0
+26,5,10,Bag,15376.0
+29,4,7,Bag,14813.0
+26,3,7,Bag,14523.0
+6,4,12,Bag,14518.999999999996
+26,2,12,Bag,14426.0
+2,3,10,Bag,13893.0
+17,3,9,Bag,13655.0
+2,5,9,Bag,13576.0
+26,4,8,Bag,13543.0
+31,1,10,Bag,13180.0
+2,4,10,Bag,13119.0
+31,5,5,Bag,12972.0
+30,5,4,Bag,12935.0
+5,3,5,Bag,12935.0
+34,1,6,Bag,12886.0
+29,3,8,Bag,12662.0
+17,3,10,Bag,12643.0
+31,1,4,Bag,12443.0
+2,5,8,Bag,12443.0
+11,3,9,Bag,12405.0
+15,5,10,Bag,12316.0
+29,5,6,Bag,12229.0
+29,5,3,Bag,12139.369642857146
+2,1,8,Bag,12124.0
+1,2,5,Bag,12059.0
+26,1,5,Bag,11900.0
+34,4,12,Bag,11682.0
+2,3,2,Bag,11592.428571428565
+26,5,11,Bag,11589.0
+30,4,10,Bag,11573.0
+26,5,4,Bag,11458.0
+29,2,12,Bag,11456.0
+5,1,11,Bag,11419.0
+1,1,6,Bag,11396.0
+2,3,3,Bag,11375.0
+5,3,12,Bag,11349.0
+2,3,7,Bag,11318.0
+5,3,7,Bag,11073.0
+34,4,8,Bag,11058.0
+30,2,7,Bag,11052.0
+5,5,7,Bag,11013.0
+27,3,6,Bag,10990.913793103447
+34,2,2,Bag,10946.0
+5,2,10,Bag,10905.0
+26,5,3,Bag,10843.0
+8,4,12,Bag,10747.0
+17,4,6,Bag,10731.0
+5,1,7,Bag,10666.0
+17,1,6,Bag,10650.0
+1,1,12,Bag,10626.0
+5,2,6,Bag,10533.0
+31,4,4,Bag,10526.42307692307
+27,2,10,Bag,10446.0
+15,4,11,Bag,10394.0
+26,5,7,Bag,10377.0
+1,5,5,Bag,10353.0
+1,5,4,Bag,10295.0
+1,3,12,Bag,10264.0
+2,4,11,Bag,10235.0
+1,4,8,Bag,10206.0
+29,4,8,Bag,10198.0
+26,3,10,Bag,10140.0
+1,4,7,Bag,10040.0
+27,2,2,Bag,10018.0
+34,1,11,Bag,9994.0
+1,3,11,Bag,9969.0
+31,5,6,Bag,9946.0
+8,3,10,Bag,9891.0
+5,5,8,Bag,9856.0
+2,5,11,Bag,9812.0
+40,5,8,Bag,9767.0
+11,2,11,Bag,9757.0
+27,3,11,Bag,9742.0
+17,1,12,Bag,9732.0
+26,3,8,Bag,9661.0
+5,1,10,Bag,9652.0
+29,5,12,Bag,9622.0
+2,1,2,Bag,9551.0
+27,2,8,Bag,9518.0
+29,5,7,Bag,9453.0
+2,4,3,Bag,9395.0
+27,4,6,Bag,9391.0
+34,3,5,Bag,9390.0
+30,5,2,Bag,9354.0
+15,5,11,Bag,9338.0
+40,5,10,Bag,9335.0
+1,3,8,Bag,9332.0
+40,3,11,Bag,9320.0
+1,2,1,Bag,9245.37037037038
+26,1,6,Bag,9221.0
+1,5,10,Bag,9199.0
+29,5,5,Bag,9154.0
+30,1,9,Bag,9127.0
+26,2,4,Bag,9120.0
+34,4,11,Bag,9084.0
+31,4,6,Bag,9082.0
+17,3,7,Bag,9077.0
+15,2,11,Bag,9050.0
+1,1,11,Bag,9024.0
+34,3,4,Bag,9016.0
+5,5,10,Bag,8992.0
+31,4,9,Bag,8983.0
+31,5,8,Bag,8881.0
+11,5,9,Bag,8823.500000000007
+2,5,4,Bag,8815.0
+27,2,5,Bag,8804.0
+31,2,11,Bag,8758.0
+15,4,12,Bag,8649.0
+31,4,11,Bag,8646.0
+5,3,9,Bag,8626.0
+5,2,7,Bag,8626.0
+5,1,3,Bag,8626.0
+34,1,5,Bag,8619.0
+29,2,6,Bag,8608.0
+27,5,10,Bag,8438.0
+2,2,11,Bag,8431.0
+17,5,9,Bag,8418.0
+1,4,6,Bag,8329.0
+31,1,3,Bag,8326.923076923076
+31,2,5,Bag,8303.0
+17,2,12,Bag,8220.0
+2,1,12,Bag,8215.0
+5,1,2,Bag,8213.546052631587
+5,2,9,Bag,8192.0
+26,4,10,Bag,8191.0
+30,3,8,Bag,8184.0
+26,2,8,Bag,8151.0
+2,5,7,Bag,8121.0
+29,1,8,Bag,8107.0
+29,1,9,Bag,8092.0
+2,1,9,Bag,8088.0
+17,1,7,Bag,8085.0
+1,3,4,Bag,8076.0
+40,1,8,Bag,8058.0
+1,1,8,Bag,8010.0
+35,4,12,Bag,8002.0
+40,4,12,Bag,7984.0
+31,5,12,Bag,7956.0
+34,2,7,Bag,7955.0
+5,4,1,Bag,7952.0
+1,4,10,Bag,7925.0
+29,4,12,Bag,7898.0
+17,5,8,Bag,7870.0
+34,1,3,Bag,7833.0
+31,3,12,Bag,7817.0
+26,3,11,Bag,7810.0
+34,2,5,Bag,7789.0
+34,3,3,Bag,7764.0
+27,2,3,Bag,7751.0
+26,3,12,Bag,7750.0
+31,4,12,Bag,7722.0
+27,4,8,Bag,7634.0
+27,4,11,Bag,7593.0
+30,1,8,Bag,7573.0
+26,1,9,Bag,7567.0
+14,3,11,Bag,7567.0
+17,3,2,Bag,7549.0
+26,2,10,Bag,7543.0
+31,2,8,Bag,7517.0
+34,3,12,Bag,7499.0
+30,3,10,Bag,7493.0
+29,2,8,Bag,7460.0
+2,4,5,Bag,7449.0
+30,2,11,Bag,7435.0
+34,3,10,Bag,7431.0
+30,2,10,Bag,7395.0
+15,2,9,Bag,7334.5
+1,2,12,Bag,7331.0
+34,5,6,Bag,7323.0
+1,1,7,Bag,7305.0
+31,1,12,Bag,7295.0
+30,4,11,Bag,7288.0
+2,5,10,Bag,7270.0
+40,5,9,Bag,7235.0
+26,5,8,Bag,7220.0
+29,2,9,Bag,7211.0
+30,5,3,Bag,7178.0
+34,4,5,Bag,7110.0
+2,1,4,Bag,7101.0
+26,3,6,Bag,7097.0
+14,4,12,Bag,7094.0
+34,1,2,Bag,7081.0
+29,2,3,Bag,7070.0
+34,3,1,Bag,7057.0
+26,4,9,Bag,7056.0
+26,1,10,Bag,7031.0
+2,2,10,Bag,7022.0
+34,1,9,Bag,7017.0
+5,4,12,Bag,6985.0
+29,1,12,Bag,6945.0
+11,2,8,Bag,6937.888888888898
+1,2,3,Bag,6901.0
+27,3,7,Bag,6866.0
+34,5,1,Bag,6856.0
+2,2,12,Bag,6824.0
+5,5,3,Bag,6823.0
+30,5,9,Bag,6820.0
+5,2,8,Bag,6797.0
+40,1,11,Bag,6748.0
+29,3,4,Bag,6742.0
+27,5,11,Bag,6729.0
+1,3,10,Bag,6721.0
+17,2,8,Bag,6717.0
+31,3,2,Bag,6713.0
+27,4,4,Bag,6677.0
+11,2,12,Bag,6651.0
+30,4,12,Bag,6647.0
+34,1,12,Bag,6591.0
+29,2,5,Bag,6574.0
+29,3,7,Bag,6527.0
+2,5,5,Bag,6480.0
+1,2,4,Bag,6473.0
+11,2,10,Bag,6453.0
+5,4,7,Bag,6416.0
+27,3,10,Bag,6400.0
+17,3,6,Bag,6397.0
+11,5,12,Bag,6390.0
+30,5,12,Bag,6384.0
+8,3,11,Bag,6370.0
+40,5,11,Bag,6368.0
+27,2,11,Bag,6367.0
+31,3,11,Bag,6340.0
+29,2,4,Bag,6305.0
+26,1,8,Bag,6299.0
+31,3,6,Bag,6288.0
+27,5,5,Bag,6275.0
+2,3,12,Bag,6260.0
+40,3,9,Bag,6249.0
+27,2,9,Bag,6246.0
+17,2,6,Bag,6239.000000000007
+27,4,12,Bag,6226.0
+29,5,4,Bag,6221.0
+27,3,12,Bag,6211.0
+1,3,7,Bag,6210.0
+34,1,7,Bag,6199.0
+29,4,10,Bag,6185.0
+17,3,3,Bag,6185.0
+29,5,10,Bag,6175.0
+27,2,6,Bag,6164.0
+31,3,7,Bag,6134.0
+29,3,3,Bag,6086.0
+31,1,9,Bag,6073.0
+26,5,12,Bag,6070.0
+34,4,10,Bag,6060.0
+26,1,3,Bag,6060.0
+31,2,10,Bag,6051.0
+27,4,2,Bag,6049.0
+34,4,6,Bag,6021.0
+2,2,7,Bag,5993.0
+29,3,5,Bag,5991.0
+40,3,8,Bag,5982.0
+2,1,11,Bag,5964.0
+26,4,11,Bag,5950.0
+30,3,7,Bag,5940.364864864852
+31,2,2,Bag,5934.0
+26,4,4,Bag,5931.0
+30,2,6,Bag,5919.0
+34,5,2,Bag,5915.0
+1,5,12,Bag,5899.0
+5,4,9,Bag,5894.0
+29,2,2,Bag,5865.0
+31,2,9,Bag,5816.0
+34,3,7,Bag,5791.0
+11,1,12,Bag,5779.0
+27,4,10,Bag,5774.0
+34,5,12,Bag,5757.0
+29,3,9,Bag,5745.0
+34,5,3,Bag,5743.0
+17,3,12,Bag,5742.0
+17,1,10,Bag,5725.0
+31,2,1,Bag,5722.0
+34,3,8,Bag,5711.0
+17,3,1,Bag,5683.0
+2,4,7,Bag,5663.0
+1,5,1,Bag,5661.0
+5,1,5,Bag,5649.0
+11,5,10,Bag,5627.0
+29,5,8,Bag,5613.0
+31,4,10,Bag,5571.0
+26,2,5,Bag,5567.0
+26,2,9,Bag,5566.0
+30,2,12,Bag,5540.0
+1,2,9,Bag,5526.0
+29,3,2,Bag,5516.369642857146
+17,4,7,Bag,5488.0
+34,5,7,Bag,5485.0
+17,4,10,Bag,5480.0
+29,2,11,Bag,5460.0
+34,2,11,Bag,5458.0
+1,2,6,Bag,5428.0
+34,4,2,Bag,5421.0
+30,2,9,Bag,5395.0
+34,2,9,Bag,5341.0
+29,2,7,Bag,5309.0
+27,4,3,Bag,5292.0
+31,4,8,Bag,5287.0
+5,1,9,Bag,5260.0
+29,1,6,Bag,5245.0
+14,3,10,Bag,5241.0
+14,4,11,Bag,5215.0
+5,3,4,Bag,5204.0
+5,2,11,Bag,5192.0
+1,2,8,Bag,5142.0
+26,4,7,Bag,5141.0
+40,4,11,Bag,5126.0
+26,5,9,Bag,5122.0
+34,1,8,Bag,5117.0
+26,1,11,Bag,5116.0
+26,1,2,Bag,5083.0
+29,4,11,Bag,5074.0
+11,1,10,Bag,5072.0
+26,1,4,Bag,5071.0
+29,4,4,Bag,5055.5
+2,4,2,Bag,5054.0
+17,4,8,Bag,5029.0
+17,5,11,Bag,5023.0
+27,3,8,Bag,5015.0
+34,4,1,Bag,4910.0
+2,4,12,Bag,4793.0
+11,1,9,Bag,4792.0
+1,4,9,Bag,4760.0
+11,1,11,Bag,4734.0
+34,3,2,Bag,4699.0
+2,2,4,Bag,4681.0
+1,2,11,Bag,4656.0
+29,1,4,Bag,4654.0
+26,4,6,Bag,4631.0
+40,3,10,Bag,4616.0
+30,5,7,Bag,4614.0
+30,5,5,Bag,4560.0
+5,3,10,Bag,4539.0
+5,3,11,Bag,4481.0
+27,5,4,Bag,4480.620689655174
+29,3,10,Bag,4450.0
+17,2,10,Bag,4436.0
+15,2,10,Bag,4425.0
+34,4,3,Bag,4415.0
+2,3,6,Bag,4402.0
+2,1,7,Bag,4350.0
+31,5,10,Bag,4341.0
+17,3,4,Bag,4322.0
+5,4,11,Bag,4320.0
+2,3,9,Bag,4318.0
+30,1,10,Bag,4295.0
+1,2,2,Bag,4294.0
+34,5,9,Bag,4274.0
+27,1,11,Bag,4272.0
+5,1,6,Bag,4270.0
+14,4,8,Bag,4260.630000000001
+30,5,1,Bag,4238.0
+29,2,10,Bag,4211.0
+31,3,9,Bag,4193.0
+31,5,9,Bag,4185.0
+29,4,6,Bag,4175.0
+1,1,9,Bag,4174.0
+14,4,10,Bag,4156.0
+1,4,12,Bag,4141.0
+31,3,4,Bag,4131.0
+31,1,6,Bag,4122.0
+27,1,8,Bag,4122.0
+5,1,12,Bag,4087.0
+34,1,10,Bag,4078.0
+5,5,5,Bag,4066.0
+29,4,9,Bag,4063.0
+17,1,8,Bag,4061.0
+2,1,3,Bag,4051.0
+2,5,3,Bag,4044.0
+31,1,11,Bag,4043.0
+5,5,12,Bag,4043.0
+31,1,7,Bag,4039.0
+35,5,12,Bag,4035.0
+5,2,5,Bag,4031.0
+1,1,10,Bag,4023.0
+2,4,4,Bag,4011.0
+31,5,11,Bag,3997.0
+1,5,11,Bag,3994.0
+2,1,6,Bag,3989.0
+34,5,10,Bag,3988.0
+30,5,11,Bag,3979.0
+40,4,8,Bag,3969.0
+1,3,6,Bag,3966.0
+8,4,10,Bag,3946.0
+1,5,6,Bag,3941.0
+31,2,7,Bag,3900.0
+30,1,12,Bag,3899.0
+5,5,1,Bag,3884.0
+1,5,9,Bag,3872.0
+2,1,10,Bag,3845.0
+5,5,4,Bag,3784.0
+29,1,2,Bag,3780.850000000006
+40,4,9,Bag,3766.0
+34,1,4,Bag,3739.0
+31,5,7,Bag,3721.0
+5,4,5,Bag,3680.0
+35,4,11,Bag,3661.0
+27,2,12,Bag,3652.0
+26,1,1,Bag,3644.0
+34,5,11,Bag,3616.0
+31,2,4,Bag,3611.0
+27,2,4,Bag,3608.0
+5,1,4,Bag,3591.0
+29,1,3,Bag,3578.0
+1,1,5,Bag,3561.0
+11,3,12,Bag,3537.0
+5,4,10,Bag,3518.0
+1,5,3,Bag,3503.0
+31,3,5,Bag,3485.0
+40,1,7,Bag,3472.07894736842
+5,5,9,Bag,3456.0
+34,2,1,Bag,3439.0
+11,2,9,Bag,3415.0
+5,2,2,Bag,3411.394736842114
+11,3,8,Bag,3406.0
+17,5,12,Bag,3361.0
+2,2,8,Bag,3359.0
+30,2,8,Bag,3344.0
+29,5,9,Bag,3288.0
+2,5,12,Bag,3256.0
+1,1,3,Bag,3246.4327485380163
+17,1,9,Bag,3239.0
+26,4,3,Bag,3236.6923076923267
+26,1,7,Bag,3192.0
+2,2,9,Bag,3173.0
+34,3,9,Bag,3158.0
+34,3,6,Bag,3149.0
+15,4,10,Bag,3124.0
+26,4,12,Bag,3101.0
+31,3,10,Bag,3077.0
+5,2,12,Bag,3076.0
+31,4,5,Bag,3058.0
+31,2,3,Bag,3055.0
+31,3,1,Bag,3050.5
+27,1,12,Bag,3046.0
+17,3,8,Bag,3008.0
+14,3,9,Bag,2993.0
+11,1,8,Bag,2963.0
+29,3,6,Bag,2961.0
+30,5,6,Bag,2947.0
+30,3,9,Bag,2944.0
+26,5,6,Bag,2934.0
+34,1,1,Bag,2848.0
+31,3,8,Bag,2835.0
+30,1,11,Bag,2833.0
+15,5,12,Bag,2821.0
+5,4,4,Bag,2789.0
+26,3,9,Bag,2770.0
+30,3,12,Bag,2736.0
+2,5,2,Bag,2718.41071428571
+35,4,9,Bag,2709.479999999996
+26,2,7,Bag,2685.0
+17,4,9,Bag,2680.0
+30,1,7,Bag,2668.0
+17,4,5,Bag,2659.262195121948
+2,1,1,Bag,2618.0
+31,1,8,Bag,2601.0
+40,3,12,Bag,2590.9999999999854
+29,3,12,Bag,2583.0
+35,4,10,Bag,2578.0
+30,5,10,Bag,2573.0
+1,3,9,Bag,2567.0
+1,2,7,Bag,2560.0
+2,1,5,Bag,2551.0
+1,5,8,Bag,2549.0
+34,2,8,Bag,2523.0
+5,3,6,Bag,2516.0
+40,1,10,Bag,2492.0
+2,3,4,Bag,2490.0
+17,3,5,Bag,2483.0
+27,5,6,Bag,2480.0
+34,2,3,Bag,2478.0
+34,5,8,Bag,2472.0
+1,4,11,Bag,2464.0
+5,5,2,Bag,2436.0
+17,1,11,Bag,2418.0
+27,2,7,Bag,2349.0
+5,5,11,Bag,2317.0
+34,4,9,Bag,2310.0
+26,4,5,Bag,2303.0
+6,4,10,Bag,2255.5000000000036
+29,4,5,Bag,2255.0
+26,2,6,Bag,2227.0
+29,3,11,Bag,2216.0
+17,2,9,Bag,2208.0
+40,1,12,Bag,2206.0
+2,4,1,Bag,2200.553571428569
+11,3,10,Bag,2191.0
+34,5,4,Bag,2166.0
+2,3,11,Bag,2162.0
+5,5,6,Bag,2149.0
+30,3,11,Bag,2122.0
+17,2,7,Bag,2106.0
+2,4,6,Bag,2086.0
+34,2,4,Bag,2070.0
+26,1,12,Bag,2058.0
+40,3,6,Bag,2024.0
+31,2,12,Bag,2019.0
+29,1,10,Bag,1987.0
+17,2,11,Bag,1929.0
+31,3,3,Bag,1921.0
+2,5,6,Bag,1901.0
+2,3,8,Bag,1899.0
+11,1,7,Bag,1885.0
+27,1,9,Bag,1876.0
+5,3,8,Bag,1862.0
+34,2,12,Bag,1851.0
+1,1,4,Bag,1807.0
+26,3,5,Bag,1772.0
+17,5,10,Bag,1713.0
+40,5,12,Bag,1701.0
+31,2,6,Bag,1683.0
+29,2,1,Bag,1679.0
+27,3,9,Bag,1649.0
+34,5,5,Bag,1639.0
+2,2,5,Bag,1617.0
+34,2,6,Bag,1549.0
+40,1,9,Bag,1540.0
+2,2,6,Bag,1531.0
+27,4,7,Bag,1501.0
+5,2,4,Bag,1467.0
+14,5,12,Bag,1432.0
+34,4,4,Bag,1422.0
+11,1,6,Bag,1418.6111111111168
+27,4,1,Bag,1416.0
+29,1,7,Bag,1373.0
+14,3,12,Bag,1373.0
+26,2,11,Bag,1326.0
+2,4,8,Bag,1303.0
+26,2,3,Bag,1279.0
+27,2,1,Bag,1224.7413793103478
+27,5,7,Bag,1210.0
+5,1,8,Bag,1207.0
+40,4,7,Bag,1188.6500000000015
+8,4,11,Bag,1157.0
+2,4,9,Bag,1156.0
+17,4,12,Bag,1131.0
+2,3,5,Bag,1115.0
+5,4,6,Bag,1074.0
+1,4,5,Bag,1043.5185185185255
+17,4,11,Bag,1034.0
+27,5,9,Bag,1028.0
+30,5,8,Bag,1025.0
+2,2,3,Bag,1005.0
+5,4,3,Bag,1002.0
+11,3,7,Bag,919.1999999999971
+30,2,4,Bag,883.1486486486538
+27,5,12,Bag,862.0
+1,5,7,Bag,859.0
+27,4,9,Bag,842.0
+30,4,9,Bag,600.3378378378438
+40,3,5,Bag,536.0526315789466
+8,4,9,Bag,359.1842105263204
+8,3,9,Bag,175.29999999999927
+2,3,9,Box,12635.0
+1,3,3,Box,11681.80214424952
+27,2,1,Box,10705.0
+31,1,10,Box,10577.5
+1,3,4,Box,10407.5
+11,1,12,Box,10322.5
+17,5,10,Box,9987.5
+14,5,11,Box,9837.5
+31,4,7,Box,9657.5
+29,4,5,Box,9430.0
+2,1,10,Box,9122.5
+30,5,6,Box,8887.5
+35,5,12,Box,8830.0
+5,2,6,Box,8645.0
+17,3,9,Box,8575.0
+30,5,3,Box,8322.5
+26,3,4,Box,8091.500000000015
+2,5,6,Box,8042.5
+17,2,12,Box,7912.499999999993
+5,4,8,Box,7837.5
+34,4,1,Box,7810.0
+30,1,12,Box,7772.5
+5,2,11,Box,7752.5
+1,3,6,Box,7747.5
+5,1,4,Box,7717.5
+27,4,9,Box,7675.0
+27,3,10,Box,7667.5
+1,1,6,Box,7642.5
+5,5,6,Box,7542.5
+2,3,3,Box,7307.5
+29,4,6,Box,7285.0
+34,4,4,Box,7262.5
+34,2,11,Box,7107.5
+1,2,8,Box,7070.0
+5,1,9,Box,7050.0
+2,2,3,Box,7037.5
+29,4,12,Box,7000.0
+29,4,4,Box,6997.5
+31,2,1,Box,6950.0
+2,2,8,Box,6945.0
+6,4,10,Box,6927.5
+2,2,6,Box,6795.0
+2,5,12,Box,6780.0
+29,2,1,Box,6605.0
+34,4,2,Box,6592.5
+34,1,6,Box,6592.5
+15,5,11,Box,6577.5
+40,3,6,Box,6470.0
+40,4,12,Box,6465.0
+5,4,5,Box,6420.0
+27,4,8,Box,6392.5
+29,3,9,Box,6282.5
+17,1,12,Box,6240.0
+31,5,5,Box,6150.0
+35,4,11,Box,6132.5
+17,1,9,Box,6077.5
+30,3,12,Box,6060.0
+26,4,11,Box,6055.0
+11,3,7,Box,6022.5
+2,2,5,Box,5995.0
+26,2,9,Box,5980.0
+2,5,11,Box,5972.5
+2,3,2,Box,5947.5
+31,5,12,Box,5932.5
+31,3,10,Box,5922.5
+40,4,10,Box,5890.0
+5,2,2,Box,5867.5
+26,2,12,Box,5855.0
+31,3,11,Box,5800.0
+31,3,6,Box,5800.0
+26,3,5,Box,5797.5
+40,3,8,Box,5720.0
+2,5,4,Box,5720.0
+29,2,6,Box,5705.0
+2,3,12,Box,5652.5
+31,4,8,Box,5645.0
+1,5,3,Box,5555.0
+29,5,6,Box,5515.0
+17,5,9,Box,5502.5
+5,5,2,Box,5480.0
+31,5,10,Box,5472.5
+11,3,8,Box,5472.5
+29,1,8,Box,5435.0
+26,1,4,Box,5420.0
+31,4,5,Box,5395.0
+26,5,2,Box,5385.250000000007
+30,2,10,Box,5362.5
+2,2,7,Box,5347.5
+5,1,7,Box,5337.5
+27,2,4,Box,5245.0
+31,4,11,Box,5195.0
+2,4,12,Box,5142.5
+5,4,2,Box,5120.0
+27,1,9,Box,5100.0
+17,3,8,Box,5097.5
+26,3,12,Box,5080.0
+27,5,9,Box,5032.5
+40,3,7,Box,5007.5
+1,4,6,Box,4995.0
+31,2,12,Box,4990.0
+26,2,3,Box,4945.0
+27,5,10,Box,4937.5
+34,1,1,Box,4930.0
+5,5,9,Box,4925.0
+1,1,11,Box,4920.0
+26,2,8,Box,4912.5
+2,1,12,Box,4902.5
+1,5,10,Box,4895.0
+30,5,11,Box,4827.5
+31,3,5,Box,4777.5
+14,3,10,Box,4767.5
+29,1,6,Box,4755.0
+27,2,11,Box,4727.5
+1,5,1,Box,4715.0
+2,2,4,Box,4652.5
+31,3,3,Box,4632.5
+34,4,9,Box,4620.0
+11,1,11,Box,4617.5
+2,3,6,Box,4615.0
+11,2,11,Box,4612.5
+8,3,10,Box,4612.5
+2,1,3,Box,4612.5
+26,3,11,Box,4600.0
+11,2,10,Box,4600.0
+2,5,2,Box,4585.0
+29,2,7,Box,4577.5
+11,5,10,Box,4570.0
+40,5,12,Box,4562.5
+29,3,2,Box,4555.0
+30,3,8,Box,4550.0
+5,3,11,Box,4525.0
+5,2,9,Box,4495.0
+30,1,8,Box,4475.0
+1,2,10,Box,4447.5
+29,2,3,Box,4427.5
+17,4,7,Box,4395.0
+26,3,7,Box,4380.0
+27,3,8,Box,4377.5
+40,5,9,Box,4347.5
+26,1,7,Box,4347.5
+40,4,8,Box,4312.5
+29,3,10,Box,4285.0
+29,5,12,Box,4250.0
+5,5,7,Box,4222.5
+5,1,5,Box,4215.0
+34,2,5,Box,4150.0
+26,4,5,Box,4132.5
+30,5,2,Box,4082.5
+26,1,10,Box,4080.0
+1,1,5,Box,4075.0
+5,4,12,Box,4037.5
+29,4,9,Box,4025.0
+34,4,6,Box,4022.5
+30,3,11,Box,3992.5
+34,4,10,Box,3987.5
+17,4,11,Box,3987.5
+30,5,5,Box,3982.5
+5,1,11,Box,3967.5
+34,3,8,Box,3905.0
+30,4,10,Box,3890.0
+27,1,10,Box,3880.0
+14,3,9,Box,3877.5
+1,5,12,Box,3875.0
+26,5,10,Box,3872.5
+35,4,12,Box,3867.5
+34,1,5,Box,3867.5
+29,5,9,Box,3827.5
+14,4,10,Box,3822.5
+26,5,6,Box,3817.5
+8,4,11,Box,3815.0
+27,4,7,Box,3810.0
+27,5,7,Box,3797.5
+30,2,6,Box,3750.0
+29,3,12,Box,3747.5
+34,5,10,Box,3737.5
+34,5,8,Box,3735.0
+27,3,12,Box,3732.5
+17,3,10,Box,3720.0
+29,3,4,Box,3662.5
+31,3,8,Box,3657.5
+26,4,6,Box,3655.0
+2,4,9,Box,3652.5
+26,4,3,Box,3650.0
+5,5,11,Box,3640.0
+30,4,12,Box,3635.0
+5,5,4,Box,3607.5
+5,3,6,Box,3585.0
+31,1,5,Box,3550.0
+1,2,12,Box,3537.5
+11,2,8,Box,3522.5
+29,5,8,Box,3505.0
+15,5,12,Box,3502.5
+34,3,4,Box,3492.5
+14,3,12,Box,3492.5
+40,1,10,Box,3475.0
+27,3,7,Box,3472.5
+14,4,11,Box,3462.5
+5,4,1,Box,3435.0
+34,5,11,Box,3432.5
+27,3,6,Box,3410.0
+1,3,12,Box,3399.999999999971
+1,1,3,Box,3395.0
+34,1,4,Box,3390.0
+30,1,10,Box,3375.0
+2,3,11,Box,3367.5
+11,3,10,Box,3362.5
+2,2,9,Box,3352.5
+29,1,2,Box,3350.0
+40,3,9,Box,3325.0
+2,1,1,Box,3325.0
+29,4,7,Box,3322.5
+29,1,12,Box,3320.0
+27,3,9,Box,3307.5
+27,4,12,Box,3295.0
+31,1,4,Box,3287.5
+34,2,7,Box,3267.5
+29,1,3,Box,3262.5
+15,2,9,Box,3252.5
+5,2,5,Box,3240.0
+17,2,6,Box,3200.0
+30,2,8,Box,3195.0
+17,1,6,Box,3152.5
+26,5,11,Box,3147.5
+29,3,11,Box,3142.5
+26,2,5,Box,3127.5
+15,4,10,Box,3127.5
+34,4,7,Box,3125.0
+8,4,10,Box,3120.0
+17,3,3,Box,3115.0
+2,4,1,Box,3097.5
+5,3,12,Box,3095.0
+5,1,3,Box,3082.5
+31,5,4,Box,3060.0
+1,4,5,Box,3060.0
+5,2,10,Box,3042.5
+29,1,7,Box,3012.5
+14,4,8,Box,2997.5
+29,1,10,Box,2960.0
+26,5,5,Box,2940.0
+34,1,9,Box,2930.0
+26,3,6,Box,2905.0
+27,5,6,Box,2875.0
+27,4,4,Box,2875.0
+11,3,11,Box,2870.0
+5,3,7,Box,2865.0
+29,2,10,Box,2857.5
+11,3,12,Box,2840.0
+5,3,5,Box,2810.0
+34,4,8,Box,2767.5
+31,5,9,Box,2767.5
+31,5,11,Box,2762.5
+5,5,3,Box,2750.0
+34,3,6,Box,2735.0
+27,1,11,Box,2722.5
+31,1,7,Box,2717.5
+11,2,9,Box,2717.5
+31,1,12,Box,2712.4999999999854
+29,3,8,Box,2710.0
+1,3,7,Box,2710.0
+34,4,12,Box,2705.0
+34,1,12,Box,2705.0
+40,3,10,Box,2672.5
+1,5,9,Box,2650.0
+30,3,10,Box,2615.0
+5,3,4,Box,2615.0
+31,1,11,Box,2600.0
+26,1,5,Box,2595.0
+2,4,10,Box,2535.0
+31,4,6,Box,2515.0
+31,2,4,Box,2502.5
+2,2,11,Box,2497.5
+29,4,10,Box,2485.0
+17,3,4,Box,2477.5
+35,4,9,Box,2465.0
+31,4,10,Box,2445.0
+29,1,11,Box,2435.0
+26,4,9,Box,2435.0
+31,3,4,Box,2415.0
+26,1,9,Box,2402.5
+30,1,9,Box,2382.5
+27,4,3,Box,2382.5
+8,4,12,Box,2377.5
+8,3,12,Box,2362.5
+27,4,1,Box,2357.5
+27,2,12,Box,2335.0
+26,4,4,Box,2335.0
+2,1,2,Box,2320.0
+27,5,5,Box,2310.0
+29,1,5,Box,2287.5
+40,1,9,Box,2280.0
+1,1,10,Box,2280.0
+30,5,10,Box,2272.5
+40,1,7,Box,2270.0
+31,1,6,Box,2267.5
+34,3,12,Box,2265.0
+31,2,7,Box,2250.0
+27,2,3,Box,2247.5
+34,1,7,Box,2230.0
+27,2,10,Box,2230.0
+27,4,10,Box,2222.5
+35,5,11,Box,2220.199999999997
+5,4,10,Box,2212.5
+2,4,8,Box,2207.5
+26,1,11,Box,2205.0
+17,3,5,Box,2202.5
+2,3,8,Box,2200.0
+30,5,1,Box,2195.0
+2,4,11,Box,2192.5
+2,4,6,Box,2152.5
+26,1,8,Box,2135.0
+34,3,3,Box,2127.5
+29,5,5,Box,2125.0
+17,5,11,Box,2125.0
+17,1,11,Box,2120.0
+1,1,7,Box,2117.5
+1,2,3,Box,2110.0
+1,5,4,Box,2087.5
+17,1,7,Box,2077.5
+5,2,4,Box,2070.0
+29,2,5,Box,2060.0
+34,2,1,Box,2045.0
+27,5,4,Box,2037.5
+31,1,8,Box,2032.5
+30,3,7,Box,2030.0
+5,2,8,Box,2030.0
+1,5,11,Box,2025.0
+34,5,6,Box,2017.5
+1,2,2,Box,2012.5
+26,2,2,Box,1996.7000000000007
+31,2,6,Box,1987.5
+17,3,11,Box,1970.0
+1,5,2,Box,1962.5
+11,1,7,Box,1960.0
+30,2,12,Box,1950.0
+30,4,11,Box,1945.0
+26,4,8,Box,1945.0
+40,5,8,Box,1937.5
+31,5,8,Box,1930.0
+15,5,10,Box,1912.5
+2,5,8,Box,1910.0
+1,4,7,Box,1910.0
+5,4,6,Box,1902.5
+2,5,7,Box,1897.5
+27,2,6,Box,1882.5
+17,1,8,Box,1880.0
+2,3,4,Box,1877.5
+29,1,4,Box,1875.0
+30,5,4,Box,1847.5
+1,3,5,Box,1845.0
+5,3,9,Box,1840.0
+27,2,9,Box,1825.0
+27,4,2,Box,1822.5
+17,1,10,Box,1800.0
+2,3,10,Box,1800.0
+34,1,8,Box,1790.0
+29,3,5,Box,1785.0
+17,3,2,Box,1782.5
+5,3,8,Box,1782.5
+29,2,11,Box,1780.0
+11,5,12,Box,1767.5
+30,2,5,Box,1760.0
+34,4,3,Box,1742.5
+26,5,7,Box,1740.0
+2,5,9,Box,1735.0
+34,5,12,Box,1730.0
+11,5,11,Box,1725.0
+26,3,9,Box,1720.0
+27,4,11,Box,1717.5
+14,4,9,Box,1700.0
+5,4,11,Box,1700.0
+2,1,5,Box,1697.5
+1,2,4,Box,1697.5
+1,1,9,Box,1687.5
+5,1,8,Box,1682.5
+30,5,9,Box,1677.5
+2,4,3,Box,1675.0
+17,4,6,Box,1657.5
+40,3,11,Box,1642.5
+30,4,9,Box,1637.5
+31,3,2,Box,1627.5
+34,5,5,Box,1622.5
+26,5,8,Box,1605.0
+1,4,8,Box,1600.0
+31,2,2,Box,1555.0
+34,1,3,Box,1545.0
+29,2,8,Box,1545.0
+34,5,1,Box,1540.0
+17,3,1,Box,1520.0
+2,1,6,Box,1515.0
+40,4,7,Box,1505.0
+8,3,11,Box,1470.0
+29,3,7,Box,1467.5
+17,4,10,Box,1462.5
+2,4,5,Box,1447.5
+34,3,2,Box,1440.0
+26,5,3,Box,1440.0
+1,3,8,Box,1435.0
+1,2,1,Box,1422.5
+1,4,12,Box,1375.0
+27,4,6,Box,1365.0
+29,4,11,Box,1355.0
+27,4,5,Box,1350.0
+34,5,3,Box,1342.5
+26,3,10,Box,1330.0
+40,4,9,Box,1327.5
+29,2,2,Box,1327.5
+1,2,5,Box,1290.0
+40,5,10,Box,1282.5
+31,4,12,Box,1275.0
+17,4,9,Box,1272.5
+6,4,11,Box,1260.0
+31,2,5,Box,1255.0
+27,1,8,Box,1255.0
+2,3,7,Box,1252.5
+5,1,10,Box,1245.0
+1,1,8,Box,1242.5
+34,2,2,Box,1237.5
+5,2,3,Box,1235.0
+31,2,10,Box,1232.5
+34,5,4,Box,1220.0
+30,5,12,Box,1220.0
+15,2,12,Box,1210.0
+5,3,3,Box,1201.3999999999978
+1,2,7,Box,1197.5
+27,5,12,Box,1180.0
+1,1,12,Box,1172.5
+5,2,7,Box,1170.0
+26,2,11,Box,1140.0
+29,2,12,Box,1127.5
+26,4,10,Box,1125.0
+26,2,10,Box,1122.5
+34,5,9,Box,1117.5
+5,5,1,Box,1112.5
+2,1,8,Box,1110.0
+2,1,4,Box,1052.5
+34,2,3,Box,1047.5
+17,2,8,Box,1032.5
+31,3,12,Box,1020.0
+5,4,7,Box,1020.0
+31,5,7,Box,1017.5
+15,2,11,Box,1015.0
+15,4,12,Box,992.5
+11,5,9,Box,945.0
+34,1,11,Box,922.5
+2,4,4,Box,885.0
+14,3,8,Box,880.619999999999
+31,4,9,Box,865.0
+40,5,7,Box,792.1500000000015
+27,1,7,Box,778.5
+17,1,5,Box,725.524390243896
+2,1,7,Box,690.0
+5,5,5,Box,590.0
+15,5,9,Box,334.3000000000029

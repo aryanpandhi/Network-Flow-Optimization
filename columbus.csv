@@ -1,971 +1,1114 @@
-Plant Id,Internal Work Order Id,Color,Size,Flavor,Packaging Type,Qty
-Columbus,0,Coloring Agent4,S3,F10,Bag,19437.972222222234
-Columbus,1,Coloring Agent36,S1,F8,Bag,18767.0
-Columbus,2,Coloring Agent28,S2,F10,Bag,16534.0
-Columbus,3,Coloring Agent7,S1,F11,Bag,16516.0
-Columbus,4,Coloring Agent4,S3,F7,Bag,16374.0
-Columbus,5,Coloring Agent37,S3,F7,Bag,16035.0
-Columbus,6,Coloring Agent9,S3,F6,Bag,15529.0
-Columbus,7,Coloring Agent3,S4,F9,Bag,15297.0
-Columbus,8,Coloring Agent4,S1,F10,Bag,14590.0
-Columbus,9,Coloring Agent18,S3,F3,Bag,13857.0
-Columbus,10,Coloring Agent28,S5,F9,Bag,13743.0
-Columbus,11,Coloring Agent15,S5,F7,Bag,13713.0
-Columbus,12,Coloring Agent7,S5,F8,Bag,13622.0
-Columbus,13,Coloring Agent18,S4,F7,Bag,13553.0
-Columbus,14,Coloring Agent19,S4,F10,Bag,13539.0
-Columbus,15,Coloring Agent16,S5,F8,Bag,13508.0
-Columbus,16,Coloring Agent13,S2,F9,Bag,13009.0
-Columbus,17,Coloring Agent32,S3,F3,Bag,12926.0
-Columbus,18,Coloring Agent4,S1,F9,Bag,12795.0
-Columbus,19,Coloring Agent25,S5,F7,Bag,12790.0
-Columbus,20,Coloring Agent13,S5,F7,Bag,12723.0
-Columbus,21,Coloring Agent21,S4,F12,Bag,12669.0
-Columbus,22,Coloring Agent6,S3,F9,Bag,12572.0
-Columbus,23,Coloring Agent14,S5,F8,Bag,12443.0
-Columbus,24,Coloring Agent37,S1,F1,Bag,12408.0
-Columbus,25,Coloring Agent39,S4,F4,Bag,12388.0
-Columbus,26,Coloring Agent32,S4,F5,Bag,12282.0
-Columbus,27,Coloring Agent9,S3,F8,Bag,12258.849999999999
-Columbus,28,Coloring Agent23,S2,F2,Bag,12163.0
-Columbus,29,Coloring Agent3,S2,F9,Bag,12105.0
-Columbus,30,Coloring Agent7,S1,F7,Bag,12018.0
-Columbus,31,Coloring Agent38,S4,F10,Bag,11999.0
-Columbus,32,Coloring Agent28,S1,F8,Bag,11811.0
-Columbus,33,Coloring Agent21,S3,F9,Bag,11763.0
-Columbus,34,Coloring Agent23,S1,F7,Bag,11653.0
-Columbus,35,Coloring Agent18,S4,F8,Bag,11573.0
-Columbus,36,Coloring Agent36,S2,F10,Bag,11387.0
-Columbus,37,Coloring Agent39,S3,F8,Bag,11273.0
-Columbus,38,Coloring Agent24,S2,F4,Bag,11185.0
-Columbus,39,Coloring Agent39,S1,F7,Bag,11094.0
-Columbus,40,Coloring Agent38,S1,F7,Bag,11052.0
-Columbus,41,Coloring Agent18,S1,F2,Bag,11009.0
-Columbus,42,Coloring Agent21,S2,F10,Bag,10978.0
-Columbus,43,Coloring Agent8,S5,F8,Bag,10961.0
-Columbus,44,Coloring Agent20,S4,F3,Bag,10873.0
-Columbus,45,Coloring Agent6,S2,F10,Bag,10803.0
-Columbus,46,Coloring Agent32,S2,F9,Bag,10795.0
-Columbus,47,Coloring Agent13,S3,F8,Bag,10703.0
-Columbus,48,Coloring Agent6,S4,F6,Bag,10700.0
-Columbus,49,Coloring Agent20,S4,F7,Bag,10621.0
-Columbus,50,Coloring Agent6,S5,F6,Bag,10584.0
-Columbus,51,Coloring Agent33,S2,F2,Bag,10460.84555984557
-Columbus,52,Coloring Agent16,S3,F4,Bag,10294.211538461532
-Columbus,53,Coloring Agent18,S2,F7,Bag,10275.0
-Columbus,54,Coloring Agent12,S5,F9,Bag,10218.0
-Columbus,55,Coloring Agent22,S4,F5,Bag,10097.669999999998
-Columbus,56,Coloring Agent12,S1,F8,Bag,10097.0
-Columbus,57,Coloring Agent36,S2,F9,Bag,9976.0
-Columbus,58,Coloring Agent36,S4,F9,Bag,9892.0
-Columbus,59,Coloring Agent20,S5,F5,Bag,9892.0
-Columbus,60,Coloring Agent22,S5,F7,Bag,9871.0
-Columbus,61,Coloring Agent37,S2,F6,Bag,9845.0
-Columbus,62,Coloring Agent19,S3,F10,Bag,9716.0
-Columbus,63,Coloring Agent35,S4,F7,Bag,9605.0
-Columbus,64,Coloring Agent33,S5,F1,Bag,9496.0
-Columbus,65,Coloring Agent22,S2,F7,Bag,9435.0
-Columbus,66,Coloring Agent32,S1,F4,Bag,9426.0
-Columbus,67,Coloring Agent19,S4,F8,Bag,9365.0
-Columbus,68,Coloring Agent10,S4,F6,Bag,9340.642857142855
-Columbus,69,Coloring Agent32,S2,F7,Bag,9236.0
-Columbus,70,Coloring Agent6,S5,F11,Bag,9233.0
-Columbus,71,Coloring Agent21,S4,F10,Bag,9227.0
-Columbus,72,Coloring Agent35,S1,F1,Bag,9220.0
-Columbus,73,Coloring Agent33,S5,F3,Bag,9215.0
-Columbus,74,Coloring Agent35,S4,F5,Bag,9205.0
-Columbus,75,Coloring Agent15,S5,F8,Bag,9195.0
-Columbus,76,Coloring Agent3,S2,F10,Bag,9179.0
-Columbus,77,Coloring Agent32,S5,F6,Bag,9136.0
-Columbus,78,Coloring Agent25,S5,F8,Bag,9134.0
-Columbus,79,Coloring Agent12,S4,F5,Bag,9105.0
-Columbus,80,Coloring Agent14,S5,F7,Bag,9079.0
-Columbus,81,Coloring Agent3,S3,F7,Bag,9027.0
-Columbus,82,Coloring Agent20,S3,F8,Bag,8996.0
-Columbus,83,Coloring Agent4,S2,F7,Bag,8958.0
-Columbus,84,Coloring Agent28,S4,F6,Bag,8935.0
-Columbus,85,Coloring Agent19,S5,F11,Bag,8929.0
-Columbus,86,Coloring Agent6,S1,F11,Bag,8868.0
-Columbus,87,Coloring Agent6,S3,F2,Bag,8843.0
-Columbus,88,Coloring Agent24,S4,F2,Bag,8819.200000000004
-Columbus,89,Coloring Agent18,S1,F6,Bag,8722.0
-Columbus,90,Coloring Agent7,S4,F11,Bag,8627.0
-Columbus,91,Coloring Agent8,S3,F5,Bag,8581.5
-Columbus,92,Coloring Agent18,S1,F3,Bag,8551.0
-Columbus,93,Coloring Agent19,S3,F7,Bag,8540.0
-Columbus,94,Coloring Agent24,S3,F5,Bag,8527.5
-Columbus,95,Coloring Agent37,S2,F9,Bag,8458.0
-Columbus,96,Coloring Agent12,S5,F8,Bag,8399.0
-Columbus,97,Coloring Agent12,S2,F4,Bag,8370.0702020202
-Columbus,98,Coloring Agent9,S1,F6,Bag,8270.0
-Columbus,99,Coloring Agent4,S4,F12,Bag,8263.0
-Columbus,100,Coloring Agent22,S2,F8,Bag,8187.5999999999985
-Columbus,101,Coloring Agent15,S4,F8,Bag,8170.0
-Columbus,102,Coloring Agent37,S1,F4,Bag,8166.0
-Columbus,103,Coloring Agent19,S4,F7,Bag,8158.5
-Columbus,104,Coloring Agent37,S1,F5,Bag,8066.0
-Columbus,105,Coloring Agent32,S2,F8,Bag,8023.0
-Columbus,106,Coloring Agent15,S5,F6,Bag,8021.0
-Columbus,107,Coloring Agent19,S2,F10,Bag,8009.0
-Columbus,108,Coloring Agent33,S1,F7,Bag,7936.12999999999
-Columbus,109,Coloring Agent6,S1,F3,Bag,7926.0
-Columbus,110,Coloring Agent39,S5,F6,Bag,7879.0
-Columbus,111,Coloring Agent33,S3,F7,Bag,7862.0
-Columbus,112,Coloring Agent24,S4,F3,Bag,7807.0
-Columbus,113,Coloring Agent37,S4,F7,Bag,7798.0
-Columbus,114,Coloring Agent25,S4,F10,Bag,7778.0
-Columbus,115,Coloring Agent9,S4,F9,Bag,7762.0
-Columbus,116,Coloring Agent21,S5,F10,Bag,7761.0
-Columbus,117,Coloring Agent18,S2,F10,Bag,7746.0
-Columbus,118,Coloring Agent10,S5,F5,Bag,7718.0
-Columbus,119,Coloring Agent28,S3,F8,Bag,7713.0
-Columbus,120,Coloring Agent20,S3,F9,Bag,7647.0
-Columbus,121,Coloring Agent13,S4,F4,Bag,7613.0
-Columbus,122,Coloring Agent6,S1,F10,Bag,7612.0
-Columbus,123,Coloring Agent33,S5,F2,Bag,7560.0
-Columbus,124,Coloring Agent28,S5,F6,Bag,7504.0
-Columbus,125,Coloring Agent25,S3,F9,Bag,7493.0
-Columbus,126,Coloring Agent6,S1,F5,Bag,7489.0
-Columbus,127,Coloring Agent8,S3,F6,Bag,7479.0
-Columbus,128,Coloring Agent33,S4,F4,Bag,7469.0
-Columbus,129,Coloring Agent25,S1,F10,Bag,7459.0
-Columbus,130,Coloring Agent16,S1,F11,Bag,7450.75
-Columbus,131,Coloring Agent28,S3,F3,Bag,7440.520000000004
-Columbus,132,Coloring Agent9,S5,F8,Bag,7415.0
-Columbus,133,Coloring Agent4,S2,F6,Bag,7364.0
-Columbus,134,Coloring Agent28,S3,F4,Bag,7362.0
-Columbus,135,Coloring Agent37,S3,F8,Bag,7320.0
-Columbus,136,Coloring Agent37,S1,F6,Bag,7298.0
-Columbus,137,Coloring Agent23,S1,F5,Bag,7283.0
-Columbus,138,Coloring Agent32,S1,F5,Bag,7266.0
-Columbus,139,Coloring Agent13,S2,F8,Bag,7261.0
-Columbus,140,Coloring Agent19,S5,F12,Bag,7239.0
-Columbus,141,Coloring Agent28,S2,F11,Bag,7237.0
-Columbus,142,Coloring Agent13,S3,F6,Bag,7213.0
-Columbus,143,Coloring Agent15,S2,F6,Bag,7185.0
-Columbus,144,Coloring Agent28,S5,F7,Bag,7178.0
-Columbus,145,Coloring Agent6,S5,F8,Bag,7170.0
-Columbus,146,Coloring Agent6,S1,F4,Bag,7170.0
-Columbus,147,Coloring Agent8,S4,F6,Bag,7169.0
-Columbus,148,Coloring Agent28,S1,F9,Bag,7094.0
-Columbus,149,Coloring Agent28,S2,F6,Bag,7079.490000000005
-Columbus,150,Coloring Agent4,S2,F9,Bag,7070.5
-Columbus,151,Coloring Agent28,S1,F7,Bag,7069.6600000000035
-Columbus,152,Coloring Agent22,S3,F6,Bag,7047.0
-Columbus,153,Coloring Agent32,S3,F5,Bag,7044.225806451621
-Columbus,154,Coloring Agent25,S5,F11,Bag,7016.200000000004
-Columbus,155,Coloring Agent37,S5,F7,Bag,7010.899999999998
-Columbus,156,Coloring Agent6,S5,F10,Bag,7000.0
-Columbus,157,Coloring Agent6,S2,F11,Bag,6976.0
-Columbus,158,Coloring Agent3,S5,F5,Bag,6966.0
-Columbus,159,Coloring Agent32,S3,F1,Bag,6958.0
-Columbus,160,Coloring Agent21,S1,F10,Bag,6938.0
-Columbus,161,Coloring Agent3,S3,F10,Bag,6847.0
-Columbus,162,Coloring Agent33,S4,F7,Bag,6846.0
-Columbus,163,Coloring Agent14,S4,F5,Bag,6811.0
-Columbus,164,Coloring Agent16,S2,F7,Bag,6766.0
-Columbus,165,Coloring Agent37,S3,F5,Bag,6729.0
-Columbus,166,Coloring Agent19,S2,F11,Bag,6712.0
-Columbus,167,Coloring Agent35,S4,F8,Bag,6710.0
-Columbus,168,Coloring Agent9,S1,F10,Bag,6668.669999999991
-Columbus,169,Coloring Agent37,S4,F2,Bag,6645.0
-Columbus,170,Coloring Agent28,S5,F10,Bag,6640.0
-Columbus,171,Coloring Agent21,S1,F9,Bag,6606.0
-Columbus,172,Coloring Agent28,S3,F10,Bag,6587.0
-Columbus,173,Coloring Agent19,S5,F8,Bag,6571.0
-Columbus,174,Coloring Agent16,S3,F8,Bag,6516.0
-Columbus,175,Coloring Agent33,S3,F6,Bag,6509.0
-Columbus,176,Coloring Agent6,S1,F12,Bag,6493.0
-Columbus,177,Coloring Agent36,S2,F6,Bag,6486.0
-Columbus,178,Coloring Agent24,S3,F9,Bag,6466.0
-Columbus,179,Coloring Agent16,S5,F10,Bag,6442.0
-Columbus,180,Coloring Agent24,S5,F8,Bag,6436.899999999994
-Columbus,181,Coloring Agent23,S5,F5,Bag,6424.117647058825
-Columbus,182,Coloring Agent3,S5,F9,Bag,6396.0
-Columbus,183,Coloring Agent23,S5,F7,Bag,6389.227272727268
-Columbus,184,Coloring Agent3,S2,F7,Bag,6382.0
-Columbus,185,Coloring Agent7,S4,F8,Bag,6379.3815789473665
-Columbus,186,Coloring Agent33,S4,F6,Bag,6378.0
-Columbus,187,Coloring Agent38,S1,F8,Bag,6374.0
-Columbus,188,Coloring Agent25,S1,F9,Bag,6321.0
-Columbus,189,Coloring Agent24,S5,F6,Bag,6319.0
-Columbus,190,Coloring Agent14,S3,F4,Bag,6307.333333333325
-Columbus,191,Coloring Agent32,S3,F4,Bag,6286.0
-Columbus,192,Coloring Agent35,S1,F3,Bag,6255.555555555566
-Columbus,193,Coloring Agent37,S5,F6,Bag,6245.0
-Columbus,194,Coloring Agent25,S2,F11,Bag,6161.0
-Columbus,195,Coloring Agent4,S2,F8,Bag,6139.0
-Columbus,196,Coloring Agent23,S2,F1,Bag,6105.343636363636
-Columbus,197,Coloring Agent21,S3,F10,Bag,6087.0
-Columbus,198,Coloring Agent3,S4,F5,Bag,6079.5
-Columbus,199,Coloring Agent19,S1,F10,Bag,6059.0
-Columbus,200,Coloring Agent25,S3,F8,Bag,6050.0
-Columbus,201,Coloring Agent14,S2,F8,Bag,6049.537179487197
-Columbus,202,Coloring Agent18,S5,F8,Bag,6029.0
-Columbus,203,Coloring Agent16,S2,F8,Bag,5992.0
-Columbus,204,Coloring Agent10,S5,F8,Bag,5975.0
-Columbus,205,Coloring Agent15,S5,F5,Bag,5973.5
-Columbus,206,Coloring Agent8,S4,F7,Bag,5950.0
-Columbus,207,Coloring Agent6,S5,F12,Bag,5917.0
-Columbus,208,Coloring Agent32,S5,F5,Bag,5908.0
-Columbus,209,Coloring Agent10,S5,F7,Bag,5869.0
-Columbus,210,Coloring Agent24,S2,F5,Bag,5843.199999999997
-Columbus,211,Coloring Agent8,S1,F8,Bag,5843.0
-Columbus,212,Coloring Agent37,S4,F8,Bag,5799.800000000003
-Columbus,213,Coloring Agent16,S2,F9,Bag,5786.0
-Columbus,214,Coloring Agent13,S4,F5,Bag,5746.3020833333285
-Columbus,215,Coloring Agent24,S2,F3,Bag,5739.870652173915
-Columbus,216,Coloring Agent25,S4,F5,Bag,5738.0
-Columbus,217,Coloring Agent38,S3,F8,Bag,5726.0
-Columbus,218,Coloring Agent28,S3,F9,Bag,5726.0
-Columbus,219,Coloring Agent28,S1,F10,Bag,5666.0
-Columbus,220,Coloring Agent18,S2,F9,Bag,5649.0
-Columbus,221,Coloring Agent8,S3,F8,Bag,5649.0
-Columbus,222,Coloring Agent16,S1,F8,Bag,5644.0
-Columbus,223,Coloring Agent19,S3,F9,Bag,5626.0
-Columbus,224,Coloring Agent21,S5,F12,Bag,5608.0
-Columbus,225,Coloring Agent7,S1,F9,Bag,5600.0
-Columbus,226,Coloring Agent16,S2,F10,Bag,5598.0
-Columbus,227,Coloring Agent7,S4,F9,Bag,5576.0
-Columbus,228,Coloring Agent15,S4,F5,Bag,5561.0
-Columbus,229,Coloring Agent6,S3,F6,Bag,5560.0
-Columbus,230,Coloring Agent37,S2,F10,Bag,5552.0
-Columbus,231,Coloring Agent14,S4,F6,Bag,5549.0
-Columbus,232,Coloring Agent28,S4,F10,Bag,5548.0
-Columbus,233,Coloring Agent28,S3,F5,Bag,5520.0
-Columbus,234,Coloring Agent33,S3,F8,Bag,5518.0
-Columbus,235,Coloring Agent20,S3,F10,Bag,5498.0
-Columbus,236,Coloring Agent32,S2,F5,Bag,5491.269230769234
-Columbus,237,Coloring Agent4,S1,F8,Bag,5482.0
-Columbus,238,Coloring Agent4,S4,F9,Bag,5460.0
-Columbus,239,Coloring Agent16,S5,F11,Bag,5435.0
-Columbus,240,Coloring Agent6,S5,F5,Bag,5434.0
-Columbus,241,Coloring Agent24,S4,F4,Bag,5398.0
-Columbus,242,Coloring Agent21,S5,F9,Bag,5398.0
-Columbus,243,Coloring Agent6,S2,F7,Bag,5389.0
-Columbus,244,Coloring Agent9,S5,F5,Bag,5376.5
-Columbus,245,Coloring Agent19,S4,F11,Bag,5327.0
-Columbus,246,Coloring Agent32,S4,F3,Bag,5317.0
-Columbus,247,Coloring Agent36,S4,F7,Bag,5291.5
-Columbus,248,Coloring Agent10,S5,F9,Bag,5290.0
-Columbus,249,Coloring Agent20,S4,F5,Bag,5286.0
-Columbus,250,Coloring Agent25,S5,F5,Bag,5255.0
-Columbus,251,Coloring Agent7,S5,F7,Bag,5205.0
-Columbus,252,Coloring Agent32,S5,F7,Bag,5191.0
-Columbus,253,Coloring Agent12,S2,F6,Bag,5182.0
-Columbus,254,Coloring Agent3,S4,F10,Bag,5179.0
-Columbus,255,Coloring Agent39,S3,F7,Bag,5166.0
-Columbus,256,Coloring Agent28,S3,F11,Bag,5164.0
-Columbus,257,Coloring Agent4,S4,F10,Bag,5164.0
-Columbus,258,Coloring Agent3,S4,F7,Bag,5138.0
-Columbus,259,Coloring Agent38,S3,F4,Bag,5127.786666666663
-Columbus,260,Coloring Agent35,S3,F6,Bag,5119.0
-Columbus,261,Coloring Agent6,S3,F10,Bag,5094.0
-Columbus,262,Coloring Agent19,S1,F12,Bag,5087.0
-Columbus,263,Coloring Agent12,S2,F8,Bag,5080.0
-Columbus,264,Coloring Agent12,S3,F6,Bag,5079.0
-Columbus,265,Coloring Agent36,S2,F5,Bag,5063.0
-Columbus,266,Coloring Agent18,S2,F6,Bag,5052.379999999997
-Columbus,267,Coloring Agent33,S4,F9,Bag,5026.570000000007
-Columbus,268,Coloring Agent18,S2,F8,Bag,5002.0
-Columbus,269,Coloring Agent22,S3,F8,Bag,4999.0
-Columbus,270,Coloring Agent18,S5,F7,Bag,4977.0
-Columbus,271,Coloring Agent36,S4,F8,Bag,4963.0
-Columbus,272,Coloring Agent28,S1,F11,Bag,4961.5999999999985
-Columbus,273,Coloring Agent24,S3,F7,Bag,4935.0
-Columbus,274,Coloring Agent3,S4,F8,Bag,4917.0
-Columbus,275,Coloring Agent21,S1,F12,Bag,4915.0
-Columbus,276,Coloring Agent39,S5,F8,Bag,4895.0
-Columbus,277,Coloring Agent18,S5,F6,Bag,4880.0
-Columbus,278,Coloring Agent15,S2,F5,Bag,4840.5
-Columbus,279,Coloring Agent33,S4,F5,Bag,4833.0
-Columbus,280,Coloring Agent20,S5,F9,Bag,4828.0
-Columbus,281,Coloring Agent9,S1,F7,Bag,4814.0
-Columbus,282,Coloring Agent39,S3,F10,Bag,4773.699999999997
-Columbus,283,Coloring Agent14,S4,F4,Bag,4758.830000000013
-Columbus,284,Coloring Agent18,S4,F10,Bag,4732.0
-Columbus,285,Coloring Agent19,S1,F11,Bag,4730.0
-Columbus,286,Coloring Agent10,S3,F1,Bag,4724.875
-Columbus,287,Coloring Agent22,S3,F3,Bag,4706.602852852855
-Columbus,288,Coloring Agent22,S5,F5,Bag,4704.202702702707
-Columbus,289,Coloring Agent6,S2,F12,Bag,4704.0
-Columbus,290,Coloring Agent18,S5,F5,Bag,4702.0
-Columbus,291,Coloring Agent39,S1,F6,Bag,4676.745263157893
-Columbus,292,Coloring Agent35,S3,F7,Bag,4673.0
-Columbus,293,Coloring Agent9,S1,F9,Bag,4671.0
-Columbus,294,Coloring Agent20,S5,F4,Bag,4661.0
-Columbus,295,Coloring Agent3,S3,F9,Bag,4653.0
-Columbus,296,Coloring Agent12,S5,F7,Bag,4636.0
-Columbus,297,Coloring Agent28,S2,F9,Bag,4594.0
-Columbus,298,Coloring Agent32,S1,F6,Bag,4553.0
-Columbus,299,Coloring Agent14,S1,F6,Bag,4546.0
-Columbus,300,Coloring Agent39,S1,F8,Bag,4518.399999999998
-Columbus,301,Coloring Agent38,S5,F8,Bag,4510.0
-Columbus,302,Coloring Agent18,S1,F8,Bag,4497.089999999982
-Columbus,303,Coloring Agent38,S5,F6,Bag,4492.0
-Columbus,304,Coloring Agent8,S3,F7,Bag,4490.0
-Columbus,305,Coloring Agent7,S5,F6,Bag,4487.0
-Columbus,306,Coloring Agent37,S4,F6,Bag,4453.0
-Columbus,307,Coloring Agent12,S4,F3,Bag,4452.413636363632
-Columbus,308,Coloring Agent36,S2,F11,Bag,4447.220000000008
-Columbus,309,Coloring Agent35,S5,F7,Bag,4439.0
-Columbus,310,Coloring Agent22,S2,F5,Bag,4428.9000000000015
-Columbus,311,Coloring Agent39,S4,F3,Bag,4368.0
-Columbus,312,Coloring Agent28,S4,F9,Bag,4351.0
-Columbus,313,Coloring Agent14,S4,F7,Bag,4333.0
-Columbus,314,Coloring Agent3,S3,F11,Bag,4310.0
-Columbus,315,Coloring Agent37,S4,F3,Bag,4303.0
-Columbus,316,Coloring Agent36,S2,F8,Bag,4266.0
-Columbus,317,Coloring Agent32,S4,F4,Bag,4265.0
-Columbus,318,Coloring Agent6,S3,F11,Bag,4222.0
-Columbus,319,Coloring Agent13,S5,F5,Bag,4217.0
-Columbus,320,Coloring Agent8,S5,F7,Bag,4215.0
-Columbus,321,Coloring Agent9,S3,F7,Bag,4214.0
-Columbus,322,Coloring Agent19,S1,F9,Bag,4207.0
-Columbus,323,Coloring Agent16,S3,F5,Bag,4205.0
-Columbus,324,Coloring Agent20,S4,F4,Bag,4202.0
-Columbus,325,Coloring Agent28,S3,F6,Bag,4190.0
-Columbus,326,Coloring Agent16,S3,F6,Bag,4177.0
-Columbus,327,Coloring Agent9,S1,F8,Bag,4156.0
-Columbus,328,Coloring Agent38,S5,F5,Bag,4151.638412698412
-Columbus,329,Coloring Agent16,S4,F9,Bag,4150.0
-Columbus,330,Coloring Agent33,S2,F1,Bag,4123.0
-Columbus,331,Coloring Agent12,S3,F8,Bag,4090.0
-Columbus,332,Coloring Agent14,S1,F7,Bag,4072.0
-Columbus,333,Coloring Agent19,S2,F12,Bag,4068.0
-Columbus,334,Coloring Agent25,S1,F11,Bag,4060.0
-Columbus,335,Coloring Agent38,S3,F9,Bag,4059.880000000001
-Columbus,336,Coloring Agent28,S4,F11,Bag,4058.4199999999983
-Columbus,337,Coloring Agent8,S1,F7,Bag,4054.0
-Columbus,338,Coloring Agent6,S1,F8,Bag,4049.0
-Columbus,339,Coloring Agent21,S3,F11,Bag,4041.0
-Columbus,340,Coloring Agent37,S4,F4,Bag,4018.0
-Columbus,341,Coloring Agent6,S4,F8,Bag,4006.0
-Columbus,342,Coloring Agent33,S1,F5,Bag,4002.88807334163
-Columbus,343,Coloring Agent38,S3,F5,Bag,3996.0
-Columbus,344,Coloring Agent36,S1,F9,Bag,3991.0
-Columbus,345,Coloring Agent37,S1,F2,Bag,3936.0
-Columbus,346,Coloring Agent32,S3,F2,Bag,3884.0
-Columbus,347,Coloring Agent16,S2,F12,Bag,3879.0000000000146
-Columbus,348,Coloring Agent25,S4,F7,Bag,3848.0
-Columbus,349,Coloring Agent33,S1,F6,Bag,3834.0
-Columbus,350,Coloring Agent18,S3,F1,Bag,3833.3461538461415
-Columbus,351,Coloring Agent37,S3,F4,Bag,3830.4000000000015
-Columbus,352,Coloring Agent12,S2,F5,Bag,3810.0
-Columbus,353,Coloring Agent6,S5,F3,Bag,3808.0
-Columbus,354,Coloring Agent14,S5,F9,Bag,3797.889999999985
-Columbus,355,Coloring Agent13,S5,F9,Bag,3781.0
-Columbus,356,Coloring Agent15,S4,F6,Bag,3764.0
-Columbus,357,Coloring Agent23,S1,F9,Bag,3754.2400000000052
-Columbus,358,Coloring Agent10,S3,F2,Bag,3709.0
-Columbus,359,Coloring Agent22,S4,F4,Bag,3691.0
-Columbus,360,Coloring Agent16,S5,F9,Bag,3684.0
-Columbus,361,Coloring Agent8,S5,F5,Bag,3682.5
-Columbus,362,Coloring Agent15,S2,F7,Bag,3672.0
-Columbus,363,Coloring Agent21,S5,F7,Bag,3671.5
-Columbus,364,Coloring Agent25,S5,F10,Bag,3620.0
-Columbus,365,Coloring Agent25,S2,F8,Bag,3597.0
-Columbus,366,Coloring Agent28,S3,F7,Bag,3581.0
-Columbus,367,Coloring Agent16,S1,F9,Bag,3578.0
-Columbus,368,Coloring Agent25,S2,F6,Bag,3570.2199999999866
-Columbus,369,Coloring Agent38,S3,F7,Bag,3562.0
-Columbus,370,Coloring Agent9,S5,F7,Bag,3541.0
-Columbus,371,Coloring Agent18,S3,F2,Bag,3525.0
-Columbus,372,Coloring Agent4,S3,F8,Bag,3525.0
-Columbus,373,Coloring Agent16,S2,F11,Bag,3520.0
-Columbus,374,Coloring Agent6,S4,F7,Bag,3515.0
-Columbus,375,Coloring Agent3,S5,F12,Bag,3506.5
-Columbus,376,Coloring Agent19,S3,F12,Bag,3484.0
-Columbus,377,Coloring Agent35,S5,F6,Bag,3483.553333333344
-Columbus,378,Coloring Agent18,S1,F7,Bag,3482.0
-Columbus,379,Coloring Agent13,S3,F7,Bag,3479.0
-Columbus,380,Coloring Agent13,S5,F6,Bag,3472.0
-Columbus,381,Coloring Agent12,S4,F6,Bag,3472.0
-Columbus,382,Coloring Agent38,S1,F6,Bag,3455.0
-Columbus,383,Coloring Agent8,S5,F9,Bag,3455.0
-Columbus,384,Coloring Agent12,S4,F4,Bag,3451.0
-Columbus,385,Coloring Agent25,S5,F9,Bag,3380.0
-Columbus,386,Coloring Agent28,S4,F8,Bag,3364.0
-Columbus,387,Coloring Agent3,S5,F11,Bag,3363.0
-Columbus,388,Coloring Agent28,S5,F11,Bag,3299.0
-Columbus,389,Coloring Agent9,S2,F7,Bag,3276.1093749999927
-Columbus,390,Coloring Agent25,S5,F6,Bag,3276.0
-Columbus,391,Coloring Agent14,S2,F7,Bag,3268.012820512806
-Columbus,392,Coloring Agent6,S1,F7,Bag,3242.0
-Columbus,393,Coloring Agent16,S4,F10,Bag,3238.0
-Columbus,394,Coloring Agent6,S4,F5,Bag,3237.0000000000036
-Columbus,395,Coloring Agent16,S4,F8,Bag,3234.2692307692196
-Columbus,396,Coloring Agent12,S2,F7,Bag,3234.0
-Columbus,397,Coloring Agent22,S2,F6,Bag,3216.0
-Columbus,398,Coloring Agent8,S4,F8,Bag,3204.658869395709
-Columbus,399,Coloring Agent6,S5,F4,Bag,3182.0
-Columbus,400,Coloring Agent25,S1,F6,Bag,3154.0199999999895
-Columbus,401,Coloring Agent9,S5,F6,Bag,3145.0
-Columbus,402,Coloring Agent19,S5,F10,Bag,3109.0
-Columbus,403,Coloring Agent36,S1,F10,Bag,3105.0
-Columbus,404,Coloring Agent18,S3,F7,Bag,3076.0
-Columbus,405,Coloring Agent10,S3,F3,Bag,3057.0
-Columbus,406,Coloring Agent16,S5,F6,Bag,3056.0
-Columbus,407,Coloring Agent12,S3,F5,Bag,3043.4848484848408
-Columbus,408,Coloring Agent16,S3,F12,Bag,3036.25
-Columbus,409,Coloring Agent18,S3,F4,Bag,3021.0
-Columbus,410,Coloring Agent9,S4,F8,Bag,3010.0
-Columbus,411,Coloring Agent13,S5,F8,Bag,3003.0
-Columbus,412,Coloring Agent12,S4,F7,Bag,2974.4500000000007
-Columbus,413,Coloring Agent12,S1,F9,Bag,2962.0
-Columbus,414,Coloring Agent3,S5,F8,Bag,2954.0
-Columbus,415,Coloring Agent19,S3,F11,Bag,2942.0
-Columbus,416,Coloring Agent37,S2,F7,Bag,2922.0
-Columbus,417,Coloring Agent32,S1,F3,Bag,2921.0600000000013
-Columbus,418,Coloring Agent9,S2,F9,Bag,2915.7500000000073
-Columbus,419,Coloring Agent37,S1,F3,Bag,2887.0
-Columbus,420,Coloring Agent19,S1,F8,Bag,2880.0
-Columbus,421,Coloring Agent19,S4,F12,Bag,2856.0
-Columbus,422,Coloring Agent20,S4,F6,Bag,2850.0
-Columbus,423,Coloring Agent37,S5,F5,Bag,2816.6666666666715
-Columbus,424,Coloring Agent3,S3,F6,Bag,2816.5
-Columbus,425,Coloring Agent39,S4,F5,Bag,2809.2000000000044
-Columbus,426,Coloring Agent22,S5,F6,Bag,2793.0
-Columbus,427,Coloring Agent16,S3,F9,Bag,2793.0
-Columbus,428,Coloring Agent12,S3,F7,Bag,2773.0
-Columbus,429,Coloring Agent18,S5,F9,Bag,2760.0800000000017
-Columbus,430,Coloring Agent32,S2,F6,Bag,2753.0
-Columbus,431,Coloring Agent33,S3,F9,Bag,2748.0
-Columbus,432,Coloring Agent18,S4,F9,Bag,2744.0
-Columbus,433,Coloring Agent10,S1,F7,Bag,2719.0
-Columbus,434,Coloring Agent24,S3,F10,Bag,2717.6199999999953
-Columbus,435,Coloring Agent28,S2,F7,Bag,2706.0
-Columbus,436,Coloring Agent28,S2,F8,Bag,2704.0
-Columbus,437,Coloring Agent24,S3,F6,Bag,2690.0
-Columbus,438,Coloring Agent10,S5,F6,Bag,2668.0
-Columbus,439,Coloring Agent35,S3,F5,Bag,2648.0000000000073
-Columbus,440,Coloring Agent14,S1,F8,Bag,2632.600000000006
-Columbus,441,Coloring Agent6,S3,F8,Bag,2611.0
-Columbus,442,Coloring Agent32,S5,F8,Bag,2595.9000000000087
-Columbus,443,Coloring Agent16,S3,F7,Bag,2594.0
-Columbus,444,Coloring Agent15,S4,F9,Bag,2593.5000000000073
-Columbus,445,Coloring Agent7,S1,F10,Bag,2576.0
-Columbus,446,Coloring Agent18,S1,F4,Bag,2574.0
-Columbus,447,Coloring Agent7,S4,F10,Bag,2570.0
-Columbus,448,Coloring Agent38,S3,F6,Bag,2569.0
-Columbus,449,Coloring Agent21,S2,F12,Bag,2552.0
-Columbus,450,Coloring Agent19,S3,F8,Bag,2517.0
-Columbus,451,Coloring Agent38,S1,F5,Bag,2485.0
-Columbus,452,Coloring Agent23,S4,F7,Bag,2482.6372727272683
-Columbus,453,Coloring Agent18,S3,F8,Bag,2467.0999999999985
-Columbus,454,Coloring Agent28,S4,F5,Bag,2464.0800000000017
-Columbus,455,Coloring Agent18,S3,F6,Bag,2458.0
-Columbus,456,Coloring Agent28,S2,F12,Bag,2455.5099999999948
-Columbus,457,Coloring Agent36,S4,F10,Bag,2415.719999999994
-Columbus,458,Coloring Agent16,S5,F5,Bag,2409.1538461538366
-Columbus,459,Coloring Agent28,S4,F7,Bag,2402.0
-Columbus,460,Coloring Agent3,S2,F8,Bag,2392.0
-Columbus,461,Coloring Agent20,S2,F7,Bag,2390.270000000004
-Columbus,462,Coloring Agent6,S1,F9,Bag,2390.0
-Columbus,463,Coloring Agent3,S5,F4,Bag,2389.5
-Columbus,464,Coloring Agent6,S3,F12,Bag,2386.0
-Columbus,465,Coloring Agent25,S4,F6,Bag,2382.0
-Columbus,466,Coloring Agent25,S1,F8,Bag,2359.0
-Columbus,467,Coloring Agent10,S3,F5,Bag,2332.0
-Columbus,468,Coloring Agent28,S5,F8,Bag,2308.0
-Columbus,469,Coloring Agent39,S3,F9,Bag,2301.0
-Columbus,470,Coloring Agent21,S1,F11,Bag,2292.0
-Columbus,471,Coloring Agent8,S4,F5,Bag,2276.0
-Columbus,472,Coloring Agent3,S3,F12,Bag,2269.729166666686
-Columbus,473,Coloring Agent16,S5,F7,Bag,2247.0
-Columbus,474,Coloring Agent19,S2,F8,Bag,2244.0
-Columbus,475,Coloring Agent20,S1,F7,Bag,2233.0774879226956
-Columbus,476,Coloring Agent36,S1,F7,Bag,2226.5
-Columbus,477,Coloring Agent37,S1,F7,Bag,2170.0999999999985
-Columbus,478,Coloring Agent38,S5,F9,Bag,2155.5600000000013
-Columbus,479,Coloring Agent10,S4,F7,Bag,2139.5178571428587
-Columbus,480,Coloring Agent22,S3,F5,Bag,2138.0
-Columbus,481,Coloring Agent28,S5,F5,Bag,2126.600000000006
-Columbus,482,Coloring Agent33,S3,F5,Bag,2125.820000000007
-Columbus,483,Coloring Agent9,S4,F7,Bag,2119.6626602564065
-Columbus,484,Coloring Agent6,S3,F4,Bag,2082.0
-Columbus,485,Coloring Agent4,S4,F8,Bag,2074.5
-Columbus,486,Coloring Agent6,S3,F5,Bag,2052.0
-Columbus,487,Coloring Agent6,S3,F3,Bag,2049.0
-Columbus,488,Coloring Agent32,S1,F7,Bag,2031.0
-Columbus,489,Coloring Agent38,S5,F7,Bag,2025.0
-Columbus,490,Coloring Agent21,S2,F11,Bag,2018.0
-Columbus,491,Coloring Agent21,S3,F12,Bag,2009.0
-Columbus,492,Coloring Agent18,S4,F6,Bag,2001.0
-Columbus,493,Coloring Agent22,S4,F3,Bag,1994.243993993994
-Columbus,494,Coloring Agent37,S4,F1,Bag,1980.145833333343
-Columbus,495,Coloring Agent16,S1,F10,Bag,1952.0
-Columbus,496,Coloring Agent8,S5,F6,Bag,1925.0
-Columbus,497,Coloring Agent6,S1,F2,Bag,1904.965517241375
-Columbus,498,Coloring Agent39,S5,F7,Bag,1863.0
-Columbus,499,Coloring Agent14,S3,F5,Bag,1842.0
-Columbus,500,Coloring Agent32,S4,F6,Bag,1798.4714640198508
-Columbus,501,Coloring Agent32,S2,F10,Bag,1787.5372208436747
-Columbus,502,Coloring Agent18,S4,F5,Bag,1775.890000000014
-Columbus,503,Coloring Agent3,S3,F8,Bag,1775.0
-Columbus,504,Coloring Agent21,S5,F11,Bag,1768.0
-Columbus,505,Coloring Agent25,S4,F9,Bag,1722.0
-Columbus,506,Coloring Agent32,S1,F8,Bag,1670.4399999999987
-Columbus,507,Coloring Agent16,S3,F10,Bag,1666.0
-Columbus,508,Coloring Agent10,S1,F8,Bag,1657.0
-Columbus,509,Coloring Agent3,S5,F7,Bag,1606.0
-Columbus,510,Coloring Agent10,S5,F10,Bag,1574.9900000000052
-Columbus,511,Coloring Agent3,S4,F6,Bag,1567.0
-Columbus,512,Coloring Agent14,S3,F6,Bag,1537.3166666666802
-Columbus,513,Coloring Agent37,S3,F6,Bag,1502.0
-Columbus,514,Coloring Agent21,S4,F9,Bag,1497.538461538461
-Columbus,515,Coloring Agent14,S5,F6,Bag,1482.0
-Columbus,516,Coloring Agent18,S5,F4,Bag,1471.692307692305
-Columbus,517,Coloring Agent36,S2,F7,Bag,1452.0
-Columbus,518,Coloring Agent18,S3,F5,Bag,1407.0
-Columbus,519,Coloring Agent19,S4,F9,Bag,1402.0
-Columbus,520,Coloring Agent25,S3,F10,Bag,1401.900000000005
-Columbus,521,Coloring Agent25,S2,F10,Bag,1398.0
-Columbus,522,Coloring Agent18,S1,F5,Bag,1373.0
-Columbus,523,Coloring Agent38,S1,F9,Bag,1361.1000000000022
-Columbus,524,Coloring Agent6,S5,F9,Bag,1337.0
-Columbus,525,Coloring Agent35,S4,F6,Bag,1322.0
-Columbus,526,Coloring Agent23,S4,F8,Bag,1314.0
-Columbus,527,Coloring Agent24,S5,F5,Bag,1312.0
-Columbus,528,Coloring Agent9,S2,F8,Bag,1312.0
-Columbus,529,Coloring Agent16,S3,F11,Bag,1298.0
-Columbus,530,Coloring Agent37,S2,F8,Bag,1263.0
-Columbus,531,Coloring Agent23,S1,F6,Bag,1261.0
-Columbus,532,Coloring Agent20,S4,F8,Bag,1253.2300000000105
-Columbus,533,Coloring Agent4,S1,F12,Bag,1242.2426900584906
-Columbus,534,Coloring Agent20,S5,F10,Bag,1218.900000000016
-Columbus,535,Coloring Agent7,S1,F6,Bag,1212.0
-Columbus,536,Coloring Agent19,S5,F7,Bag,1191.0
-Columbus,537,Coloring Agent32,S5,F4,Bag,1189.0999999999913
-Columbus,538,Coloring Agent6,S3,F7,Bag,1189.0
-Columbus,539,Coloring Agent20,S5,F7,Bag,1165.0
-Columbus,540,Coloring Agent16,S2,F6,Bag,1158.5
-Columbus,541,Coloring Agent23,S5,F6,Bag,1157.0
-Columbus,542,Coloring Agent25,S2,F7,Bag,1154.0
-Columbus,543,Coloring Agent25,S1,F7,Bag,1105.0
-Columbus,544,Coloring Agent19,S2,F9,Bag,1087.0
-Columbus,545,Coloring Agent3,S5,F6,Bag,1059.0
-Columbus,546,Coloring Agent10,S3,F6,Bag,1056.75
-Columbus,547,Coloring Agent13,S2,F7,Bag,1056.0
-Columbus,548,Coloring Agent36,S3,F8,Bag,1032.800000000003
-Columbus,549,Coloring Agent25,S2,F9,Bag,1024.0
-Columbus,550,Coloring Agent33,S5,F4,Bag,999.6351351351477
-Columbus,551,Coloring Agent20,S5,F8,Bag,988.0
-Columbus,552,Coloring Agent18,S1,F1,Bag,903.0
-Columbus,553,Coloring Agent21,S2,F9,Bag,900.5
-Columbus,554,Coloring Agent13,S4,F3,Bag,852.0312500000036
-Columbus,555,Coloring Agent6,S5,F2,Bag,835.9482758620725
-Columbus,556,Coloring Agent37,S2,F5,Bag,786.1666666666715
-Columbus,557,Coloring Agent8,S5,F10,Bag,688.4883040935674
-Columbus,558,Coloring Agent15,S3,F3,Bag,611.7664758354439
-Columbus,559,Coloring Agent23,S2,F3,Bag,564.0199999999968
-Columbus,560,Coloring Agent13,S3,F5,Bag,553.0
-Columbus,561,Coloring Agent24,S4,F5,Bag,545.7565217391275
-Columbus,562,Coloring Agent38,S4,F11,Bag,432.21428571428623
-Columbus,563,Coloring Agent22,S3,F9,Bag,420.0200000000041
-Columbus,564,Coloring Agent13,S5,F10,Bag,418.8099999999977
-Columbus,565,Coloring Agent36,S1,F11,Bag,399.5599999999977
-Columbus,566,Coloring Agent23,S1,F4,Bag,393.0
-Columbus,567,Coloring Agent25,S3,F7,Bag,353.11999999999534
-Columbus,568,Coloring Agent4,S3,F6,Bag,338.5
-Columbus,569,Coloring Agent38,S4,F9,Bag,324.222222222219
-Columbus,570,Coloring Agent8,S3,F9,Bag,254.70000000000073
-Columbus,571,Coloring Agent8,S1,F6,Bag,225.5
-Columbus,572,Coloring Agent15,S5,F9,Bag,149.1999999999898
-Columbus,573,Coloring Agent9,S5,F9,Bag,84.8999999999869
-Columbus,574,Coloring Agent12,S2,F9,Bag,14.19999999999709
-Columbus,575,Coloring Agent3,S2,F7,Box,11570.0
-Columbus,576,Coloring Agent22,S5,F6,Box,11200.0
-Columbus,577,Coloring Agent6,S3,F4,Box,10557.5
-Columbus,578,Coloring Agent36,S3,F7,Box,9424.699999999997
-Columbus,579,Coloring Agent25,S2,F10,Box,9400.0
-Columbus,580,Coloring Agent18,S2,F9,Box,9002.5
-Columbus,581,Coloring Agent22,S3,F3,Box,8795.0
-Columbus,582,Coloring Agent23,S1,F4,Box,8310.0
-Columbus,583,Coloring Agent13,S2,F8,Box,8152.5
-Columbus,584,Coloring Agent37,S4,F7,Box,8080.0
-Columbus,585,Coloring Agent33,S4,F4,Box,7940.0
-Columbus,586,Coloring Agent16,S3,F11,Box,7940.0
-Columbus,587,Coloring Agent28,S4,F9,Box,7892.5
-Columbus,588,Coloring Agent9,S5,F5,Box,7675.0
-Columbus,589,Coloring Agent9,S3,F6,Box,7675.0
-Columbus,590,Coloring Agent18,S4,F9,Box,7607.5
-Columbus,591,Coloring Agent28,S2,F6,Box,7560.0
-Columbus,592,Coloring Agent12,S3,F5,Box,7550.0
-Columbus,593,Coloring Agent9,S2,F8,Box,7515.0
-Columbus,594,Coloring Agent32,S4,F4,Box,7437.5
-Columbus,595,Coloring Agent3,S2,F10,Box,7374.5
-Columbus,596,Coloring Agent28,S1,F8,Box,7012.5
-Columbus,597,Coloring Agent21,S5,F11,Box,6750.0
-Columbus,598,Coloring Agent39,S3,F6,Box,6733.5
-Columbus,599,Coloring Agent4,S1,F8,Box,6705.0
-Columbus,600,Coloring Agent36,S4,F8,Box,6657.5
-Columbus,601,Coloring Agent28,S5,F10,Box,6552.5
-Columbus,602,Coloring Agent6,S3,F8,Box,6550.0
-Columbus,603,Coloring Agent19,S4,F7,Box,6455.0
-Columbus,604,Coloring Agent37,S3,F4,Box,6290.0
-Columbus,605,Coloring Agent13,S2,F6,Box,6240.0
-Columbus,606,Coloring Agent37,S4,F5,Box,6197.5
-Columbus,607,Coloring Agent14,S5,F6,Box,6145.0
-Columbus,608,Coloring Agent19,S1,F11,Box,6120.0
-Columbus,609,Coloring Agent28,S3,F8,Box,6065.0
-Columbus,610,Coloring Agent13,S2,F9,Box,6036.070000000007
-Columbus,611,Coloring Agent15,S4,F7,Box,5990.0
-Columbus,612,Coloring Agent35,S5,F6,Box,5950.0
-Columbus,613,Coloring Agent20,S4,F2,Box,5907.65339920947
-Columbus,614,Coloring Agent18,S4,F8,Box,5845.0
-Columbus,615,Coloring Agent24,S3,F8,Box,5842.5
-Columbus,616,Coloring Agent13,S2,F5,Box,5823.0
-Columbus,617,Coloring Agent33,S2,F1,Box,5792.5
-Columbus,618,Coloring Agent37,S1,F4,Box,5650.0
-Columbus,619,Coloring Agent22,S3,F5,Box,5575.0
-Columbus,620,Coloring Agent8,S4,F6,Box,5510.0
-Columbus,621,Coloring Agent13,S4,F4,Box,5502.5
-Columbus,622,Coloring Agent19,S5,F12,Box,5502.499999999985
-Columbus,623,Coloring Agent18,S3,F4,Box,5442.5
-Columbus,624,Coloring Agent19,S1,F7,Box,5436.904121863787
-Columbus,625,Coloring Agent12,S2,F4,Box,5307.5
-Columbus,626,Coloring Agent16,S3,F7,Box,5277.5
-Columbus,627,Coloring Agent36,S1,F10,Box,5227.5
-Columbus,628,Coloring Agent4,S1,F9,Box,5187.5
-Columbus,629,Coloring Agent6,S4,F8,Box,5134.499999999996
-Columbus,630,Coloring Agent20,S2,F6,Box,5094.077826086941
-Columbus,631,Coloring Agent28,S5,F11,Box,5071.720000000001
-Columbus,632,Coloring Agent28,S3,F3,Box,4967.5
-Columbus,633,Coloring Agent19,S2,F7,Box,4959.903037162789
-Columbus,634,Coloring Agent13,S5,F5,Box,4935.0
-Columbus,635,Coloring Agent28,S1,F9,Box,4920.0
-Columbus,636,Coloring Agent6,S2,F6,Box,4911.3620689655145
-Columbus,637,Coloring Agent24,S5,F6,Box,4902.5
-Columbus,638,Coloring Agent12,S4,F5,Box,4882.5
-Columbus,639,Coloring Agent9,S1,F9,Box,4870.0
-Columbus,640,Coloring Agent7,S5,F8,Box,4839.5
-Columbus,641,Coloring Agent7,S1,F10,Box,4725.0
-Columbus,642,Coloring Agent37,S5,F5,Box,4695.0
-Columbus,643,Coloring Agent8,S5,F5,Box,4695.0
-Columbus,644,Coloring Agent33,S3,F5,Box,4657.5
-Columbus,645,Coloring Agent32,S3,F1,Box,4647.5
-Columbus,646,Coloring Agent39,S3,F9,Box,4610.0
-Columbus,647,Coloring Agent13,S3,F6,Box,4610.0
-Columbus,648,Coloring Agent28,S3,F7,Box,4550.0
-Columbus,649,Coloring Agent32,S4,F3,Box,4467.5
-Columbus,650,Coloring Agent3,S3,F8,Box,4445.0
-Columbus,651,Coloring Agent25,S3,F7,Box,4432.5
-Columbus,652,Coloring Agent19,S1,F8,Box,4425.0
-Columbus,653,Coloring Agent15,S5,F6,Box,4417.5
-Columbus,654,Coloring Agent33,S5,F1,Box,4395.0
-Columbus,655,Coloring Agent7,S4,F8,Box,4380.0
-Columbus,656,Coloring Agent21,S5,F12,Box,4359.999999999993
-Columbus,657,Coloring Agent38,S1,F6,Box,4310.0
-Columbus,658,Coloring Agent22,S4,F3,Box,4305.0
-Columbus,659,Coloring Agent12,S5,F9,Box,4296.300000000003
-Columbus,660,Coloring Agent32,S3,F4,Box,4287.5
-Columbus,661,Coloring Agent24,S2,F4,Box,4280.0
-Columbus,662,Coloring Agent19,S3,F11,Box,4245.0
-Columbus,663,Coloring Agent28,S1,F7,Box,4237.5
-Columbus,664,Coloring Agent21,S5,F9,Box,4235.0
-Columbus,665,Coloring Agent23,S4,F8,Box,4233.5899999999965
-Columbus,666,Coloring Agent6,S4,F6,Box,4227.5
-Columbus,667,Coloring Agent19,S1,F10,Box,4175.0
-Columbus,668,Coloring Agent25,S5,F7,Box,4155.0
-Columbus,669,Coloring Agent38,S5,F5,Box,4107.5
-Columbus,670,Coloring Agent28,S4,F8,Box,4097.5
-Columbus,671,Coloring Agent35,S3,F6,Box,4075.0
-Columbus,672,Coloring Agent10,S3,F2,Box,4072.5
-Columbus,673,Coloring Agent38,S3,F4,Box,4057.5
-Columbus,674,Coloring Agent33,S1,F6,Box,4025.0
-Columbus,675,Coloring Agent28,S5,F7,Box,4022.5
-Columbus,676,Coloring Agent15,S4,F5,Box,4002.5
-Columbus,677,Coloring Agent12,S5,F8,Box,3997.5
-Columbus,678,Coloring Agent20,S4,F7,Box,3992.5
-Columbus,679,Coloring Agent19,S2,F11,Box,3985.0
-Columbus,680,Coloring Agent37,S3,F8,Box,3975.0
-Columbus,681,Coloring Agent3,S4,F7,Box,3972.5
-Columbus,682,Coloring Agent21,S1,F12,Box,3965.0
-Columbus,683,Coloring Agent16,S1,F8,Box,3945.0
-Columbus,684,Coloring Agent13,S3,F8,Box,3935.360000000004
-Columbus,685,Coloring Agent37,S1,F6,Box,3917.5
-Columbus,686,Coloring Agent20,S4,F4,Box,3917.5
-Columbus,687,Coloring Agent6,S1,F10,Box,3905.0
-Columbus,688,Coloring Agent37,S2,F7,Box,3867.5
-Columbus,689,Coloring Agent20,S1,F7,Box,3865.2800000000007
-Columbus,690,Coloring Agent19,S2,F10,Box,3855.0
-Columbus,691,Coloring Agent4,S3,F9,Box,3832.5
-Columbus,692,Coloring Agent19,S2,F12,Box,3745.0
-Columbus,693,Coloring Agent3,S3,F7,Box,3715.0
-Columbus,694,Coloring Agent6,S5,F8,Box,3697.5
-Columbus,695,Coloring Agent36,S4,F7,Box,3695.0
-Columbus,696,Coloring Agent12,S5,F7,Box,3677.5
-Columbus,697,Coloring Agent9,S1,F7,Box,3647.5
-Columbus,698,Coloring Agent4,S2,F7,Box,3632.5
-Columbus,699,Coloring Agent35,S4,F7,Box,3622.5
-Columbus,700,Coloring Agent21,S2,F10,Box,3617.5
-Columbus,701,Coloring Agent18,S1,F3,Box,3557.5
-Columbus,702,Coloring Agent6,S3,F12,Box,3545.0
-Columbus,703,Coloring Agent6,S1,F9,Box,3517.5
-Columbus,704,Coloring Agent33,S3,F6,Box,3475.0
-Columbus,705,Coloring Agent12,S2,F6,Box,3457.5
-Columbus,706,Coloring Agent19,S4,F10,Box,3430.0
-Columbus,707,Coloring Agent8,S5,F9,Box,3430.0
-Columbus,708,Coloring Agent6,S2,F11,Box,3430.0
-Columbus,709,Coloring Agent28,S5,F8,Box,3410.0
-Columbus,710,Coloring Agent25,S4,F8,Box,3410.0
-Columbus,711,Coloring Agent6,S1,F6,Box,3390.0
-Columbus,712,Coloring Agent25,S1,F9,Box,3352.5
-Columbus,713,Coloring Agent4,S4,F8,Box,3340.0
-Columbus,714,Coloring Agent4,S1,F10,Box,3330.0
-Columbus,715,Coloring Agent9,S4,F9,Box,3324.166666666675
-Columbus,716,Coloring Agent23,S2,F1,Box,3307.5
-Columbus,717,Coloring Agent22,S2,F5,Box,3285.0
-Columbus,718,Coloring Agent6,S3,F9,Box,3277.5
-Columbus,719,Coloring Agent20,S3,F8,Box,3242.5
-Columbus,720,Coloring Agent16,S5,F6,Box,3232.5
-Columbus,721,Coloring Agent37,S3,F9,Box,3223.5999999999985
-Columbus,722,Coloring Agent37,S2,F6,Box,3215.0
-Columbus,723,Coloring Agent16,S1,F7,Box,3204.2115384615317
-Columbus,724,Coloring Agent12,S5,F6,Box,3175.699999999997
-Columbus,725,Coloring Agent19,S5,F7,Box,3162.5
-Columbus,726,Coloring Agent3,S4,F9,Box,3162.5
-Columbus,727,Coloring Agent7,S1,F7,Box,3150.0
-Columbus,728,Coloring Agent7,S1,F9,Box,3142.5
-Columbus,729,Coloring Agent16,S2,F8,Box,3137.5
-Columbus,730,Coloring Agent35,S4,F4,Box,3089.0
-Columbus,731,Coloring Agent16,S1,F10,Box,3070.0
-Columbus,732,Coloring Agent38,S5,F6,Box,3055.0
-Columbus,733,Coloring Agent14,S3,F4,Box,3025.0
-Columbus,734,Coloring Agent8,S1,F8,Box,2981.51851851852
-Columbus,735,Coloring Agent25,S5,F8,Box,2980.0
-Columbus,736,Coloring Agent23,S5,F6,Box,2972.5
-Columbus,737,Coloring Agent8,S5,F6,Box,2957.5
-Columbus,738,Coloring Agent32,S3,F3,Box,2922.5
-Columbus,739,Coloring Agent37,S5,F6,Box,2912.5
-Columbus,740,Coloring Agent25,S1,F7,Box,2897.5
-Columbus,741,Coloring Agent25,S2,F7,Box,2895.0
-Columbus,742,Coloring Agent10,S1,F8,Box,2868.3499999999985
-Columbus,743,Coloring Agent28,S2,F7,Box,2865.0
-Columbus,744,Coloring Agent38,S3,F7,Box,2857.5
-Columbus,745,Coloring Agent32,S5,F4,Box,2835.0
-Columbus,746,Coloring Agent13,S2,F7,Box,2835.0
-Columbus,747,Coloring Agent18,S1,F2,Box,2822.5
-Columbus,748,Coloring Agent12,S4,F6,Box,2820.0
-Columbus,749,Coloring Agent37,S1,F2,Box,2817.5
-Columbus,750,Coloring Agent6,S5,F6,Box,2805.0
-Columbus,751,Coloring Agent19,S4,F9,Box,2800.0
-Columbus,752,Coloring Agent25,S5,F9,Box,2785.0
-Columbus,753,Coloring Agent36,S2,F10,Box,2780.0
-Columbus,754,Coloring Agent12,S1,F9,Box,2732.5
-Columbus,755,Coloring Agent32,S1,F5,Box,2730.0
-Columbus,756,Coloring Agent3,S4,F5,Box,2687.5
-Columbus,757,Coloring Agent18,S1,F7,Box,2682.5
-Columbus,758,Coloring Agent6,S3,F5,Box,2682.5
-Columbus,759,Coloring Agent37,S4,F2,Box,2677.5
-Columbus,760,Coloring Agent6,S3,F2,Box,2665.0
-Columbus,761,Coloring Agent32,S3,F2,Box,2657.5
-Columbus,762,Coloring Agent16,S4,F9,Box,2652.5
-Columbus,763,Coloring Agent32,S5,F5,Box,2637.5
-Columbus,764,Coloring Agent6,S1,F4,Box,2627.5
-Columbus,765,Coloring Agent38,S4,F10,Box,2617.5
-Columbus,766,Coloring Agent7,S5,F5,Box,2616.5
-Columbus,767,Coloring Agent39,S3,F8,Box,2600.0
-Columbus,768,Coloring Agent20,S3,F7,Box,2559.0
-Columbus,769,Coloring Agent19,S5,F11,Box,2547.5
-Columbus,770,Coloring Agent24,S5,F5,Box,2527.5
-Columbus,771,Coloring Agent6,S3,F10,Box,2527.5
-Columbus,772,Coloring Agent39,S4,F3,Box,2512.5
-Columbus,773,Coloring Agent32,S5,F7,Box,2507.5
-Columbus,774,Coloring Agent37,S1,F3,Box,2490.0
-Columbus,775,Coloring Agent16,S5,F10,Box,2477.5
-Columbus,776,Coloring Agent24,S3,F5,Box,2462.5
-Columbus,777,Coloring Agent35,S4,F8,Box,2429.520000000004
-Columbus,778,Coloring Agent12,S3,F7,Box,2405.0
-Columbus,779,Coloring Agent6,S5,F9,Box,2395.0
-Columbus,780,Coloring Agent20,S5,F8,Box,2390.0
-Columbus,781,Coloring Agent18,S4,F5,Box,2375.0
-Columbus,782,Coloring Agent32,S1,F6,Box,2372.5
-Columbus,783,Coloring Agent14,S2,F7,Box,2365.0
-Columbus,784,Coloring Agent37,S1,F1,Box,2352.5
-Columbus,785,Coloring Agent18,S3,F7,Box,2340.0
-Columbus,786,Coloring Agent9,S3,F5,Box,2303.5
-Columbus,787,Coloring Agent10,S1,F7,Box,2302.5
-Columbus,788,Coloring Agent19,S3,F7,Box,2297.5
-Columbus,789,Coloring Agent37,S3,F6,Box,2295.0
-Columbus,790,Coloring Agent24,S2,F3,Box,2292.5
-Columbus,791,Coloring Agent7,S4,F9,Box,2292.5
-Columbus,792,Coloring Agent21,S3,F12,Box,2277.5
-Columbus,793,Coloring Agent21,S4,F10,Box,2262.5
-Columbus,794,Coloring Agent7,S1,F11,Box,2260.5
-Columbus,795,Coloring Agent21,S5,F7,Box,2260.0
-Columbus,796,Coloring Agent37,S4,F1,Box,2235.0
-Columbus,797,Coloring Agent37,S2,F9,Box,2232.5
-Columbus,798,Coloring Agent32,S1,F7,Box,2230.0
-Columbus,799,Coloring Agent22,S4,F4,Box,2215.0
-Columbus,800,Coloring Agent28,S3,F5,Box,2207.5
-Columbus,801,Coloring Agent18,S5,F5,Box,2207.5
-Columbus,802,Coloring Agent28,S3,F9,Box,2205.0
-Columbus,803,Coloring Agent6,S1,F2,Box,2192.5
-Columbus,804,Coloring Agent36,S2,F7,Box,2190.0
-Columbus,805,Coloring Agent36,S2,F5,Box,2157.5
-Columbus,806,Coloring Agent38,S1,F7,Box,2155.0
-Columbus,807,Coloring Agent33,S3,F7,Box,2155.0
-Columbus,808,Coloring Agent10,S3,F4,Box,2150.0
-Columbus,809,Coloring Agent32,S2,F8,Box,2132.5
-Columbus,810,Coloring Agent18,S1,F4,Box,2125.0
-Columbus,811,Coloring Agent21,S2,F12,Box,2080.0
-Columbus,812,Coloring Agent8,S3,F7,Box,2080.0
-Columbus,813,Coloring Agent39,S5,F7,Box,2077.5
-Columbus,814,Coloring Agent18,S2,F10,Box,2073.1200000000026
-Columbus,815,Coloring Agent23,S1,F5,Box,2072.5
-Columbus,816,Coloring Agent18,S3,F6,Box,2055.0
-Columbus,817,Coloring Agent13,S3,F7,Box,2052.5
-Columbus,818,Coloring Agent39,S4,F2,Box,2027.5
-Columbus,819,Coloring Agent39,S4,F1,Box,2024.9399999999987
-Columbus,820,Coloring Agent28,S1,F10,Box,2015.0
-Columbus,821,Coloring Agent15,S5,F8,Box,2002.5
-Columbus,822,Coloring Agent24,S3,F6,Box,1990.0
-Columbus,823,Coloring Agent6,S3,F3,Box,1982.5
-Columbus,824,Coloring Agent33,S4,F8,Box,1977.5
-Columbus,825,Coloring Agent8,S5,F7,Box,1970.0
-Columbus,826,Coloring Agent39,S4,F4,Box,1957.5
-Columbus,827,Coloring Agent24,S5,F7,Box,1957.5
-Columbus,828,Coloring Agent25,S5,F10,Box,1955.0
-Columbus,829,Coloring Agent6,S2,F12,Box,1950.0
-Columbus,830,Coloring Agent4,S4,F9,Box,1945.0
-Columbus,831,Coloring Agent20,S5,F6,Box,1925.0
-Columbus,832,Coloring Agent3,S5,F8,Box,1917.5
-Columbus,833,Coloring Agent10,S3,F1,Box,1915.0
-Columbus,834,Coloring Agent10,S5,F6,Box,1892.5
-Columbus,835,Coloring Agent37,S1,F5,Box,1890.0
-Columbus,836,Coloring Agent32,S2,F5,Box,1890.0
-Columbus,837,Coloring Agent18,S4,F6,Box,1872.5
-Columbus,838,Coloring Agent23,S2,F2,Box,1862.5
-Columbus,839,Coloring Agent4,S4,F12,Box,1856.4049707602462
-Columbus,840,Coloring Agent22,S2,F6,Box,1855.0
-Columbus,841,Coloring Agent3,S5,F4,Box,1842.5
-Columbus,842,Coloring Agent12,S4,F4,Box,1825.0
-Columbus,843,Coloring Agent14,S4,F4,Box,1810.0
-Columbus,844,Coloring Agent9,S1,F8,Box,1805.0
-Columbus,845,Coloring Agent10,S3,F5,Box,1777.5
-Columbus,846,Coloring Agent32,S2,F7,Box,1767.5
-Columbus,847,Coloring Agent6,S3,F11,Box,1760.0
-Columbus,848,Coloring Agent4,S3,F6,Box,1760.0
-Columbus,849,Coloring Agent28,S3,F4,Box,1745.0
-Columbus,850,Coloring Agent24,S3,F9,Box,1732.5
-Columbus,851,Coloring Agent37,S4,F4,Box,1725.0
-Columbus,852,Coloring Agent38,S3,F6,Box,1720.0
-Columbus,853,Coloring Agent13,S5,F9,Box,1720.0
-Columbus,854,Coloring Agent4,S2,F8,Box,1710.0
-Columbus,855,Coloring Agent35,S1,F1,Box,1705.0
-Columbus,856,Coloring Agent15,S2,F7,Box,1703.9999999999854
-Columbus,857,Coloring Agent28,S4,F5,Box,1687.5
-Columbus,858,Coloring Agent23,S1,F6,Box,1682.5
-Columbus,859,Coloring Agent21,S3,F11,Box,1682.5
-Columbus,860,Coloring Agent6,S3,F1,Box,1682.5
-Columbus,861,Coloring Agent28,S3,F10,Box,1680.0
-Columbus,862,Coloring Agent33,S3,F9,Box,1677.179999999993
-Columbus,863,Coloring Agent6,S5,F2,Box,1675.0
-Columbus,864,Coloring Agent33,S3,F8,Box,1672.5
-Columbus,865,Coloring Agent16,S3,F10,Box,1670.0
-Columbus,866,Coloring Agent18,S3,F1,Box,1665.0
-Columbus,867,Coloring Agent8,S3,F6,Box,1632.5
-Columbus,868,Coloring Agent9,S1,F6,Box,1622.5
-Columbus,869,Coloring Agent25,S4,F7,Box,1605.0
-Columbus,870,Coloring Agent10,S5,F5,Box,1602.5
-Columbus,871,Coloring Agent4,S3,F7,Box,1602.5
-Columbus,872,Coloring Agent22,S2,F7,Box,1592.5
-Columbus,873,Coloring Agent25,S3,F9,Box,1577.5
-Columbus,874,Coloring Agent25,S3,F8,Box,1572.5
-Columbus,875,Coloring Agent18,S3,F2,Box,1565.0
-Columbus,876,Coloring Agent6,S5,F5,Box,1560.0
-Columbus,877,Coloring Agent38,S3,F5,Box,1547.5
-Columbus,878,Coloring Agent12,S4,F3,Box,1547.5
-Columbus,879,Coloring Agent12,S2,F8,Box,1510.0
-Columbus,880,Coloring Agent10,S4,F6,Box,1507.5
-Columbus,881,Coloring Agent25,S2,F11,Box,1501.5000000000036
-Columbus,882,Coloring Agent21,S2,F11,Box,1500.0
-Columbus,883,Coloring Agent21,S3,F9,Box,1495.0
-Columbus,884,Coloring Agent28,S3,F6,Box,1490.0
-Columbus,885,Coloring Agent12,S2,F7,Box,1485.0
-Columbus,886,Coloring Agent3,S2,F8,Box,1472.5
-Columbus,887,Coloring Agent20,S5,F5,Box,1470.0
-Columbus,888,Coloring Agent36,S2,F9,Box,1457.5
-Columbus,889,Coloring Agent9,S5,F6,Box,1435.0
-Columbus,890,Coloring Agent20,S5,F9,Box,1432.5
-Columbus,891,Coloring Agent20,S4,F5,Box,1420.0
-Columbus,892,Coloring Agent16,S3,F5,Box,1420.0
-Columbus,893,Coloring Agent6,S5,F3,Box,1412.5
-Columbus,894,Coloring Agent39,S5,F6,Box,1407.5
-Columbus,895,Coloring Agent6,S3,F6,Box,1407.5
-Columbus,896,Coloring Agent32,S4,F5,Box,1405.0
-Columbus,897,Coloring Agent38,S4,F9,Box,1400.0
-Columbus,898,Coloring Agent14,S1,F6,Box,1400.0
-Columbus,899,Coloring Agent14,S4,F6,Box,1387.5
-Columbus,900,Coloring Agent16,S3,F4,Box,1382.5
-Columbus,901,Coloring Agent18,S5,F7,Box,1380.0
-Columbus,902,Coloring Agent22,S5,F7,Box,1376.9399999999987
-Columbus,903,Coloring Agent12,S3,F6,Box,1372.5
-Columbus,904,Coloring Agent35,S1,F2,Box,1307.5
-Columbus,905,Coloring Agent35,S4,F5,Box,1305.0
-Columbus,906,Coloring Agent19,S2,F9,Box,1302.5
-Columbus,907,Coloring Agent6,S1,F5,Box,1295.0
-Columbus,908,Coloring Agent19,S3,F8,Box,1272.5
-Columbus,909,Coloring Agent21,S1,F10,Box,1265.0
-Columbus,910,Coloring Agent36,S1,F8,Box,1255.0
-Columbus,911,Coloring Agent33,S5,F3,Box,1250.0
-Columbus,912,Coloring Agent20,S5,F4,Box,1242.5
-Columbus,913,Coloring Agent7,S5,F6,Box,1230.0
-Columbus,914,Coloring Agent36,S2,F6,Box,1225.0
-Columbus,915,Coloring Agent14,S5,F7,Box,1225.0
-Columbus,916,Coloring Agent19,S4,F12,Box,1215.0
-Columbus,917,Coloring Agent8,S4,F5,Box,1210.0
-Columbus,918,Coloring Agent38,S5,F7,Box,1197.5
-Columbus,919,Coloring Agent6,S5,F4,Box,1190.0
-Columbus,920,Coloring Agent28,S5,F9,Box,1187.5
-Columbus,921,Coloring Agent6,S1,F7,Box,1185.0
-Columbus,922,Coloring Agent6,S4,F7,Box,1180.0
-Columbus,923,Coloring Agent21,S1,F11,Box,1162.5
-Columbus,924,Coloring Agent28,S5,F6,Box,1157.5
-Columbus,925,Coloring Agent38,S5,F8,Box,1142.5
-Columbus,926,Coloring Agent21,S4,F12,Box,1135.0
-Columbus,927,Coloring Agent10,S5,F9,Box,1135.0
-Columbus,928,Coloring Agent9,S5,F7,Box,1100.0
-Columbus,929,Coloring Agent14,S3,F5,Box,1095.0
-Columbus,930,Coloring Agent18,S5,F8,Box,1075.0
-Columbus,931,Coloring Agent39,S5,F8,Box,1072.699999999997
-Columbus,932,Coloring Agent9,S5,F8,Box,1055.0
-Columbus,933,Coloring Agent35,S3,F5,Box,1000.0
-Columbus,934,Coloring Agent25,S2,F9,Box,980.0
-Columbus,935,Coloring Agent12,S1,F10,Box,973.0500000000029
-Columbus,936,Coloring Agent9,S4,F7,Box,970.0
-Columbus,937,Coloring Agent6,S2,F9,Box,970.0
-Columbus,938,Coloring Agent23,S1,F7,Box,957.5
-Columbus,939,Coloring Agent33,S1,F5,Box,952.5
-Columbus,940,Coloring Agent22,S3,F8,Box,940.0
-Columbus,941,Coloring Agent16,S2,F10,Box,935.0
-Columbus,942,Coloring Agent28,S3,F11,Box,908.25
-Columbus,943,Coloring Agent24,S4,F4,Box,902.5
-Columbus,944,Coloring Agent8,S3,F5,Box,900.0
-Columbus,945,Coloring Agent16,S5,F11,Box,870.9999999999927
-Columbus,946,Coloring Agent16,S2,F11,Box,840.0
-Columbus,947,Coloring Agent14,S4,F7,Box,839.869999999999
-Columbus,948,Coloring Agent25,S1,F10,Box,802.5
-Columbus,949,Coloring Agent37,S2,F10,Box,754.0999999999985
-Columbus,950,Coloring Agent21,S1,F8,Box,748.923076923078
-Columbus,951,Coloring Agent3,S2,F6,Box,725.0
-Columbus,952,Coloring Agent35,S5,F7,Box,723.2799999999952
-Columbus,953,Coloring Agent28,S2,F8,Box,665.0
-Columbus,954,Coloring Agent25,S4,F10,Box,652.6999999999971
-Columbus,955,Coloring Agent10,S5,F4,Box,486.0
-Columbus,956,Coloring Agent4,S1,F7,Box,403.5
-Columbus,957,Coloring Agent20,S3,F10,Box,327.81999999999243
-Columbus,958,Coloring Agent4,S2,F5,Box,326.0
-Columbus,959,Coloring Agent18,S4,F10,Box,321.10999999998603
-Columbus,960,Coloring Agent15,S4,F4,Box,317.5
-Columbus,961,Coloring Agent32,S4,F2,Box,275.6223776223778
-Columbus,962,Coloring Agent36,S2,F4,Box,274.0
-Columbus,963,Coloring Agent19,S3,F6,Box,210.43548387096962
-Columbus,964,Coloring Agent25,S1,F11,Box,170.20000000000073
-Columbus,965,Coloring Agent12,S3,F8,Box,122.50000000000364
-Columbus,966,Coloring Agent14,S1,F4,Box,94.0
-Columbus,967,Coloring Agent19,S5,F6,Box,76.5
-Columbus,968,Coloring Agent7,S4,F11,Box,69.11842105262986
-Columbus,969,Coloring Agent15,S3,F2,Box,40.947809878844055
+Color,Size,Flavor,Packaging Type,Quantity
+8,1,3,Bag,19904.0
+4,3,10,Bag,19816.0
+7,4,12,Bag,19728.0
+36,1,8,Bag,18767.0
+28,2,10,Bag,16534.0
+4,3,7,Bag,16374.0
+37,3,7,Bag,16035.0
+9,3,6,Bag,15529.0
+35,2,10,Bag,15434.0
+3,4,9,Bag,15297.0
+38,3,9,Bag,14731.0
+4,1,10,Bag,14590.0
+16,1,11,Bag,14511.0
+15,3,12,Bag,14438.0
+38,2,2,Bag,14427.0
+18,3,3,Bag,13857.0
+28,5,9,Bag,13743.0
+15,5,7,Bag,13713.0
+7,5,8,Bag,13622.0
+18,4,7,Bag,13553.0
+19,4,10,Bag,13539.0
+39,2,11,Bag,13222.0
+13,2,9,Bag,13009.0
+32,3,3,Bag,12926.0
+4,1,9,Bag,12795.0
+25,5,7,Bag,12790.0
+13,5,7,Bag,12723.0
+21,4,12,Bag,12669.0
+6,3,9,Bag,12572.0
+14,5,8,Bag,12443.0
+39,4,4,Bag,12388.0
+22,1,3,Bag,12327.0
+9,3,8,Bag,12258.849999999984
+3,2,9,Bag,12105.0
+4,1,12,Bag,12030.0
+7,1,7,Bag,12018.0
+38,4,10,Bag,11999.0
+10,4,7,Bag,11907.0
+28,1,8,Bag,11811.0
+21,3,9,Bag,11763.0
+28,1,7,Bag,11734.0
+23,1,7,Bag,11653.0
+38,4,11,Bag,11650.0
+18,4,8,Bag,11573.0
+7,3,5,Bag,11488.0
+36,2,10,Bag,11387.0
+22,4,8,Bag,11326.0
+39,3,8,Bag,11273.0
+39,1,7,Bag,11094.0
+38,1,7,Bag,11052.0
+8,2,1,Bag,10982.0
+21,2,10,Bag,10978.0
+12,1,8,Bag,10970.0
+8,5,8,Bag,10961.0
+38,4,12,Bag,10954.0
+33,1,7,Bag,10842.0
+39,1,8,Bag,10808.0
+6,2,10,Bag,10803.0
+13,3,8,Bag,10703.0
+6,4,6,Bag,10700.0
+6,5,6,Bag,10584.0
+7,3,10,Bag,10544.0
+7,1,6,Bag,10296.0
+24,4,10,Bag,10281.0
+12,5,9,Bag,10218.0
+18,5,9,Bag,10051.0
+22,4,10,Bag,10050.0
+36,2,9,Bag,9976.0
+20,4,7,Bag,9905.661304347828
+36,4,9,Bag,9892.0
+20,5,5,Bag,9892.0
+38,2,6,Bag,9889.0
+8,4,8,Bag,9886.0
+22,5,7,Bag,9871.0
+18,1,8,Bag,9814.0
+7,2,8,Bag,9770.0
+39,5,6,Bag,9733.57407407408
+19,3,10,Bag,9716.0
+38,3,11,Bag,9643.0
+35,4,7,Bag,9605.0
+8,5,11,Bag,9602.0
+22,3,9,Bag,9566.0
+33,1,8,Bag,9514.0
+7,2,12,Bag,9479.0
+22,1,2,Bag,9456.0
+22,2,7,Bag,9435.0
+32,1,4,Bag,9426.0
+7,2,11,Bag,9391.0
+19,4,8,Bag,9365.0
+16,5,8,Bag,9356.076923076922
+32,2,7,Bag,9236.0
+6,5,11,Bag,9233.0
+10,1,10,Bag,9230.0
+35,4,5,Bag,9205.0
+15,5,8,Bag,9195.0
+3,2,10,Bag,9179.0
+39,2,3,Bag,9141.0
+32,5,6,Bag,9136.0
+25,5,8,Bag,9134.0
+14,5,7,Bag,9079.0
+3,3,7,Bag,9027.0
+20,3,8,Bag,8996.0
+10,1,9,Bag,8990.0
+4,2,7,Bag,8958.0
+28,4,6,Bag,8935.0
+19,5,11,Bag,8929.0
+6,1,11,Bag,8868.0
+6,3,2,Bag,8843.0
+16,5,12,Bag,8831.0
+18,1,6,Bag,8722.0
+39,4,9,Bag,8681.0
+7,4,8,Bag,8676.0
+7,4,11,Bag,8627.0
+8,3,5,Bag,8581.5
+22,5,8,Bag,8566.0
+18,1,3,Bag,8551.0
+24,3,5,Bag,8527.5
+37,2,9,Bag,8458.0
+39,1,11,Bag,8424.0
+12,5,8,Bag,8399.0
+20,3,7,Bag,8385.940869565216
+33,4,4,Bag,8339.813063063055
+28,3,3,Bag,8338.75
+9,1,6,Bag,8270.0
+4,4,12,Bag,8263.0
+33,1,5,Bag,8245.0
+21,4,10,Bag,8199.0
+22,2,8,Bag,8187.600000000006
+15,4,8,Bag,8170.0
+19,4,7,Bag,8158.5
+8,2,12,Bag,8124.0
+8,1,9,Bag,8066.0
+38,5,11,Bag,8063.0
+32,2,8,Bag,8023.0
+15,5,6,Bag,8021.0
+19,2,10,Bag,8009.0
+6,1,3,Bag,7926.0
+33,3,7,Bag,7862.0
+24,2,7,Bag,7828.0
+25,4,10,Bag,7778.0
+21,5,10,Bag,7761.0
+18,2,10,Bag,7746.0
+10,5,5,Bag,7718.0
+28,3,8,Bag,7713.0
+20,1,7,Bag,7696.8721739130415
+8,2,4,Bag,7692.0
+39,1,9,Bag,7679.0
+20,3,9,Bag,7647.0
+6,1,10,Bag,7612.0
+38,2,7,Bag,7573.0
+35,5,9,Bag,7537.0
+28,5,6,Bag,7504.0
+6,1,5,Bag,7489.0
+8,3,6,Bag,7479.0
+25,1,10,Bag,7459.0
+9,5,8,Bag,7415.0
+32,4,2,Bag,7365.0
+4,2,6,Bag,7364.0
+28,3,4,Bag,7362.0
+37,3,8,Bag,7320.0
+23,1,5,Bag,7283.0
+32,1,5,Bag,7266.0
+13,2,8,Bag,7261.0
+28,5,5,Bag,7253.0
+33,5,11,Bag,7247.0
+19,5,12,Bag,7239.0
+28,2,11,Bag,7237.0
+13,3,6,Bag,7213.0
+23,5,5,Bag,7190.0
+15,2,6,Bag,7185.0
+28,5,7,Bag,7178.0
+6,5,8,Bag,7170.0
+6,1,4,Bag,7170.0
+8,4,6,Bag,7169.0
+7,3,8,Bag,7124.0
+28,1,9,Bag,7094.0
+28,2,6,Bag,7079.489999999998
+4,2,9,Bag,7070.5
+22,3,6,Bag,7047.0
+25,5,11,Bag,7016.199999999997
+37,5,7,Bag,7010.899999999996
+6,5,10,Bag,7000.0
+38,2,5,Bag,6999.0
+6,2,11,Bag,6976.0
+3,5,5,Bag,6966.0
+32,3,1,Bag,6958.0
+22,4,7,Bag,6956.0
+18,2,7,Bag,6921.999999999993
+12,3,12,Bag,6906.0
+3,3,10,Bag,6847.0
+33,4,7,Bag,6846.0
+7,3,1,Bag,6807.0
+16,2,7,Bag,6766.0
+37,3,5,Bag,6729.0
+19,2,11,Bag,6712.0
+35,4,8,Bag,6710.0
+39,2,2,Bag,6688.0
+9,1,10,Bag,6668.669999999991
+38,2,12,Bag,6647.0
+28,5,10,Bag,6640.0
+24,4,9,Bag,6636.0
+28,3,10,Bag,6587.0
+18,5,2,Bag,6586.0
+19,5,8,Bag,6571.0
+18,5,11,Bag,6532.0
+3,3,12,Bag,6531.0
+33,5,9,Bag,6529.0
+16,3,8,Bag,6516.0
+33,3,6,Bag,6509.0
+18,2,11,Bag,6505.038461538468
+6,1,12,Bag,6493.0
+36,2,6,Bag,6486.0
+24,3,9,Bag,6466.0
+16,5,10,Bag,6442.0
+22,1,4,Bag,6440.0
+24,5,8,Bag,6436.899999999994
+3,5,9,Bag,6396.0
+22,1,7,Bag,6391.0
+3,2,7,Bag,6382.0
+33,4,6,Bag,6378.0
+38,1,8,Bag,6374.0
+24,5,6,Bag,6319.0
+7,1,5,Bag,6281.0
+38,4,8,Bag,6262.0
+16,3,12,Bag,6255.0
+25,2,11,Bag,6161.0
+4,2,8,Bag,6139.0
+18,3,10,Bag,6107.0
+21,3,10,Bag,6087.0
+3,4,5,Bag,6079.5
+22,4,12,Bag,6076.0
+18,5,8,Bag,6029.0
+16,2,8,Bag,5992.0
+10,5,8,Bag,5975.0
+15,5,5,Bag,5973.5
+8,4,7,Bag,5950.0
+32,2,5,Bag,5948.0
+33,5,6,Bag,5917.0
+6,5,12,Bag,5917.0
+32,5,5,Bag,5908.0
+23,3,3,Bag,5894.097692307674
+10,5,7,Bag,5869.0
+8,1,8,Bag,5843.0
+25,1,9,Bag,5802.5
+7,3,9,Bag,5791.0
+16,2,9,Bag,5786.0
+8,4,5,Bag,5764.0
+39,1,6,Bag,5748.0
+24,2,5,Bag,5740.5
+25,4,5,Bag,5738.0
+7,4,7,Bag,5732.0
+38,3,8,Bag,5726.0
+28,3,9,Bag,5726.0
+23,5,3,Bag,5715.636923076905
+7,2,9,Bag,5677.0
+28,1,10,Bag,5666.0
+7,2,6,Bag,5663.0
+18,2,9,Bag,5649.0
+8,3,8,Bag,5649.0
+19,3,9,Bag,5626.0
+35,5,6,Bag,5611.75
+21,5,12,Bag,5608.0
+7,1,9,Bag,5600.0
+16,2,10,Bag,5598.0
+7,4,9,Bag,5576.0
+39,5,12,Bag,5573.0
+15,4,5,Bag,5561.0
+6,3,6,Bag,5560.0
+37,2,10,Bag,5552.0
+28,4,10,Bag,5548.0
+28,3,5,Bag,5520.0
+39,3,10,Bag,5519.6111111111095
+33,3,8,Bag,5518.0
+20,3,10,Bag,5498.0
+8,1,11,Bag,5498.0
+24,2,9,Bag,5490.4782608695605
+4,1,8,Bag,5482.0
+35,2,7,Bag,5466.0
+4,4,9,Bag,5460.0
+12,2,11,Bag,5450.0
+20,5,4,Bag,5448.0999999999985
+16,5,11,Bag,5435.0
+6,5,5,Bag,5434.0
+21,5,9,Bag,5398.0
+6,2,7,Bag,5389.0
+9,5,5,Bag,5376.5
+7,2,5,Bag,5372.5
+36,4,7,Bag,5332.0
+19,4,11,Bag,5327.0
+39,5,9,Bag,5323.0
+32,4,3,Bag,5317.0
+38,3,10,Bag,5299.0
+10,5,9,Bag,5290.0
+33,4,9,Bag,5285.686936936945
+25,5,5,Bag,5255.0
+4,3,12,Bag,5238.578947368427
+7,3,2,Bag,5228.0
+39,2,4,Bag,5223.0
+16,1,12,Bag,5221.0
+18,3,8,Bag,5215.0
+39,4,1,Bag,5206.0
+7,5,7,Bag,5205.0
+37,1,6,Bag,5201.878260869562
+32,5,7,Bag,5191.0
+8,2,11,Bag,5189.0
+3,4,10,Bag,5179.0
+39,3,7,Bag,5166.0
+28,3,11,Bag,5164.0
+4,4,10,Bag,5164.0
+35,2,8,Bag,5150.0
+3,4,7,Bag,5138.0
+6,3,10,Bag,5094.0
+22,4,9,Bag,5091.0
+19,1,12,Bag,5087.0
+12,2,8,Bag,5080.0
+36,2,5,Bag,5063.0
+35,2,9,Bag,5038.0
+32,4,1,Bag,5023.0
+18,2,8,Bag,5002.0
+22,3,8,Bag,4999.0
+18,5,7,Bag,4977.0
+7,2,10,Bag,4974.0
+36,4,8,Bag,4963.0
+28,1,11,Bag,4961.600000000006
+10,1,11,Bag,4947.299999999996
+24,3,7,Bag,4935.0
+3,4,8,Bag,4917.0
+21,1,12,Bag,4915.0
+18,3,11,Bag,4915.0
+39,5,8,Bag,4895.0
+35,2,6,Bag,4891.041666666664
+18,5,6,Bag,4880.0
+15,2,5,Bag,4840.5
+7,1,4,Bag,4840.473684210527
+12,3,9,Bag,4840.015151515145
+33,4,5,Bag,4833.0
+20,5,9,Bag,4828.0
+18,1,9,Bag,4824.0
+9,1,7,Bag,4814.0
+8,5,10,Bag,4803.0
+10,4,8,Bag,4764.0
+18,4,10,Bag,4732.0
+19,1,11,Bag,4730.0
+6,2,12,Bag,4704.0
+18,5,5,Bag,4702.0
+32,2,4,Bag,4680.681818181816
+9,1,9,Bag,4671.0
+3,3,9,Bag,4653.0
+12,5,7,Bag,4636.0
+28,2,9,Bag,4594.0
+24,2,6,Bag,4574.0
+39,4,11,Bag,4558.0
+39,2,7,Bag,4555.0
+32,1,6,Bag,4553.0
+8,2,2,Bag,4517.0
+38,5,8,Bag,4510.0
+8,1,5,Bag,4492.0
+8,3,7,Bag,4490.0
+7,5,6,Bag,4487.0
+36,2,11,Bag,4447.220000000001
+35,5,7,Bag,4439.0
+15,3,11,Bag,4434.0
+39,4,3,Bag,4368.0
+28,4,9,Bag,4351.0
+7,3,4,Bag,4350.0
+38,5,12,Bag,4348.0
+22,1,5,Bag,4313.0
+3,3,11,Bag,4310.0
+35,1,12,Bag,4307.0
+7,2,7,Bag,4282.0
+36,2,8,Bag,4266.0
+32,4,4,Bag,4265.0
+39,4,12,Bag,4244.0
+38,4,9,Bag,4239.0
+6,3,11,Bag,4222.0
+14,4,7,Bag,4218.0
+13,5,5,Bag,4217.0
+8,5,7,Bag,4215.0
+9,3,7,Bag,4214.0
+39,5,10,Bag,4193.0
+28,3,6,Bag,4190.0
+24,4,7,Bag,4182.199999999997
+9,1,8,Bag,4156.0
+22,1,6,Bag,4115.0
+23,4,6,Bag,4083.0
+19,2,12,Bag,4068.0
+25,1,11,Bag,4060.0
+28,4,11,Bag,4058.4199999999983
+8,1,7,Bag,4054.0
+6,1,8,Bag,4049.0
+22,1,11,Bag,4046.0
+21,3,11,Bag,4041.0
+6,4,8,Bag,4006.0
+36,1,9,Bag,3991.0
+38,2,3,Bag,3963.0
+23,4,7,Bag,3961.0
+12,1,11,Bag,3942.0
+33,5,7,Bag,3929.0
+8,5,12,Bag,3929.0
+24,4,12,Bag,3908.0
+7,3,6,Bag,3895.0
+32,3,2,Bag,3884.0
+16,2,12,Bag,3879.0
+25,4,7,Bag,3848.0
+33,1,6,Bag,3834.0
+37,3,4,Bag,3830.4000000000087
+8,4,4,Bag,3830.0
+8,1,12,Bag,3825.0
+6,5,3,Bag,3808.0
+14,5,9,Bag,3797.8899999999994
+13,5,9,Bag,3781.0
+15,4,6,Bag,3764.0
+7,3,3,Bag,3755.0
+23,1,9,Bag,3754.239999999998
+16,5,9,Bag,3684.0
+15,2,7,Bag,3672.0
+21,5,7,Bag,3671.5
+38,2,10,Bag,3651.0
+23,5,4,Bag,3644.0
+25,5,10,Bag,3620.0
+18,5,1,Bag,3619.0
+24,5,5,Bag,3601.0
+28,3,7,Bag,3581.0
+22,1,8,Bag,3581.0
+22,2,5,Bag,3579.5
+38,2,1,Bag,3579.0
+16,1,9,Bag,3578.0
+33,5,12,Bag,3551.0
+12,3,10,Bag,3550.0
+9,5,7,Bag,3541.0
+38,2,11,Bag,3533.0
+4,3,8,Bag,3525.0
+16,2,11,Bag,3520.0
+6,4,7,Bag,3515.0
+3,5,12,Bag,3506.5
+19,3,12,Bag,3483.9999999999964
+18,1,7,Bag,3482.0
+13,3,7,Bag,3479.0
+13,5,6,Bag,3472.0
+38,1,6,Bag,3455.0
+8,5,9,Bag,3455.0
+22,1,10,Bag,3412.0
+38,5,10,Bag,3409.0
+39,2,10,Bag,3396.0
+25,5,9,Bag,3380.0
+28,4,8,Bag,3364.0
+3,5,11,Bag,3363.0
+38,2,8,Bag,3341.0
+39,4,5,Bag,3328.0
+35,1,10,Bag,3313.0
+38,2,4,Bag,3309.0
+28,5,11,Bag,3299.0
+25,5,6,Bag,3276.0
+6,1,7,Bag,3242.0
+38,5,9,Bag,3238.0
+6,4,5,Bag,3237.0000000000036
+12,2,7,Bag,3234.0
+8,2,9,Bag,3221.0
+22,2,6,Bag,3216.0
+18,1,10,Bag,3212.0
+28,5,4,Bag,3203.0
+6,5,4,Bag,3182.0
+39,4,6,Bag,3179.0
+9,5,6,Bag,3145.0
+35,5,8,Bag,3140.0
+39,2,8,Bag,3138.0
+19,5,10,Bag,3109.0
+36,1,10,Bag,3105.0
+18,3,7,Bag,3076.0
+39,1,10,Bag,3030.0
+18,3,4,Bag,3021.0
+13,5,8,Bag,3003.0
+38,3,12,Bag,2984.0
+12,1,9,Bag,2962.0
+3,5,8,Bag,2954.0
+8,1,4,Bag,2952.0
+37,2,6,Bag,2942.073913043474
+19,3,11,Bag,2942.0
+37,2,7,Bag,2922.0
+32,1,3,Bag,2921.0599999999977
+39,2,6,Bag,2889.0
+36,1,7,Bag,2864.0
+19,4,12,Bag,2856.0
+39,2,5,Bag,2854.0
+8,2,8,Bag,2838.0
+18,5,12,Bag,2830.9999999999854
+3,3,6,Bag,2816.5
+7,3,11,Bag,2814.0
+16,3,9,Bag,2793.0
+22,1,9,Bag,2773.0
+32,2,6,Bag,2753.0
+33,3,9,Bag,2748.0
+18,4,9,Bag,2744.0
+39,4,10,Bag,2740.0
+10,1,7,Bag,2719.0
+24,3,10,Bag,2717.6200000000026
+8,1,10,Bag,2715.0
+28,2,7,Bag,2706.0
+28,2,8,Bag,2704.0
+24,3,6,Bag,2690.0
+10,5,6,Bag,2668.0
+18,1,12,Bag,2650.0
+12,2,12,Bag,2637.0
+8,4,9,Bag,2622.8157894736796
+6,3,8,Bag,2611.0
+8,2,3,Bag,2610.0
+32,5,8,Bag,2595.9000000000015
+16,3,7,Bag,2594.0
+15,4,9,Bag,2593.5
+22,4,6,Bag,2583.0
+7,1,10,Bag,2576.0
+18,1,4,Bag,2574.0
+7,4,10,Bag,2570.0
+36,4,6,Bag,2566.0799999999945
+18,5,4,Bag,2558.0
+21,2,12,Bag,2552.0
+8,2,6,Bag,2546.0
+12,2,9,Bag,2529.0
+19,3,8,Bag,2517.0
+12,2,10,Bag,2514.0
+38,1,5,Bag,2485.0
+28,4,5,Bag,2464.0800000000017
+18,3,6,Bag,2458.0
+28,2,12,Bag,2455.510000000002
+36,4,10,Bag,2415.720000000001
+28,4,7,Bag,2402.0
+3,2,8,Bag,2392.0
+22,4,11,Bag,2391.0
+6,1,9,Bag,2390.0
+3,5,4,Bag,2389.5
+6,3,12,Bag,2386.0
+25,4,6,Bag,2382.0
+12,3,11,Bag,2378.0
+28,5,8,Bag,2308.0
+39,3,9,Bag,2301.0
+21,1,11,Bag,2292.0
+10,4,6,Bag,2283.5
+39,2,9,Bag,2275.0
+19,2,8,Bag,2244.0
+39,2,12,Bag,2240.0
+32,3,4,Bag,2219.7399999999834
+37,1,7,Bag,2170.100000000006
+24,5,4,Bag,2167.0
+24,4,11,Bag,2138.0
+8,1,6,Bag,2126.0
+22,1,1,Bag,2090.0
+6,3,4,Bag,2082.0
+4,4,8,Bag,2074.5
+6,3,5,Bag,2052.0
+39,1,12,Bag,2050.0
+6,3,3,Bag,2049.0
+32,1,7,Bag,2031.0
+38,5,7,Bag,2025.0
+21,2,11,Bag,2018.0
+21,3,12,Bag,2009.0
+18,4,6,Bag,2001.0
+33,5,10,Bag,1988.0
+23,4,5,Bag,1976.310349650339
+28,1,6,Bag,1963.3999999999942
+16,1,10,Bag,1952.0
+14,3,4,Bag,1932.0
+8,5,6,Bag,1925.0
+6,1,2,Bag,1904.965517241375
+33,3,5,Bag,1886.6351351351368
+39,5,7,Bag,1863.0
+4,3,11,Bag,1843.0
+14,3,5,Bag,1842.0
+18,5,3,Bag,1821.0
+3,3,8,Bag,1775.0
+21,5,11,Bag,1768.0
+35,5,10,Bag,1764.300000000003
+25,4,9,Bag,1722.0
+39,4,7,Bag,1720.0
+38,3,7,Bag,1708.7142857142899
+32,1,8,Bag,1670.4400000000023
+16,3,10,Bag,1666.0
+10,1,8,Bag,1657.0
+3,5,7,Bag,1606.0
+18,1,2,Bag,1596.8846153846098
+10,5,10,Bag,1574.9900000000052
+3,4,6,Bag,1567.0
+38,2,9,Bag,1564.0
+18,3,12,Bag,1546.0
+22,5,9,Bag,1535.9399999999987
+37,3,6,Bag,1502.0
+37,5,6,Bag,1484.360869565222
+14,5,6,Bag,1482.0
+14,3,6,Bag,1479.880000000001
+36,2,7,Bag,1452.0
+16,1,8,Bag,1444.846153846156
+22,4,5,Bag,1408.7027027027143
+18,3,5,Bag,1407.0
+8,2,5,Bag,1404.0
+19,4,9,Bag,1402.0
+25,3,10,Bag,1401.8999999999942
+8,4,3,Bag,1380.9619883041014
+18,1,5,Bag,1373.0
+38,1,9,Bag,1361.0999999999985
+6,5,9,Bag,1337.0
+35,4,6,Bag,1322.0
+23,4,8,Bag,1314.0
+16,3,11,Bag,1298.0
+39,5,11,Bag,1263.0
+37,2,8,Bag,1263.0
+23,1,6,Bag,1261.0
+20,4,8,Bag,1253.229999999996
+18,5,10,Bag,1224.0
+18,1,11,Bag,1224.0
+20,5,10,Bag,1218.9000000000015
+19,5,7,Bag,1191.0
+32,5,4,Bag,1189.0999999999985
+6,3,7,Bag,1189.0
+20,5,7,Bag,1165.0
+16,2,6,Bag,1158.5
+23,5,6,Bag,1157.0
+16,3,6,Bag,1154.6153846153902
+24,4,8,Bag,1087.0
+19,2,9,Bag,1087.0
+7,3,12,Bag,1061.0
+3,5,6,Bag,1059.0
+13,2,7,Bag,1056.0
+36,3,8,Bag,1032.800000000003
+20,5,8,Bag,988.0
+24,2,8,Bag,961.0
+36,1,6,Bag,921.0
+21,2,9,Bag,900.5
+6,5,2,Bag,835.9482758620725
+12,1,7,Bag,756.7878787878799
+7,3,7,Bag,657.0
+25,3,9,Bag,643.5
+21,1,10,Bag,636.0
+13,3,5,Bag,553.0
+18,4,5,Bag,532.0
+22,3,5,Bag,445.5
+33,5,5,Bag,444.9864864864867
+13,5,10,Bag,418.81000000000495
+36,1,11,Bag,399.5599999999977
+23,1,4,Bag,393.0
+4,3,6,Bag,338.5
+35,1,9,Bag,319.319444444438
+8,3,9,Bag,254.70000000000073
+12,2,6,Bag,222.3636363636324
+36,1,5,Bag,205.34000000000378
+8,1,2,Bag,187.20370370369346
+39,2,1,Bag,158.81481481481842
+15,5,9,Bag,149.1999999999971
+9,5,9,Bag,84.89999999999418
+3,2,7,Box,11570.0
+35,5,7,Box,11065.0
+22,5,6,Box,10581.276216216214
+6,3,4,Box,10557.5
+22,4,12,Box,10487.499999999993
+4,4,12,Box,10332.5
+39,4,11,Box,9687.5
+18,2,9,Box,9002.5
+39,2,5,Box,8712.5
+25,2,10,Box,8400.5
+23,1,4,Box,8310.0
+8,2,4,Box,8295.0
+13,2,8,Box,8152.5
+8,1,2,Box,8080.0
+39,4,12,Box,8052.5
+33,4,4,Box,7940.0
+16,3,11,Box,7940.0
+28,4,9,Box,7892.5
+9,5,5,Box,7675.0
+9,3,6,Box,7675.0
+18,4,9,Box,7607.5
+28,2,6,Box,7560.0
+3,2,10,Box,7374.5
+28,1,8,Box,7012.5
+36,1,5,Box,6920.0
+8,2,7,Box,6875.0
+7,3,10,Box,6872.5
+21,5,11,Box,6750.0
+39,3,6,Box,6733.5
+4,1,8,Box,6705.0
+36,4,8,Box,6657.5
+36,4,6,Box,6620.0
+28,5,10,Box,6552.5
+6,3,8,Box,6550.0
+22,1,1,Box,6547.5
+19,4,7,Box,6455.0
+38,3,9,Box,6417.5
+8,1,8,Box,6330.0
+37,3,4,Box,6290.0
+39,5,12,Box,6252.5
+13,2,6,Box,6240.0
+14,5,6,Box,6145.0
+19,1,11,Box,6120.0
+33,5,8,Box,6102.5
+18,5,9,Box,6095.0
+39,2,9,Box,6070.0
+28,3,8,Box,6065.0
+39,4,8,Box,6060.0
+13,2,9,Box,6036.069999999992
+15,4,7,Box,5990.0
+35,5,6,Box,5950.0
+18,4,8,Box,5845.0
+24,3,8,Box,5842.5
+13,2,5,Box,5823.0
+22,3,5,Box,5575.0
+22,1,6,Box,5532.5
+8,4,6,Box,5510.0
+19,5,12,Box,5502.5
+7,3,12,Box,5460.0
+18,5,11,Box,5450.0
+18,3,4,Box,5442.5
+22,4,8,Box,5415.0
+7,3,6,Box,5402.5
+39,1,12,Box,5392.5
+38,5,11,Box,5367.5
+24,2,5,Box,5330.0
+39,5,10,Box,5312.5
+38,2,2,Box,5292.5
+16,3,7,Box,5277.5
+36,1,10,Box,5227.5
+23,4,5,Box,5205.0
+4,1,9,Box,5187.5
+6,4,8,Box,5134.499999999996
+16,3,12,Box,5132.5
+28,5,11,Box,5071.720000000001
+38,5,12,Box,5050.0
+28,3,3,Box,4967.5
+38,2,7,Box,4950.0
+13,5,5,Box,4935.0
+28,1,9,Box,4920.0
+6,2,6,Box,4911.3620689655145
+23,5,4,Box,4905.0
+24,5,6,Box,4902.5
+38,2,10,Box,4887.5
+9,1,9,Box,4870.0
+22,1,9,Box,4792.5
+32,4,2,Box,4742.5
+8,5,5,Box,4688.68518518519
+33,3,5,Box,4657.5
+32,3,1,Box,4647.5
+39,3,9,Box,4610.0
+13,3,6,Box,4610.0
+28,3,7,Box,4550.0
+38,5,10,Box,4537.5
+32,4,3,Box,4467.5
+12,1,7,Box,4457.5
+3,3,8,Box,4445.0
+15,5,6,Box,4417.5
+18,1,10,Box,4385.0
+7,4,8,Box,4380.0
+21,5,12,Box,4360.0
+38,1,6,Box,4310.0
+12,5,9,Box,4296.299999999996
+24,5,4,Box,4295.0
+19,3,11,Box,4245.0
+28,1,7,Box,4237.5
+21,5,9,Box,4235.0
+23,4,8,Box,4233.59
+6,4,6,Box,4227.5
+18,5,10,Box,4212.5
+35,4,4,Box,4200.979999999996
+25,5,7,Box,4155.0
+10,1,8,Box,4145.0
+28,4,8,Box,4097.5
+12,1,11,Box,4080.222222222219
+38,2,9,Box,4080.0
+38,4,11,Box,4055.0
+23,5,3,Box,4055.0
+33,1,6,Box,4025.0
+28,5,7,Box,4022.5
+15,4,5,Box,4002.5
+12,5,8,Box,3997.5
+20,4,7,Box,3992.5
+19,2,11,Box,3985.0
+37,3,8,Box,3975.0
+3,4,7,Box,3972.5
+21,1,12,Box,3965.0
+7,5,8,Box,3959.5
+16,1,8,Box,3945.0
+13,3,8,Box,3935.3600000000006
+8,2,1,Box,3925.0
+37,1,6,Box,3917.5
+35,1,12,Box,3912.5
+39,2,12,Box,3905.0
+18,3,9,Box,3905.0
+6,1,10,Box,3905.0
+8,2,12,Box,3900.0
+37,2,7,Box,3867.5
+20,1,7,Box,3865.279999999999
+19,2,10,Box,3855.0
+4,3,9,Box,3832.5
+24,4,10,Box,3827.5
+24,4,11,Box,3810.0
+8,5,11,Box,3795.0
+19,2,12,Box,3745.0
+3,3,7,Box,3715.0
+6,5,8,Box,3697.5
+36,4,7,Box,3695.0
+12,5,7,Box,3677.5
+9,1,7,Box,3647.5
+38,2,3,Box,3640.0
+4,2,7,Box,3632.5
+35,4,7,Box,3622.5
+21,2,10,Box,3617.5
+22,5,7,Box,3595.0
+39,5,8,Box,3565.0
+18,1,3,Box,3557.5
+6,3,12,Box,3545.0
+6,1,9,Box,3517.5
+35,5,9,Box,3502.5
+33,3,6,Box,3475.0
+7,2,10,Box,3465.0
+38,4,8,Box,3460.0
+12,2,6,Box,3457.5
+7,3,8,Box,3450.0
+19,4,10,Box,3430.0
+8,5,9,Box,3430.0
+6,2,11,Box,3430.0
+28,5,8,Box,3410.0
+25,4,8,Box,3410.0
+33,5,9,Box,3390.0
+22,1,5,Box,3390.0
+6,1,6,Box,3390.0
+12,1,10,Box,3382.5
+25,1,9,Box,3352.5
+4,4,8,Box,3340.0
+22,1,12,Box,3332.5
+8,1,4,Box,3332.5
+4,1,10,Box,3330.0
+22,2,5,Box,3285.0
+6,3,9,Box,3277.5
+38,2,1,Box,3270.0
+20,3,8,Box,3242.5
+37,3,9,Box,3223.5999999999913
+37,2,6,Box,3215.0
+7,2,7,Box,3200.0
+7,2,6,Box,3195.0
+19,5,7,Box,3162.5
+3,4,9,Box,3162.5
+7,1,7,Box,3150.0
+7,1,9,Box,3142.5
+16,2,8,Box,3137.5
+7,3,9,Box,3120.0
+16,1,10,Box,3070.0
+8,1,9,Box,3070.0
+14,3,4,Box,3025.0
+7,2,9,Box,3002.5
+25,5,8,Box,2980.0
+3,3,12,Box,2970.0
+18,1,12,Box,2967.5
+8,5,6,Box,2957.5
+8,1,11,Box,2925.0
+32,3,3,Box,2922.5
+39,1,10,Box,2917.5
+22,1,2,Box,2917.5
+37,5,6,Box,2912.5
+18,3,8,Box,2875.0
+28,2,7,Box,2865.0
+38,3,7,Box,2857.5
+7,3,4,Box,2857.5
+18,2,10,Box,2840.0
+32,5,4,Box,2835.0
+13,2,7,Box,2835.0
+18,1,2,Box,2822.5
+6,5,6,Box,2805.0
+19,4,9,Box,2800.0
+25,5,9,Box,2785.0
+36,2,10,Box,2780.0
+7,3,5,Box,2757.5
+35,5,8,Box,2752.5
+12,1,9,Box,2732.5
+32,1,5,Box,2730.0
+18,5,2,Box,2727.5
+7,3,1,Box,2722.5
+8,2,9,Box,2695.0
+3,4,5,Box,2687.5
+18,1,7,Box,2682.5
+6,3,5,Box,2682.5
+6,3,2,Box,2665.0
+32,3,2,Box,2657.5
+7,2,5,Box,2640.0
+32,5,5,Box,2637.5
+8,1,3,Box,2630.0
+6,1,4,Box,2627.5
+38,4,10,Box,2617.5
+7,5,5,Box,2616.5
+39,3,8,Box,2600.0
+28,1,6,Box,2585.0
+20,3,7,Box,2567.5
+38,4,12,Box,2557.5
+19,5,11,Box,2547.5
+24,5,5,Box,2527.5
+6,3,10,Box,2527.5
+39,4,3,Box,2512.5
+32,5,7,Box,2507.5
+16,5,10,Box,2477.5
+24,3,5,Box,2462.5
+35,1,10,Box,2455.0
+38,3,10,Box,2445.0
+12,2,11,Box,2435.0
+35,4,8,Box,2429.520000000004
+6,5,9,Box,2395.0
+20,5,8,Box,2390.0
+18,4,5,Box,2375.0
+32,1,6,Box,2372.5
+10,1,10,Box,2360.0
+12,2,9,Box,2347.5
+18,3,12,Box,2342.5
+18,3,7,Box,2340.0
+12,2,10,Box,2340.0
+12,5,6,Box,2325.0
+9,3,5,Box,2303.5
+10,1,7,Box,2302.5
+37,3,6,Box,2295.0
+7,4,9,Box,2292.5
+21,3,12,Box,2277.5
+21,4,10,Box,2262.5
+21,5,7,Box,2260.0
+37,2,9,Box,2232.5
+32,1,7,Box,2230.0
+24,4,9,Box,2220.0
+28,3,5,Box,2207.5
+18,5,5,Box,2207.5
+28,3,9,Box,2205.0
+39,2,6,Box,2200.0
+6,1,2,Box,2192.5
+36,2,7,Box,2190.0
+39,1,5,Box,2165.2592592592555
+39,4,1,Box,2162.5
+36,2,5,Box,2157.5
+35,2,10,Box,2156.0
+38,1,7,Box,2155.0
+33,3,7,Box,2155.0
+28,5,4,Box,2137.5
+18,5,3,Box,2137.5
+28,5,3,Box,2132.779999999999
+18,1,4,Box,2125.0
+22,4,7,Box,2112.5
+8,4,8,Box,2102.5
+21,2,12,Box,2080.0
+8,3,7,Box,2080.0
+39,5,7,Box,2077.5
+23,1,5,Box,2072.5
+32,2,4,Box,2067.5
+22,1,4,Box,2067.5
+4,3,10,Box,2065.0
+18,3,6,Box,2055.0
+13,3,7,Box,2052.5
+32,2,8,Box,2045.0400000000009
+8,2,2,Box,2045.0
+39,4,2,Box,2027.5
+28,1,10,Box,2015.0
+15,5,8,Box,2002.5
+24,3,6,Box,1990.0
+24,2,6,Box,1982.5
+6,3,3,Box,1982.5
+33,4,8,Box,1977.5
+39,4,5,Box,1972.5
+8,5,7,Box,1970.0
+22,4,11,Box,1962.5
+39,4,4,Box,1957.5
+24,5,7,Box,1957.5
+10,4,8,Box,1956.920000000002
+25,5,10,Box,1955.0
+6,2,12,Box,1950.0
+4,4,9,Box,1945.0
+20,5,6,Box,1925.0
+3,5,8,Box,1917.5
+33,3,9,Box,1916.3648648648668
+18,1,9,Box,1905.0
+10,5,6,Box,1892.5
+32,2,5,Box,1890.0
+7,1,10,Box,1888.0263157894733
+18,1,11,Box,1885.0
+18,4,6,Box,1872.5
+16,5,11,Box,1865.0
+22,2,6,Box,1855.0
+3,5,4,Box,1842.5
+35,1,11,Box,1807.5
+8,5,10,Box,1807.5
+9,1,8,Box,1805.0
+8,1,5,Box,1792.5
+32,2,7,Box,1767.5
+6,3,11,Box,1760.0
+4,3,6,Box,1760.0
+28,3,4,Box,1745.0
+38,2,6,Box,1742.5
+24,3,9,Box,1732.5
+38,5,6,Box,1726.857142857145
+13,5,9,Box,1720.0
+7,3,2,Box,1720.0
+8,2,5,Box,1712.5
+4,2,8,Box,1710.0
+7,3,7,Box,1707.5
+39,2,2,Box,1705.0
+15,2,7,Box,1704.0
+8,2,3,Box,1700.0
+33,1,7,Box,1695.0
+28,4,5,Box,1687.5
+23,1,6,Box,1682.5
+21,3,11,Box,1682.5
+6,3,1,Box,1682.5
+28,3,10,Box,1680.0
+6,5,2,Box,1675.0
+33,3,8,Box,1672.5
+16,3,10,Box,1670.0
+19,1,10,Box,1650.0
+38,2,11,Box,1642.5
+8,3,6,Box,1632.5
+9,1,6,Box,1622.5
+25,4,7,Box,1605.0
+10,5,5,Box,1602.5
+4,3,7,Box,1602.5
+22,2,7,Box,1592.5
+25,3,9,Box,1577.5
+6,5,5,Box,1560.0
+39,5,9,Box,1547.5
+36,2,4,Box,1512.7799999999988
+12,2,8,Box,1510.0
+10,4,6,Box,1507.5
+25,2,11,Box,1501.5
+21,2,11,Box,1500.0
+21,3,9,Box,1495.0
+8,2,8,Box,1495.0
+28,3,6,Box,1490.0
+38,2,8,Box,1485.0
+12,2,7,Box,1485.0
+3,2,8,Box,1472.5
+20,5,5,Box,1470.0
+7,2,11,Box,1465.0
+36,2,9,Box,1457.5
+38,5,9,Box,1440.0
+18,3,11,Box,1435.0
+9,5,6,Box,1435.0
+20,5,9,Box,1432.5
+7,4,11,Box,1420.0
+6,5,3,Box,1412.5
+39,5,6,Box,1407.5
+6,3,6,Box,1407.5
+38,4,9,Box,1400.0
+18,1,8,Box,1385.0
+22,1,7,Box,1380.0
+18,5,7,Box,1380.0
+33,1,4,Box,1352.6081081081065
+22,1,11,Box,1347.5
+15,3,12,Box,1345.0
+12,3,9,Box,1332.5
+32,4,4,Box,1321.3799999999974
+35,4,5,Box,1305.0
+19,2,9,Box,1302.5
+6,1,5,Box,1295.0
+38,2,5,Box,1280.0
+19,3,8,Box,1272.5
+21,1,10,Box,1265.0
+36,1,8,Box,1255.0
+38,4,7,Box,1252.9999999999927
+20,5,4,Box,1242.5
+7,5,6,Box,1230.0
+36,2,6,Box,1225.0
+14,5,7,Box,1225.0
+39,2,10,Box,1217.5
+24,2,7,Box,1215.0
+19,4,12,Box,1215.0
+8,4,5,Box,1210.0
+38,5,7,Box,1197.5
+6,5,4,Box,1190.0
+28,5,9,Box,1187.5
+6,1,7,Box,1185.0
+39,1,8,Box,1180.0
+6,4,7,Box,1180.0
+21,1,11,Box,1162.5
+28,5,6,Box,1157.5
+38,5,8,Box,1142.5
+21,4,12,Box,1135.0
+10,5,9,Box,1135.0
+39,5,11,Box,1115.0
+39,4,7,Box,1112.5
+33,5,7,Box,1105.0
+9,5,7,Box,1100.0
+14,3,5,Box,1095.0
+18,5,8,Box,1075.0
+35,1,9,Box,1072.5
+9,5,8,Box,1055.0
+36,3,7,Box,984.6999999999971
+6,2,9,Box,970.0
+23,1,7,Box,957.5
+33,1,5,Box,952.5
+4,3,11,Box,942.5
+22,3,8,Box,940.0
+16,2,10,Box,935.0
+28,3,11,Box,908.25
+8,3,5,Box,900.0
+23,3,3,Box,881.2099999999991
+33,1,8,Box,845.1300000000047
+16,2,11,Box,840.0
+14,4,7,Box,839.869999999999
+25,1,10,Box,802.5
+37,2,10,Box,754.0999999999985
+3,2,6,Box,725.0
+22,3,9,Box,698.256756756753
+19,3,7,Box,690.0
+19,2,7,Box,672.5
+28,2,8,Box,665.0
+25,4,10,Box,652.6999999999971
+10,5,4,Box,486.0
+4,1,7,Box,403.5
+18,3,2,Box,383.7692307692196
+20,3,10,Box,327.8199999999997
+4,2,5,Box,326.0
+18,4,10,Box,321.1100000000006
+15,4,4,Box,317.5
+23,5,6,Box,215.94000000000233
+25,1,11,Box,170.1999999999971
+15,3,10,Box,163.41891891890555
+7,4,6,Box,126.5
+19,5,6,Box,76.5

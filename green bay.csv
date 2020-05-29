@@ -1,706 +1,300 @@
-Plant Id,Internal Work Order Id,Color,Size,Flavor,Packaging Type,Qty
-Green Bay,0,Coloring Agent25,S2,F12,Bag,15854.0
-Green Bay,1,Coloring Agent36,S2,F11,Bag,14960.0
-Green Bay,2,Coloring Agent27,S4,F5,Bag,13642.250000000004
-Green Bay,3,Coloring Agent11,S2,F8,Bag,13186.430555555562
-Green Bay,4,Coloring Agent25,S1,F12,Bag,13170.2
-Green Bay,5,Coloring Agent37,S2,F11,Bag,12626.599999999999
-Green Bay,6,Coloring Agent1,S3,F2,Bag,12199.0
-Green Bay,7,Coloring Agent9,S2,F10,Bag,12192.0
-Green Bay,8,Coloring Agent33,S2,F4,Bag,11968.0
-Green Bay,9,Coloring Agent26,S5,F2,Bag,11900.0
-Green Bay,10,Coloring Agent20,S1,F8,Bag,11648.0
-Green Bay,11,Coloring Agent22,S1,F3,Bag,11549.0
-Green Bay,12,Coloring Agent32,S2,F11,Bag,11278.537220843675
-Green Bay,13,Coloring Agent38,S4,F11,Bag,11217.785714285714
-Green Bay,14,Coloring Agent26,S3,F2,Bag,11062.23076923077
-Green Bay,15,Coloring Agent20,S4,F9,Bag,11050.0
-Green Bay,16,Coloring Agent13,S3,F9,Bag,10914.0
-Green Bay,17,Coloring Agent37,S1,F8,Bag,10871.0
-Green Bay,18,Coloring Agent4,S1,F12,Bag,10787.75730994151
-Green Bay,19,Coloring Agent10,S3,F7,Bag,10685.0
-Green Bay,20,Coloring Agent38,S3,F9,Bag,10671.119999999999
-Green Bay,21,Coloring Agent5,S2,F6,Bag,10533.0
-Green Bay,22,Coloring Agent15,S1,F7,Bag,10428.0
-Green Bay,23,Coloring Agent28,S1,F12,Bag,10420.999999999998
-Green Bay,24,Coloring Agent15,S5,F9,Bag,10376.80000000001
-Green Bay,25,Coloring Agent1,S5,F4,Bag,10295.0
-Green Bay,26,Coloring Agent39,S3,F10,Bag,10263.300000000003
-Green Bay,27,Coloring Agent14,S2,F12,Bag,10137.0
-Green Bay,28,Coloring Agent32,S2,F10,Bag,10061.462779156325
-Green Bay,29,Coloring Agent15,S1,F8,Bag,10030.351351351354
-Green Bay,30,Coloring Agent36,S1,F12,Bag,10015.0
-Green Bay,31,Coloring Agent38,S2,F6,Bag,9889.0
-Green Bay,32,Coloring Agent31,S5,F4,Bag,9799.178571428565
-Green Bay,33,Coloring Agent10,S4,F7,Bag,9767.482142857141
-Green Bay,34,Coloring Agent24,S3,F10,Bag,9758.380000000005
-Green Bay,35,Coloring Agent5,S3,F3,Bag,9631.0
-Green Bay,36,Coloring Agent31,S4,F3,Bag,9554.0
-Green Bay,37,Coloring Agent33,S1,F8,Bag,9514.0
-Green Bay,38,Coloring Agent22,S1,F2,Bag,9456.0
-Green Bay,39,Coloring Agent5,S2,F1,Bag,9449.0
-Green Bay,40,Coloring Agent4,S3,F12,Bag,9412.0
-Green Bay,41,Coloring Agent1,S5,F5,Bag,9388.53448275863
-Green Bay,42,Coloring Agent33,S5,F5,Bag,9380.0
-Green Bay,43,Coloring Agent36,S3,F9,Bag,9305.0
-Green Bay,44,Coloring Agent29,S1,F1,Bag,9185.0
-Green Bay,45,Coloring Agent2,S3,F1,Bag,9182.0
-Green Bay,46,Coloring Agent22,S3,F9,Bag,9145.979999999996
-Green Bay,47,Coloring Agent1,S1,F2,Bag,9133.0
-Green Bay,48,Coloring Agent17,S3,F7,Bag,9077.0
-Green Bay,49,Coloring Agent13,S4,F6,Bag,9004.0
-Green Bay,50,Coloring Agent10,S1,F9,Bag,8990.0
-Green Bay,51,Coloring Agent35,S4,F9,Bag,8989.520000000004
-Green Bay,52,Coloring Agent5,S1,F1,Bag,8973.0
-Green Bay,53,Coloring Agent13,S4,F7,Bag,8967.0
-Green Bay,54,Coloring Agent10,S2,F4,Bag,8937.0
-Green Bay,55,Coloring Agent15,S3,F3,Bag,8886.233524164556
-Green Bay,56,Coloring Agent16,S5,F12,Bag,8830.999999999993
-Green Bay,57,Coloring Agent26,S2,F1,Bag,8812.0
-Green Bay,58,Coloring Agent20,S5,F10,Bag,8800.0
-Green Bay,59,Coloring Agent8,S3,F9,Bag,8800.0
-Green Bay,60,Coloring Agent5,S1,F2,Bag,8738.0
-Green Bay,61,Coloring Agent35,S1,F4,Bag,8715.0
-Green Bay,62,Coloring Agent17,S1,F6,Bag,8681.353658536565
-Green Bay,63,Coloring Agent39,S4,F9,Bag,8681.0
-Green Bay,64,Coloring Agent5,S1,F3,Bag,8626.0
-Green Bay,65,Coloring Agent1,S3,F1,Bag,8616.0
-Green Bay,66,Coloring Agent22,S5,F8,Bag,8566.0
-Green Bay,67,Coloring Agent9,S4,F11,Bag,8546.0
-Green Bay,68,Coloring Agent33,S3,F10,Bag,8492.179999999993
-Green Bay,69,Coloring Agent14,S1,F11,Bag,8443.600000000006
-Green Bay,70,Coloring Agent31,S5,F3,Bag,8405.0
-Green Bay,71,Coloring Agent29,S4,F2,Bag,8390.0
-Green Bay,72,Coloring Agent11,S4,F6,Bag,8086.0
-Green Bay,73,Coloring Agent17,S1,F7,Bag,8085.0
-Green Bay,74,Coloring Agent3,S2,F11,Bag,8022.0
-Green Bay,75,Coloring Agent31,S1,F3,Bag,8013.678571428565
-Green Bay,76,Coloring Agent27,S2,F1,Bag,8001.0
-Green Bay,77,Coloring Agent20,S3,F11,Bag,8001.0
-Green Bay,78,Coloring Agent5,S4,F1,Bag,7952.0
-Green Bay,79,Coloring Agent27,S5,F4,Bag,7868.75
-Green Bay,80,Coloring Agent37,S5,F9,Bag,7815.0
-Green Bay,81,Coloring Agent40,S2,F5,Bag,7814.0
-Green Bay,82,Coloring Agent23,S2,F3,Bag,7748.980000000003
-Green Bay,83,Coloring Agent39,S1,F9,Bag,7679.0
-Green Bay,84,Coloring Agent10,S2,F6,Bag,7546.519999999997
-Green Bay,85,Coloring Agent17,S4,F5,Bag,7410.328330206379
-Green Bay,86,Coloring Agent10,S3,F6,Bag,7404.25
-Green Bay,87,Coloring Agent29,S3,F2,Bag,7387.19642857142
-Green Bay,88,Coloring Agent40,S1,F7,Bag,7325.0
-Green Bay,89,Coloring Agent12,S4,F10,Bag,7300.0
-Green Bay,90,Coloring Agent22,S4,F8,Bag,7296.169999999998
-Green Bay,91,Coloring Agent18,S5,F9,Bag,7290.919999999998
-Green Bay,92,Coloring Agent23,S4,F10,Bag,7198.5899999999965
-Green Bay,93,Coloring Agent31,S4,F2,Bag,7187.0
-Green Bay,94,Coloring Agent18,S2,F11,Bag,7142.0
-Green Bay,95,Coloring Agent13,S5,F10,Bag,7091.190000000002
-Green Bay,96,Coloring Agent29,S2,F3,Bag,7070.0
-Green Bay,97,Coloring Agent16,S1,F11,Bag,7060.25
-Green Bay,98,Coloring Agent2,S4,F1,Bag,7060.0
-Green Bay,99,Coloring Agent3,S5,F12,Bag,7050.5
-Green Bay,100,Coloring Agent14,S4,F8,Bag,7047.369999999999
-Green Bay,101,Coloring Agent40,S1,F6,Bag,7025.0
-Green Bay,102,Coloring Agent38,S2,F5,Bag,6999.0
-Green Bay,103,Coloring Agent12,S3,F9,Bag,6993.0
-Green Bay,104,Coloring Agent9,S5,F9,Bag,6963.100000000013
-Green Bay,105,Coloring Agent22,S4,F7,Bag,6956.0
-Green Bay,106,Coloring Agent31,S5,F2,Bag,6943.0
-Green Bay,107,Coloring Agent3,S4,F11,Bag,6939.5
-Green Bay,108,Coloring Agent11,S5,F2,Bag,6861.0
-Green Bay,109,Coloring Agent20,S4,F8,Bag,6857.7699999999895
-Green Bay,110,Coloring Agent5,S5,F3,Bag,6823.0
-Green Bay,111,Coloring Agent17,S2,F6,Bag,6796.0
-Green Bay,112,Coloring Agent32,S4,F7,Bag,6763.0
-Green Bay,113,Coloring Agent25,S3,F10,Bag,6742.099999999995
-Green Bay,114,Coloring Agent28,S5,F12,Bag,6726.0
-Green Bay,115,Coloring Agent36,S3,F8,Bag,6686.199999999997
-Green Bay,116,Coloring Agent8,S4,F8,Bag,6681.341130604291
-Green Bay,117,Coloring Agent27,S4,F4,Bag,6677.0
-Green Bay,118,Coloring Agent23,S4,F9,Bag,6650.0
-Green Bay,119,Coloring Agent2,S2,F1,Bag,6614.0
-Green Bay,120,Coloring Agent37,S4,F10,Bag,6523.300000000003
-Green Bay,121,Coloring Agent13,S2,F10,Bag,6496.0
-Green Bay,122,Coloring Agent25,S3,F11,Bag,6483.0
-Green Bay,123,Coloring Agent5,S4,F7,Bag,6416.0
-Green Bay,124,Coloring Agent17,S3,F6,Bag,6397.0
-Green Bay,125,Coloring Agent28,S2,F12,Bag,6359.490000000005
-Green Bay,126,Coloring Agent27,S1,F7,Bag,6346.0
-Green Bay,127,Coloring Agent29,S2,F4,Bag,6305.0
-Green Bay,128,Coloring Agent20,S2,F9,Bag,6298.0
-Green Bay,129,Coloring Agent39,S1,F8,Bag,6289.600000000002
-Green Bay,130,Coloring Agent9,S3,F9,Bag,6249.0
-Green Bay,131,Coloring Agent1,S1,F1,Bag,6203.0
-Green Bay,132,Coloring Agent23,S5,F8,Bag,6183.0
-Green Bay,133,Coloring Agent35,S3,F10,Bag,6181.0
-Green Bay,134,Coloring Agent10,S5,F10,Bag,6166.009999999995
-Green Bay,135,Coloring Agent30,S3,F5,Bag,6137.66216216216
-Green Bay,136,Coloring Agent18,S3,F10,Bag,6107.0
-Green Bay,137,Coloring Agent9,S1,F11,Bag,6083.0
-Green Bay,138,Coloring Agent37,S4,F8,Bag,6079.199999999997
-Green Bay,139,Coloring Agent23,S3,F4,Bag,6065.0
-Green Bay,140,Coloring Agent13,S1,F4,Bag,6064.959999999999
-Green Bay,141,Coloring Agent26,S1,F3,Bag,6060.0
-Green Bay,142,Coloring Agent24,S4,F7,Bag,6048.7565217391275
-Green Bay,143,Coloring Agent24,S2,F5,Bag,6045.800000000003
-Green Bay,144,Coloring Agent13,S2,F11,Bag,6040.070000000007
-Green Bay,145,Coloring Agent28,S3,F12,Bag,5980.0
-Green Bay,146,Coloring Agent11,S5,F1,Bag,5960.5
-Green Bay,147,Coloring Agent12,S4,F9,Bag,5945.0
-Green Bay,148,Coloring Agent27,S2,F2,Bag,5934.0
-Green Bay,149,Coloring Agent32,S3,F6,Bag,5924.0
-Green Bay,150,Coloring Agent30,S2,F6,Bag,5919.0
-Green Bay,151,Coloring Agent16,S2,F12,Bag,5894.999999999985
-Green Bay,152,Coloring Agent29,S2,F2,Bag,5865.0
-Green Bay,153,Coloring Agent26,S3,F1,Bag,5863.0
-Green Bay,154,Coloring Agent31,S2,F1,Bag,5722.0
-Green Bay,155,Coloring Agent9,S2,F11,Bag,5721.0
-Green Bay,156,Coloring Agent24,S4,F5,Bag,5702.2434782608725
-Green Bay,157,Coloring Agent1,S5,F1,Bag,5661.0
-Green Bay,158,Coloring Agent30,S2,F4,Bag,5612.175675675673
-Green Bay,159,Coloring Agent23,S1,F10,Bag,5609.240000000005
-Green Bay,160,Coloring Agent35,S1,F5,Bag,5577.555555555566
-Green Bay,161,Coloring Agent18,S4,F11,Bag,5571.0
-Green Bay,162,Coloring Agent14,S2,F11,Bag,5549.0
-Green Bay,163,Coloring Agent37,S3,F10,Bag,5516.0
-Green Bay,164,Coloring Agent31,S4,F1,Bag,5498.0
-Green Bay,165,Coloring Agent3,S2,F12,Bag,5497.5
-Green Bay,166,Coloring Agent36,S4,F12,Bag,5496.219999999994
-Green Bay,167,Coloring Agent35,S2,F7,Bag,5466.0
-Green Bay,168,Coloring Agent12,S2,F11,Bag,5450.0
-Green Bay,169,Coloring Agent15,S3,F4,Bag,5426.0
-Green Bay,170,Coloring Agent38,S1,F10,Bag,5330.100000000002
-Green Bay,171,Coloring Agent39,S5,F9,Bag,5323.0
-Green Bay,172,Coloring Agent18,S1,F8,Bag,5316.910000000018
-Green Bay,173,Coloring Agent29,S4,F1,Bag,5269.0
-Green Bay,174,Coloring Agent5,S3,F1,Bag,5244.0
-Green Bay,175,Coloring Agent16,S1,F12,Bag,5221.0
-Green Bay,176,Coloring Agent25,S5,F12,Bag,5155.0
-Green Bay,177,Coloring Agent20,S1,F9,Bag,5154.779999999999
-Green Bay,178,Coloring Agent36,S5,F11,Bag,5138.0
-Green Bay,179,Coloring Agent30,S3,F6,Bag,5128.0
-Green Bay,180,Coloring Agent40,S2,F1,Bag,5127.0
-Green Bay,181,Coloring Agent15,S1,F6,Bag,5109.1486486486465
-Green Bay,182,Coloring Agent40,S2,F3,Bag,5089.0
-Green Bay,183,Coloring Agent26,S1,F2,Bag,5083.0
-Green Bay,184,Coloring Agent26,S1,F4,Bag,5071.0
-Green Bay,185,Coloring Agent2,S4,F2,Bag,5054.0
-Green Bay,186,Coloring Agent11,S4,F4,Bag,5024.0
-Green Bay,187,Coloring Agent40,S2,F4,Bag,4977.0
-Green Bay,188,Coloring Agent16,S4,F12,Bag,4976.0
-Green Bay,189,Coloring Agent36,S4,F11,Bag,4958.0
-Green Bay,190,Coloring Agent5,S2,F2,Bag,4954.0
-Green Bay,191,Coloring Agent24,S5,F8,Bag,4952.100000000006
-Green Bay,192,Coloring Agent16,S4,F10,Bag,4934.0
-Green Bay,193,Coloring Agent6,S4,F10,Bag,4933.499999999996
-Green Bay,194,Coloring Agent12,S4,F8,Bag,4881.0
-Green Bay,195,Coloring Agent23,S5,F7,Bag,4868.772727272732
-Green Bay,196,Coloring Agent14,S2,F9,Bag,4857.0
-Green Bay,197,Coloring Agent31,S1,F2,Bag,4827.0
-Green Bay,198,Coloring Agent18,S1,F9,Bag,4824.0
-Green Bay,199,Coloring Agent22,S4,F5,Bag,4812.330000000002
-Green Bay,200,Coloring Agent30,S1,F6,Bag,4806.0
-Green Bay,201,Coloring Agent10,S4,F8,Bag,4764.0
-Green Bay,202,Coloring Agent24,S1,F3,Bag,4676.0
-Green Bay,203,Coloring Agent11,S3,F7,Bag,4651.5
-Green Bay,204,Coloring Agent7,S1,F12,Bag,4606.0
-Green Bay,205,Coloring Agent12,S5,F10,Bag,4586.0
-Green Bay,206,Coloring Agent33,S2,F6,Bag,4580.0
-Green Bay,207,Coloring Agent24,S2,F6,Bag,4574.0
-Green Bay,208,Coloring Agent13,S4,F5,Bag,4568.6979166666715
-Green Bay,209,Coloring Agent39,S2,F7,Bag,4555.0
-Green Bay,210,Coloring Agent25,S4,F12,Bag,4541.0
-Green Bay,211,Coloring Agent31,S5,F1,Bag,4506.0
-Green Bay,212,Coloring Agent40,S2,F2,Bag,4495.0
-Green Bay,213,Coloring Agent29,S4,F3,Bag,4465.0
-Green Bay,214,Coloring Agent36,S5,F10,Bag,4431.0
-Green Bay,215,Coloring Agent25,S5,F11,Bag,4423.799999999996
-Green Bay,216,Coloring Agent37,S5,F10,Bag,4410.399999999998
-Green Bay,217,Coloring Agent12,S4,F11,Bag,4274.450000000001
-Green Bay,218,Coloring Agent35,S2,F8,Bag,4208.6500000000015
-Green Bay,219,Coloring Agent39,S5,F10,Bag,4193.0
-Green Bay,220,Coloring Agent2,S2,F3,Bag,4182.0
-Green Bay,221,Coloring Agent35,S3,F9,Bag,4169.0
-Green Bay,222,Coloring Agent32,S1,F8,Bag,4159.560000000001
-Green Bay,223,Coloring Agent11,S3,F6,Bag,4148.5
-Green Bay,224,Coloring Agent2,S4,F3,Bag,4148.5
-Green Bay,225,Coloring Agent15,S4,F10,Bag,4105.000000000007
-Green Bay,226,Coloring Agent14,S5,F10,Bag,4099.0
-Green Bay,227,Coloring Agent13,S1,F7,Bag,4085.0
-Green Bay,228,Coloring Agent4,S2,F10,Bag,4084.5
-Green Bay,229,Coloring Agent5,S5,F5,Bag,4066.0
-Green Bay,230,Coloring Agent18,S5,F11,Bag,4057.5800000000017
-Green Bay,231,Coloring Agent27,S3,F4,Bag,4043.0
-Green Bay,232,Coloring Agent24,S1,F1,Bag,4040.0
-Green Bay,233,Coloring Agent1,S1,F3,Bag,4036.2000000000007
-Green Bay,234,Coloring Agent5,S2,F5,Bag,4031.0
-Green Bay,235,Coloring Agent17,S4,F6,Bag,4029.671669793621
-Green Bay,236,Coloring Agent2,S5,F2,Bag,4015.58928571429
-Green Bay,237,Coloring Agent12,S1,F11,Bag,3942.0
-Green Bay,238,Coloring Agent32,S3,F8,Bag,3933.0
-Green Bay,239,Coloring Agent3,S4,F10,Bag,3888.0
-Green Bay,240,Coloring Agent5,S5,F1,Bag,3884.0
-Green Bay,241,Coloring Agent29,S3,F1,Bag,3849.0
-Green Bay,242,Coloring Agent5,S5,F4,Bag,3784.0
-Green Bay,243,Coloring Agent14,S5,F9,Bag,3760.110000000015
-Green Bay,244,Coloring Agent26,S5,F1,Bag,3759.0
-Green Bay,245,Coloring Agent24,S4,F6,Bag,3709.0
-Green Bay,246,Coloring Agent30,S3,F7,Bag,3694.33783783784
-Green Bay,247,Coloring Agent5,S4,F5,Bag,3680.0
-Green Bay,248,Coloring Agent26,S1,F1,Bag,3644.0
-Green Bay,249,Coloring Agent13,S1,F6,Bag,3637.0
-Green Bay,250,Coloring Agent32,S4,F11,Bag,3633.471464019851
-Green Bay,251,Coloring Agent38,S5,F11,Bag,3611.0600000000013
-Green Bay,252,Coloring Agent5,S1,F4,Bag,3591.0
-Green Bay,253,Coloring Agent12,S3,F10,Bag,3550.0
-Green Bay,254,Coloring Agent35,S2,F6,Bag,3525.3499999999985
-Green Bay,255,Coloring Agent1,S3,F3,Bag,3520.0
-Green Bay,256,Coloring Agent1,S5,F3,Bag,3503.0
-Green Bay,257,Coloring Agent9,S3,F10,Bag,3492.8499999999985
-Green Bay,258,Coloring Agent35,S3,F7,Bag,3478.0
-Green Bay,259,Coloring Agent33,S5,F4,Bag,3471.3648648648523
-Green Bay,260,Coloring Agent38,S1,F9,Bag,3469.899999999998
-Green Bay,261,Coloring Agent9,S3,F8,Bag,3458.1500000000015
-Green Bay,262,Coloring Agent40,S1,F8,Bag,3446.6875
-Green Bay,263,Coloring Agent11,S1,F6,Bag,3411.0
-Green Bay,264,Coloring Agent38,S5,F10,Bag,3409.0
-Green Bay,265,Coloring Agent12,S1,F12,Bag,3401.050000000003
-Green Bay,266,Coloring Agent40,S3,F4,Bag,3372.5000000000036
-Green Bay,267,Coloring Agent15,S4,F9,Bag,3372.4999999999927
-Green Bay,268,Coloring Agent18,S4,F12,Bag,3350.109999999986
-Green Bay,269,Coloring Agent20,S2,F8,Bag,3335.0
-Green Bay,270,Coloring Agent38,S2,F4,Bag,3309.0
-Green Bay,271,Coloring Agent17,S3,F4,Bag,3302.1360225140816
-Green Bay,272,Coloring Agent16,S3,F12,Bag,3218.75
-Green Bay,273,Coloring Agent9,S1,F10,Bag,3213.330000000009
-Green Bay,274,Coloring Agent18,S1,F10,Bag,3212.0
-Green Bay,275,Coloring Agent38,S4,F12,Bag,3207.2142857142862
-Green Bay,276,Coloring Agent23,S2,F5,Bag,3200.019999999997
-Green Bay,277,Coloring Agent39,S4,F6,Bag,3179.0
-Green Bay,278,Coloring Agent35,S5,F8,Bag,3140.0
-Green Bay,279,Coloring Agent39,S2,F8,Bag,3138.0
-Green Bay,280,Coloring Agent29,S2,F5,Bag,3124.349999999984
-Green Bay,281,Coloring Agent9,S4,F12,Bag,3094.166666666675
-Green Bay,282,Coloring Agent10,S2,F5,Bag,3081.0
-Green Bay,283,Coloring Agent24,S1,F2,Bag,3073.0
-Green Bay,284,Coloring Agent26,S2,F2,Bag,3022.0
-Green Bay,285,Coloring Agent17,S3,F8,Bag,3008.0
-Green Bay,286,Coloring Agent8,S4,F9,Bag,2982.0
-Green Bay,287,Coloring Agent32,S3,F5,Bag,2979.774193548379
-Green Bay,288,Coloring Agent11,S1,F8,Bag,2963.0
-Green Bay,289,Coloring Agent10,S1,F10,Bag,2933.3499999999985
-Green Bay,290,Coloring Agent33,S1,F7,Bag,2905.87000000001
-Green Bay,291,Coloring Agent39,S2,F6,Bag,2889.0
-Green Bay,292,Coloring Agent23,S3,F5,Bag,2888.0
-Green Bay,293,Coloring Agent9,S4,F10,Bag,2884.0
-Green Bay,294,Coloring Agent23,S1,F9,Bag,2820.7599999999948
-Green Bay,295,Coloring Agent5,S4,F4,Bag,2789.0
-Green Bay,296,Coloring Agent9,S2,F9,Bag,2784.2499999999927
-Green Bay,297,Coloring Agent18,S3,F8,Bag,2747.9000000000015
-Green Bay,298,Coloring Agent2,S5,F1,Bag,2713.0
-Green Bay,299,Coloring Agent32,S4,F10,Bag,2670.0
-Green Bay,300,Coloring Agent36,S3,F10,Bag,2651.300000000003
-Green Bay,301,Coloring Agent2,S3,F2,Bag,2639.571428571435
-Green Bay,302,Coloring Agent24,S1,F4,Bag,2638.0
-Green Bay,303,Coloring Agent25,S3,F12,Bag,2627.400000000005
-Green Bay,304,Coloring Agent38,S2,F3,Bag,2624.6500000000015
-Green Bay,305,Coloring Agent20,S2,F7,Bag,2622.729999999996
-Green Bay,306,Coloring Agent32,S3,F7,Bag,2613.0
-Green Bay,307,Coloring Agent13,S5,F11,Bag,2588.8099999999977
-Green Bay,308,Coloring Agent22,S4,F6,Bag,2583.0
-Green Bay,309,Coloring Agent24,S5,F10,Bag,2558.399999999994
-Green Bay,310,Coloring Agent37,S1,F9,Bag,2528.0
-Green Bay,311,Coloring Agent17,S5,F8,Bag,2517.0000000000073
-Green Bay,312,Coloring Agent12,S2,F9,Bag,2514.800000000003
-Green Bay,313,Coloring Agent12,S2,F10,Bag,2514.0
-Green Bay,314,Coloring Agent17,S3,F5,Bag,2483.0
-Green Bay,315,Coloring Agent12,S4,F7,Bag,2479.5499999999993
-Green Bay,316,Coloring Agent5,S5,F2,Bag,2436.0
-Green Bay,317,Coloring Agent40,S3,F5,Bag,2435.0
-Green Bay,318,Coloring Agent22,S2,F9,Bag,2430.5999999999985
-Green Bay,319,Coloring Agent27,S5,F5,Bag,2413.75
-Green Bay,320,Coloring Agent23,S3,F6,Bag,2410.709999999999
-Green Bay,321,Coloring Agent12,S3,F11,Bag,2378.0
-Green Bay,322,Coloring Agent1,S2,F1,Bag,2374.879310344826
-Green Bay,323,Coloring Agent33,S5,F6,Bag,2358.6351351351477
-Green Bay,324,Coloring Agent31,S4,F4,Bag,2343.5
-Green Bay,325,Coloring Agent11,S4,F5,Bag,2323.0
-Green Bay,326,Coloring Agent30,S2,F7,Bag,2318.824324324327
-Green Bay,327,Coloring Agent36,S5,F9,Bag,2300.0
-Green Bay,328,Coloring Agent39,S2,F9,Bag,2275.0
-Green Bay,329,Coloring Agent36,S1,F11,Bag,2256.4400000000023
-Green Bay,330,Coloring Agent40,S4,F5,Bag,2209.8125
-Green Bay,331,Coloring Agent12,S5,F11,Bag,2200.0
-Green Bay,332,Coloring Agent20,S2,F10,Bag,2151.770000000004
-Green Bay,333,Coloring Agent5,S5,F6,Bag,2149.0
-Green Bay,334,Coloring Agent15,S2,F9,Bag,2126.4999999999854
-Green Bay,335,Coloring Agent2,S2,F2,Bag,2109.0
-Green Bay,336,Coloring Agent22,S1,F1,Bag,2090.0
-Green Bay,337,Coloring Agent32,S5,F9,Bag,2089.4000000000087
-Green Bay,338,Coloring Agent40,S4,F6,Bag,2057.6875
-Green Bay,339,Coloring Agent17,S3,F9,Bag,2035.3639774859184
-Green Bay,340,Coloring Agent40,S3,F6,Bag,2024.0
-Green Bay,341,Coloring Agent12,S3,F12,Bag,2019.0000000000036
-Green Bay,342,Coloring Agent17,S2,F5,Bag,2004.0
-Green Bay,343,Coloring Agent35,S3,F8,Bag,1999.0
-Green Bay,344,Coloring Agent5,S5,F7,Bag,1985.5900000000038
-Green Bay,345,Coloring Agent18,S3,F11,Bag,1965.0999999999985
-Green Bay,346,Coloring Agent29,S4,F4,Bag,1958.5
-Green Bay,347,Coloring Agent15,S2,F8,Bag,1925.0
-Green Bay,348,Coloring Agent31,S2,F2,Bag,1917.6840659340633
-Green Bay,349,Coloring Agent28,S4,F11,Bag,1887.5800000000017
-Green Bay,350,Coloring Agent11,S1,F7,Bag,1885.0
-Green Bay,351,Coloring Agent24,S5,F9,Bag,1852.0
-Green Bay,352,Coloring Agent15,S3,F6,Bag,1848.0
-Green Bay,353,Coloring Agent4,S3,F11,Bag,1843.0
-Green Bay,354,Coloring Agent9,S5,F10,Bag,1836.899999999987
-Green Bay,355,Coloring Agent14,S1,F9,Bag,1833.0
-Green Bay,356,Coloring Agent11,S4,F3,Bag,1833.0
-Green Bay,357,Coloring Agent37,S1,F7,Bag,1830.9000000000015
-Green Bay,358,Coloring Agent33,S4,F10,Bag,1793.070000000007
-Green Bay,359,Coloring Agent23,S5,F9,Bag,1772.0
-Green Bay,360,Coloring Agent6,S4,F9,Bag,1766.0
-Green Bay,361,Coloring Agent13,S1,F8,Bag,1750.0400000000009
-Green Bay,362,Coloring Agent23,S2,F4,Bag,1736.0
-Green Bay,363,Coloring Agent14,S2,F10,Bag,1721.0
-Green Bay,364,Coloring Agent39,S4,F7,Bag,1720.0
-Green Bay,365,Coloring Agent14,S1,F10,Bag,1685.0
-Green Bay,366,Coloring Agent29,S2,F1,Bag,1679.0
-Green Bay,367,Coloring Agent22,S2,F8,Bag,1659.4000000000015
-Green Bay,368,Coloring Agent32,S4,F6,Bag,1626.5285359801492
-Green Bay,369,Coloring Agent40,S5,F6,Bag,1621.5
-Green Bay,370,Coloring Agent28,S4,F12,Bag,1607.0
-Green Bay,371,Coloring Agent10,S5,F11,Bag,1576.4900000000052
-Green Bay,372,Coloring Agent39,S1,F10,Bag,1571.3999999999978
-Green Bay,373,Coloring Agent14,S3,F7,Bag,1569.0
-Green Bay,374,Coloring Agent32,S4,F9,Bag,1557.0
-Green Bay,375,Coloring Agent22,S5,F9,Bag,1535.9399999999987
-Green Bay,376,Coloring Agent11,S1,F9,Bag,1534.25
-Green Bay,377,Coloring Agent4,S2,F9,Bag,1515.5
-Green Bay,378,Coloring Agent5,S2,F4,Bag,1467.0
-Green Bay,379,Coloring Agent7,S5,F10,Bag,1456.0
-Green Bay,380,Coloring Agent8,S4,F10,Bag,1434.1588693957092
-Green Bay,381,Coloring Agent13,S1,F5,Bag,1428.0
-Green Bay,382,Coloring Agent32,S3,F9,Bag,1422.7258064516209
-Green Bay,383,Coloring Agent30,S1,F7,Bag,1403.0
-Green Bay,384,Coloring Agent14,S3,F6,Bag,1394.6833333333198
-Green Bay,385,Coloring Agent14,S3,F8,Bag,1392.0
-Green Bay,386,Coloring Agent7,S5,F9,Bag,1378.0
-Green Bay,387,Coloring Agent32,S1,F9,Bag,1377.0
-Green Bay,388,Coloring Agent38,S2,F7,Bag,1315.8499999999985
-Green Bay,389,Coloring Agent33,S2,F7,Bag,1308.0
-Green Bay,390,Coloring Agent13,S4,F8,Bag,1282.8020833333285
-Green Bay,391,Coloring Agent10,S4,F9,Bag,1271.0178571428587
-Green Bay,392,Coloring Agent35,S1,F3,Bag,1247.4444444444343
-Green Bay,393,Coloring Agent18,S5,F10,Bag,1224.0
-Green Bay,394,Coloring Agent36,S4,F10,Bag,1198.280000000006
-Green Bay,395,Coloring Agent14,S2,F8,Bag,1162.4628205128029
-Green Bay,396,Coloring Agent38,S5,F9,Bag,1082.4399999999987
-Green Bay,397,Coloring Agent5,S4,F6,Bag,1074.0
-Green Bay,398,Coloring Agent40,S1,F5,Bag,1053.3125
-Green Bay,399,Coloring Agent37,S5,F8,Bag,1032.0
-Green Bay,400,Coloring Agent14,S1,F8,Bag,1023.3999999999942
-Green Bay,401,Coloring Agent27,S3,F5,Bag,1007.625
-Green Bay,402,Coloring Agent5,S4,F3,Bag,1002.0
-Green Bay,403,Coloring Agent33,S2,F2,Bag,887.1544401544306
-Green Bay,404,Coloring Agent17,S1,F8,Bag,883.6463414634345
-Green Bay,405,Coloring Agent36,S5,F12,Bag,848.6999999999825
-Green Bay,406,Coloring Agent31,S1,F1,Bag,639.0
-Green Bay,407,Coloring Agent11,S5,F3,Bag,611.0
-Green Bay,408,Coloring Agent37,S5,F7,Bag,550.1000000000022
-Green Bay,409,Coloring Agent33,S4,F9,Bag,524.429999999993
-Green Bay,410,Coloring Agent33,S2,F3,Bag,519.0
-Green Bay,411,Coloring Agent39,S4,F5,Bag,518.7999999999956
-Green Bay,412,Coloring Agent36,S5,F8,Bag,517.3000000000175
-Green Bay,413,Coloring Agent39,S4,F10,Bag,516.2000000000044
-Green Bay,414,Coloring Agent10,S2,F3,Bag,480.4800000000032
-Green Bay,415,Coloring Agent27,S3,F3,Bag,461.875
-Green Bay,416,Coloring Agent9,S2,F12,Bag,455.2500000000073
-Green Bay,417,Coloring Agent28,S1,F11,Bag,428.40000000000146
-Green Bay,418,Coloring Agent4,S3,F10,Bag,378.02777777776646
-Green Bay,419,Coloring Agent14,S5,F11,Bag,343.38999999998487
-Green Bay,420,Coloring Agent32,S5,F8,Bag,313.09999999999127
-Green Bay,421,Coloring Agent29,S1,F2,Bag,271.3160714285641
-Green Bay,422,Coloring Agent24,S3,F11,Bag,186.61999999999534
-Green Bay,423,Coloring Agent11,S2,F9,Bag,11.069444444437977
-Green Bay,424,Coloring Agent35,S3,F8,Box,12797.5
-Green Bay,425,Coloring Agent27,S2,F1,Box,10705.0
-Green Bay,426,Coloring Agent35,S5,F7,Box,10341.720000000005
-Green Bay,427,Coloring Agent27,S3,F4,Box,9497.5
-Green Bay,428,Coloring Agent33,S4,F9,Box,9122.5
-Green Bay,429,Coloring Agent4,S4,F12,Box,8476.095029239754
-Green Bay,430,Coloring Agent32,S3,F7,Box,8300.0
-Green Bay,431,Coloring Agent5,S3,F2,Box,7572.5
-Green Bay,432,Coloring Agent5,S5,F6,Box,7542.5
-Green Bay,433,Coloring Agent25,S3,F11,Box,7027.5
-Green Bay,434,Coloring Agent15,S1,F6,Box,6992.5
-Green Bay,435,Coloring Agent11,S4,F4,Box,6955.0
-Green Bay,436,Coloring Agent31,S2,F1,Box,6950.0
-Green Bay,437,Coloring Agent29,S2,F1,Box,6605.0
-Green Bay,438,Coloring Agent22,S1,F1,Box,6547.5
-Green Bay,439,Coloring Agent31,S5,F2,Box,6495.0
-Green Bay,440,Coloring Agent23,S2,F4,Box,6445.0
-Green Bay,441,Coloring Agent5,S4,F5,Box,6420.0
-Green Bay,442,Coloring Agent32,S5,F8,Box,6397.5
-Green Bay,443,Coloring Agent17,S5,F7,Box,6282.999999999993
-Green Bay,444,Coloring Agent28,S5,F12,Box,6237.5
-Green Bay,445,Coloring Agent18,S5,F9,Box,6095.0
-Green Bay,446,Coloring Agent39,S4,F8,Box,6060.0
-Green Bay,447,Coloring Agent36,S3,F9,Box,5870.0
-Green Bay,448,Coloring Agent5,S2,F2,Box,5867.5
-Green Bay,449,Coloring Agent1,S5,F3,Box,5555.0
-Green Bay,450,Coloring Agent1,S1,F1,Box,5550.0
-Green Bay,451,Coloring Agent20,S4,F8,Box,5485.0
-Green Bay,452,Coloring Agent5,S5,F2,Box,5480.0
-Green Bay,453,Coloring Agent20,S3,F10,Box,5414.680000000008
-Green Bay,454,Coloring Agent40,S4,F5,Box,5412.5
-Green Bay,455,Coloring Agent28,S3,F12,Box,5402.5
-Green Bay,456,Coloring Agent24,S2,F5,Box,5330.0
-Green Bay,457,Coloring Agent12,S1,F11,Box,5207.5
-Green Bay,458,Coloring Agent9,S4,F9,Box,5173.333333333325
-Green Bay,459,Coloring Agent38,S3,F9,Box,5168.880000000001
-Green Bay,460,Coloring Agent16,S3,F12,Box,5132.5
-Green Bay,461,Coloring Agent5,S4,F2,Box,5120.0
-Green Bay,462,Coloring Agent23,S3,F5,Box,5097.5
-Green Bay,463,Coloring Agent17,S3,F8,Box,5097.5
-Green Bay,464,Coloring Agent18,S4,F11,Box,5050.0
-Green Bay,465,Coloring Agent40,S5,F6,Box,4997.5
-Green Bay,466,Coloring Agent26,S5,F2,Box,4983.000000000004
-Green Bay,467,Coloring Agent37,S3,F9,Box,4938.9000000000015
-Green Bay,468,Coloring Agent29,S1,F1,Box,4845.0
-Green Bay,469,Coloring Agent7,S5,F8,Box,4818.0
-Green Bay,470,Coloring Agent1,S5,F1,Box,4715.0
-Green Bay,471,Coloring Agent22,S2,F8,Box,4710.0
-Green Bay,472,Coloring Agent2,S2,F1,Box,4695.0
-Green Bay,473,Coloring Agent37,S4,F8,Box,4615.0
-Green Bay,474,Coloring Agent9,S4,F10,Box,4595.0
-Green Bay,475,Coloring Agent38,S5,F10,Box,4537.5
-Green Bay,476,Coloring Agent40,S2,F3,Box,4515.0
-Green Bay,477,Coloring Agent33,S2,F3,Box,4515.0
-Green Bay,478,Coloring Agent29,S2,F3,Box,4427.5
-Green Bay,479,Coloring Agent18,S2,F11,Box,4411.120000000003
-Green Bay,480,Coloring Agent26,S2,F1,Box,4397.5
-Green Bay,481,Coloring Agent14,S4,F7,Box,4392.630000000001
-Green Bay,482,Coloring Agent25,S2,F11,Box,4323.499999999996
-Green Bay,483,Coloring Agent24,S1,F2,Box,4237.5
-Green Bay,484,Coloring Agent18,S5,F10,Box,4212.5
-Green Bay,485,Coloring Agent14,S1,F9,Box,4142.5
-Green Bay,486,Coloring Agent4,S2,F9,Box,4080.0
-Green Bay,487,Coloring Agent38,S4,F11,Box,4055.0
-Green Bay,488,Coloring Agent14,S1,F10,Box,3992.5
-Green Bay,489,Coloring Agent11,S4,F3,Box,3945.0
-Green Bay,490,Coloring Agent18,S3,F9,Box,3905.0
-Green Bay,491,Coloring Agent15,S3,F4,Box,3880.0
-Green Bay,492,Coloring Agent29,S4,F2,Box,3807.5
-Green Bay,493,Coloring Agent5,S2,F1,Box,3755.0
-Green Bay,494,Coloring Agent30,S2,F6,Box,3750.0
-Green Bay,495,Coloring Agent23,S2,F3,Box,3750.0
-Green Bay,496,Coloring Agent14,S3,F6,Box,3665.0
-Green Bay,497,Coloring Agent38,S2,F3,Box,3640.0
-Green Bay,498,Coloring Agent37,S3,F10,Box,3625.0999999999985
-Green Bay,499,Coloring Agent5,S5,F4,Box,3607.5
-Green Bay,500,Coloring Agent18,S1,F10,Box,3597.089999999982
-Green Bay,501,Coloring Agent39,S2,F5,Box,3527.5
-Green Bay,502,Coloring Agent11,S2,F8,Box,3522.5
-Green Bay,503,Coloring Agent10,S3,F6,Box,3475.0
-Green Bay,504,Coloring Agent24,S1,F4,Box,3453.0
-Green Bay,505,Coloring Agent5,S4,F1,Box,3435.0
-Green Bay,506,Coloring Agent12,S4,F10,Box,3432.5
-Green Bay,507,Coloring Agent39,S2,F9,Box,3415.5
-Green Bay,508,Coloring Agent23,S5,F9,Box,3413.7272727272684
-Green Bay,509,Coloring Agent25,S4,F11,Box,3372.5
-Green Bay,510,Coloring Agent31,S1,F1,Box,3327.5
-Green Bay,511,Coloring Agent36,S4,F10,Box,3307.5
-Green Bay,512,Coloring Agent15,S2,F7,Box,3288.5000000000146
-Green Bay,513,Coloring Agent33,S5,F4,Box,3270.0
-Green Bay,514,Coloring Agent40,S3,F4,Box,3260.0
-Green Bay,515,Coloring Agent5,S2,F5,Box,3240.0
-Green Bay,516,Coloring Agent11,S1,F5,Box,3206.75
-Green Bay,517,Coloring Agent33,S2,F2,Box,3170.0
-Green Bay,518,Coloring Agent25,S5,F11,Box,3155.0
-Green Bay,519,Coloring Agent17,S1,F6,Box,3152.5
-Green Bay,520,Coloring Agent23,S5,F7,Box,3122.5
-Green Bay,521,Coloring Agent10,S2,F5,Box,3117.5
-Green Bay,522,Coloring Agent25,S5,F12,Box,3106.2000000000044
-Green Bay,523,Coloring Agent2,S4,F1,Box,3097.5
-Green Bay,524,Coloring Agent20,S2,F7,Box,3090.0
-Green Bay,525,Coloring Agent5,S1,F3,Box,3082.5
-Green Bay,526,Coloring Agent40,S5,F7,Box,3061.0
-Green Bay,527,Coloring Agent37,S4,F9,Box,3022.5
-Green Bay,528,Coloring Agent13,S1,F6,Box,2995.0
-Green Bay,529,Coloring Agent40,S3,F6,Box,2988.4999999999964
-Green Bay,530,Coloring Agent31,S1,F2,Box,2977.5
-Green Bay,531,Coloring Agent24,S1,F1,Box,2950.0
-Green Bay,532,Coloring Agent5,S4,F8,Box,2941.0000000000073
-Green Bay,533,Coloring Agent22,S1,F2,Box,2917.5
-Green Bay,534,Coloring Agent27,S4,F4,Box,2875.0
-Green Bay,535,Coloring Agent18,S3,F8,Box,2875.0
-Green Bay,536,Coloring Agent33,S2,F4,Box,2867.5
-Green Bay,537,Coloring Agent16,S4,F11,Box,2862.5
-Green Bay,538,Coloring Agent28,S2,F12,Box,2862.4999999999945
-Green Bay,539,Coloring Agent24,S5,F8,Box,2830.0
-Green Bay,540,Coloring Agent26,S1,F4,Box,2813.5351170568574
-Green Bay,541,Coloring Agent23,S3,F4,Box,2767.5
-Green Bay,542,Coloring Agent5,S5,F3,Box,2750.0
-Green Bay,543,Coloring Agent33,S2,F7,Box,2745.3455598455694
-Green Bay,544,Coloring Agent9,S2,F11,Box,2742.5
-Green Bay,545,Coloring Agent37,S5,F8,Box,2715.0
-Green Bay,546,Coloring Agent25,S4,F10,Box,2684.800000000003
-Green Bay,547,Coloring Agent10,S4,F8,Box,2677.5
-Green Bay,548,Coloring Agent25,S1,F11,Box,2669.7999999999993
-Green Bay,549,Coloring Agent36,S5,F10,Box,2667.5
-Green Bay,550,Coloring Agent1,S3,F3,Box,2664.0499999999993
-Green Bay,551,Coloring Agent37,S5,F7,Box,2647.5
-Green Bay,552,Coloring Agent15,S3,F3,Box,2617.5
-Green Bay,553,Coloring Agent24,S4,F6,Box,2565.0
-Green Bay,554,Coloring Agent9,S2,F9,Box,2540.0
-Green Bay,555,Coloring Agent29,S4,F1,Box,2510.0
-Green Bay,556,Coloring Agent39,S5,F8,Box,2492.300000000003
-Green Bay,557,Coloring Agent17,S3,F4,Box,2477.5
-Green Bay,558,Coloring Agent13,S3,F8,Box,2474.639999999996
-Green Bay,559,Coloring Agent20,S3,F11,Box,2424.3199999999924
-Green Bay,560,Coloring Agent12,S1,F10,Box,2409.449999999997
-Green Bay,561,Coloring Agent28,S4,F11,Box,2372.5
-Green Bay,562,Coloring Agent3,S4,F10,Box,2372.5
-Green Bay,563,Coloring Agent35,S5,F8,Box,2358.279999999995
-Green Bay,564,Coloring Agent12,S2,F9,Box,2347.5
-Green Bay,565,Coloring Agent12,S2,F10,Box,2340.0
-Green Bay,566,Coloring Agent27,S4,F3,Box,2325.7499999999964
-Green Bay,567,Coloring Agent2,S3,F1,Box,2315.0
-Green Bay,568,Coloring Agent40,S1,F7,Box,2270.0
-Green Bay,569,Coloring Agent32,S1,F9,Box,2265.0
-Green Bay,570,Coloring Agent22,S5,F7,Box,2218.0600000000013
-Green Bay,571,Coloring Agent24,S4,F5,Box,2215.0
-Green Bay,572,Coloring Agent17,S3,F5,Box,2202.5
-Green Bay,573,Coloring Agent39,S2,F6,Box,2200.0
-Green Bay,574,Coloring Agent13,S4,F7,Box,2182.5
-Green Bay,575,Coloring Agent13,S2,F10,Box,2182.5
-Green Bay,576,Coloring Agent28,S3,F11,Box,2179.25
-Green Bay,577,Coloring Agent13,S4,F6,Box,2155.0
-Green Bay,578,Coloring Agent9,S1,F11,Box,2143.669999999991
-Green Bay,579,Coloring Agent23,S1,F9,Box,2130.0
-Green Bay,580,Coloring Agent22,S4,F7,Box,2112.5
-Green Bay,581,Coloring Agent32,S3,F5,Box,2107.5
-Green Bay,582,Coloring Agent9,S4,F11,Box,2107.5
-Green Bay,583,Coloring Agent8,S4,F8,Box,2102.5
-Green Bay,584,Coloring Agent37,S1,F7,Box,2095.0
-Green Bay,585,Coloring Agent1,S5,F4,Box,2087.5
-Green Bay,586,Coloring Agent17,S1,F7,Box,2077.5
-Green Bay,587,Coloring Agent5,S2,F4,Box,2070.0
-Green Bay,588,Coloring Agent33,S3,F9,Box,2067.820000000007
-Green Bay,589,Coloring Agent4,S3,F10,Box,2065.0
-Green Bay,590,Coloring Agent14,S2,F10,Box,2050.0
-Green Bay,591,Coloring Agent5,S2,F6,Box,2040.7000000000044
-Green Bay,592,Coloring Agent27,S5,F4,Box,2037.5
-Green Bay,593,Coloring Agent30,S1,F5,Box,2021.0
-Green Bay,594,Coloring Agent39,S4,F5,Box,1972.5
-Green Bay,595,Coloring Agent1,S5,F2,Box,1962.5
-Green Bay,596,Coloring Agent11,S1,F7,Box,1960.0
-Green Bay,597,Coloring Agent37,S5,F9,Box,1950.0
-Green Bay,598,Coloring Agent15,S5,F9,Box,1943.1999999999898
-Green Bay,599,Coloring Agent10,S5,F10,Box,1937.5
-Green Bay,600,Coloring Agent12,S5,F10,Box,1915.0
-Green Bay,601,Coloring Agent5,S1,F4,Box,1908.6500000000015
-Green Bay,602,Coloring Agent18,S1,F9,Box,1905.0
-Green Bay,603,Coloring Agent5,S4,F6,Box,1902.5
-Green Bay,604,Coloring Agent36,S3,F8,Box,1887.5
-Green Bay,605,Coloring Agent32,S1,F10,Box,1878.4399999999987
-Green Bay,606,Coloring Agent5,S3,F3,Box,1873.6000000000022
-Green Bay,607,Coloring Agent25,S2,F12,Box,1822.5000000000036
-Green Bay,608,Coloring Agent31,S4,F3,Box,1817.5
-Green Bay,609,Coloring Agent36,S1,F12,Box,1808.5599999999977
-Green Bay,610,Coloring Agent14,S3,F8,Box,1796.8166666666802
-Green Bay,611,Coloring Agent31,S5,F3,Box,1785.0
-Green Bay,612,Coloring Agent35,S3,F10,Box,1778.0
-Green Bay,613,Coloring Agent29,S3,F1,Box,1765.0
-Green Bay,614,Coloring Agent30,S2,F5,Box,1760.0
-Green Bay,615,Coloring Agent3,S5,F12,Box,1749.5
-Green Bay,616,Coloring Agent38,S2,F6,Box,1742.5
-Green Bay,617,Coloring Agent28,S4,F12,Box,1727.4999999999982
-Green Bay,618,Coloring Agent9,S2,F10,Box,1725.0
-Green Bay,619,Coloring Agent27,S3,F3,Box,1710.0
-Green Bay,620,Coloring Agent14,S2,F9,Box,1700.0
-Green Bay,621,Coloring Agent36,S5,F11,Box,1697.5
-Green Bay,622,Coloring Agent33,S1,F7,Box,1695.0
-Green Bay,623,Coloring Agent7,S1,F12,Box,1685.0
-Green Bay,624,Coloring Agent2,S5,F1,Box,1665.0
-Green Bay,625,Coloring Agent24,S2,F6,Box,1650.199999999997
-Green Bay,626,Coloring Agent15,S3,F6,Box,1584.766475835444
-Green Bay,627,Coloring Agent35,S4,F8,Box,1570.479999999996
-Green Bay,628,Coloring Agent5,S1,F1,Box,1562.5
-Green Bay,629,Coloring Agent39,S5,F9,Box,1547.5
-Green Bay,630,Coloring Agent32,S2,F10,Box,1540.0
-Green Bay,631,Coloring Agent26,S2,F2,Box,1493.2999999999993
-Green Bay,632,Coloring Agent20,S2,F8,Box,1492.5
-Green Bay,633,Coloring Agent14,S5,F9,Box,1477.5
-Green Bay,634,Coloring Agent10,S2,F4,Box,1477.5
-Green Bay,635,Coloring Agent11,S5,F2,Box,1467.5
-Green Bay,636,Coloring Agent15,S2,F8,Box,1460.0
-Green Bay,637,Coloring Agent37,S2,F10,Box,1453.4000000000015
-Green Bay,638,Coloring Agent30,S1,F6,Box,1450.0
-Green Bay,639,Coloring Agent38,S5,F9,Box,1440.0
-Green Bay,640,Coloring Agent11,S4,F6,Box,1431.68111455108
-Green Bay,641,Coloring Agent22,S3,F9,Box,1414.020000000004
-Green Bay,642,Coloring Agent20,S1,F8,Box,1412.5
-Green Bay,643,Coloring Agent39,S5,F10,Box,1404.199999999997
-Green Bay,644,Coloring Agent18,S1,F8,Box,1385.0
-Green Bay,645,Coloring Agent26,S3,F1,Box,1335.0
-Green Bay,646,Coloring Agent24,S1,F3,Box,1332.5
-Green Bay,647,Coloring Agent12,S3,F9,Box,1332.5
-Green Bay,648,Coloring Agent29,S2,F2,Box,1327.5
-Green Bay,649,Coloring Agent12,S3,F8,Box,1327.4999999999964
-Green Bay,650,Coloring Agent15,S4,F9,Box,1322.5
-Green Bay,651,Coloring Agent38,S2,F5,Box,1280.0
-Green Bay,652,Coloring Agent35,S3,F7,Box,1277.5
-Green Bay,653,Coloring Agent15,S3,F5,Box,1277.5
-Green Bay,654,Coloring Agent10,S1,F8,Box,1276.6500000000015
-Green Bay,655,Coloring Agent40,S2,F2,Box,1260.0
-Green Bay,656,Coloring Agent27,S1,F7,Box,1259.0
-Green Bay,657,Coloring Agent20,S2,F9,Box,1250.0
-Green Bay,658,Coloring Agent32,S4,F10,Box,1245.0
-Green Bay,659,Coloring Agent12,S5,F9,Box,1241.199999999997
-Green Bay,660,Coloring Agent5,S2,F3,Box,1235.0
-Green Bay,661,Coloring Agent32,S4,F7,Box,1212.5
-Green Bay,662,Coloring Agent27,S1,F6,Box,1195.0
-Green Bay,663,Coloring Agent39,S1,F8,Box,1180.0
-Green Bay,664,Coloring Agent35,S1,F4,Box,1180.0
-Green Bay,665,Coloring Agent13,S1,F7,Box,1160.0
-Green Bay,666,Coloring Agent37,S1,F9,Box,1155.0999999999985
-Green Bay,667,Coloring Agent7,S5,F10,Box,1148.0
-Green Bay,668,Coloring Agent20,S1,F7,Box,1144.7199999999993
-Green Bay,669,Coloring Agent6,S4,F8,Box,1120.5000000000036
-Green Bay,670,Coloring Agent39,S4,F7,Box,1112.5
-Green Bay,671,Coloring Agent5,S5,F1,Box,1112.5
-Green Bay,672,Coloring Agent14,S2,F11,Box,1092.5
-Green Bay,673,Coloring Agent5,S4,F7,Box,1020.0
-Green Bay,674,Coloring Agent23,S3,F3,Box,1011.2900000000009
-Green Bay,675,Coloring Agent24,S5,F9,Box,1007.5
-Green Bay,676,Coloring Agent16,S5,F11,Box,994.0000000000073
-Green Bay,677,Coloring Agent18,S4,F10,Box,988.890000000014
-Green Bay,678,Coloring Agent6,S4,F9,Box,980.0
-Green Bay,679,Coloring Agent4,S3,F11,Box,942.5
-Green Bay,680,Coloring Agent11,S5,F1,Box,940.0
-Green Bay,681,Coloring Agent7,S1,F11,Box,857.0
-Green Bay,682,Coloring Agent33,S1,F8,Box,845.1299999999901
-Green Bay,683,Coloring Agent25,S4,F12,Box,841.6999999999971
-Green Bay,684,Coloring Agent18,S2,F10,Box,766.8799999999974
-Green Bay,685,Coloring Agent8,S2,F12,Box,765.5
-Green Bay,686,Coloring Agent23,S4,F9,Box,760.0
-Green Bay,687,Coloring Agent14,S3,F7,Box,742.5
-Green Bay,688,Coloring Agent12,S4,F7,Box,727.5
-Green Bay,689,Coloring Agent13,S3,F9,Box,691.3600000000042
-Green Bay,690,Coloring Agent12,S2,F11,Box,673.6999999999971
-Green Bay,691,Coloring Agent32,S4,F6,Box,652.5
-Green Bay,692,Coloring Agent11,S4,F2,Box,642.3055555555547
-Green Bay,693,Coloring Agent12,S5,F11,Box,617.8000000000029
-Green Bay,694,Coloring Agent24,S3,F10,Box,615.0
-Green Bay,695,Coloring Agent5,S5,F5,Box,590.0
-Green Bay,696,Coloring Agent3,S2,F10,Box,560.5
-Green Bay,697,Coloring Agent14,S2,F12,Box,476.2371794871942
-Green Bay,698,Coloring Agent10,S3,F7,Box,435.75
-Green Bay,699,Coloring Agent20,S4,F9,Box,367.2300000000105
-Green Bay,700,Coloring Agent23,S4,F8,Box,351.4100000000035
-Green Bay,701,Coloring Agent39,S3,F10,Box,296.6999999999971
-Green Bay,702,Coloring Agent13,S2,F9,Box,241.42999999999302
-Green Bay,703,Coloring Agent40,S2,F5,Box,163.0
-Green Bay,704,Coloring Agent28,S5,F11,Box,55.779999999998836
+Color,Size,Flavor,Packaging Type,Quantity
+7,1,11,Bag,16516.0
+32,2,11,Bag,16183.5
+37,2,11,Bag,14694.0
+10,3,12,Bag,13717.0
+32,4,5,Bag,12282.0
+23,4,11,Bag,11989.5
+13,2,11,Bag,11986.0
+32,2,10,Bag,11849.0
+20,1,8,Bag,11648.0
+9,3,10,Bag,11363.0
+23,5,7,Bag,11258.0
+24,3,11,Bag,11103.500000000004
+20,4,9,Bag,11050.0
+13,3,9,Bag,10914.0
+37,1,8,Bag,10871.0
+32,2,9,Bag,10795.0
+33,3,10,Bag,10146.0
+24,5,10,Bag,10122.0
+32,3,5,Bag,10024.0
+24,3,10,Bag,9758.379999999997
+23,4,10,Bag,9663.0
+23,2,5,Bag,9583.0
+39,3,10,Bag,9517.38888888889
+23,1,10,Bag,9503.0
+37,4,10,Bag,9461.0
+20,5,10,Bag,9382.099999999999
+33,1,9,Bag,9250.0
+13,4,12,Bag,9148.0
+33,3,11,Bag,9028.0
+3,2,11,Bag,8022.0
+20,3,11,Bag,8001.0
+37,5,9,Bag,7815.0
+23,2,3,Bag,7748.979999999989
+22,3,10,Bag,7654.0
+23,5,10,Bag,7453.0
+22,2,9,Bag,7201.0
+4,2,10,Bag,7146.0
+10,1,11,Bag,7104.700000000004
+13,5,10,Bag,7091.189999999995
+3,5,12,Bag,7050.5
+20,1,9,Bag,7000.0
+32,3,9,Bag,6979.499999999985
+9,5,9,Bag,6963.100000000006
+20,4,8,Bag,6857.770000000004
+24,2,11,Bag,6789.0
+38,1,10,Bag,6776.0
+22,5,12,Bag,6776.0
+32,4,7,Bag,6763.0
+36,3,8,Bag,6686.199999999997
+23,4,9,Bag,6650.0
+36,2,11,Bag,6525.28
+13,2,10,Bag,6496.0
+10,3,10,Bag,6371.0
+20,2,9,Bag,6298.0
+9,3,9,Bag,6249.0
+23,5,8,Bag,6183.0
+10,5,10,Bag,6166.009999999995
+23,3,10,Bag,6117.0
+9,1,11,Bag,6083.0
+37,4,8,Bag,6079.199999999997
+23,3,4,Bag,6065.0
+3,4,11,Bag,5974.1
+32,3,6,Bag,5924.0
+22,5,10,Bag,5861.0
+13,5,11,Bag,5858.0
+32,1,11,Bag,5759.000000000004
+9,2,11,Bag,5721.0
+22,5,11,Bag,5660.0
+18,4,11,Bag,5571.0
+37,3,10,Bag,5516.0
+13,3,10,Bag,5499.0
+33,4,10,Bag,5476.0
+10,5,12,Bag,5461.500000000007
+9,2,12,Bag,5461.0
+37,5,10,Bag,5412.0
+10,4,9,Bag,5383.0
+10,1,12,Bag,5360.0
+10,2,10,Bag,5352.0
+33,1,10,Bag,5284.0
+32,5,9,Bag,5253.0
+10,5,11,Bag,5107.0
+23,2,7,Bag,5091.0
+13,1,11,Bag,5048.0
+24,5,8,Bag,4952.100000000006
+20,2,10,Bag,4705.000000000004
+24,5,11,Bag,4635.0
+7,1,12,Bag,4606.0
+9,5,10,Bag,4475.0
+3,2,12,Bag,4467.74
+36,5,10,Bag,4431.0
+10,2,12,Bag,4224.0
+10,4,11,Bag,4220.0
+4,3,12,Bag,4173.421052631573
+32,1,8,Bag,4159.559999999998
+24,2,12,Bag,4114.0
+32,3,4,Bag,4066.2600000000166
+32,3,8,Bag,3933.0
+10,4,12,Bag,3924.0
+23,2,9,Bag,3905.0000000000146
+3,4,10,Bag,3888.0
+36,1,12,Bag,3884.999999999998
+10,3,11,Bag,3852.0
+7,5,11,Bag,3746.0
+23,3,7,Bag,3744.0
+22,3,11,Bag,3705.0
+10,2,11,Bag,3598.0
+32,5,10,Bag,3596.000000000002
+22,3,12,Bag,3566.0
+38,1,9,Bag,3469.9000000000015
+9,3,8,Bag,3458.150000000016
+32,4,6,Bag,3425.0
+23,2,8,Bag,3420.0
+13,1,12,Bag,3371.0
+20,2,8,Bag,3335.0
+23,2,6,Bag,3307.0
+23,1,12,Bag,3278.0
+9,1,10,Bag,3213.330000000009
+36,3,9,Bag,2941.5000000000036
+23,3,5,Bag,2888.0
+23,1,9,Bag,2820.760000000002
+20,2,7,Bag,2622.729999999996
+32,3,7,Bag,2613.0
+13,3,11,Bag,2607.5
+23,3,6,Bag,2559.0
+9,5,11,Bag,2534.0
+37,1,9,Bag,2528.0
+22,2,10,Bag,2520.0
+33,1,11,Bag,2344.0
+36,5,9,Bag,2300.0
+36,1,11,Bag,2256.4400000000023
+36,4,11,Bag,2019.500000000001
+23,1,11,Bag,2006.0
+20,4,10,Bag,1854.4999999999964
+24,5,9,Bag,1852.0
+22,5,9,Bag,1832.0600000000013
+37,1,7,Bag,1830.8999999999942
+39,3,11,Bag,1824.9111111111106
+23,5,9,Bag,1772.0
+23,2,4,Bag,1736.0
+12,5,10,Bag,1690.999999999996
+22,2,8,Bag,1659.3999999999942
+13,5,12,Bag,1652.0000000000036
+38,1,11,Bag,1652.0
+10,4,10,Bag,1623.0
+32,4,9,Bag,1557.0
+4,2,9,Bag,1515.5
+37,3,11,Bag,1512.999999999991
+4,2,11,Bag,1489.0
+25,3,10,Bag,1471.6000000000001
+7,5,10,Bag,1456.0
+7,5,9,Bag,1378.0
+32,1,9,Bag,1377.0
+37,1,10,Bag,1212.0
+36,4,10,Bag,1198.2799999999988
+37,5,11,Bag,1114.0
+23,3,8,Bag,1066.0
+37,5,8,Bag,1032.0
+25,5,11,Bag,1018.8000000000001
+4,2,12,Bag,1002.880000000001
+33,4,11,Bag,989.1169369369454
+32,4,10,Bag,818.0
+24,2,9,Bag,717.5217391304395
+18,2,11,Bag,636.9615384615317
+37,1,11,Bag,633.0000000000073
+20,1,10,Bag,597.0
+37,5,7,Bag,550.100000000004
+36,5,8,Bag,517.3000000000029
+18,2,12,Bag,386.91846153846836
+13,1,10,Bag,371.0
+32,5,8,Bag,313.09999999999854
+20,3,12,Bag,285.0
+33,4,9,Bag,265.31306306305487
+9,5,12,Bag,171.99999999999454
+33,4,9,Box,9122.5
+9,1,11,Box,9090.999999999993
+9,2,12,Box,8720.0
+32,3,7,Box,8300.0
+33,4,10,Box,7945.0
+33,1,8,Box,7369.869999999995
+23,2,4,Box,6445.0
+32,5,8,Box,6397.5
+10,4,10,Box,6320.0
+32,4,4,Box,6116.120000000003
+7,5,8,Box,5698.0
+20,4,8,Box,5485.0
+10,2,11,Box,5447.5
+20,3,10,Box,5414.68
+23,3,5,Box,5097.5
+10,5,11,Box,4955.0
+13,2,11,Box,4947.499999999993
+37,3,9,Box,4938.900000000009
+18,2,11,Box,4767.5
+23,5,9,Box,4730.0
+22,2,8,Box,4710.0
+7,5,10,Box,4647.5
+37,4,8,Box,4615.0
+10,2,12,Box,4472.5
+37,3,10,Box,4382.5
+32,3,4,Box,4287.5
+23,3,8,Box,4272.5
+13,4,11,Box,4210.5
+20,3,11,Box,4137.5
+4,2,9,Box,4080.0
+10,1,12,Box,4010.0
+10,4,9,Box,3870.0
+23,2,3,Box,3750.0
+13,1,10,Box,3707.5
+32,1,10,Box,3555.0
+33,1,10,Box,3485.0
+7,5,11,Box,3479.5
+13,1,11,Box,3332.5
+36,4,10,Box,3307.5
+23,5,7,Box,3122.5
+7,1,11,Box,3117.5
+24,2,12,Box,3090.0
+20,2,7,Box,3090.0
+37,4,9,Box,3022.5
+13,3,9,Box,2837.5
+7,1,10,Box,2836.9736842105267
+24,5,8,Box,2830.0
+23,3,4,Box,2767.5
+23,5,6,Box,2756.5599999999977
+9,2,11,Box,2742.5
+37,5,8,Box,2715.0
+37,5,7,Box,2647.5
+4,2,11,Box,2625.0
+22,3,12,Box,2619.2367567567526
+10,3,12,Box,2565.0
+10,3,11,Box,2552.5
+22,5,11,Box,2482.5
+13,3,8,Box,2474.6399999999994
+3,4,10,Box,2372.5
+37,1,9,Box,2290.0
+32,1,9,Box,2265.0
+23,3,7,Box,2187.5
+13,2,10,Box,2182.5
+10,1,11,Box,2140.0
+23,1,9,Box,2130.0
+24,2,10,Box,2127.5
+13,5,11,Box,2127.5
+32,3,5,Box,2107.5
+37,1,7,Box,2095.0
+23,3,9,Box,2020.0
+10,3,9,Box,1967.0
+37,5,9,Box,1950.0
+10,5,10,Box,1937.5
+33,1,11,Box,1920.0
+36,3,8,Box,1887.5
+24,2,11,Box,1870.0
+33,3,9,Box,1828.6351351351332
+7,1,12,Box,1685.0
+22,3,9,Box,1589.243243243247
+32,2,10,Box,1540.0
+20,4,9,Box,1510.0
+20,2,8,Box,1492.5
+33,1,12,Box,1467.5
+37,2,10,Box,1453.4000000000015
+24,5,11,Box,1447.4999999999964
+39,3,10,Box,1442.5
+25,2,11,Box,1415.0
+20,1,8,Box,1412.5
+13,1,12,Box,1410.0
+32,4,5,Box,1405.0
+37,5,10,Box,1290.0
+24,2,9,Box,1260.0
+20,2,9,Box,1250.0
+12,5,9,Box,1241.2000000000044
+32,4,7,Box,1212.5
+10,2,10,Box,1212.5
+20,1,7,Box,1144.7200000000012
+3,5,12,Box,1105.9000000000005
+22,3,11,Box,1090.0
+23,1,11,Box,1025.0
+25,1,11,Box,1018.8000000000001
+23,3,3,Box,1011.2900000000009
+24,5,9,Box,1007.5
+18,4,10,Box,988.8899999999994
+22,5,10,Box,982.5
+33,3,11,Box,964.6848648648665
+23,5,10,Box,790.0
+22,2,10,Box,762.5000000000073
+23,4,9,Box,760.0
+4,2,10,Box,760.0
+25,4,10,Box,735.8000000000001
+10,4,8,Box,720.5799999999981
+32,4,6,Box,652.5
+24,3,10,Box,615.0
+3,2,10,Box,560.5
+20,5,10,Box,528.0000000000018
+9,2,10,Box,492.0666666666657
+18,4,11,Box,472.5000000000009
+36,5,10,Box,428.49999999999727
+23,4,8,Box,351.40999999999985
+37,4,10,Box,326.00000000000364
+13,2,9,Box,241.43000000000757
+37,2,11,Box,202.99999999999818
+9,3,10,Box,145.99999999998545
+38,1,11,Box,112.99999999999818
+32,2,8,Box,87.45999999999913

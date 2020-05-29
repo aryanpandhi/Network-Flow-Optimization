@@ -1,1317 +1,1562 @@
-Plant Id,Internal Work Order Id,Color,Size,Flavor,Packaging Type,Qty
-Detroit,0,Coloring Agent8,S1,F3,Bag,19904.0
-Detroit,1,Coloring Agent21,S3,F6,Bag,17749.0
-Detroit,2,Coloring Agent4,S3,F1,Bag,17275.0
-Detroit,3,Coloring Agent9,S2,F6,Bag,17056.0
-Detroit,4,Coloring Agent36,S2,F4,Bag,15827.0
-Detroit,5,Coloring Agent11,S4,F2,Bag,15299.0
-Detroit,6,Coloring Agent13,S3,F3,Bag,15245.0
-Detroit,7,Coloring Agent35,S4,F4,Bag,14734.0
-Detroit,8,Coloring Agent8,S4,F3,Bag,14726.0
-Detroit,9,Coloring Agent18,S4,F2,Bag,14657.0
-Detroit,10,Coloring Agent13,S2,F2,Bag,14576.0
-Detroit,11,Coloring Agent38,S2,F2,Bag,14427.0
-Detroit,12,Coloring Agent14,S3,F3,Bag,14182.0
-Detroit,13,Coloring Agent33,S4,F1,Bag,14133.0
-Detroit,14,Coloring Agent17,S1,F5,Bag,13835.0
-Detroit,15,Coloring Agent32,S2,F4,Bag,13545.0
-Detroit,16,Coloring Agent38,S3,F2,Bag,13323.0
-Detroit,17,Coloring Agent24,S5,F3,Bag,13189.0
-Detroit,18,Coloring Agent30,S2,F2,Bag,13156.0
-Detroit,19,Coloring Agent19,S4,F5,Bag,13093.0
-Detroit,20,Coloring Agent37,S5,F4,Bag,13034.0
-Detroit,21,Coloring Agent30,S5,F4,Bag,12935.0
-Detroit,22,Coloring Agent19,S1,F2,Bag,12872.0
-Detroit,23,Coloring Agent4,S3,F4,Bag,12806.0
-Detroit,24,Coloring Agent23,S5,F3,Bag,12759.0
-Detroit,25,Coloring Agent40,S4,F1,Bag,12671.0
-Detroit,26,Coloring Agent16,S5,F1,Bag,12616.0
-Detroit,27,Coloring Agent14,S5,F1,Bag,12502.0
-Detroit,28,Coloring Agent25,S2,F4,Bag,12381.0
-Detroit,29,Coloring Agent13,S3,F2,Bag,12369.0
-Detroit,30,Coloring Agent3,S3,F2,Bag,12339.0
-Detroit,31,Coloring Agent25,S5,F1,Bag,12243.0
-Detroit,32,Coloring Agent24,S5,F2,Bag,12129.0
-Detroit,33,Coloring Agent22,S3,F1,Bag,12073.0
-Detroit,34,Coloring Agent37,S3,F2,Bag,12049.0
-Detroit,35,Coloring Agent23,S1,F4,Bag,12005.0
-Detroit,36,Coloring Agent17,S2,F4,Bag,11974.0
-Detroit,37,Coloring Agent6,S4,F4,Bag,11920.0
-Detroit,38,Coloring Agent4,S1,F2,Bag,11897.0
-Detroit,39,Coloring Agent9,S3,F3,Bag,11824.0
-Detroit,40,Coloring Agent20,S3,F7,Bag,11801.0
-Detroit,41,Coloring Agent17,S1,F1,Bag,11795.0
-Detroit,42,Coloring Agent40,S5,F6,Bag,11679.5
-Detroit,43,Coloring Agent7,S1,F4,Bag,11613.0
-Detroit,44,Coloring Agent3,S1,F8,Bag,11575.0
-Detroit,45,Coloring Agent30,S4,F10,Bag,11573.0
-Detroit,46,Coloring Agent16,S2,F6,Bag,11546.5
-Detroit,47,Coloring Agent13,S5,F4,Bag,11534.0
-Detroit,48,Coloring Agent17,S5,F2,Bag,11520.0
-Detroit,49,Coloring Agent7,S3,F5,Bag,11488.0
-Detroit,50,Coloring Agent19,S2,F3,Bag,11476.0
-Detroit,51,Coloring Agent8,S3,F4,Bag,11392.0
-Detroit,52,Coloring Agent27,S3,F2,Bag,11387.0
-Detroit,53,Coloring Agent40,S1,F1,Bag,11356.0
-Detroit,54,Coloring Agent19,S1,F7,Bag,11211.0
-Detroit,55,Coloring Agent7,S5,F1,Bag,11097.0
-Detroit,56,Coloring Agent8,S2,F1,Bag,10982.0
-Detroit,57,Coloring Agent15,S4,F4,Bag,10957.0
-Detroit,58,Coloring Agent10,S4,F5,Bag,10874.0
-Detroit,59,Coloring Agent27,S1,F3,Bag,10870.0
-Detroit,60,Coloring Agent7,S2,F2,Bag,10837.0
-Detroit,61,Coloring Agent21,S2,F6,Bag,10822.0
-Detroit,62,Coloring Agent36,S2,F1,Bag,10818.0
-Detroit,63,Coloring Agent28,S1,F5,Bag,10809.0
-Detroit,64,Coloring Agent8,S5,F2,Bag,10804.0
-Detroit,65,Coloring Agent39,S1,F1,Bag,10797.0
-Detroit,66,Coloring Agent11,S3,F4,Bag,10744.0
-Detroit,67,Coloring Agent25,S2,F3,Bag,10676.0
-Detroit,68,Coloring Agent25,S1,F5,Bag,10654.0
-Detroit,69,Coloring Agent32,S2,F1,Bag,10563.0
-Detroit,70,Coloring Agent28,S2,F5,Bag,10563.0
-Detroit,71,Coloring Agent14,S2,F5,Bag,10543.0
-Detroit,72,Coloring Agent23,S4,F4,Bag,10526.0
-Detroit,73,Coloring Agent10,S5,F3,Bag,10512.0
-Detroit,74,Coloring Agent12,S1,F5,Bag,10485.0
-Detroit,75,Coloring Agent36,S4,F6,Bag,10463.0
-Detroit,76,Coloring Agent20,S1,F2,Bag,10433.0
-Detroit,77,Coloring Agent3,S4,F3,Bag,10418.0
-Detroit,78,Coloring Agent20,S4,F2,Bag,10417.0
-Detroit,79,Coloring Agent12,S5,F1,Bag,10389.0
-Detroit,80,Coloring Agent25,S4,F1,Bag,10358.0
-Detroit,81,Coloring Agent25,S5,F4,Bag,10305.0
-Detroit,82,Coloring Agent9,S5,F4,Bag,10256.0
-Detroit,83,Coloring Agent20,S5,F1,Bag,10233.0
-Detroit,84,Coloring Agent32,S5,F4,Bag,10222.900000000009
-Detroit,85,Coloring Agent13,S2,F5,Bag,10158.0
-Detroit,86,Coloring Agent21,S5,F4,Bag,10157.0
-Detroit,87,Coloring Agent32,S1,F2,Bag,10085.0
-Detroit,88,Coloring Agent27,S3,F1,Bag,9917.0
-Detroit,89,Coloring Agent19,S1,F3,Bag,9874.0
-Detroit,90,Coloring Agent20,S1,F5,Bag,9837.0
-Detroit,91,Coloring Agent30,S3,F3,Bag,9796.0
-Detroit,92,Coloring Agent20,S2,F5,Bag,9775.0
-Detroit,93,Coloring Agent14,S2,F1,Bag,9715.0
-Detroit,94,Coloring Agent23,S4,F3,Bag,9707.0
-Detroit,95,Coloring Agent11,S1,F4,Bag,9704.0
-Detroit,96,Coloring Agent6,S2,F3,Bag,9699.0
-Detroit,97,Coloring Agent30,S1,F3,Bag,9610.0
-Detroit,98,Coloring Agent21,S1,F7,Bag,9603.0
-Detroit,99,Coloring Agent3,S4,F2,Bag,9574.0
-Detroit,100,Coloring Agent36,S3,F3,Bag,9571.0
-Detroit,101,Coloring Agent4,S1,F6,Bag,9510.0
-Detroit,102,Coloring Agent35,S3,F2,Bag,9482.0
-Detroit,103,Coloring Agent20,S2,F6,Bag,9447.0
-Detroit,104,Coloring Agent4,S2,F2,Bag,9422.0
-Detroit,105,Coloring Agent10,S4,F4,Bag,9421.0
-Detroit,106,Coloring Agent6,S2,F5,Bag,9415.0
-Detroit,107,Coloring Agent18,S2,F1,Bag,9414.0
-Detroit,108,Coloring Agent4,S5,F11,Bag,9391.0
-Detroit,109,Coloring Agent30,S5,F2,Bag,9354.0
-Detroit,110,Coloring Agent23,S3,F3,Bag,9282.0
-Detroit,111,Coloring Agent30,S1,F1,Bag,9231.0
-Detroit,112,Coloring Agent10,S4,F2,Bag,9229.0
-Detroit,113,Coloring Agent15,S2,F1,Bag,9221.0
-Detroit,114,Coloring Agent28,S2,F1,Bag,9184.0
-Detroit,115,Coloring Agent39,S2,F3,Bag,9141.0
-Detroit,116,Coloring Agent7,S1,F6,Bag,9084.0
-Detroit,117,Coloring Agent36,S4,F4,Bag,9072.0
-Detroit,118,Coloring Agent36,S1,F2,Bag,8968.0
-Detroit,119,Coloring Agent9,S4,F3,Bag,8954.0
-Detroit,120,Coloring Agent12,S4,F1,Bag,8857.0
-Detroit,121,Coloring Agent24,S3,F3,Bag,8824.0
-Detroit,122,Coloring Agent25,S3,F7,Bag,8792.880000000005
-Detroit,123,Coloring Agent7,S1,F3,Bag,8779.0
-Detroit,124,Coloring Agent9,S2,F4,Bag,8774.0
-Detroit,125,Coloring Agent3,S4,F1,Bag,8770.0
-Detroit,126,Coloring Agent10,S2,F2,Bag,8757.0
-Detroit,127,Coloring Agent17,S2,F5,Bag,8755.0
-Detroit,128,Coloring Agent14,S2,F6,Bag,8635.0
-Detroit,129,Coloring Agent21,S5,F6,Bag,8609.0
-Detroit,130,Coloring Agent15,S1,F5,Bag,8574.0
-Detroit,131,Coloring Agent19,S3,F2,Bag,8572.0
-Detroit,132,Coloring Agent13,S2,F3,Bag,8569.0
-Detroit,133,Coloring Agent14,S1,F1,Bag,8553.0
-Detroit,134,Coloring Agent25,S3,F5,Bag,8526.0
-Detroit,135,Coloring Agent38,S1,F3,Bag,8485.0
-Detroit,136,Coloring Agent3,S3,F5,Bag,8480.0
-Detroit,137,Coloring Agent36,S1,F5,Bag,8474.0
-Detroit,138,Coloring Agent4,S5,F7,Bag,8470.0
-Detroit,139,Coloring Agent30,S3,F1,Bag,8445.0
-Detroit,140,Coloring Agent19,S1,F1,Bag,8445.0
-Detroit,141,Coloring Agent12,S1,F6,Bag,8368.0
-Detroit,142,Coloring Agent35,S5,F3,Bag,8316.0
-Detroit,143,Coloring Agent33,S1,F1,Bag,8310.0
-Detroit,144,Coloring Agent16,S3,F2,Bag,8293.0
-Detroit,145,Coloring Agent6,S1,F2,Bag,8270.034482758625
-Detroit,146,Coloring Agent25,S5,F2,Bag,8254.0
-Detroit,147,Coloring Agent20,S3,F6,Bag,8241.0
-Detroit,148,Coloring Agent16,S4,F7,Bag,8239.0
-Detroit,149,Coloring Agent11,S1,F2,Bag,8223.0
-Detroit,150,Coloring Agent19,S5,F2,Bag,8205.0
-Detroit,151,Coloring Agent21,S1,F3,Bag,8195.0
-Detroit,152,Coloring Agent14,S2,F3,Bag,8191.0
-Detroit,153,Coloring Agent30,S4,F7,Bag,8190.0
-Detroit,154,Coloring Agent16,S5,F4,Bag,8143.0
-Detroit,155,Coloring Agent9,S1,F1,Bag,8136.0
-Detroit,156,Coloring Agent8,S2,F12,Bag,8124.0
-Detroit,157,Coloring Agent19,S1,F6,Bag,8108.0
-Detroit,158,Coloring Agent18,S4,F5,Bag,8101.109999999986
-Detroit,159,Coloring Agent23,S3,F2,Bag,8098.0
-Detroit,160,Coloring Agent20,S1,F7,Bag,8091.922512077304
-Detroit,161,Coloring Agent21,S4,F7,Bag,8085.0
-Detroit,162,Coloring Agent13,S1,F3,Bag,8074.0
-Detroit,163,Coloring Agent28,S5,F1,Bag,8059.0
-Detroit,164,Coloring Agent14,S1,F2,Bag,8059.0
-Detroit,165,Coloring Agent22,S4,F3,Bag,8054.756006006006
-Detroit,166,Coloring Agent25,S3,F2,Bag,8039.0
-Detroit,167,Coloring Agent36,S1,F3,Bag,8018.0
-Detroit,168,Coloring Agent11,S3,F2,Bag,8009.0
-Detroit,169,Coloring Agent7,S4,F6,Bag,7953.0
-Detroit,170,Coloring Agent37,S5,F1,Bag,7946.0
-Detroit,171,Coloring Agent30,S4,F3,Bag,7945.0
-Detroit,172,Coloring Agent37,S3,F4,Bag,7938.5999999999985
-Detroit,173,Coloring Agent4,S4,F2,Bag,7916.0
-Detroit,174,Coloring Agent8,S5,F5,Bag,7835.5
-Detroit,175,Coloring Agent18,S2,F2,Bag,7823.0
-Detroit,176,Coloring Agent8,S4,F2,Bag,7800.0
-Detroit,177,Coloring Agent20,S4,F1,Bag,7795.0
-Detroit,178,Coloring Agent25,S3,F4,Bag,7758.0
-Detroit,179,Coloring Agent27,S1,F5,Bag,7743.0
-Detroit,180,Coloring Agent7,S2,F5,Bag,7724.0
-Detroit,181,Coloring Agent12,S2,F2,Bag,7716.0
-Detroit,182,Coloring Agent8,S4,F1,Bag,7701.0
-Detroit,183,Coloring Agent8,S2,F4,Bag,7692.0
-Detroit,184,Coloring Agent9,S1,F5,Bag,7680.0
-Detroit,185,Coloring Agent13,S4,F2,Bag,7665.0
-Detroit,186,Coloring Agent40,S1,F4,Bag,7638.0
-Detroit,187,Coloring Agent36,S5,F1,Bag,7627.0
-Detroit,188,Coloring Agent28,S4,F4,Bag,7607.0
-Detroit,189,Coloring Agent38,S4,F6,Bag,7602.0
-Detroit,190,Coloring Agent16,S5,F2,Bag,7583.0
-Detroit,191,Coloring Agent23,S5,F2,Bag,7553.0
-Detroit,192,Coloring Agent17,S3,F2,Bag,7549.0
-Detroit,193,Coloring Agent37,S3,F1,Bag,7458.0
-Detroit,194,Coloring Agent32,S1,F3,Bag,7451.939999999999
-Detroit,195,Coloring Agent14,S2,F7,Bag,7449.987179487194
-Detroit,196,Coloring Agent40,S4,F3,Bag,7427.0
-Detroit,197,Coloring Agent25,S4,F4,Bag,7404.0
-Detroit,198,Coloring Agent4,S2,F4,Bag,7404.0
-Detroit,199,Coloring Agent32,S4,F2,Bag,7365.0
-Detroit,200,Coloring Agent21,S1,F1,Bag,7364.0
-Detroit,201,Coloring Agent9,S5,F3,Bag,7334.0
-Detroit,202,Coloring Agent17,S2,F3,Bag,7307.0
-Detroit,203,Coloring Agent3,S1,F1,Bag,7292.0
-Detroit,204,Coloring Agent8,S5,F4,Bag,7228.0
-Detroit,205,Coloring Agent30,S5,F3,Bag,7178.0
-Detroit,206,Coloring Agent7,S2,F8,Bag,7173.625
-Detroit,207,Coloring Agent24,S3,F1,Bag,7159.0
-Detroit,208,Coloring Agent4,S4,F7,Bag,7150.0
-Detroit,209,Coloring Agent39,S1,F3,Bag,7133.0
-Detroit,210,Coloring Agent7,S3,F8,Bag,7124.0
-Detroit,211,Coloring Agent28,S1,F6,Bag,7063.0
-Detroit,212,Coloring Agent3,S2,F2,Bag,7063.0
-Detroit,213,Coloring Agent8,S5,F3,Bag,7058.0
-Detroit,214,Coloring Agent17,S1,F3,Bag,7036.0
-Detroit,215,Coloring Agent36,S3,F1,Bag,7022.0
-Detroit,216,Coloring Agent35,S5,F2,Bag,6964.0
-Detroit,217,Coloring Agent25,S5,F3,Bag,6955.0
-Detroit,218,Coloring Agent13,S2,F4,Bag,6942.0
-Detroit,219,Coloring Agent19,S2,F2,Bag,6930.0
-Detroit,220,Coloring Agent33,S4,F3,Bag,6905.0
-Detroit,221,Coloring Agent28,S1,F2,Bag,6892.0
-Detroit,222,Coloring Agent22,S4,F1,Bag,6885.0
-Detroit,223,Coloring Agent19,S2,F5,Bag,6879.0
-Detroit,224,Coloring Agent17,S5,F3,Bag,6869.0
-Detroit,225,Coloring Agent11,S3,F1,Bag,6866.0
-Detroit,226,Coloring Agent38,S4,F2,Bag,6864.0
-Detroit,227,Coloring Agent16,S1,F4,Bag,6851.0
-Detroit,228,Coloring Agent40,S4,F4,Bag,6836.0
-Detroit,229,Coloring Agent30,S5,F9,Bag,6820.0
-Detroit,230,Coloring Agent36,S2,F3,Bag,6815.0
-Detroit,231,Coloring Agent7,S3,F1,Bag,6807.0
-Detroit,232,Coloring Agent4,S5,F12,Bag,6806.0
-Detroit,233,Coloring Agent39,S3,F1,Bag,6801.0
-Detroit,234,Coloring Agent36,S3,F5,Bag,6768.0
-Detroit,235,Coloring Agent13,S4,F3,Bag,6736.968749999996
-Detroit,236,Coloring Agent22,S2,F3,Bag,6736.0
-Detroit,237,Coloring Agent7,S1,F1,Bag,6712.0
-Detroit,238,Coloring Agent12,S2,F1,Bag,6710.0
-Detroit,239,Coloring Agent16,S2,F4,Bag,6708.0
-Detroit,240,Coloring Agent20,S1,F6,Bag,6696.0
-Detroit,241,Coloring Agent39,S2,F2,Bag,6688.0
-Detroit,242,Coloring Agent38,S5,F1,Bag,6678.0
-Detroit,243,Coloring Agent30,S3,F2,Bag,6638.0
-Detroit,244,Coloring Agent19,S4,F6,Bag,6637.0
-Detroit,245,Coloring Agent36,S5,F7,Bag,6633.0
-Detroit,246,Coloring Agent36,S3,F2,Bag,6626.0
-Detroit,247,Coloring Agent25,S3,F6,Bag,6613.0
-Detroit,248,Coloring Agent16,S1,F3,Bag,6596.0
-Detroit,249,Coloring Agent35,S2,F6,Bag,6592.6500000000015
-Detroit,250,Coloring Agent30,S1,F2,Bag,6588.0
-Detroit,251,Coloring Agent18,S5,F2,Bag,6586.0
-Detroit,252,Coloring Agent16,S5,F3,Bag,6585.0
-Detroit,253,Coloring Agent38,S1,F1,Bag,6579.0
-Detroit,254,Coloring Agent9,S3,F1,Bag,6575.0
-Detroit,255,Coloring Agent27,S1,F6,Bag,6550.0
-Detroit,256,Coloring Agent35,S2,F5,Bag,6539.0
-Detroit,257,Coloring Agent16,S3,F3,Bag,6538.0
-Detroit,258,Coloring Agent28,S4,F3,Bag,6528.0
-Detroit,259,Coloring Agent21,S2,F9,Bag,6511.5
-Detroit,260,Coloring Agent21,S2,F1,Bag,6496.0
-Detroit,261,Coloring Agent21,S1,F8,Bag,6474.0
-Detroit,262,Coloring Agent19,S5,F6,Bag,6474.0
-Detroit,263,Coloring Agent36,S1,F1,Bag,6466.0
-Detroit,264,Coloring Agent7,S4,F5,Bag,6462.0
-Detroit,265,Coloring Agent40,S5,F1,Bag,6459.0
-Detroit,266,Coloring Agent23,S1,F1,Bag,6450.0
-Detroit,267,Coloring Agent14,S4,F3,Bag,6447.0
-Detroit,268,Coloring Agent3,S1,F12,Bag,6445.0
-Detroit,269,Coloring Agent27,S1,F1,Bag,6424.0
-Detroit,270,Coloring Agent9,S4,F2,Bag,6402.0
-Detroit,271,Coloring Agent19,S4,F2,Bag,6400.0
-Detroit,272,Coloring Agent24,S4,F1,Bag,6390.0
-Detroit,273,Coloring Agent30,S5,F12,Bag,6384.0
-Detroit,274,Coloring Agent21,S3,F2,Bag,6382.0
-Detroit,275,Coloring Agent19,S3,F5,Bag,6379.0
-Detroit,276,Coloring Agent24,S2,F3,Bag,6364.129347826085
-Detroit,277,Coloring Agent40,S5,F2,Bag,6361.0
-Detroit,278,Coloring Agent7,S2,F1,Bag,6309.0
-Detroit,279,Coloring Agent33,S4,F2,Bag,6307.0
-Detroit,280,Coloring Agent40,S1,F2,Bag,6304.0
-Detroit,281,Coloring Agent15,S4,F3,Bag,6295.0
-Detroit,282,Coloring Agent6,S5,F1,Bag,6293.0
-Detroit,283,Coloring Agent7,S1,F5,Bag,6281.0
-Detroit,284,Coloring Agent23,S1,F2,Bag,6267.0
-Detroit,285,Coloring Agent38,S4,F8,Bag,6262.0
-Detroit,286,Coloring Agent10,S1,F2,Bag,6219.0
-Detroit,287,Coloring Agent15,S5,F5,Bag,6218.5
-Detroit,288,Coloring Agent25,S2,F5,Bag,6215.0
-Detroit,289,Coloring Agent13,S5,F1,Bag,6201.0
-Detroit,290,Coloring Agent17,S3,F3,Bag,6185.0
-Detroit,291,Coloring Agent40,S1,F5,Bag,6176.6875
-Detroit,292,Coloring Agent23,S1,F3,Bag,6168.0
-Detroit,293,Coloring Agent21,S4,F1,Bag,6140.0
-Detroit,294,Coloring Agent37,S5,F3,Bag,6118.0
-Detroit,295,Coloring Agent4,S1,F3,Bag,6105.0
-Detroit,296,Coloring Agent3,S2,F5,Bag,6097.0
-Detroit,297,Coloring Agent11,S1,F1,Bag,6088.0
-Detroit,298,Coloring Agent21,S2,F5,Bag,6079.0
-Detroit,299,Coloring Agent19,S3,F3,Bag,6076.0
-Detroit,300,Coloring Agent27,S4,F2,Bag,6049.0
-Detroit,301,Coloring Agent30,S1,F5,Bag,6030.0
-Detroit,302,Coloring Agent16,S1,F6,Bag,6020.0
-Detroit,303,Coloring Agent28,S3,F2,Bag,6013.0
-Detroit,304,Coloring Agent21,S3,F7,Bag,6002.0
-Detroit,305,Coloring Agent27,S1,F2,Bag,5994.0
-Detroit,306,Coloring Agent19,S3,F6,Bag,5994.0
-Detroit,307,Coloring Agent37,S3,F3,Bag,5990.0
-Detroit,308,Coloring Agent21,S5,F7,Bag,5977.5
-Detroit,309,Coloring Agent15,S5,F3,Bag,5955.0
-Detroit,310,Coloring Agent25,S2,F6,Bag,5945.780000000013
-Detroit,311,Coloring Agent4,S2,F3,Bag,5938.0
-Detroit,312,Coloring Agent25,S1,F4,Bag,5858.0
-Detroit,313,Coloring Agent28,S4,F2,Bag,5839.0
-Detroit,314,Coloring Agent14,S2,F2,Bag,5833.0
-Detroit,315,Coloring Agent16,S1,F2,Bag,5826.0
-Detroit,316,Coloring Agent15,S2,F3,Bag,5797.0
-Detroit,317,Coloring Agent15,S5,F2,Bag,5751.0
-Detroit,318,Coloring Agent25,S1,F6,Bag,5749.9800000000105
-Detroit,319,Coloring Agent36,S3,F6,Bag,5737.0
-Detroit,320,Coloring Agent7,S4,F7,Bag,5732.0
-Detroit,321,Coloring Agent6,S2,F4,Bag,5714.0
-Detroit,322,Coloring Agent11,S1,F5,Bag,5701.0
-Detroit,323,Coloring Agent20,S3,F5,Bag,5697.0
-Detroit,324,Coloring Agent17,S3,F1,Bag,5683.0
-Detroit,325,Coloring Agent37,S2,F2,Bag,5679.0
-Detroit,326,Coloring Agent13,S1,F1,Bag,5677.0
-Detroit,327,Coloring Agent39,S2,F1,Bag,5671.0
-Detroit,328,Coloring Agent7,S2,F6,Bag,5663.0
-Detroit,329,Coloring Agent33,S3,F4,Bag,5657.0
-Detroit,330,Coloring Agent20,S2,F2,Bag,5642.0
-Detroit,331,Coloring Agent35,S3,F3,Bag,5633.0
-Detroit,332,Coloring Agent27,S5,F3,Bag,5628.0
-Detroit,333,Coloring Agent3,S4,F4,Bag,5624.0
-Detroit,334,Coloring Agent30,S4,F8,Bag,5561.0
-Detroit,335,Coloring Agent10,S3,F1,Bag,5532.125
-Detroit,336,Coloring Agent7,S1,F2,Bag,5531.0
-Detroit,337,Coloring Agent15,S1,F3,Bag,5512.0
-Detroit,338,Coloring Agent11,S2,F3,Bag,5498.0
-Detroit,339,Coloring Agent13,S5,F5,Bag,5488.0
-Detroit,340,Coloring Agent36,S5,F5,Bag,5469.0
-Detroit,341,Coloring Agent16,S4,F1,Bag,5468.0
-Detroit,342,Coloring Agent3,S2,F3,Bag,5462.0
-Detroit,343,Coloring Agent28,S5,F2,Bag,5443.0
-Detroit,344,Coloring Agent21,S4,F3,Bag,5438.0
-Detroit,345,Coloring Agent35,S2,F4,Bag,5402.0
-Detroit,346,Coloring Agent15,S5,F4,Bag,5394.0
-Detroit,347,Coloring Agent39,S5,F6,Bag,5379.0
-Detroit,348,Coloring Agent19,S4,F4,Bag,5375.0
-Detroit,349,Coloring Agent7,S4,F1,Bag,5367.0
-Detroit,350,Coloring Agent32,S5,F2,Bag,5359.0
-Detroit,351,Coloring Agent7,S4,F4,Bag,5355.0
-Detroit,352,Coloring Agent39,S5,F3,Bag,5348.0
-Detroit,353,Coloring Agent10,S1,F1,Bag,5343.0
-Detroit,354,Coloring Agent3,S1,F6,Bag,5336.0
-Detroit,355,Coloring Agent36,S5,F2,Bag,5314.0
-Detroit,356,Coloring Agent36,S3,F4,Bag,5293.0
-Detroit,357,Coloring Agent27,S4,F3,Bag,5292.0
-Detroit,358,Coloring Agent12,S3,F2,Bag,5289.0
-Detroit,359,Coloring Agent10,S2,F1,Bag,5277.0
-Detroit,360,Coloring Agent3,S5,F1,Bag,5274.0
-Detroit,361,Coloring Agent28,S4,F5,Bag,5251.919999999998
-Detroit,362,Coloring Agent39,S3,F2,Bag,5244.0
-Detroit,363,Coloring Agent3,S5,F4,Bag,5241.5
-Detroit,364,Coloring Agent7,S3,F2,Bag,5228.0
-Detroit,365,Coloring Agent39,S2,F4,Bag,5223.0
-Detroit,366,Coloring Agent28,S1,F4,Bag,5220.0
-Detroit,367,Coloring Agent11,S2,F6,Bag,5220.0
-Detroit,368,Coloring Agent39,S4,F1,Bag,5206.0
-Detroit,369,Coloring Agent18,S2,F4,Bag,5195.0
-Detroit,370,Coloring Agent7,S5,F5,Bag,5193.0
-Detroit,371,Coloring Agent8,S2,F11,Bag,5189.0
-Detroit,372,Coloring Agent22,S3,F2,Bag,5188.0
-Detroit,373,Coloring Agent6,S5,F2,Bag,5184.0517241379275
-Detroit,374,Coloring Agent39,S5,F5,Bag,5184.0
-Detroit,375,Coloring Agent21,S5,F5,Bag,5179.0
-Detroit,376,Coloring Agent9,S4,F6,Bag,5165.0
-Detroit,377,Coloring Agent17,S5,F5,Bag,5163.0
-Detroit,378,Coloring Agent19,S3,F1,Bag,5144.0
-Detroit,379,Coloring Agent4,S5,F4,Bag,5143.0
-Detroit,380,Coloring Agent9,S4,F5,Bag,5142.0
-Detroit,381,Coloring Agent33,S1,F4,Bag,5138.0
-Detroit,382,Coloring Agent36,S4,F1,Bag,5133.0
-Detroit,383,Coloring Agent38,S1,F2,Bag,5132.0
-Detroit,384,Coloring Agent28,S5,F5,Bag,5126.399999999994
-Detroit,385,Coloring Agent20,S2,F4,Bag,5120.0
-Detroit,386,Coloring Agent4,S3,F2,Bag,5092.0
-Detroit,387,Coloring Agent21,S4,F8,Bag,5055.0
-Detroit,388,Coloring Agent21,S2,F4,Bag,5053.0
-Detroit,389,Coloring Agent36,S4,F5,Bag,5045.0
-Detroit,390,Coloring Agent13,S5,F3,Bag,5041.0
-Detroit,391,Coloring Agent32,S4,F1,Bag,5023.0
-Detroit,392,Coloring Agent25,S2,F2,Bag,5003.0
-Detroit,393,Coloring Agent8,S1,F1,Bag,5003.0
-Detroit,394,Coloring Agent37,S5,F5,Bag,4988.3333333333285
-Detroit,395,Coloring Agent33,S3,F1,Bag,4960.0
-Detroit,396,Coloring Agent6,S4,F3,Bag,4953.0
-Detroit,397,Coloring Agent17,S1,F2,Bag,4948.0
-Detroit,398,Coloring Agent24,S4,F2,Bag,4941.799999999996
-Detroit,399,Coloring Agent28,S1,F3,Bag,4941.0
-Detroit,400,Coloring Agent22,S4,F2,Bag,4924.0
-Detroit,401,Coloring Agent40,S3,F1,Bag,4921.0
-Detroit,402,Coloring Agent40,S3,F2,Bag,4900.0
-Detroit,403,Coloring Agent17,S1,F4,Bag,4868.0
-Detroit,404,Coloring Agent28,S2,F6,Bag,4864.509999999995
-Detroit,405,Coloring Agent15,S1,F2,Bag,4854.0
-Detroit,406,Coloring Agent7,S5,F2,Bag,4852.0
-Detroit,407,Coloring Agent11,S1,F3,Bag,4849.0
-Detroit,408,Coloring Agent23,S3,F1,Bag,4838.0
-Detroit,409,Coloring Agent20,S3,F4,Bag,4817.0
-Detroit,410,Coloring Agent12,S1,F3,Bag,4799.0
-Detroit,411,Coloring Agent35,S5,F4,Bag,4767.0
-Detroit,412,Coloring Agent9,S5,F5,Bag,4760.5
-Detroit,413,Coloring Agent24,S5,F4,Bag,4750.0
-Detroit,414,Coloring Agent13,S5,F2,Bag,4736.0
-Detroit,415,Coloring Agent21,S5,F2,Bag,4708.0
-Detroit,416,Coloring Agent18,S4,F4,Bag,4697.0
-Detroit,417,Coloring Agent25,S1,F1,Bag,4696.0
-Detroit,418,Coloring Agent9,S3,F5,Bag,4687.0
-Detroit,419,Coloring Agent4,S1,F4,Bag,4687.0
-Detroit,420,Coloring Agent9,S3,F4,Bag,4674.0
-Detroit,421,Coloring Agent40,S5,F4,Bag,4666.0
-Detroit,422,Coloring Agent28,S1,F7,Bag,4664.3399999999965
-Detroit,423,Coloring Agent10,S4,F1,Bag,4659.0
-Detroit,424,Coloring Agent21,S3,F1,Bag,4655.0
-Detroit,425,Coloring Agent25,S4,F5,Bag,4653.0
-Detroit,426,Coloring Agent22,S5,F1,Bag,4651.0
-Detroit,427,Coloring Agent38,S3,F4,Bag,4642.213333333337
-Detroit,428,Coloring Agent30,S5,F7,Bag,4614.0
-Detroit,429,Coloring Agent38,S3,F1,Bag,4612.0
-Detroit,430,Coloring Agent14,S3,F4,Bag,4606.666666666675
-Detroit,431,Coloring Agent35,S2,F3,Bag,4600.0
-Detroit,432,Coloring Agent28,S4,F1,Bag,4594.0
-Detroit,433,Coloring Agent24,S5,F1,Bag,4593.0
-Detroit,434,Coloring Agent30,S5,F5,Bag,4560.0
-Detroit,435,Coloring Agent19,S2,F1,Bag,4542.0
-Detroit,436,Coloring Agent20,S5,F2,Bag,4538.0
-Detroit,437,Coloring Agent8,S2,F2,Bag,4517.0
-Detroit,438,Coloring Agent27,S1,F4,Bag,4506.0
-Detroit,439,Coloring Agent39,S5,F2,Bag,4505.0
-Detroit,440,Coloring Agent16,S4,F2,Bag,4503.0
-Detroit,441,Coloring Agent8,S1,F5,Bag,4492.0
-Detroit,442,Coloring Agent3,S2,F1,Bag,4471.0
-Detroit,443,Coloring Agent27,S3,F3,Bag,4434.125
-Detroit,444,Coloring Agent25,S2,F1,Bag,4434.0
-Detroit,445,Coloring Agent18,S4,F1,Bag,4427.0
-Detroit,446,Coloring Agent16,S1,F7,Bag,4421.0
-Detroit,447,Coloring Agent20,S2,F3,Bag,4411.0
-Detroit,448,Coloring Agent17,S2,F2,Bag,4401.0
-Detroit,449,Coloring Agent20,S3,F1,Bag,4391.0
-Detroit,450,Coloring Agent16,S4,F4,Bag,4387.0
-Detroit,451,Coloring Agent3,S1,F3,Bag,4386.0
-Detroit,452,Coloring Agent16,S1,F1,Bag,4380.0
-Detroit,453,Coloring Agent3,S1,F2,Bag,4373.0
-Detroit,454,Coloring Agent4,S2,F1,Bag,4372.0
-Detroit,455,Coloring Agent30,S1,F4,Bag,4363.0
-Detroit,456,Coloring Agent10,S5,F1,Bag,4356.0
-Detroit,457,Coloring Agent7,S3,F4,Bag,4350.0
-Detroit,458,Coloring Agent22,S5,F4,Bag,4347.0
-Detroit,459,Coloring Agent25,S4,F2,Bag,4344.0
-Detroit,460,Coloring Agent22,S5,F2,Bag,4313.0
-Detroit,461,Coloring Agent24,S2,F1,Bag,4312.0
-Detroit,462,Coloring Agent8,S5,F1,Bag,4312.0
-Detroit,463,Coloring Agent30,S4,F4,Bag,4295.0
-Detroit,464,Coloring Agent7,S2,F7,Bag,4282.0
-Detroit,465,Coloring Agent37,S2,F5,Bag,4265.8333333333285
-Detroit,466,Coloring Agent17,S2,F1,Bag,4261.0
-Detroit,467,Coloring Agent35,S5,F6,Bag,4258.446666666656
-Detroit,468,Coloring Agent23,S4,F5,Bag,4257.0
-Detroit,469,Coloring Agent27,S5,F4,Bag,4254.25
-Detroit,470,Coloring Agent15,S3,F1,Bag,4251.0
-Detroit,471,Coloring Agent33,S1,F5,Bag,4242.11192665837
-Detroit,472,Coloring Agent38,S5,F3,Bag,4241.0
-Detroit,473,Coloring Agent30,S5,F1,Bag,4238.0
-Detroit,474,Coloring Agent14,S3,F2,Bag,4238.0
-Detroit,475,Coloring Agent16,S4,F6,Bag,4227.0
-Detroit,476,Coloring Agent10,S4,F3,Bag,4215.0
-Detroit,477,Coloring Agent35,S5,F1,Bag,4187.0
-Detroit,478,Coloring Agent12,S3,F1,Bag,4187.0
-Detroit,479,Coloring Agent4,S5,F10,Bag,4175.0
-Detroit,480,Coloring Agent33,S1,F3,Bag,4165.0
-Detroit,481,Coloring Agent28,S5,F3,Bag,4155.0
-Detroit,482,Coloring Agent9,S1,F4,Bag,4153.0
-Detroit,483,Coloring Agent35,S2,F2,Bag,4141.0
-Detroit,484,Coloring Agent4,S3,F3,Bag,4109.0
-Detroit,485,Coloring Agent32,S2,F3,Bag,4096.0
-Detroit,486,Coloring Agent23,S4,F6,Bag,4083.0
-Detroit,487,Coloring Agent30,S3,F4,Bag,4073.0
-Detroit,488,Coloring Agent10,S1,F3,Bag,4052.0
-Detroit,489,Coloring Agent4,S5,F6,Bag,4049.0
-Detroit,490,Coloring Agent18,S2,F5,Bag,4039.0
-Detroit,491,Coloring Agent11,S3,F5,Bag,4039.0
-Detroit,492,Coloring Agent32,S5,F3,Bag,4033.0
-Detroit,493,Coloring Agent36,S4,F3,Bag,4032.0
-Detroit,494,Coloring Agent10,S5,F2,Bag,4032.0
-Detroit,495,Coloring Agent19,S4,F7,Bag,4009.5
-Detroit,496,Coloring Agent7,S5,F3,Bag,3993.0
-Detroit,497,Coloring Agent13,S1,F2,Bag,3987.0
-Detroit,498,Coloring Agent4,S4,F4,Bag,3985.0
-Detroit,499,Coloring Agent30,S5,F11,Bag,3979.0
-Detroit,500,Coloring Agent18,S4,F3,Bag,3959.0
-Detroit,501,Coloring Agent3,S3,F4,Bag,3942.0
-Detroit,502,Coloring Agent11,S2,F7,Bag,3941.0
-Detroit,503,Coloring Agent40,S1,F3,Bag,3929.0
-Detroit,504,Coloring Agent38,S4,F9,Bag,3914.777777777781
-Detroit,505,Coloring Agent13,S3,F4,Bag,3913.0
-Detroit,506,Coloring Agent12,S5,F6,Bag,3905.0
-Detroit,507,Coloring Agent20,S2,F1,Bag,3896.0
-Detroit,508,Coloring Agent11,S3,F3,Bag,3895.0
-Detroit,509,Coloring Agent7,S3,F6,Bag,3895.0
-Detroit,510,Coloring Agent33,S3,F3,Bag,3881.0
-Detroit,511,Coloring Agent21,S1,F2,Bag,3877.0
-Detroit,512,Coloring Agent33,S1,F2,Bag,3876.0
-Detroit,513,Coloring Agent15,S5,F1,Bag,3874.0
-Detroit,514,Coloring Agent6,S1,F1,Bag,3862.0
-Detroit,515,Coloring Agent30,S4,F5,Bag,3851.0
-Detroit,516,Coloring Agent11,S2,F1,Bag,3831.0
-Detroit,517,Coloring Agent8,S4,F4,Bag,3830.0
-Detroit,518,Coloring Agent8,S3,F2,Bag,3807.0
-Detroit,519,Coloring Agent36,S3,F7,Bag,3778.0
-Detroit,520,Coloring Agent7,S3,F3,Bag,3755.0
-Detroit,521,Coloring Agent3,S5,F3,Bag,3748.0
-Detroit,522,Coloring Agent20,S3,F3,Bag,3728.0
-Detroit,523,Coloring Agent30,S4,F2,Bag,3692.0
-Detroit,524,Coloring Agent15,S1,F1,Bag,3689.0
-Detroit,525,Coloring Agent37,S2,F4,Bag,3686.0
-Detroit,526,Coloring Agent20,S3,F2,Bag,3659.0
-Detroit,527,Coloring Agent25,S4,F3,Bag,3656.0
-Detroit,528,Coloring Agent30,S2,F3,Bag,3649.0
-Detroit,529,Coloring Agent23,S5,F4,Bag,3644.0
-Detroit,530,Coloring Agent8,S3,F3,Bag,3644.0
-Detroit,531,Coloring Agent10,S1,F6,Bag,3639.0
-Detroit,532,Coloring Agent18,S5,F1,Bag,3619.0
-Detroit,533,Coloring Agent25,S3,F1,Bag,3616.0
-Detroit,534,Coloring Agent36,S5,F6,Bag,3611.0
-Detroit,535,Coloring Agent38,S2,F1,Bag,3579.0
-Detroit,536,Coloring Agent3,S2,F4,Bag,3578.0
-Detroit,537,Coloring Agent9,S3,F2,Bag,3571.0
-Detroit,538,Coloring Agent12,S3,F4,Bag,3561.0
-Detroit,539,Coloring Agent12,S1,F2,Bag,3539.0
-Detroit,540,Coloring Agent19,S5,F3,Bag,3538.0
-Detroit,541,Coloring Agent9,S2,F5,Bag,3533.0
-Detroit,542,Coloring Agent21,S4,F2,Bag,3527.0
-Detroit,543,Coloring Agent36,S2,F2,Bag,3514.0
-Detroit,544,Coloring Agent19,S5,F5,Bag,3512.0
-Detroit,545,Coloring Agent28,S2,F2,Bag,3497.0
-Detroit,546,Coloring Agent9,S1,F6,Bag,3496.0
-Detroit,547,Coloring Agent8,S4,F5,Bag,3488.0
-Detroit,548,Coloring Agent15,S2,F2,Bag,3484.0
-Detroit,549,Coloring Agent8,S1,F2,Bag,3484.0
-Detroit,550,Coloring Agent37,S2,F3,Bag,3476.0
-Detroit,551,Coloring Agent12,S5,F3,Bag,3455.0
-Detroit,552,Coloring Agent11,S2,F5,Bag,3442.0
-Detroit,553,Coloring Agent15,S3,F2,Bag,3438.0
-Detroit,554,Coloring Agent12,S2,F3,Bag,3438.0
-Detroit,555,Coloring Agent12,S4,F2,Bag,3427.0
-Detroit,556,Coloring Agent14,S5,F5,Bag,3419.0
-Detroit,557,Coloring Agent8,S3,F1,Bag,3418.0
-Detroit,558,Coloring Agent12,S5,F5,Bag,3408.0
-Detroit,559,Coloring Agent16,S1,F5,Bag,3398.0
-Detroit,560,Coloring Agent3,S5,F2,Bag,3374.0
-Detroit,561,Coloring Agent4,S4,F1,Bag,3353.0
-Detroit,562,Coloring Agent17,S5,F4,Bag,3340.0
-Detroit,563,Coloring Agent16,S2,F2,Bag,3339.0
-Detroit,564,Coloring Agent39,S3,F3,Bag,3320.0
-Detroit,565,Coloring Agent17,S5,F6,Bag,3318.0
-Detroit,566,Coloring Agent40,S3,F3,Bag,3317.0
-Detroit,567,Coloring Agent37,S2,F1,Bag,3299.0
-Detroit,568,Coloring Agent4,S5,F8,Bag,3282.0
-Detroit,569,Coloring Agent12,S1,F7,Bag,3246.0
-Detroit,570,Coloring Agent17,S4,F1,Bag,3231.0
-Detroit,571,Coloring Agent8,S2,F9,Bag,3221.0
-Detroit,572,Coloring Agent10,S2,F3,Bag,3208.519999999997
-Detroit,573,Coloring Agent28,S5,F4,Bag,3203.0
-Detroit,574,Coloring Agent19,S5,F4,Bag,3199.0
-Detroit,575,Coloring Agent38,S3,F3,Bag,3197.0
-Detroit,576,Coloring Agent33,S3,F5,Bag,3187.179999999993
-Detroit,577,Coloring Agent21,S2,F2,Bag,3184.0
-Detroit,578,Coloring Agent21,S4,F4,Bag,3159.0
-Detroit,579,Coloring Agent21,S2,F8,Bag,3148.0
-Detroit,580,Coloring Agent22,S2,F2,Bag,3117.0
-Detroit,581,Coloring Agent28,S3,F1,Bag,3093.0
-Detroit,582,Coloring Agent9,S2,F3,Bag,3073.0
-Detroit,583,Coloring Agent23,S4,F1,Bag,3064.0
-Detroit,584,Coloring Agent7,S2,F4,Bag,3062.0
-Detroit,585,Coloring Agent36,S1,F4,Bag,3043.0
-Detroit,586,Coloring Agent21,S1,F4,Bag,3037.0
-Detroit,587,Coloring Agent13,S4,F1,Bag,3029.0
-Detroit,588,Coloring Agent30,S4,F9,Bag,3025.0
-Detroit,589,Coloring Agent4,S4,F8,Bag,3012.5
-Detroit,590,Coloring Agent19,S5,F1,Bag,3011.0
-Detroit,591,Coloring Agent4,S5,F9,Bag,3007.0
-Detroit,592,Coloring Agent17,S5,F7,Bag,2980.0
-Detroit,593,Coloring Agent21,S2,F3,Bag,2974.0
-Detroit,594,Coloring Agent25,S1,F2,Bag,2968.0
-Detroit,595,Coloring Agent21,S4,F9,Bag,2958.461538461539
-Detroit,596,Coloring Agent8,S1,F4,Bag,2952.0
-Detroit,597,Coloring Agent30,S5,F6,Bag,2947.0
-Detroit,598,Coloring Agent3,S1,F7,Bag,2936.0
-Detroit,599,Coloring Agent9,S1,F3,Bag,2934.0
-Detroit,600,Coloring Agent27,S5,F2,Bag,2933.0
-Detroit,601,Coloring Agent35,S5,F5,Bag,2928.0
-Detroit,602,Coloring Agent19,S1,F4,Bag,2924.0
-Detroit,603,Coloring Agent13,S2,F1,Bag,2913.0
-Detroit,604,Coloring Agent30,S2,F1,Bag,2906.0
-Detroit,605,Coloring Agent24,S3,F4,Bag,2862.0
-Detroit,606,Coloring Agent39,S2,F5,Bag,2854.0
-Detroit,607,Coloring Agent21,S4,F6,Bag,2854.0
-Detroit,608,Coloring Agent4,S4,F5,Bag,2850.0
-Detroit,609,Coloring Agent39,S5,F1,Bag,2849.0
-Detroit,610,Coloring Agent8,S2,F8,Bag,2838.0
-Detroit,611,Coloring Agent13,S3,F1,Bag,2833.0
-Detroit,612,Coloring Agent11,S3,F6,Bag,2817.5
-Detroit,613,Coloring Agent3,S1,F9,Bag,2794.0
-Detroit,614,Coloring Agent16,S2,F1,Bag,2741.0
-Detroit,615,Coloring Agent10,S1,F7,Bag,2738.0
-Detroit,616,Coloring Agent35,S3,F1,Bag,2737.0
-Detroit,617,Coloring Agent19,S2,F4,Bag,2728.0
-Detroit,618,Coloring Agent39,S1,F2,Bag,2727.0
-Detroit,619,Coloring Agent38,S4,F5,Bag,2721.0
-Detroit,620,Coloring Agent22,S5,F3,Bag,2718.0
-Detroit,621,Coloring Agent3,S3,F6,Bag,2717.5
-Detroit,622,Coloring Agent25,S1,F3,Bag,2700.0
-Detroit,623,Coloring Agent16,S2,F3,Bag,2696.0
-Detroit,624,Coloring Agent39,S1,F4,Bag,2680.0
-Detroit,625,Coloring Agent23,S4,F2,Bag,2661.0
-Detroit,626,Coloring Agent12,S3,F5,Bag,2654.5151515151592
-Detroit,627,Coloring Agent13,S3,F5,Bag,2650.0
-Detroit,628,Coloring Agent11,S2,F2,Bag,2630.0
-Detroit,629,Coloring Agent8,S2,F3,Bag,2610.0
-Detroit,630,Coloring Agent20,S1,F1,Bag,2604.0
-Detroit,631,Coloring Agent32,S5,F1,Bag,2602.0
-Detroit,632,Coloring Agent16,S2,F5,Bag,2602.0
-Detroit,633,Coloring Agent3,S2,F6,Bag,2594.0
-Detroit,634,Coloring Agent28,S2,F3,Bag,2583.0
-Detroit,635,Coloring Agent30,S5,F10,Bag,2573.0
-Detroit,636,Coloring Agent24,S3,F5,Bag,2562.5
-Detroit,637,Coloring Agent8,S2,F6,Bag,2546.0
-Detroit,638,Coloring Agent25,S5,F5,Bag,2543.0
-Detroit,639,Coloring Agent40,S3,F4,Bag,2530.4999999999964
-Detroit,640,Coloring Agent4,S4,F3,Bag,2517.0
-Detroit,641,Coloring Agent15,S4,F2,Bag,2513.0
-Detroit,642,Coloring Agent19,S4,F1,Bag,2505.0
-Detroit,643,Coloring Agent23,S5,F1,Bag,2499.0
-Detroit,644,Coloring Agent13,S1,F4,Bag,2498.040000000001
-Detroit,645,Coloring Agent19,S4,F3,Bag,2498.0
-Detroit,646,Coloring Agent21,S3,F4,Bag,2496.0
-Detroit,647,Coloring Agent7,S5,F4,Bag,2464.0
-Detroit,648,Coloring Agent40,S5,F5,Bag,2449.0
-Detroit,649,Coloring Agent11,S5,F1,Bag,2445.5
-Detroit,650,Coloring Agent33,S3,F2,Bag,2425.0
-Detroit,651,Coloring Agent17,S4,F5,Bag,2421.671669793621
-Detroit,652,Coloring Agent35,S4,F1,Bag,2419.0
-Detroit,653,Coloring Agent21,S1,F5,Bag,2405.0
-Detroit,654,Coloring Agent35,S4,F3,Bag,2391.0
-Detroit,655,Coloring Agent20,S1,F3,Bag,2379.0
-Detroit,656,Coloring Agent10,S5,F4,Bag,2371.0
-Detroit,657,Coloring Agent20,S5,F4,Bag,2370.0
-Detroit,658,Coloring Agent9,S2,F1,Bag,2341.0
-Detroit,659,Coloring Agent21,S3,F9,Bag,2334.0
-Detroit,660,Coloring Agent21,S5,F3,Bag,2323.0
-Detroit,661,Coloring Agent7,S4,F8,Bag,2296.6184210526335
-Detroit,662,Coloring Agent4,S4,F6,Bag,2294.0
-Detroit,663,Coloring Agent14,S2,F4,Bag,2293.0
-Detroit,664,Coloring Agent38,S1,F5,Bag,2290.0
-Detroit,665,Coloring Agent24,S5,F5,Bag,2289.0
-Detroit,666,Coloring Agent14,S4,F1,Bag,2289.0
-Detroit,667,Coloring Agent30,S4,F6,Bag,2260.0
-Detroit,668,Coloring Agent9,S2,F2,Bag,2243.0
-Detroit,669,Coloring Agent19,S3,F4,Bag,2225.0
-Detroit,670,Coloring Agent17,S4,F3,Bag,2217.0
-Detroit,671,Coloring Agent28,S2,F4,Bag,2211.0
-Detroit,672,Coloring Agent22,S2,F5,Bag,2200.0999999999985
-Detroit,673,Coloring Agent38,S4,F3,Bag,2164.0
-Detroit,674,Coloring Agent39,S1,F5,Bag,2159.0
-Detroit,675,Coloring Agent8,S3,F5,Bag,2156.5
-Detroit,676,Coloring Agent4,S3,F6,Bag,2130.5
-Detroit,677,Coloring Agent36,S5,F3,Bag,2111.0
-Detroit,678,Coloring Agent4,S1,F5,Bag,2108.0
-Detroit,679,Coloring Agent11,S2,F4,Bag,2085.0
-Detroit,680,Coloring Agent14,S5,F4,Bag,2076.0
-Detroit,681,Coloring Agent33,S4,F4,Bag,2070.0
-Detroit,682,Coloring Agent38,S5,F4,Bag,1992.0
-Detroit,683,Coloring Agent24,S2,F2,Bag,1985.0
-Detroit,684,Coloring Agent7,S4,F3,Bag,1973.0
-Detroit,685,Coloring Agent17,S1,F6,Bag,1968.6463414634345
-Detroit,686,Coloring Agent21,S4,F5,Bag,1968.0
-Detroit,687,Coloring Agent32,S1,F1,Bag,1960.0
-Detroit,688,Coloring Agent7,S3,F9,Bag,1936.2894736842136
-Detroit,689,Coloring Agent35,S2,F1,Bag,1930.0
-Detroit,690,Coloring Agent35,S3,F5,Bag,1921.9999999999927
-Detroit,691,Coloring Agent6,S2,F1,Bag,1906.0
-Detroit,692,Coloring Agent4,S1,F7,Bag,1901.0
-Detroit,693,Coloring Agent8,S1,F6,Bag,1900.5
-Detroit,694,Coloring Agent14,S4,F4,Bag,1895.1699999999873
-Detroit,695,Coloring Agent12,S3,F3,Bag,1881.0
-Detroit,696,Coloring Agent37,S4,F1,Bag,1871.854166666657
-Detroit,697,Coloring Agent15,S1,F4,Bag,1867.0
-Detroit,698,Coloring Agent15,S2,F4,Bag,1856.0
-Detroit,699,Coloring Agent9,S4,F4,Bag,1852.0
-Detroit,700,Coloring Agent20,S5,F3,Bag,1839.0
-Detroit,701,Coloring Agent18,S5,F3,Bag,1821.0
-Detroit,702,Coloring Agent14,S1,F4,Bag,1809.0
-Detroit,703,Coloring Agent14,S3,F1,Bag,1758.0
-Detroit,704,Coloring Agent7,S2,F3,Bag,1746.0
-Detroit,705,Coloring Agent16,S3,F1,Bag,1723.0
-Detroit,706,Coloring Agent21,S1,F6,Bag,1717.0
-Detroit,707,Coloring Agent11,S2,F8,Bag,1711.569444444438
-Detroit,708,Coloring Agent6,S2,F6,Bag,1711.0
-Detroit,709,Coloring Agent12,S5,F2,Bag,1678.0
-Detroit,710,Coloring Agent4,S1,F1,Bag,1668.0
-Detroit,711,Coloring Agent15,S2,F5,Bag,1654.5
-Detroit,712,Coloring Agent36,S5,F8,Bag,1631.6999999999825
-Detroit,713,Coloring Agent27,S5,F1,Bag,1611.0
-Detroit,714,Coloring Agent9,S1,F2,Bag,1606.0
-Detroit,715,Coloring Agent9,S5,F2,Bag,1587.0
-Detroit,716,Coloring Agent40,S4,F2,Bag,1573.0
-Detroit,717,Coloring Agent16,S4,F5,Bag,1571.0
-Detroit,718,Coloring Agent11,S4,F1,Bag,1554.0
-Detroit,719,Coloring Agent14,S5,F3,Bag,1544.0
-Detroit,720,Coloring Agent30,S3,F5,Bag,1541.3378378378402
-Detroit,721,Coloring Agent4,S5,F3,Bag,1534.0
-Detroit,722,Coloring Agent21,S3,F5,Bag,1514.0
-Detroit,723,Coloring Agent22,S2,F4,Bag,1511.0
-Detroit,724,Coloring Agent6,S4,F5,Bag,1506.9999999999964
-Detroit,725,Coloring Agent16,S4,F8,Bag,1480.7307692307804
-Detroit,726,Coloring Agent23,S4,F7,Bag,1478.3627272727317
-Detroit,727,Coloring Agent38,S4,F7,Bag,1469.0
-Detroit,728,Coloring Agent39,S3,F4,Bag,1465.0
-Detroit,729,Coloring Agent6,S2,F2,Bag,1457.0
-Detroit,730,Coloring Agent18,S3,F1,Bag,1443.6538461538585
-Detroit,731,Coloring Agent19,S1,F5,Bag,1420.0
-Detroit,732,Coloring Agent27,S4,F1,Bag,1416.0
-Detroit,733,Coloring Agent8,S2,F5,Bag,1404.0
-Detroit,734,Coloring Agent9,S4,F1,Bag,1392.0
-Detroit,735,Coloring Agent35,S3,F4,Bag,1386.0
-Detroit,736,Coloring Agent35,S4,F2,Bag,1385.0
-Detroit,737,Coloring Agent24,S3,F2,Bag,1365.0
-Detroit,738,Coloring Agent21,S3,F3,Bag,1363.0
-Detroit,739,Coloring Agent38,S2,F3,Bag,1338.3499999999985
-Detroit,740,Coloring Agent4,S5,F1,Bag,1338.0
-Detroit,741,Coloring Agent12,S4,F3,Bag,1328.5863636363683
-Detroit,742,Coloring Agent21,S3,F8,Bag,1290.0
-Detroit,743,Coloring Agent10,S1,F4,Bag,1271.0
-Detroit,744,Coloring Agent9,S2,F7,Bag,1270.8906250000073
-Detroit,745,Coloring Agent38,S1,F4,Bag,1249.0
-Detroit,746,Coloring Agent36,S5,F4,Bag,1231.0
-Detroit,747,Coloring Agent38,S4,F4,Bag,1204.0
-Detroit,748,Coloring Agent10,S1,F5,Bag,1203.0
-Detroit,749,Coloring Agent16,S5,F5,Bag,1195.8461538461634
-Detroit,750,Coloring Agent20,S1,F4,Bag,1178.0
-Detroit,751,Coloring Agent22,S2,F1,Bag,1159.0
-Detroit,752,Coloring Agent22,S5,F5,Bag,1142.797297297293
-Detroit,753,Coloring Agent16,S4,F3,Bag,1141.0
-Detroit,754,Coloring Agent15,S1,F6,Bag,1131.8513513513535
-Detroit,755,Coloring Agent38,S5,F2,Bag,1123.0
-Detroit,756,Coloring Agent40,S5,F3,Bag,1116.0
-Detroit,757,Coloring Agent28,S3,F3,Bag,1105.479999999996
-Detroit,758,Coloring Agent18,S5,F4,Bag,1086.307692307695
-Detroit,759,Coloring Agent39,S1,F6,Bag,1071.2547368421074
-Detroit,760,Coloring Agent15,S4,F1,Bag,1050.0
-Detroit,761,Coloring Agent40,S4,F5,Bag,1034.1875
-Detroit,762,Coloring Agent30,S5,F8,Bag,1025.0
-Detroit,763,Coloring Agent4,S2,F5,Bag,1025.0
-Detroit,764,Coloring Agent17,S3,F4,Bag,1019.8639774859184
-Detroit,765,Coloring Agent36,S4,F2,Bag,1017.0
-Detroit,766,Coloring Agent30,S2,F4,Bag,1016.8243243243269
-Detroit,767,Coloring Agent21,S5,F1,Bag,1004.0
-Detroit,768,Coloring Agent36,S1,F6,Bag,921.0
-Detroit,769,Coloring Agent3,S1,F5,Bag,914.0
-Detroit,770,Coloring Agent12,S1,F8,Bag,873.0
-Detroit,771,Coloring Agent17,S5,F1,Bag,872.0
-Detroit,772,Coloring Agent9,S4,F7,Bag,827.3373397435935
-Detroit,773,Coloring Agent3,S4,F5,Bag,796.5
-Detroit,774,Coloring Agent23,S5,F5,Bag,765.8823529411748
-Detroit,775,Coloring Agent39,S3,F5,Bag,731.0
-Detroit,776,Coloring Agent4,S5,F5,Bag,725.0
-Detroit,777,Coloring Agent18,S2,F6,Bag,678.6200000000026
-Detroit,778,Coloring Agent3,S3,F3,Bag,674.0
-Detroit,779,Coloring Agent7,S3,F7,Bag,657.0
-Detroit,780,Coloring Agent36,S1,F7,Bag,637.5
-Detroit,781,Coloring Agent16,S3,F4,Bag,572.7884615384683
-Detroit,782,Coloring Agent23,S2,F1,Bag,529.6563636363644
-Detroit,783,Coloring Agent12,S2,F4,Bag,495.92979797979933
-Detroit,784,Coloring Agent32,S2,F5,Bag,456.7307692307659
-Detroit,785,Coloring Agent10,S4,F6,Bag,397.35714285714494
-Detroit,786,Coloring Agent38,S5,F5,Bag,289.36158730158786
-Detroit,787,Coloring Agent22,S3,F3,Bag,177.397147147145
-Detroit,788,Coloring Agent14,S5,F6,Bag,54.0
-Detroit,789,Coloring Agent36,S4,F7,Bag,40.5
-Detroit,790,Coloring Agent40,S3,F1,Box,12782.5
-Detroit,791,Coloring Agent25,S5,F3,Box,12182.5
-Detroit,792,Coloring Agent20,S4,F1,Box,11765.0
-Detroit,793,Coloring Agent30,S1,F3,Box,11137.5
-Detroit,794,Coloring Agent9,S2,F2,Box,10330.0
-Detroit,795,Coloring Agent17,S2,F3,Box,10255.0
-Detroit,796,Coloring Agent39,S1,F2,Box,9605.0
-Detroit,797,Coloring Agent39,S1,F3,Box,9547.5
-Detroit,798,Coloring Agent40,S4,F3,Box,9090.0
-Detroit,799,Coloring Agent13,S1,F1,Box,8990.0
-Detroit,800,Coloring Agent13,S3,F4,Box,8892.5
-Detroit,801,Coloring Agent4,S5,F2,Box,8890.0
-Detroit,802,Coloring Agent30,S5,F6,Box,8887.5
-Detroit,803,Coloring Agent11,S4,F1,Box,8867.5
-Detroit,804,Coloring Agent39,S5,F2,Box,8815.0
-Detroit,805,Coloring Agent10,S1,F1,Box,8627.5
-Detroit,806,Coloring Agent33,S1,F2,Box,8595.0
-Detroit,807,Coloring Agent11,S2,F3,Box,8482.5
-Detroit,808,Coloring Agent39,S3,F1,Box,8345.0
-Detroit,809,Coloring Agent30,S5,F3,Box,8322.5
-Detroit,810,Coloring Agent32,S1,F2,Box,8307.5
-Detroit,811,Coloring Agent8,S2,F4,Box,8295.0
-Detroit,812,Coloring Agent8,S1,F2,Box,8080.0
-Detroit,813,Coloring Agent36,S3,F5,Box,8047.5
-Detroit,814,Coloring Agent20,S5,F3,Box,7985.0
-Detroit,815,Coloring Agent21,S2,F8,Box,7940.0
-Detroit,816,Coloring Agent27,S5,F1,Box,7740.0
-Detroit,817,Coloring Agent38,S4,F3,Box,7577.5
-Detroit,818,Coloring Agent17,S4,F3,Box,7512.5
-Detroit,819,Coloring Agent9,S4,F2,Box,7497.5
-Detroit,820,Coloring Agent19,S1,F6,Box,7415.0
-Detroit,821,Coloring Agent40,S1,F4,Box,7312.5
-Detroit,822,Coloring Agent16,S4,F6,Box,7077.5
-Detroit,823,Coloring Agent4,S5,F3,Box,6980.0
-Detroit,824,Coloring Agent20,S1,F5,Box,6965.0
-Detroit,825,Coloring Agent12,S1,F5,Box,6947.5
-Detroit,826,Coloring Agent36,S1,F5,Box,6920.0
-Detroit,827,Coloring Agent21,S1,F1,Box,6875.0
-Detroit,828,Coloring Agent8,S2,F7,Box,6875.0
-Detroit,829,Coloring Agent18,S4,F1,Box,6862.5
-Detroit,830,Coloring Agent39,S3,F2,Box,6700.0
-Detroit,831,Coloring Agent3,S2,F1,Box,6675.0
-Detroit,832,Coloring Agent36,S4,F6,Box,6620.0
-Detroit,833,Coloring Agent10,S4,F3,Box,6595.0
-Detroit,834,Coloring Agent40,S5,F2,Box,6592.5
-Detroit,835,Coloring Agent38,S3,F3,Box,6567.5
-Detroit,836,Coloring Agent3,S3,F1,Box,6562.5
-Detroit,837,Coloring Agent39,S5,F4,Box,6540.0
-Detroit,838,Coloring Agent25,S1,F1,Box,6467.5
-Detroit,839,Coloring Agent3,S1,F5,Box,6392.5
-Detroit,840,Coloring Agent16,S1,F2,Box,6362.5
-Detroit,841,Coloring Agent10,S5,F3,Box,6355.0
-Detroit,842,Coloring Agent11,S2,F6,Box,6300.0
-Detroit,843,Coloring Agent15,S4,F3,Box,6297.5
-Detroit,844,Coloring Agent14,S5,F1,Box,6290.0
-Detroit,845,Coloring Agent38,S5,F3,Box,6287.5
-Detroit,846,Coloring Agent22,S2,F3,Box,6255.0
-Detroit,847,Coloring Agent33,S1,F1,Box,6130.0
-Detroit,848,Coloring Agent24,S3,F1,Box,6102.5
-Detroit,849,Coloring Agent36,S3,F3,Box,6047.5
-Detroit,850,Coloring Agent37,S2,F3,Box,6025.0
-Detroit,851,Coloring Agent24,S2,F2,Box,6025.0
-Detroit,852,Coloring Agent36,S4,F4,Box,5975.0
-Detroit,853,Coloring Agent36,S2,F3,Box,5945.0
-Detroit,854,Coloring Agent12,S2,F1,Box,5865.0
-Detroit,855,Coloring Agent37,S5,F1,Box,5855.0
-Detroit,856,Coloring Agent15,S5,F1,Box,5852.5
-Detroit,857,Coloring Agent3,S1,F2,Box,5837.5
-Detroit,858,Coloring Agent28,S4,F3,Box,5822.5
-Detroit,859,Coloring Agent21,S3,F7,Box,5805.0
-Detroit,860,Coloring Agent35,S4,F2,Box,5742.5
-Detroit,861,Coloring Agent30,S2,F2,Box,5737.5
-Detroit,862,Coloring Agent24,S3,F2,Box,5682.5
-Detroit,863,Coloring Agent39,S5,F3,Box,5657.5
-Detroit,864,Coloring Agent16,S1,F5,Box,5657.5
-Detroit,865,Coloring Agent17,S5,F2,Box,5632.5
-Detroit,866,Coloring Agent14,S4,F2,Box,5597.5
-Detroit,867,Coloring Agent37,S3,F1,Box,5587.5
-Detroit,868,Coloring Agent6,S4,F4,Box,5587.5
-Detroit,869,Coloring Agent20,S2,F2,Box,5577.5
-Detroit,870,Coloring Agent9,S3,F4,Box,5535.0
-Detroit,871,Coloring Agent3,S5,F3,Box,5445.0
-Detroit,872,Coloring Agent15,S5,F3,Box,5437.5
-Detroit,873,Coloring Agent7,S3,F6,Box,5402.5
-Detroit,874,Coloring Agent23,S3,F1,Box,5377.5
-Detroit,875,Coloring Agent19,S3,F2,Box,5370.0
-Detroit,876,Coloring Agent39,S1,F4,Box,5307.5
-Detroit,877,Coloring Agent38,S2,F2,Box,5292.5
-Detroit,878,Coloring Agent14,S3,F2,Box,5287.5
-Detroit,879,Coloring Agent40,S4,F2,Box,5270.0
-Detroit,880,Coloring Agent21,S4,F5,Box,5270.0
-Detroit,881,Coloring Agent19,S4,F1,Box,5242.5
-Detroit,882,Coloring Agent14,S1,F2,Box,5242.5
-Detroit,883,Coloring Agent38,S5,F1,Box,5210.0
-Detroit,884,Coloring Agent23,S4,F5,Box,5205.0
-Detroit,885,Coloring Agent39,S2,F5,Box,5185.0
-Detroit,886,Coloring Agent4,S1,F4,Box,5180.0
-Detroit,887,Coloring Agent25,S2,F3,Box,5177.5
-Detroit,888,Coloring Agent11,S1,F4,Box,5177.5
-Detroit,889,Coloring Agent36,S5,F3,Box,5147.5
-Detroit,890,Coloring Agent40,S5,F5,Box,5122.5
-Detroit,891,Coloring Agent4,S4,F4,Box,5090.0
-Detroit,892,Coloring Agent4,S5,F10,Box,5062.5
-Detroit,893,Coloring Agent3,S2,F6,Box,5060.0
-Detroit,894,Coloring Agent19,S5,F6,Box,5043.5
-Detroit,895,Coloring Agent18,S4,F2,Box,5007.5
-Detroit,896,Coloring Agent16,S3,F1,Box,4960.0
-Detroit,897,Coloring Agent28,S5,F1,Box,4952.5
-Detroit,898,Coloring Agent36,S2,F1,Box,4950.0
-Detroit,899,Coloring Agent17,S4,F4,Box,4945.0
-Detroit,900,Coloring Agent16,S2,F2,Box,4930.0
-Detroit,901,Coloring Agent23,S5,F4,Box,4905.0
-Detroit,902,Coloring Agent16,S4,F2,Box,4905.0
-Detroit,903,Coloring Agent25,S3,F4,Box,4895.0
-Detroit,904,Coloring Agent23,S4,F1,Box,4890.0
-Detroit,905,Coloring Agent6,S5,F1,Box,4890.0
-Detroit,906,Coloring Agent15,S1,F2,Box,4885.0
-Detroit,907,Coloring Agent37,S5,F4,Box,4875.0
-Detroit,908,Coloring Agent17,S5,F5,Box,4852.5
-Detroit,909,Coloring Agent30,S5,F11,Box,4827.5
-Detroit,910,Coloring Agent21,S5,F5,Box,4722.5
-Detroit,911,Coloring Agent3,S4,F1,Box,4712.5
-Detroit,912,Coloring Agent38,S5,F4,Box,4687.5
-Detroit,913,Coloring Agent15,S2,F3,Box,4682.5
-Detroit,914,Coloring Agent32,S2,F3,Box,4635.0
-Detroit,915,Coloring Agent37,S3,F3,Box,4517.5
-Detroit,916,Coloring Agent16,S1,F4,Box,4507.5
-Detroit,917,Coloring Agent25,S3,F1,Box,4485.0
-Detroit,918,Coloring Agent33,S1,F4,Box,4475.0
-Detroit,919,Coloring Agent32,S4,F2,Box,4466.877622377622
-Detroit,920,Coloring Agent4,S1,F6,Box,4462.5
-Detroit,921,Coloring Agent12,S1,F7,Box,4457.5
-Detroit,922,Coloring Agent12,S5,F4,Box,4432.5
-Detroit,923,Coloring Agent21,S3,F6,Box,4425.0
-Detroit,924,Coloring Agent4,S3,F5,Box,4415.0
-Detroit,925,Coloring Agent25,S2,F5,Box,4410.0
-Detroit,926,Coloring Agent21,S4,F2,Box,4395.0
-Detroit,927,Coloring Agent20,S2,F3,Box,4392.5
-Detroit,928,Coloring Agent35,S5,F4,Box,4380.0
-Detroit,929,Coloring Agent10,S4,F2,Box,4365.0
-Detroit,930,Coloring Agent32,S5,F3,Box,4355.0
-Detroit,931,Coloring Agent35,S2,F4,Box,4332.5
-Detroit,932,Coloring Agent9,S1,F4,Box,4307.5
-Detroit,933,Coloring Agent24,S5,F4,Box,4295.0
-Detroit,934,Coloring Agent33,S4,F3,Box,4277.5
-Detroit,935,Coloring Agent32,S1,F1,Box,4265.0
-Detroit,936,Coloring Agent10,S1,F5,Box,4220.0
-Detroit,937,Coloring Agent11,S1,F3,Box,4172.5
-Detroit,938,Coloring Agent9,S4,F4,Box,4170.0
-Detroit,939,Coloring Agent6,S4,F1,Box,4167.5
-Detroit,940,Coloring Agent28,S5,F3,Box,4145.0
-Detroit,941,Coloring Agent20,S3,F6,Box,4137.5
-Detroit,942,Coloring Agent8,S4,F1,Box,4135.0
-Detroit,943,Coloring Agent3,S3,F5,Box,4120.0
-Detroit,944,Coloring Agent6,S2,F5,Box,4117.5
-Detroit,945,Coloring Agent27,S1,F3,Box,4107.5
-Detroit,946,Coloring Agent27,S3,F2,Box,4105.0
-Detroit,947,Coloring Agent35,S5,F1,Box,4100.0
-Detroit,948,Coloring Agent22,S2,F1,Box,4097.5
-Detroit,949,Coloring Agent14,S5,F5,Box,4097.5
-Detroit,950,Coloring Agent17,S1,F1,Box,4085.0
-Detroit,951,Coloring Agent30,S5,F2,Box,4082.5
-Detroit,952,Coloring Agent22,S2,F2,Box,4075.0
-Detroit,953,Coloring Agent23,S5,F3,Box,4055.0
-Detroit,954,Coloring Agent3,S3,F3,Box,4050.0
-Detroit,955,Coloring Agent4,S3,F4,Box,4015.0
-Detroit,956,Coloring Agent19,S2,F6,Box,4012.5
-Detroit,957,Coloring Agent16,S3,F2,Box,4002.5
-Detroit,958,Coloring Agent30,S5,F5,Box,3982.5
-Detroit,959,Coloring Agent3,S5,F1,Box,3952.5
-Detroit,960,Coloring Agent35,S4,F1,Box,3950.0
-Detroit,961,Coloring Agent10,S2,F1,Box,3935.0
-Detroit,962,Coloring Agent8,S2,F1,Box,3925.0
-Detroit,963,Coloring Agent30,S4,F1,Box,3902.5
-Detroit,964,Coloring Agent33,S3,F3,Box,3892.5
-Detroit,965,Coloring Agent9,S5,F3,Box,3887.5
-Detroit,966,Coloring Agent20,S1,F2,Box,3867.5
-Detroit,967,Coloring Agent35,S3,F1,Box,3840.0
-Detroit,968,Coloring Agent28,S4,F1,Box,3827.5
-Detroit,969,Coloring Agent14,S2,F1,Box,3787.5
-Detroit,970,Coloring Agent24,S5,F2,Box,3755.0
-Detroit,971,Coloring Agent21,S1,F4,Box,3752.5
-Detroit,972,Coloring Agent9,S1,F3,Box,3750.0
-Detroit,973,Coloring Agent13,S4,F1,Box,3737.5
-Detroit,974,Coloring Agent10,S4,F4,Box,3725.0
-Detroit,975,Coloring Agent3,S2,F3,Box,3720.0
-Detroit,976,Coloring Agent37,S2,F4,Box,3710.0
-Detroit,977,Coloring Agent36,S5,F7,Box,3702.5
-Detroit,978,Coloring Agent19,S2,F1,Box,3667.5
-Detroit,979,Coloring Agent33,S4,F1,Box,3665.0
-Detroit,980,Coloring Agent30,S4,F4,Box,3660.0
-Detroit,981,Coloring Agent13,S2,F4,Box,3640.0
-Detroit,982,Coloring Agent25,S1,F3,Box,3627.5
-Detroit,983,Coloring Agent16,S1,F3,Box,3592.5
-Detroit,984,Coloring Agent21,S1,F2,Box,3557.5
-Detroit,985,Coloring Agent23,S1,F3,Box,3525.0
-Detroit,986,Coloring Agent15,S5,F4,Box,3517.5
-Detroit,987,Coloring Agent4,S5,F9,Box,3502.5
-Detroit,988,Coloring Agent35,S3,F3,Box,3497.5
-Detroit,989,Coloring Agent38,S4,F8,Box,3460.0
-Detroit,990,Coloring Agent8,S3,F1,Box,3457.5
-Detroit,991,Coloring Agent39,S5,F5,Box,3452.5
-Detroit,992,Coloring Agent12,S5,F3,Box,3452.5
-Detroit,993,Coloring Agent7,S3,F8,Box,3450.0
-Detroit,994,Coloring Agent15,S3,F1,Box,3420.0
-Detroit,995,Coloring Agent36,S1,F1,Box,3392.5
-Detroit,996,Coloring Agent40,S1,F1,Box,3380.0
-Detroit,997,Coloring Agent22,S3,F2,Box,3367.5
-Detroit,998,Coloring Agent30,S1,F5,Box,3334.0
-Detroit,999,Coloring Agent8,S1,F4,Box,3332.5
-Detroit,1000,Coloring Agent11,S3,F4,Box,3327.5
-Detroit,1001,Coloring Agent8,S4,F2,Box,3320.0
-Detroit,1002,Coloring Agent15,S2,F2,Box,3305.0
-Detroit,1003,Coloring Agent19,S4,F6,Box,3300.0
-Detroit,1004,Coloring Agent11,S1,F5,Box,3295.75
-Detroit,1005,Coloring Agent19,S5,F4,Box,3275.0
-Detroit,1006,Coloring Agent39,S5,F1,Box,3270.0
-Detroit,1007,Coloring Agent38,S2,F1,Box,3270.0
-Detroit,1008,Coloring Agent6,S1,F1,Box,3265.0
-Detroit,1009,Coloring Agent35,S2,F3,Box,3260.0
-Detroit,1010,Coloring Agent20,S4,F2,Box,3259.84660079053
-Detroit,1011,Coloring Agent35,S5,F5,Box,3252.5
-Detroit,1012,Coloring Agent11,S3,F5,Box,3240.0
-Detroit,1013,Coloring Agent7,S2,F7,Box,3200.0
-Detroit,1014,Coloring Agent37,S3,F2,Box,3195.0
-Detroit,1015,Coloring Agent7,S2,F6,Box,3195.0
-Detroit,1016,Coloring Agent4,S1,F5,Box,3177.5
-Detroit,1017,Coloring Agent21,S5,F3,Box,3172.5
-Detroit,1018,Coloring Agent25,S4,F3,Box,3165.0
-Detroit,1019,Coloring Agent21,S1,F3,Box,3155.0
-Detroit,1020,Coloring Agent8,S2,F12,Box,3134.5
-Detroit,1021,Coloring Agent20,S1,F1,Box,3132.5
-Detroit,1022,Coloring Agent12,S1,F2,Box,3130.0
-Detroit,1023,Coloring Agent8,S5,F2,Box,3125.0
-Detroit,1024,Coloring Agent17,S3,F3,Box,3115.0
-Detroit,1025,Coloring Agent38,S4,F4,Box,3110.0
-Detroit,1026,Coloring Agent35,S5,F2,Box,3105.0
-Detroit,1027,Coloring Agent36,S5,F2,Box,3095.0
-Detroit,1028,Coloring Agent37,S5,F3,Box,3077.5
-Detroit,1029,Coloring Agent20,S1,F3,Box,3070.0
-Detroit,1030,Coloring Agent3,S3,F2,Box,3070.0
-Detroit,1031,Coloring Agent19,S3,F6,Box,3044.5645161290304
-Detroit,1032,Coloring Agent20,S5,F1,Box,3035.0
-Detroit,1033,Coloring Agent14,S5,F4,Box,3017.5
-Detroit,1034,Coloring Agent35,S4,F4,Box,2978.5
-Detroit,1035,Coloring Agent9,S3,F2,Box,2965.0
-Detroit,1036,Coloring Agent9,S2,F6,Box,2965.0
-Detroit,1037,Coloring Agent3,S5,F2,Box,2965.0
-Detroit,1038,Coloring Agent20,S1,F4,Box,2950.0
-Detroit,1039,Coloring Agent14,S2,F4,Box,2932.5
-Detroit,1040,Coloring Agent30,S2,F3,Box,2930.0
-Detroit,1041,Coloring Agent22,S4,F1,Box,2910.0
-Detroit,1042,Coloring Agent40,S5,F1,Box,2885.0
-Detroit,1043,Coloring Agent3,S1,F11,Box,2880.0
-Detroit,1044,Coloring Agent38,S1,F4,Box,2872.5
-Detroit,1045,Coloring Agent7,S3,F4,Box,2857.5
-Detroit,1046,Coloring Agent19,S1,F4,Box,2837.5
-Detroit,1047,Coloring Agent40,S4,F4,Box,2825.0
-Detroit,1048,Coloring Agent4,S1,F3,Box,2825.0
-Detroit,1049,Coloring Agent9,S2,F1,Box,2820.0
-Detroit,1050,Coloring Agent19,S2,F4,Box,2807.5
-Detroit,1051,Coloring Agent3,S1,F3,Box,2805.0
-Detroit,1052,Coloring Agent30,S3,F3,Box,2795.0
-Detroit,1053,Coloring Agent27,S1,F4,Box,2770.0
-Detroit,1054,Coloring Agent25,S3,F3,Box,2762.5
-Detroit,1055,Coloring Agent7,S3,F5,Box,2757.5
-Detroit,1056,Coloring Agent13,S2,F2,Box,2755.0
-Detroit,1057,Coloring Agent16,S1,F1,Box,2742.5
-Detroit,1058,Coloring Agent10,S1,F4,Box,2742.5
-Detroit,1059,Coloring Agent14,S2,F6,Box,2737.5
-Detroit,1060,Coloring Agent18,S5,F2,Box,2727.5
-Detroit,1061,Coloring Agent7,S3,F1,Box,2722.5
-Detroit,1062,Coloring Agent4,S3,F2,Box,2720.0
-Detroit,1063,Coloring Agent30,S1,F2,Box,2717.5
-Detroit,1064,Coloring Agent3,S4,F2,Box,2712.5
-Detroit,1065,Coloring Agent8,S2,F9,Box,2695.0
-Detroit,1066,Coloring Agent19,S2,F5,Box,2677.5
-Detroit,1067,Coloring Agent7,S2,F5,Box,2640.0
-Detroit,1068,Coloring Agent8,S1,F3,Box,2630.0
-Detroit,1069,Coloring Agent40,S4,F1,Box,2625.0
-Detroit,1070,Coloring Agent21,S3,F2,Box,2615.0
-Detroit,1071,Coloring Agent16,S5,F4,Box,2610.0
-Detroit,1072,Coloring Agent10,S5,F4,Box,2606.5
-Detroit,1073,Coloring Agent25,S2,F2,Box,2600.0
-Detroit,1074,Coloring Agent36,S5,F4,Box,2585.0
-Detroit,1075,Coloring Agent28,S1,F6,Box,2585.0
-Detroit,1076,Coloring Agent11,S2,F7,Box,2580.0
-Detroit,1077,Coloring Agent20,S3,F3,Box,2560.0
-Detroit,1078,Coloring Agent36,S4,F5,Box,2555.0
-Detroit,1079,Coloring Agent28,S1,F4,Box,2555.0
-Detroit,1080,Coloring Agent38,S4,F5,Box,2540.0
-Detroit,1081,Coloring Agent25,S2,F4,Box,2540.0
-Detroit,1082,Coloring Agent38,S4,F1,Box,2485.0
-Detroit,1083,Coloring Agent4,S2,F1,Box,2470.0
-Detroit,1084,Coloring Agent10,S4,F1,Box,2462.5
-Detroit,1085,Coloring Agent27,S3,F1,Box,2445.0
-Detroit,1086,Coloring Agent21,S1,F7,Box,2432.5
-Detroit,1087,Coloring Agent19,S5,F5,Box,2430.0
-Detroit,1088,Coloring Agent11,S2,F2,Box,2425.0
-Detroit,1089,Coloring Agent16,S1,F6,Box,2415.0
-Detroit,1090,Coloring Agent12,S3,F1,Box,2405.0
-Detroit,1091,Coloring Agent35,S4,F3,Box,2400.0
-Detroit,1092,Coloring Agent3,S4,F3,Box,2392.5
-Detroit,1093,Coloring Agent14,S1,F1,Box,2385.0
-Detroit,1094,Coloring Agent9,S3,F1,Box,2370.0
-Detroit,1095,Coloring Agent37,S2,F1,Box,2367.5
-Detroit,1096,Coloring Agent39,S1,F5,Box,2362.5
-Detroit,1097,Coloring Agent27,S4,F1,Box,2357.5
-Detroit,1098,Coloring Agent39,S1,F1,Box,2355.0
-Detroit,1099,Coloring Agent16,S4,F1,Box,2355.0
-Detroit,1100,Coloring Agent10,S2,F2,Box,2347.5
-Detroit,1101,Coloring Agent17,S1,F4,Box,2342.5
-Detroit,1102,Coloring Agent14,S4,F1,Box,2340.0
-Detroit,1103,Coloring Agent11,S3,F2,Box,2337.5
-Detroit,1104,Coloring Agent22,S4,F2,Box,2332.5
-Detroit,1105,Coloring Agent19,S1,F1,Box,2332.5
-Detroit,1106,Coloring Agent4,S1,F7,Box,2301.5
-Detroit,1107,Coloring Agent15,S1,F1,Box,2292.5
-Detroit,1108,Coloring Agent4,S5,F6,Box,2292.5
-Detroit,1109,Coloring Agent23,S4,F3,Box,2290.0
-Detroit,1110,Coloring Agent20,S3,F1,Box,2277.5
-Detroit,1111,Coloring Agent30,S5,F10,Box,2272.5
-Detroit,1112,Coloring Agent25,S4,F4,Box,2270.0
-Detroit,1113,Coloring Agent40,S5,F4,Box,2260.0
-Detroit,1114,Coloring Agent16,S3,F3,Box,2255.0
-Detroit,1115,Coloring Agent3,S1,F6,Box,2240.0
-Detroit,1116,Coloring Agent30,S3,F2,Box,2235.0
-Detroit,1117,Coloring Agent19,S3,F4,Box,2217.5
-Detroit,1118,Coloring Agent30,S5,F1,Box,2195.0
-Detroit,1119,Coloring Agent9,S5,F1,Box,2175.0
-Detroit,1120,Coloring Agent19,S4,F5,Box,2160.0
-Detroit,1121,Coloring Agent21,S2,F4,Box,2150.0
-Detroit,1122,Coloring Agent12,S5,F1,Box,2150.0
-Detroit,1123,Coloring Agent40,S3,F2,Box,2137.5
-Detroit,1124,Coloring Agent28,S5,F4,Box,2137.5
-Detroit,1125,Coloring Agent18,S5,F3,Box,2137.5
-Detroit,1126,Coloring Agent3,S1,F8,Box,2137.5
-Detroit,1127,Coloring Agent37,S5,F2,Box,2130.0
-Detroit,1128,Coloring Agent9,S3,F3,Box,2130.0
-Detroit,1129,Coloring Agent8,S3,F4,Box,2125.0
-Detroit,1130,Coloring Agent4,S5,F4,Box,2112.5
-Detroit,1131,Coloring Agent25,S3,F6,Box,2107.5
-Detroit,1132,Coloring Agent13,S3,F1,Box,2097.5
-Detroit,1133,Coloring Agent30,S2,F1,Box,2095.0
-Detroit,1134,Coloring Agent19,S5,F1,Box,2070.0
-Detroit,1135,Coloring Agent32,S2,F4,Box,2067.5
-Detroit,1136,Coloring Agent3,S1,F9,Box,2060.0
-Detroit,1137,Coloring Agent18,S4,F3,Box,2045.0
-Detroit,1138,Coloring Agent8,S2,F2,Box,2045.0
-Detroit,1139,Coloring Agent3,S3,F4,Box,2045.0
-Detroit,1140,Coloring Agent40,S5,F3,Box,2042.5
-Detroit,1141,Coloring Agent18,S2,F4,Box,2040.0
-Detroit,1142,Coloring Agent4,S4,F3,Box,2012.5
-Detroit,1143,Coloring Agent12,S5,F2,Box,1997.5
-Detroit,1144,Coloring Agent10,S1,F2,Box,1997.5
-Detroit,1145,Coloring Agent9,S2,F3,Box,1997.5
-Detroit,1146,Coloring Agent23,S5,F2,Box,1987.5
-Detroit,1147,Coloring Agent35,S5,F3,Box,1985.0
-Detroit,1148,Coloring Agent17,S1,F5,Box,1972.5
-Detroit,1149,Coloring Agent39,S3,F5,Box,1960.0
-Detroit,1150,Coloring Agent19,S4,F2,Box,1960.0
-Detroit,1151,Coloring Agent7,S2,F2,Box,1950.0
-Detroit,1152,Coloring Agent17,S2,F4,Box,1937.5
-Detroit,1153,Coloring Agent12,S4,F1,Box,1937.5
-Detroit,1154,Coloring Agent10,S1,F3,Box,1935.0
-Detroit,1155,Coloring Agent7,S2,F3,Box,1932.5
-Detroit,1156,Coloring Agent19,S2,F2,Box,1930.0
-Detroit,1157,Coloring Agent16,S5,F3,Box,1930.0
-Detroit,1158,Coloring Agent8,S5,F1,Box,1930.0
-Detroit,1159,Coloring Agent38,S5,F2,Box,1925.0
-Detroit,1160,Coloring Agent21,S2,F2,Box,1925.0
-Detroit,1161,Coloring Agent16,S4,F7,Box,1922.5
-Detroit,1162,Coloring Agent6,S2,F4,Box,1912.5
-Detroit,1163,Coloring Agent21,S1,F8,Box,1898.576923076922
-Detroit,1164,Coloring Agent35,S2,F1,Box,1897.5
-Detroit,1165,Coloring Agent17,S5,F3,Box,1897.5
-Detroit,1166,Coloring Agent33,S3,F2,Box,1890.0
-Detroit,1167,Coloring Agent3,S2,F5,Box,1885.0
-Detroit,1168,Coloring Agent28,S3,F1,Box,1880.0
-Detroit,1169,Coloring Agent15,S3,F2,Box,1879.052190121156
-Detroit,1170,Coloring Agent6,S4,F3,Box,1865.0
-Detroit,1171,Coloring Agent20,S3,F5,Box,1862.5
-Detroit,1172,Coloring Agent30,S5,F4,Box,1847.5
-Detroit,1173,Coloring Agent27,S4,F2,Box,1822.5
-Detroit,1174,Coloring Agent36,S2,F4,Box,1808.5
-Detroit,1175,Coloring Agent15,S4,F4,Box,1802.5
-Detroit,1176,Coloring Agent9,S1,F1,Box,1802.5
-Detroit,1177,Coloring Agent14,S1,F3,Box,1795.0
-Detroit,1178,Coloring Agent8,S1,F5,Box,1792.5
-Detroit,1179,Coloring Agent21,S2,F3,Box,1785.0
-Detroit,1180,Coloring Agent17,S3,F2,Box,1782.5
-Detroit,1181,Coloring Agent38,S1,F3,Box,1780.0
-Detroit,1182,Coloring Agent7,S4,F1,Box,1742.5
-Detroit,1183,Coloring Agent40,S3,F3,Box,1735.0
-Detroit,1184,Coloring Agent40,S1,F3,Box,1730.0
-Detroit,1185,Coloring Agent7,S2,F4,Box,1730.0
-Detroit,1186,Coloring Agent7,S3,F2,Box,1720.0
-Detroit,1187,Coloring Agent32,S2,F2,Box,1717.5
-Detroit,1188,Coloring Agent25,S4,F1,Box,1715.0
-Detroit,1189,Coloring Agent8,S2,F5,Box,1712.5
-Detroit,1190,Coloring Agent7,S3,F7,Box,1707.5
-Detroit,1191,Coloring Agent39,S2,F2,Box,1705.0
-Detroit,1192,Coloring Agent8,S2,F3,Box,1700.0
-Detroit,1193,Coloring Agent7,S2,F1,Box,1700.0
-Detroit,1194,Coloring Agent30,S3,F1,Box,1692.5
-Detroit,1195,Coloring Agent11,S2,F1,Box,1687.5
-Detroit,1196,Coloring Agent30,S5,F9,Box,1677.5
-Detroit,1197,Coloring Agent23,S5,F1,Box,1675.0
-Detroit,1198,Coloring Agent20,S2,F5,Box,1660.0
-Detroit,1199,Coloring Agent21,S3,F1,Box,1652.5
-Detroit,1200,Coloring Agent15,S1,F4,Box,1652.5
-Detroit,1201,Coloring Agent4,S2,F4,Box,1645.0
-Detroit,1202,Coloring Agent33,S4,F2,Box,1642.5
-Detroit,1203,Coloring Agent21,S4,F6,Box,1640.0
-Detroit,1204,Coloring Agent30,S4,F9,Box,1637.5
-Detroit,1205,Coloring Agent33,S3,F1,Box,1635.0
-Detroit,1206,Coloring Agent17,S5,F6,Box,1635.0
-Detroit,1207,Coloring Agent27,S5,F3,Box,1625.0
-Detroit,1208,Coloring Agent7,S5,F3,Box,1622.5
-Detroit,1209,Coloring Agent19,S3,F5,Box,1620.0
-Detroit,1210,Coloring Agent15,S1,F3,Box,1615.0
-Detroit,1211,Coloring Agent38,S1,F1,Box,1612.5
-Detroit,1212,Coloring Agent28,S4,F4,Box,1607.5
-Detroit,1213,Coloring Agent4,S5,F11,Box,1605.0
-Detroit,1214,Coloring Agent15,S1,F5,Box,1592.5
-Detroit,1215,Coloring Agent7,S4,F5,Box,1590.0
-Detroit,1216,Coloring Agent23,S1,F2,Box,1585.0
-Detroit,1217,Coloring Agent6,S2,F6,Box,1576.1379310344855
-Detroit,1218,Coloring Agent18,S2,F3,Box,1575.0
-Detroit,1219,Coloring Agent14,S3,F3,Box,1552.5
-Detroit,1220,Coloring Agent22,S5,F3,Box,1545.0
-Detroit,1221,Coloring Agent40,S1,F2,Box,1525.0
-Detroit,1222,Coloring Agent17,S3,F1,Box,1520.0
-Detroit,1223,Coloring Agent25,S5,F1,Box,1517.5
-Detroit,1224,Coloring Agent32,S5,F2,Box,1510.0
-Detroit,1225,Coloring Agent16,S5,F1,Box,1497.5
-Detroit,1226,Coloring Agent36,S3,F2,Box,1495.0
-Detroit,1227,Coloring Agent8,S2,F8,Box,1495.0
-Detroit,1228,Coloring Agent10,S5,F2,Box,1487.5
-Detroit,1229,Coloring Agent18,S2,F5,Box,1472.5
-Detroit,1230,Coloring Agent28,S3,F2,Box,1462.5
-Detroit,1231,Coloring Agent13,S2,F3,Box,1445.0
-Detroit,1232,Coloring Agent24,S3,F3,Box,1442.5
-Detroit,1233,Coloring Agent16,S2,F5,Box,1437.5
-Detroit,1234,Coloring Agent7,S4,F6,Box,1437.5
-Detroit,1235,Coloring Agent4,S3,F3,Box,1437.5
-Detroit,1236,Coloring Agent25,S4,F2,Box,1435.0
-Detroit,1237,Coloring Agent16,S1,F7,Box,1398.2884615384683
-Detroit,1238,Coloring Agent3,S2,F4,Box,1395.0
-Detroit,1239,Coloring Agent30,S4,F3,Box,1390.0
-Detroit,1240,Coloring Agent39,S3,F3,Box,1387.5
-Detroit,1241,Coloring Agent12,S1,F6,Box,1385.0
-Detroit,1242,Coloring Agent18,S2,F1,Box,1357.5
-Detroit,1243,Coloring Agent14,S1,F4,Box,1348.5
-Detroit,1244,Coloring Agent38,S4,F7,Box,1337.5
-Detroit,1245,Coloring Agent35,S3,F4,Box,1335.0
-Detroit,1246,Coloring Agent36,S2,F2,Box,1322.5
-Detroit,1247,Coloring Agent12,S1,F3,Box,1320.0
-Detroit,1248,Coloring Agent17,S5,F7,Box,1317.0000000000073
-Detroit,1249,Coloring Agent36,S3,F7,Box,1292.800000000003
-Detroit,1250,Coloring Agent10,S5,F1,Box,1280.0
-Detroit,1251,Coloring Agent17,S2,F2,Box,1265.0
-Detroit,1252,Coloring Agent6,S2,F1,Box,1257.5
-Detroit,1253,Coloring Agent36,S3,F1,Box,1255.0
-Detroit,1254,Coloring Agent7,S4,F3,Box,1252.5
-Detroit,1255,Coloring Agent25,S1,F4,Box,1245.0
-Detroit,1256,Coloring Agent19,S5,F3,Box,1242.5
-Detroit,1257,Coloring Agent36,S3,F6,Box,1240.0
-Detroit,1258,Coloring Agent12,S3,F4,Box,1235.0
-Detroit,1259,Coloring Agent13,S1,F2,Box,1225.0
-Detroit,1260,Coloring Agent12,S1,F4,Box,1225.0
-Detroit,1261,Coloring Agent12,S1,F1,Box,1225.0
-Detroit,1262,Coloring Agent30,S5,F12,Box,1220.0
-Detroit,1263,Coloring Agent24,S4,F1,Box,1202.5
-Detroit,1264,Coloring Agent9,S2,F4,Box,1192.5
-Detroit,1265,Coloring Agent21,S5,F2,Box,1190.0
-Detroit,1266,Coloring Agent14,S2,F3,Box,1180.0
-Detroit,1267,Coloring Agent4,S1,F1,Box,1177.5
-Detroit,1268,Coloring Agent13,S1,F3,Box,1170.0
-Detroit,1269,Coloring Agent36,S1,F3,Box,1160.0
-Detroit,1270,Coloring Agent25,S3,F2,Box,1147.5
-Detroit,1271,Coloring Agent9,S1,F5,Box,1135.0
-Detroit,1272,Coloring Agent28,S1,F5,Box,1127.5
-Detroit,1273,Coloring Agent21,S3,F4,Box,1117.5
-Detroit,1274,Coloring Agent28,S5,F2,Box,1115.0
-Detroit,1275,Coloring Agent16,S4,F5,Box,1110.0
-Detroit,1276,Coloring Agent36,S3,F4,Box,1105.0
-Detroit,1277,Coloring Agent35,S2,F5,Box,1100.0
-Detroit,1278,Coloring Agent19,S2,F3,Box,1100.0
-Detroit,1279,Coloring Agent4,S4,F1,Box,1095.0
-Detroit,1280,Coloring Agent15,S4,F1,Box,1085.0
-Detroit,1281,Coloring Agent30,S4,F10,Box,1061.1486486486538
-Detroit,1282,Coloring Agent36,S4,F1,Box,1047.5
-Detroit,1283,Coloring Agent3,S1,F4,Box,1045.0
-Detroit,1284,Coloring Agent11,S3,F3,Box,1020.0
-Detroit,1285,Coloring Agent10,S1,F6,Box,1012.5
-Detroit,1286,Coloring Agent36,S5,F6,Box,987.5
-Detroit,1287,Coloring Agent21,S4,F7,Box,985.0
-Detroit,1288,Coloring Agent21,S2,F1,Box,977.5
-Detroit,1289,Coloring Agent4,S5,F7,Box,967.5
-Detroit,1290,Coloring Agent19,S2,F7,Box,962.5969628372113
-Detroit,1291,Coloring Agent21,S5,F1,Box,957.5
-Detroit,1292,Coloring Agent21,S2,F5,Box,955.0
-Detroit,1293,Coloring Agent30,S4,F6,Box,937.5
-Detroit,1294,Coloring Agent9,S2,F5,Box,915.0
-Detroit,1295,Coloring Agent12,S3,F3,Box,890.0
-Detroit,1296,Coloring Agent12,S2,F3,Box,882.5
-Detroit,1297,Coloring Agent23,S3,F3,Box,881.2099999999991
-Detroit,1298,Coloring Agent20,S2,F6,Box,868.4221739130589
-Detroit,1299,Coloring Agent20,S3,F2,Box,820.0
-Detroit,1300,Coloring Agent19,S4,F4,Box,820.0
-Detroit,1301,Coloring Agent12,S3,F2,Box,820.0
-Detroit,1302,Coloring Agent7,S5,F5,Box,778.5
-Detroit,1303,Coloring Agent4,S4,F2,Box,725.0
-Detroit,1304,Coloring Agent4,S2,F5,Box,724.0
-Detroit,1305,Coloring Agent9,S3,F5,Box,669.0
-Detroit,1306,Coloring Agent21,S3,F3,Box,600.0
-Detroit,1307,Coloring Agent11,S4,F2,Box,507.69444444444525
-Detroit,1308,Coloring Agent12,S5,F6,Box,281.8000000000029
-Detroit,1309,Coloring Agent39,S4,F1,Box,137.5600000000013
-Detroit,1310,Coloring Agent27,S4,F3,Box,56.75000000000364
-Detroit,1311,Coloring Agent39,S3,F6,Box,46.5
-Detroit,1312,Coloring Agent27,S1,F6,Box,40.0
-Detroit,1313,Coloring Agent19,S1,F7,Box,28.095878136213287
-Detroit,1314,Coloring Agent20,S3,F7,Box,8.5
-Detroit,1315,Coloring Agent13,S2,F5,Box,2.0
+Color,Size,Flavor,Packaging Type,Quantity
+21,3,6,Bag,17749.0
+4,3,1,Bag,17275.0
+9,2,6,Bag,17056.0
+36,2,4,Bag,15827.0
+11,4,2,Bag,15299.0
+13,3,3,Bag,15245.0
+35,4,4,Bag,14734.0
+18,4,2,Bag,14657.0
+13,2,2,Bag,14576.0
+14,3,3,Bag,14182.0
+33,4,1,Bag,14133.0
+15,3,9,Bag,14047.0
+17,1,5,Bag,13835.0
+24,4,2,Bag,13761.0
+40,2,11,Bag,13650.0
+22,4,5,Bag,13501.297297297286
+15,1,8,Bag,13355.0
+8,4,3,Bag,13345.038011695899
+38,3,2,Bag,13323.0
+24,5,3,Bag,13189.0
+30,2,2,Bag,13156.0
+19,4,5,Bag,13093.0
+37,5,4,Bag,13034.0
+40,2,9,Bag,12971.0
+19,1,2,Bag,12872.0
+4,3,4,Bag,12806.0
+40,5,6,Bag,12751.349999999999
+40,4,1,Bag,12671.0
+16,5,1,Bag,12616.0
+14,5,1,Bag,12502.0
+37,1,1,Bag,12408.0
+25,2,4,Bag,12381.0
+13,3,2,Bag,12369.0
+3,3,2,Bag,12339.0
+25,5,1,Bag,12243.0
+9,2,10,Bag,12192.0
+23,2,2,Bag,12163.0
+24,5,2,Bag,12129.0
+24,2,3,Bag,12104.0
+22,3,1,Bag,12073.0
+37,3,2,Bag,12049.0
+23,1,4,Bag,12005.0
+17,2,4,Bag,11974.0
+33,2,4,Bag,11968.0
+6,4,4,Bag,11920.0
+4,1,2,Bag,11897.0
+9,3,3,Bag,11824.0
+17,1,1,Bag,11795.0
+11,4,11,Bag,11761.0
+3,1,8,Bag,11575.0
+16,2,6,Bag,11546.5
+13,5,4,Bag,11534.0
+17,5,2,Bag,11520.0
+8,5,5,Bag,11518.0
+19,2,3,Bag,11476.0
+8,3,4,Bag,11392.0
+27,3,2,Bag,11387.0
+40,1,1,Bag,11356.0
+33,2,2,Bag,11348.0
+19,1,7,Bag,11211.0
+24,2,4,Bag,11185.0
+7,5,1,Bag,11097.0
+15,4,4,Bag,10957.0
+10,4,5,Bag,10874.0
+20,4,3,Bag,10873.0
+27,1,3,Bag,10870.0
+16,3,4,Bag,10867.0
+7,2,2,Bag,10837.0
+21,2,6,Bag,10822.0
+36,2,1,Bag,10818.0
+28,1,5,Bag,10809.0
+8,5,2,Bag,10804.0
+39,1,1,Bag,10797.0
+11,3,4,Bag,10744.0
+14,2,7,Bag,10718.0
+10,3,7,Bag,10685.0
+25,2,3,Bag,10676.0
+25,1,5,Bag,10654.0
+32,2,1,Bag,10563.0
+28,2,5,Bag,10563.0
+14,2,5,Bag,10543.0
+23,4,4,Bag,10526.0
+10,5,3,Bag,10512.0
+12,1,5,Bag,10485.0
+20,1,2,Bag,10433.0
+15,1,7,Bag,10428.0
+3,4,3,Bag,10418.0
+20,4,2,Bag,10417.0
+12,5,1,Bag,10389.0
+25,4,1,Bag,10358.0
+13,4,5,Bag,10315.0
+25,5,4,Bag,10305.0
+10,3,1,Bag,10257.0
+9,5,4,Bag,10256.0
+20,5,1,Bag,10233.0
+32,5,4,Bag,10222.900000000001
+13,2,5,Bag,10158.0
+21,5,4,Bag,10157.0
+14,2,12,Bag,10137.0
+32,1,2,Bag,10085.0
+22,4,3,Bag,10049.0
+13,1,8,Bag,9969.0
+15,1,9,Bag,9945.0
+27,3,1,Bag,9917.0
+19,1,3,Bag,9874.0
+20,1,5,Bag,9837.0
+30,3,3,Bag,9796.0
+20,2,5,Bag,9775.0
+38,3,4,Bag,9770.0
+14,2,1,Bag,9715.0
+23,4,3,Bag,9707.0
+11,1,4,Bag,9704.0
+6,2,3,Bag,9699.0
+30,1,3,Bag,9610.0
+21,1,7,Bag,9603.0
+3,4,2,Bag,9574.0
+36,3,3,Bag,9571.0
+25,2,6,Bag,9516.0
+4,1,6,Bag,9510.0
+15,3,3,Bag,9498.0
+33,5,1,Bag,9496.0
+35,3,2,Bag,9482.0
+20,2,6,Bag,9447.0
+4,2,2,Bag,9422.0
+10,4,4,Bag,9421.0
+6,2,5,Bag,9415.0
+18,2,1,Bag,9414.0
+18,1,2,Bag,9412.11538461539
+4,5,11,Bag,9391.0
+18,4,5,Bag,9345.0
+24,1,5,Bag,9311.0
+30,1,1,Bag,9231.0
+10,4,2,Bag,9229.0
+15,2,1,Bag,9221.0
+35,1,1,Bag,9220.0
+33,5,3,Bag,9215.0
+28,2,1,Bag,9184.0
+25,3,7,Bag,9146.0
+12,4,5,Bag,9105.0
+36,4,4,Bag,9072.0
+10,2,9,Bag,9037.0
+13,4,6,Bag,9004.0
+14,3,4,Bag,8982.0
+36,1,2,Bag,8968.0
+13,4,7,Bag,8967.0
+9,4,3,Bag,8954.0
+10,2,4,Bag,8937.0
+33,5,5,Bag,8935.013513513513
+11,4,8,Bag,8923.0
+25,1,6,Bag,8904.0
+12,2,4,Bag,8866.0
+32,2,4,Bag,8864.318181818184
+12,4,1,Bag,8857.0
+24,3,3,Bag,8824.0
+7,1,3,Bag,8779.0
+9,2,4,Bag,8774.0
+3,4,1,Bag,8770.0
+10,2,2,Bag,8757.0
+17,2,5,Bag,8754.999999999993
+35,1,4,Bag,8715.0
+14,1,11,Bag,8660.0
+14,2,6,Bag,8635.0
+21,5,6,Bag,8609.0
+15,1,5,Bag,8574.0
+19,3,2,Bag,8572.0
+13,2,3,Bag,8569.0
+10,2,6,Bag,8569.0
+13,1,4,Bag,8563.0
+14,1,1,Bag,8553.0
+9,4,11,Bag,8546.0
+19,3,7,Bag,8540.0
+25,3,5,Bag,8526.0
+38,1,3,Bag,8485.0
+3,3,5,Bag,8480.0
+4,5,7,Bag,8470.0
+10,3,6,Bag,8461.0
+30,3,1,Bag,8445.0
+19,1,1,Bag,8445.0
+11,5,1,Bag,8406.0
+12,1,6,Bag,8368.0
+35,5,3,Bag,8316.0
+10,3,8,Bag,8311.0
+33,1,1,Bag,8310.0
+16,3,2,Bag,8293.0
+6,1,2,Bag,8270.034482758625
+36,1,5,Bag,8268.659999999996
+25,5,2,Bag,8254.0
+20,3,6,Bag,8241.0
+16,4,7,Bag,8239.0
+11,1,2,Bag,8223.0
+19,5,2,Bag,8205.0
+21,1,3,Bag,8195.0
+14,2,3,Bag,8191.0
+30,4,7,Bag,8190.0
+16,4,10,Bag,8172.0
+37,1,4,Bag,8166.0
+35,3,7,Bag,8151.0
+16,5,4,Bag,8143.0
+9,1,1,Bag,8136.0
+19,1,6,Bag,8108.0
+23,3,2,Bag,8098.0
+11,4,6,Bag,8086.0
+21,4,7,Bag,8085.0
+13,1,3,Bag,8074.0
+37,1,5,Bag,8066.0
+12,4,11,Bag,8061.0
+28,5,1,Bag,8059.0
+14,1,2,Bag,8059.0
+25,3,2,Bag,8039.0
+36,1,3,Bag,8018.0
+11,3,2,Bag,8009.0
+11,2,8,Bag,7960.111111111102
+7,4,6,Bag,7953.0
+37,5,1,Bag,7946.0
+30,4,3,Bag,7945.0
+37,3,4,Bag,7938.599999999991
+4,4,2,Bag,7916.0
+36,4,6,Bag,7896.9200000000055
+18,2,2,Bag,7823.0
+40,2,5,Bag,7814.0
+24,4,3,Bag,7807.0
+37,5,5,Bag,7805.0
+8,4,2,Bag,7800.0
+37,4,7,Bag,7798.0
+20,4,1,Bag,7795.0
+9,4,9,Bag,7762.0
+25,3,4,Bag,7758.0
+27,1,5,Bag,7743.0
+12,2,2,Bag,7716.0
+8,4,1,Bag,7701.0
+9,1,5,Bag,7680.0
+30,3,5,Bag,7679.0
+13,4,2,Bag,7665.0
+40,1,4,Bag,7638.0
+36,5,1,Bag,7627.0
+13,4,4,Bag,7613.0
+28,4,4,Bag,7607.0
+38,4,6,Bag,7602.0
+13,4,3,Bag,7589.0
+16,5,2,Bag,7583.0
+33,5,2,Bag,7560.0
+23,5,2,Bag,7553.0
+40,2,6,Bag,7526.0
+35,1,3,Bag,7503.0
+37,3,1,Bag,7458.0
+10,4,6,Bag,7454.5
+32,1,3,Bag,7451.940000000002
+40,4,3,Bag,7427.0
+25,4,4,Bag,7404.0
+4,2,4,Bag,7404.0
+21,1,1,Bag,7364.0
+9,5,3,Bag,7334.0
+17,2,3,Bag,7307.0
+12,4,10,Bag,7300.0
+3,1,1,Bag,7292.0
+40,1,5,Bag,7230.0
+8,5,4,Bag,7228.0
+14,2,8,Bag,7212.0
+17,4,5,Bag,7172.737804878052
+24,3,1,Bag,7159.0
+4,4,7,Bag,7150.0
+39,1,3,Bag,7133.0
+11,5,8,Bag,7111.0
+3,2,2,Bag,7063.0
+8,5,3,Bag,7058.0
+23,5,3,Bag,7043.363076923095
+17,1,3,Bag,7036.0
+40,1,6,Bag,7025.0
+36,3,1,Bag,7022.0
+35,5,2,Bag,6964.0
+25,5,3,Bag,6955.0
+13,2,4,Bag,6942.0
+19,2,2,Bag,6930.0
+33,4,3,Bag,6905.0
+37,2,6,Bag,6902.926086956526
+28,1,2,Bag,6892.0
+22,4,1,Bag,6885.0
+19,2,5,Bag,6879.0
+17,5,3,Bag,6869.0
+11,3,1,Bag,6866.0
+38,4,2,Bag,6864.0
+11,5,2,Bag,6861.0
+16,1,4,Bag,6851.0
+25,3,9,Bag,6849.5
+40,4,4,Bag,6836.0
+36,2,3,Bag,6815.0
+14,4,5,Bag,6811.0
+4,5,12,Bag,6806.0
+39,3,1,Bag,6801.0
+7,1,4,Bag,6772.526315789473
+36,3,5,Bag,6768.0
+22,2,3,Bag,6736.0
+7,1,1,Bag,6712.0
+12,2,1,Bag,6710.0
+16,2,4,Bag,6708.0
+20,1,6,Bag,6696.0
+38,5,1,Bag,6678.0
+14,4,4,Bag,6654.0
+37,4,2,Bag,6645.0
+30,3,2,Bag,6638.0
+19,4,6,Bag,6637.0
+23,2,1,Bag,6635.0
+36,5,7,Bag,6633.0
+36,3,2,Bag,6626.0
+25,3,6,Bag,6613.0
+21,1,9,Bag,6606.0
+16,1,3,Bag,6596.0
+30,1,2,Bag,6588.0
+16,5,3,Bag,6585.0
+30,3,7,Bag,6581.635135135148
+38,1,1,Bag,6579.0
+9,3,1,Bag,6575.0
+27,1,6,Bag,6550.0
+35,2,5,Bag,6539.0
+16,3,3,Bag,6538.0
+15,3,7,Bag,6537.0
+28,4,3,Bag,6528.0
+21,2,9,Bag,6511.5
+35,1,5,Bag,6496.0
+21,2,1,Bag,6496.0
+21,1,8,Bag,6474.0
+19,5,6,Bag,6474.0
+36,1,1,Bag,6466.0
+7,4,5,Bag,6462.0
+40,5,1,Bag,6459.0
+23,1,1,Bag,6450.0
+14,4,3,Bag,6447.0
+3,1,12,Bag,6445.0
+27,1,1,Bag,6424.0
+9,4,2,Bag,6402.0
+19,4,2,Bag,6400.0
+24,4,1,Bag,6390.0
+21,3,2,Bag,6382.0
+19,3,5,Bag,6379.0
+40,5,2,Bag,6361.0
+7,2,1,Bag,6309.0
+33,4,2,Bag,6307.0
+40,1,2,Bag,6304.0
+21,1,10,Bag,6302.0
+15,4,3,Bag,6295.0
+6,5,1,Bag,6293.0
+23,1,2,Bag,6267.0
+24,4,5,Bag,6248.0
+15,1,6,Bag,6241.0
+10,1,2,Bag,6219.0
+15,5,5,Bag,6218.5
+25,2,5,Bag,6215.0
+13,5,1,Bag,6201.0
+35,3,10,Bag,6181.0
+23,1,3,Bag,6168.0
+24,2,5,Bag,6148.5
+21,4,1,Bag,6140.0
+37,5,3,Bag,6118.0
+4,1,3,Bag,6105.0
+3,2,5,Bag,6097.0
+11,1,1,Bag,6088.0
+21,2,5,Bag,6079.0
+19,3,3,Bag,6076.0
+19,1,10,Bag,6059.0
+25,3,8,Bag,6050.0
+30,1,5,Bag,6030.0
+16,1,6,Bag,6020.0
+28,3,2,Bag,6013.0
+21,3,7,Bag,6002.0
+27,1,2,Bag,5994.0
+19,3,6,Bag,5994.0
+15,3,10,Bag,5991.0
+37,3,3,Bag,5990.0
+15,1,11,Bag,5981.0
+21,5,7,Bag,5977.5
+15,5,3,Bag,5955.0
+12,4,9,Bag,5945.0
+4,2,3,Bag,5938.0
+40,3,4,Bag,5903.0
+25,1,4,Bag,5858.0
+22,5,5,Bag,5847.0
+28,4,2,Bag,5839.0
+14,2,2,Bag,5833.0
+16,1,2,Bag,5826.0
+37,4,8,Bag,5799.800000000003
+15,2,3,Bag,5797.0
+12,4,3,Bag,5781.0
+13,4,10,Bag,5772.0
+15,5,2,Bag,5751.0
+30,2,4,Bag,5745.851351351346
+36,3,6,Bag,5737.0
+18,2,6,Bag,5731.0
+6,2,4,Bag,5714.0
+11,1,5,Bag,5701.0
+9,2,9,Bag,5700.0
+12,3,5,Bag,5698.0
+20,3,5,Bag,5697.0
+37,2,2,Bag,5679.0
+13,1,1,Bag,5677.0
+40,2,12,Bag,5658.0
+33,3,4,Bag,5657.0
+20,2,2,Bag,5642.0
+35,3,3,Bag,5633.0
+27,5,3,Bag,5628.0
+3,4,4,Bag,5624.0
+24,1,7,Bag,5606.0
+14,4,6,Bag,5549.0
+14,2,11,Bag,5549.0
+7,1,2,Bag,5531.0
+39,2,1,Bag,5512.185185185182
+15,1,3,Bag,5512.0
+11,2,3,Bag,5498.0
+13,5,5,Bag,5488.0
+36,5,5,Bag,5469.0
+16,4,1,Bag,5468.0
+3,2,3,Bag,5462.0
+12,4,7,Bag,5454.0
+28,5,2,Bag,5443.0
+21,4,3,Bag,5438.0
+15,3,4,Bag,5426.0
+35,2,4,Bag,5402.0
+24,4,4,Bag,5398.0
+15,5,4,Bag,5394.0
+33,2,11,Bag,5390.0
+24,4,7,Bag,5383.800000000003
+19,4,4,Bag,5375.0
+7,4,1,Bag,5367.0
+32,5,2,Bag,5359.0
+7,4,4,Bag,5355.0
+39,5,3,Bag,5348.0
+10,1,1,Bag,5343.0
+3,1,6,Bag,5336.0
+13,4,9,Bag,5316.0
+36,5,2,Bag,5314.0
+36,3,4,Bag,5293.0
+12,3,2,Bag,5289.0
+20,4,5,Bag,5286.0
+18,3,1,Bag,5277.0
+10,2,1,Bag,5277.0
+3,5,1,Bag,5274.0
+28,4,5,Bag,5251.919999999998
+10,3,9,Bag,5245.0
+39,3,2,Bag,5244.0
+3,5,4,Bag,5241.5
+13,1,10,Bag,5234.0
+10,2,8,Bag,5233.0
+35,2,6,Bag,5226.958333333336
+28,1,4,Bag,5220.0
+11,2,6,Bag,5220.0
+24,1,6,Bag,5196.0
+18,2,4,Bag,5195.0
+7,5,5,Bag,5193.0
+22,3,2,Bag,5188.0
+6,5,2,Bag,5184.0517241379275
+39,5,5,Bag,5184.0
+21,5,5,Bag,5179.0
+13,4,8,Bag,5178.0
+9,4,6,Bag,5165.0
+17,5,5,Bag,5163.0
+24,1,8,Bag,5162.0
+19,3,1,Bag,5144.0
+4,5,4,Bag,5143.0
+9,4,5,Bag,5142.0
+33,1,4,Bag,5138.0
+36,4,1,Bag,5133.0
+38,1,2,Bag,5132.0
+30,3,6,Bag,5128.0
+40,2,1,Bag,5127.0
+20,2,4,Bag,5120.0
+35,3,6,Bag,5119.0
+28,1,6,Bag,5099.600000000006
+4,3,2,Bag,5092.0
+40,2,3,Bag,5089.0
+12,3,6,Bag,5079.0
+21,4,8,Bag,5055.0
+21,2,4,Bag,5053.0
+37,2,5,Bag,5052.0
+36,4,5,Bag,5045.0
+13,5,3,Bag,5041.0
+11,4,12,Bag,5030.0
+11,4,4,Bag,5024.0
+25,2,2,Bag,5003.0
+8,1,1,Bag,5003.0
+40,2,4,Bag,4977.0
+16,4,12,Bag,4976.0
+33,3,1,Bag,4960.0
+12,2,6,Bag,4959.636363636368
+6,4,3,Bag,4953.0
+17,1,2,Bag,4948.0
+28,1,3,Bag,4941.0
+11,4,7,Bag,4925.0
+22,4,2,Bag,4924.0
+40,3,1,Bag,4921.0
+40,3,2,Bag,4900.0
+27,3,3,Bag,4896.0
+22,3,3,Bag,4884.0
+12,4,8,Bag,4881.0
+17,1,4,Bag,4868.0
+28,2,6,Bag,4864.510000000002
+14,2,9,Bag,4857.0
+15,1,2,Bag,4854.0
+7,5,2,Bag,4852.0
+11,1,3,Bag,4849.0
+23,3,1,Bag,4838.0
+20,3,4,Bag,4817.0
+12,1,3,Bag,4799.0
+35,5,4,Bag,4767.0
+37,5,6,Bag,4760.639130434778
+9,5,5,Bag,4760.5
+13,5,2,Bag,4736.0
+16,4,8,Bag,4715.0
+21,5,2,Bag,4708.0
+18,4,4,Bag,4697.0
+25,1,1,Bag,4696.0
+9,3,5,Bag,4687.0
+4,1,4,Bag,4687.0
+24,1,3,Bag,4676.0
+9,3,4,Bag,4674.0
+40,5,4,Bag,4666.0
+10,4,1,Bag,4659.0
+21,3,1,Bag,4655.0
+25,4,5,Bag,4653.0
+22,5,1,Bag,4651.0
+9,4,12,Bag,4618.0
+38,3,1,Bag,4612.0
+35,2,3,Bag,4600.0
+28,4,1,Bag,4594.0
+24,5,1,Bag,4593.0
+33,2,6,Bag,4580.0
+35,3,5,Bag,4570.0
+9,2,7,Bag,4547.0
+14,1,6,Bag,4546.0
+19,2,1,Bag,4542.0
+20,5,2,Bag,4538.0
+27,1,4,Bag,4506.0
+39,5,2,Bag,4505.0
+16,4,2,Bag,4503.0
+13,1,9,Bag,4501.0
+40,2,2,Bag,4495.0
+38,5,6,Bag,4492.0
+33,5,4,Bag,4471.0
+3,2,1,Bag,4471.0
+21,4,9,Bag,4456.0
+37,4,6,Bag,4453.0
+38,5,5,Bag,4441.0
+25,2,1,Bag,4434.0
+18,4,1,Bag,4427.0
+16,1,7,Bag,4421.0
+20,2,3,Bag,4411.0
+17,2,2,Bag,4401.0
+20,3,1,Bag,4391.0
+16,4,4,Bag,4387.0
+3,1,3,Bag,4386.0
+16,1,1,Bag,4380.0
+3,1,2,Bag,4373.0
+4,2,1,Bag,4372.0
+30,1,4,Bag,4363.0
+35,1,9,Bag,4361.680555555562
+10,5,1,Bag,4356.0
+22,5,4,Bag,4347.0
+25,4,2,Bag,4344.0
+22,5,2,Bag,4313.0
+24,2,1,Bag,4312.0
+8,5,1,Bag,4312.0
+37,4,3,Bag,4303.0
+40,2,10,Bag,4301.0
+30,4,4,Bag,4295.0
+12,4,12,Bag,4277.0
+17,2,1,Bag,4261.0
+27,5,4,Bag,4254.25
+15,3,1,Bag,4251.0
+38,5,3,Bag,4241.0
+14,3,2,Bag,4238.0
+16,4,6,Bag,4227.0
+10,4,3,Bag,4215.0
+19,1,9,Bag,4207.0
+16,3,5,Bag,4205.0
+20,4,4,Bag,4202.0
+16,1,8,Bag,4199.153846153844
+35,5,1,Bag,4187.0
+12,3,1,Bag,4187.0
+4,5,10,Bag,4175.0
+35,3,9,Bag,4169.0
+33,1,3,Bag,4165.0
+28,5,3,Bag,4155.0
+9,1,4,Bag,4153.0
+16,5,8,Bag,4151.923076923078
+16,4,9,Bag,4150.0
+35,2,2,Bag,4141.0
+33,2,1,Bag,4123.0
+4,3,3,Bag,4109.0
+32,2,3,Bag,4096.0
+12,3,8,Bag,4090.0
+13,1,7,Bag,4085.0
+30,3,4,Bag,4073.0
+14,1,7,Bag,4072.0
+10,1,3,Bag,4052.0
+4,5,6,Bag,4049.0
+27,3,4,Bag,4043.0
+24,1,1,Bag,4040.0
+18,2,5,Bag,4039.0
+11,3,5,Bag,4039.0
+32,5,3,Bag,4033.0
+36,4,3,Bag,4032.0
+10,5,2,Bag,4032.0
+37,4,4,Bag,4018.0
+19,4,7,Bag,4009.5
+38,3,5,Bag,3996.0
+7,5,3,Bag,3993.0
+13,1,2,Bag,3987.0
+4,4,4,Bag,3985.0
+18,4,3,Bag,3959.0
+3,3,4,Bag,3942.0
+11,2,7,Bag,3941.0
+37,1,2,Bag,3936.0
+40,1,3,Bag,3929.0
+13,3,4,Bag,3913.0
+12,5,6,Bag,3905.0
+20,2,1,Bag,3896.0
+11,3,3,Bag,3895.0
+33,3,3,Bag,3881.0
+21,1,2,Bag,3877.0
+33,1,2,Bag,3876.0
+15,5,1,Bag,3874.0
+6,1,1,Bag,3862.0
+40,1,7,Bag,3852.92105263158
+37,4,1,Bag,3852.0
+30,4,5,Bag,3851.0
+11,2,1,Bag,3831.0
+12,2,5,Bag,3810.0
+8,3,2,Bag,3807.0
+33,2,9,Bag,3803.0
+11,3,6,Bag,3791.800000000003
+36,3,7,Bag,3778.0
+35,3,11,Bag,3756.0
+3,5,3,Bag,3748.0
+20,3,3,Bag,3728.0
+24,4,6,Bag,3709.0
+10,3,2,Bag,3709.0
+30,4,2,Bag,3692.0
+22,4,4,Bag,3691.0
+15,1,1,Bag,3689.0
+10,2,3,Bag,3689.0
+37,2,4,Bag,3686.0
+20,3,2,Bag,3659.0
+25,4,3,Bag,3656.0
+14,1,8,Bag,3656.0
+30,2,3,Bag,3649.0
+8,3,3,Bag,3644.0
+10,1,6,Bag,3639.0
+13,1,6,Bag,3637.0
+25,3,1,Bag,3616.0
+36,5,6,Bag,3611.0
+16,5,5,Bag,3605.0
+25,2,8,Bag,3597.0
+3,2,4,Bag,3578.0
+9,3,2,Bag,3571.0
+12,3,4,Bag,3561.0
+12,1,2,Bag,3539.0
+19,5,3,Bag,3538.0
+9,2,5,Bag,3533.0
+21,4,2,Bag,3527.0
+18,3,2,Bag,3525.0
+39,5,6,Bag,3524.4259259259197
+36,2,2,Bag,3514.0
+19,5,5,Bag,3512.0
+28,2,2,Bag,3497.0
+9,1,6,Bag,3496.0
+15,2,2,Bag,3484.0
+37,2,3,Bag,3476.0
+12,4,6,Bag,3472.0
+12,5,3,Bag,3455.0
+12,4,4,Bag,3451.0
+11,2,5,Bag,3442.0
+15,3,2,Bag,3438.0
+12,2,3,Bag,3438.0
+12,4,2,Bag,3427.0
+33,3,5,Bag,3426.364864864863
+14,5,5,Bag,3419.0
+8,3,1,Bag,3418.0
+20,3,7,Bag,3415.0591304347836
+12,5,5,Bag,3408.0
+10,2,7,Bag,3401.0
+16,1,5,Bag,3398.0
+23,3,3,Bag,3387.902307692326
+3,5,2,Bag,3374.0
+18,2,7,Bag,3353.0000000000073
+4,4,1,Bag,3353.0
+17,5,4,Bag,3340.0
+16,2,2,Bag,3339.0
+39,3,3,Bag,3320.0
+17,5,6,Bag,3318.0
+40,3,3,Bag,3317.0
+37,2,1,Bag,3299.0
+8,1,2,Bag,3296.7962962963065
+4,5,8,Bag,3282.0
+40,4,5,Bag,3244.0
+17,4,1,Bag,3231.0
+19,5,4,Bag,3199.0
+38,3,3,Bag,3197.0
+21,2,2,Bag,3184.0
+21,4,4,Bag,3159.0
+21,2,8,Bag,3148.0
+22,2,2,Bag,3117.0
+28,3,1,Bag,3093.0
+24,1,9,Bag,3092.0
+10,2,5,Bag,3081.0
+24,1,2,Bag,3073.0
+9,2,3,Bag,3073.0
+23,4,1,Bag,3064.0
+7,2,4,Bag,3062.0
+10,3,3,Bag,3057.0
+16,5,6,Bag,3056.0
+22,2,5,Bag,3049.5
+36,1,4,Bag,3043.0
+21,1,4,Bag,3037.0
+13,4,1,Bag,3029.0
+16,3,6,Bag,3022.38461538461
+4,4,8,Bag,3012.5
+19,5,1,Bag,3011.0
+9,4,8,Bag,3010.0
+4,5,9,Bag,3007.0
+11,5,7,Bag,2981.0
+17,5,7,Bag,2980.0
+21,2,3,Bag,2974.0
+25,1,2,Bag,2968.0
+9,4,7,Bag,2947.0
+3,1,7,Bag,2936.0
+9,1,3,Bag,2934.0
+27,5,2,Bag,2933.0
+11,5,3,Bag,2933.0
+35,5,5,Bag,2928.0
+19,1,4,Bag,2924.0
+13,2,1,Bag,2913.0
+30,2,1,Bag,2906.0
+24,1,11,Bag,2894.0
+37,1,3,Bag,2887.0
+9,4,10,Bag,2884.0
+19,1,8,Bag,2880.0
+24,3,4,Bag,2862.0
+21,4,6,Bag,2854.0
+20,4,6,Bag,2850.0
+4,4,5,Bag,2850.0
+39,5,1,Bag,2849.0
+13,3,1,Bag,2833.0
+3,1,9,Bag,2794.0
+22,5,6,Bag,2793.0
+12,3,7,Bag,2773.0
+16,2,1,Bag,2741.0
+10,1,7,Bag,2738.0
+35,3,1,Bag,2737.0
+35,1,8,Bag,2728.0
+19,2,4,Bag,2728.0
+39,1,2,Bag,2727.0
+38,4,5,Bag,2721.0
+22,5,3,Bag,2718.0
+3,3,6,Bag,2717.5
+25,1,3,Bag,2700.0
+16,2,3,Bag,2696.0
+39,1,4,Bag,2680.0
+23,4,2,Bag,2661.0
+13,3,5,Bag,2650.0
+24,1,4,Bag,2638.0
+11,2,2,Bag,2630.0
+20,1,7,Bag,2628.1278260869585
+20,1,1,Bag,2604.0
+32,5,1,Bag,2602.0
+16,2,5,Bag,2602.0
+3,2,6,Bag,2594.0
+28,2,3,Bag,2583.0
+24,5,4,Bag,2583.0
+38,3,6,Bag,2569.0
+24,3,5,Bag,2562.5
+11,4,10,Bag,2556.0
+25,5,5,Bag,2543.0
+4,4,3,Bag,2517.0
+15,4,2,Bag,2513.0
+19,4,1,Bag,2505.0
+23,5,1,Bag,2499.0
+19,4,3,Bag,2498.0
+21,3,4,Bag,2496.0
+11,4,9,Bag,2492.0
+12,1,7,Bag,2489.21212121212
+7,5,4,Bag,2464.0
+35,1,6,Bag,2459.0
+40,5,5,Bag,2449.0
+33,3,2,Bag,2425.0
+35,4,1,Bag,2419.0
+21,1,5,Bag,2405.0
+15,1,10,Bag,2403.0
+40,2,7,Bag,2398.0
+35,4,3,Bag,2391.0
+20,2,7,Bag,2390.270000000004
+20,1,3,Bag,2379.0
+10,5,4,Bag,2371.0
+25,1,8,Bag,2359.0
+7,2,5,Bag,2351.5
+9,2,1,Bag,2341.0
+21,3,9,Bag,2334.0
+10,3,5,Bag,2332.0
+33,2,10,Bag,2326.0
+21,5,3,Bag,2323.0
+11,4,5,Bag,2323.0
+4,4,6,Bag,2294.0
+14,2,4,Bag,2293.0
+38,1,5,Bag,2290.0
+14,4,1,Bag,2289.0
+23,4,5,Bag,2280.689650349661
+40,2,8,Bag,2277.0
+30,4,6,Bag,2260.0
+16,5,7,Bag,2247.0
+9,2,2,Bag,2243.0
+19,3,4,Bag,2225.0
+17,4,3,Bag,2217.0
+28,2,4,Bag,2211.0
+38,4,3,Bag,2164.0
+39,1,5,Bag,2159.0
+27,3,5,Bag,2159.0
+8,3,5,Bag,2156.5
+12,3,9,Bag,2152.9848484848553
+4,3,6,Bag,2130.5
+35,5,6,Bag,2130.25
+36,5,3,Bag,2111.0
+4,1,5,Bag,2108.0
+37,1,6,Bag,2096.121739130438
+11,2,4,Bag,2085.0
+14,5,4,Bag,2076.0
+35,3,8,Bag,1999.0
+11,1,6,Bag,1992.3888888888832
+38,5,4,Bag,1992.0
+24,2,2,Bag,1985.0
+30,4,8,Bag,1984.1033386327472
+7,4,3,Bag,1973.0
+21,4,5,Bag,1968.0
+32,1,1,Bag,1960.0
+35,2,1,Bag,1930.0
+6,2,1,Bag,1906.0
+4,1,7,Bag,1901.0
+40,3,5,Bag,1898.9473684210534
+12,3,3,Bag,1881.0
+15,1,4,Bag,1867.0
+15,2,4,Bag,1856.0
+38,3,7,Bag,1853.2857142857101
+9,4,4,Bag,1852.0
+15,3,6,Bag,1848.0
+20,5,3,Bag,1839.0
+14,1,9,Bag,1833.0
+11,4,3,Bag,1833.0
+14,1,4,Bag,1809.0
+14,3,1,Bag,1758.0
+7,2,3,Bag,1746.0
+16,3,1,Bag,1723.0
+14,2,10,Bag,1721.0
+21,1,6,Bag,1717.0
+6,2,6,Bag,1711.0
+22,3,5,Bag,1692.5
+15,1,12,Bag,1687.0
+14,1,10,Bag,1685.0
+12,5,2,Bag,1678.0
+4,1,1,Bag,1668.0
+15,2,5,Bag,1654.5
+36,5,8,Bag,1631.699999999997
+27,5,1,Bag,1611.0
+9,1,2,Bag,1606.0
+11,5,4,Bag,1599.0
+9,5,2,Bag,1587.0
+20,5,4,Bag,1582.9000000000015
+40,4,2,Bag,1573.0
+16,4,5,Bag,1571.0
+11,4,1,Bag,1554.0
+14,5,3,Bag,1544.0
+4,5,3,Bag,1534.0
+21,3,5,Bag,1514.0
+22,2,4,Bag,1511.0
+6,4,5,Bag,1506.9999999999964
+11,5,6,Bag,1503.0
+13,4,11,Bag,1500.0
+38,4,7,Bag,1469.0
+39,3,4,Bag,1465.0
+24,1,12,Bag,1465.0
+6,2,2,Bag,1457.0
+13,1,5,Bag,1428.0
+11,5,5,Bag,1424.0
+19,1,5,Bag,1420.0
+15,3,8,Bag,1403.0
+25,2,10,Bag,1398.0
+9,4,1,Bag,1392.0
+35,3,4,Bag,1386.0
+35,4,2,Bag,1385.0
+35,1,7,Bag,1384.0
+24,3,2,Bag,1365.0
+21,3,3,Bag,1363.0
+4,5,1,Bag,1338.0
+14,1,12,Bag,1335.3999999999942
+33,2,8,Bag,1327.0
+9,2,8,Bag,1312.0
+33,2,7,Bag,1308.0
+35,3,12,Bag,1304.0
+21,3,8,Bag,1290.0
+10,1,4,Bag,1271.0
+38,1,4,Bag,1249.0
+36,5,4,Bag,1231.0
+38,4,4,Bag,1204.0
+10,1,5,Bag,1203.0
+33,4,4,Bag,1199.1869369369451
+20,1,4,Bag,1178.0
+22,2,1,Bag,1159.0
+25,2,7,Bag,1154.0
+16,4,3,Bag,1141.0
+38,5,2,Bag,1123.0
+40,5,3,Bag,1116.0
+25,1,7,Bag,1105.0
+15,4,1,Bag,1050.0
+21,4,10,Bag,1028.0
+4,2,5,Bag,1025.0
+25,2,9,Bag,1024.0
+36,4,2,Bag,1017.0
+21,5,1,Bag,1004.0
+3,1,5,Bag,914.0
+18,1,1,Bag,903.0
+17,5,1,Bag,872.0
+3,4,5,Bag,796.5
+39,3,5,Bag,731.0
+4,5,5,Bag,725.0
+20,4,7,Bag,715.3386956521717
+3,3,3,Bag,674.0
+10,2,10,Bag,659.0
+23,2,3,Bag,564.0200000000114
+33,2,3,Bag,519.0
+25,1,9,Bag,518.5
+11,5,9,Bag,387.4999999999927
+28,3,3,Bag,207.25
+14,4,7,Bag,115.0
+14,5,6,Bag,54.0
+35,3,8,Box,12797.5
+40,3,1,Box,12782.5
+25,5,3,Box,12182.5
+20,4,1,Box,11765.0
+30,1,3,Box,11137.5
+10,2,8,Box,10887.5
+9,2,2,Box,10330.0
+17,2,3,Box,10255.0
+36,3,7,Box,9732.800000000003
+39,1,2,Box,9605.0
+39,1,3,Box,9547.5
+27,3,4,Box,9497.5
+20,4,2,Box,9167.5
+40,4,3,Box,9090.0
+13,1,1,Box,8990.0
+13,3,4,Box,8892.5
+4,5,2,Box,8890.0
+11,4,1,Box,8867.5
+39,5,2,Box,8815.0
+22,3,3,Box,8795.0
+10,1,1,Box,8627.5
+33,1,2,Box,8595.0
+9,4,9,Box,8497.5
+11,2,3,Box,8482.5
+39,3,1,Box,8345.0
+32,1,2,Box,8307.5
+37,4,7,Box,8080.0
+36,3,5,Box,8047.5
+20,5,3,Box,7985.0
+21,2,8,Box,7940.0
+27,5,1,Box,7740.0
+38,4,3,Box,7577.5
+12,3,5,Box,7550.0
+15,1,9,Box,7522.5
+9,2,8,Box,7515.0
+17,4,3,Box,7512.5
+9,4,2,Box,7497.5
+19,1,6,Box,7415.0
+40,1,4,Box,7312.5
+16,4,6,Box,7077.5
+15,1,6,Box,6992.5
+4,5,3,Box,6980.0
+20,1,5,Box,6965.0
+11,4,4,Box,6955.0
+12,1,5,Box,6947.5
+10,3,7,Box,6920.0
+21,1,1,Box,6875.0
+18,4,1,Box,6862.5
+39,3,2,Box,6700.0
+3,2,1,Box,6675.0
+10,4,3,Box,6595.0
+40,5,2,Box,6592.5
+38,3,3,Box,6567.5
+3,3,1,Box,6562.5
+39,5,4,Box,6540.0
+11,1,5,Box,6502.5
+25,1,1,Box,6467.5
+3,1,5,Box,6392.5
+16,1,2,Box,6362.5
+10,5,3,Box,6355.0
+11,2,6,Box,6300.0
+15,4,3,Box,6297.5
+14,5,1,Box,6290.0
+38,5,3,Box,6287.5
+33,2,8,Box,6260.0
+22,2,3,Box,6255.0
+37,4,5,Box,6197.5
+24,1,6,Box,6167.5
+14,2,12,Box,6165.0
+33,1,1,Box,6130.0
+24,3,1,Box,6102.5
+36,3,3,Box,6047.5
+37,2,3,Box,6025.0
+24,2,2,Box,6025.0
+36,4,4,Box,5975.0
+20,2,6,Box,5962.5
+36,2,3,Box,5945.0
+12,2,1,Box,5865.0
+37,5,1,Box,5855.0
+15,5,1,Box,5852.5
+3,1,2,Box,5837.5
+28,4,3,Box,5822.5
+21,3,7,Box,5805.0
+33,2,1,Box,5792.5
+35,4,2,Box,5742.5
+30,2,2,Box,5737.5
+15,3,7,Box,5702.5
+24,3,2,Box,5682.5
+39,5,3,Box,5657.5
+16,1,5,Box,5657.5
+37,1,4,Box,5650.0
+17,5,2,Box,5632.5
+14,4,2,Box,5597.5
+37,3,1,Box,5587.5
+6,4,4,Box,5587.5
+20,2,2,Box,5577.5
+9,3,4,Box,5535.0
+13,4,4,Box,5502.5
+19,1,7,Box,5465.0
+11,5,4,Box,5462.5
+35,3,11,Box,5452.5
+3,5,3,Box,5445.0
+15,5,3,Box,5437.5
+23,3,1,Box,5377.5
+19,3,2,Box,5370.0
+39,1,4,Box,5307.5
+12,2,4,Box,5307.5
+14,3,2,Box,5287.5
+40,4,2,Box,5270.0
+21,4,5,Box,5270.0
+19,2,7,Box,5250.0
+19,4,1,Box,5242.5
+14,1,2,Box,5242.5
+38,5,1,Box,5210.0
+4,1,4,Box,5180.0
+25,2,3,Box,5177.5
+11,1,4,Box,5177.5
+36,5,3,Box,5147.5
+40,5,5,Box,5122.5
+4,4,4,Box,5090.0
+4,5,10,Box,5062.5
+3,2,6,Box,5060.0
+19,5,6,Box,5043.5
+18,4,2,Box,5007.5
+16,3,1,Box,4960.0
+28,5,1,Box,4952.5
+36,2,1,Box,4950.0
+17,4,4,Box,4945.0
+16,2,2,Box,4930.0
+16,4,2,Box,4905.0
+25,3,4,Box,4895.0
+23,4,1,Box,4890.0
+6,5,1,Box,4890.0
+15,1,2,Box,4885.0
+12,4,5,Box,4882.5
+37,5,4,Box,4875.0
+17,5,5,Box,4852.5
+21,5,5,Box,4722.5
+3,4,1,Box,4712.5
+37,5,5,Box,4695.0
+38,5,4,Box,4687.5
+15,2,3,Box,4682.5
+32,2,3,Box,4635.0
+13,4,8,Box,4632.5
+16,1,7,Box,4602.5
+9,4,10,Box,4595.0
+37,3,3,Box,4517.5
+40,2,3,Box,4515.0
+33,2,12,Box,4515.0
+33,2,3,Box,4515.0
+16,1,4,Box,4507.5
+25,3,1,Box,4485.0
+4,1,6,Box,4462.5
+25,3,7,Box,4432.5
+12,5,4,Box,4432.5
+21,3,6,Box,4425.0
+19,1,8,Box,4425.0
+4,3,5,Box,4415.0
+25,2,5,Box,4410.0
+33,5,1,Box,4395.0
+21,4,2,Box,4395.0
+20,2,3,Box,4392.5
+35,5,4,Box,4380.0
+40,2,7,Box,4375.0
+10,4,2,Box,4365.0
+32,5,3,Box,4355.0
+35,2,4,Box,4332.5
+9,1,4,Box,4307.5
+22,4,3,Box,4305.0
+24,2,4,Box,4280.0
+33,4,3,Box,4277.5
+32,1,1,Box,4265.0
+24,1,2,Box,4237.5
+11,5,7,Box,4227.5
+10,1,5,Box,4220.0
+11,1,3,Box,4172.5
+9,4,4,Box,4170.0
+6,4,1,Box,4167.5
+14,1,9,Box,4142.5
+20,3,6,Box,4137.5
+8,4,1,Box,4135.0
+3,3,5,Box,4120.0
+6,2,5,Box,4117.5
+38,5,5,Box,4107.5
+27,1,3,Box,4107.5
+27,3,2,Box,4105.0
+35,5,1,Box,4100.0
+22,2,1,Box,4097.5
+14,5,5,Box,4097.5
+17,1,1,Box,4085.0
+35,3,6,Box,4075.0
+22,2,2,Box,4075.0
+10,3,2,Box,4072.5
+38,3,4,Box,4057.5
+3,3,3,Box,4050.0
+4,3,4,Box,4015.0
+19,2,6,Box,4012.5
+16,3,2,Box,4002.5
+14,1,10,Box,3992.5
+3,5,1,Box,3952.5
+35,4,1,Box,3950.0
+11,4,3,Box,3945.0
+10,2,1,Box,3935.0
+20,4,4,Box,3917.5
+30,4,1,Box,3902.5
+33,3,3,Box,3892.5
+9,5,3,Box,3887.5
+15,3,4,Box,3880.0
+20,1,2,Box,3867.5
+35,3,1,Box,3840.0
+28,4,1,Box,3827.5
+10,2,9,Box,3815.0
+14,2,1,Box,3787.5
+24,5,2,Box,3755.0
+21,1,4,Box,3752.5
+9,1,3,Box,3750.0
+13,4,1,Box,3737.5
+10,4,4,Box,3725.0
+3,2,3,Box,3720.0
+37,2,4,Box,3710.0
+24,1,4,Box,3707.5
+36,5,7,Box,3702.5
+19,2,1,Box,3667.5
+33,4,1,Box,3665.0
+30,4,4,Box,3660.0
+13,2,4,Box,3640.0
+25,1,3,Box,3627.5
+16,1,3,Box,3592.5
+21,1,2,Box,3557.5
+23,1,3,Box,3525.0
+15,5,4,Box,3517.5
+11,5,3,Box,3510.0
+4,5,9,Box,3502.5
+35,3,3,Box,3497.5
+10,3,6,Box,3475.0
+8,3,1,Box,3457.5
+39,5,5,Box,3452.5
+12,5,3,Box,3452.5
+12,4,10,Box,3432.5
+15,3,1,Box,3420.0
+11,4,7,Box,3417.5
+36,1,1,Box,3392.5
+40,1,1,Box,3380.0
+22,3,2,Box,3367.5
+30,1,5,Box,3334.0
+11,3,4,Box,3327.5
+8,4,2,Box,3320.0
+23,2,1,Box,3307.5
+15,2,2,Box,3305.0
+19,4,6,Box,3300.0
+27,3,5,Box,3293.9107142857174
+15,3,10,Box,3291.5810810810945
+19,5,4,Box,3275.0
+39,5,1,Box,3270.0
+33,5,4,Box,3270.0
+6,1,1,Box,3265.0
+40,3,4,Box,3260.0
+35,2,3,Box,3260.0
+19,3,6,Box,3255.0
+35,5,5,Box,3252.5
+11,3,5,Box,3240.0
+16,5,6,Box,3232.5
+15,3,6,Box,3222.5
+11,4,12,Box,3204.9999999999854
+37,3,2,Box,3195.0
+33,2,10,Box,3195.0
+4,1,5,Box,3177.5
+21,5,3,Box,3172.5
+33,2,2,Box,3170.0
+25,4,3,Box,3165.0
+21,1,3,Box,3155.0
+13,4,9,Box,3155.0
+20,1,1,Box,3132.5
+12,1,2,Box,3130.0
+8,5,2,Box,3125.0
+33,1,4,Box,3122.3918918918935
+10,2,5,Box,3117.5
+38,4,4,Box,3110.0
+35,5,2,Box,3105.0
+33,2,7,Box,3097.5
+36,5,2,Box,3095.0
+33,2,11,Box,3095.0
+37,5,3,Box,3077.5
+20,1,3,Box,3070.0
+3,3,2,Box,3070.0
+20,5,1,Box,3035.0
+14,5,4,Box,3017.5
+13,1,6,Box,2995.0
+9,3,2,Box,2965.0
+9,2,6,Box,2965.0
+3,5,2,Box,2965.0
+24,1,1,Box,2950.0
+20,1,4,Box,2950.0
+14,2,4,Box,2932.5
+30,2,3,Box,2930.0
+24,1,11,Box,2927.5
+22,4,1,Box,2910.0
+25,1,7,Box,2897.5
+25,2,7,Box,2895.0
+40,5,1,Box,2885.0
+3,1,11,Box,2880.0
+38,1,4,Box,2872.5
+33,2,4,Box,2867.5
+16,4,11,Box,2862.5
+19,1,4,Box,2837.5
+40,4,4,Box,2825.0
+4,1,3,Box,2825.0
+12,4,6,Box,2820.0
+9,2,1,Box,2820.0
+37,1,2,Box,2817.5
+19,2,4,Box,2807.5
+3,1,3,Box,2805.0
+30,3,3,Box,2795.0
+27,1,4,Box,2770.0
+25,3,3,Box,2762.5
+13,2,2,Box,2755.0
+16,1,1,Box,2742.5
+10,1,4,Box,2742.5
+14,2,6,Box,2737.5
+4,3,2,Box,2720.0
+30,1,2,Box,2717.5
+3,4,2,Box,2712.5
+24,1,7,Box,2687.5
+37,4,2,Box,2677.5
+19,2,5,Box,2677.5
+40,2,10,Box,2655.0
+16,4,9,Box,2652.5
+21,1,8,Box,2647.5
+40,4,1,Box,2625.0
+15,3,3,Box,2617.5
+40,2,9,Box,2615.0
+21,3,2,Box,2615.0
+16,5,4,Box,2610.0
+10,5,4,Box,2606.5
+25,2,2,Box,2600.0
+36,5,4,Box,2585.0
+11,2,7,Box,2580.0
+24,4,6,Box,2565.0
+20,3,3,Box,2560.0
+36,4,5,Box,2555.0
+28,1,4,Box,2555.0
+38,4,5,Box,2540.0
+25,2,4,Box,2540.0
+9,2,9,Box,2540.0
+19,1,10,Box,2525.0
+37,1,3,Box,2490.0
+38,4,1,Box,2485.0
+4,2,1,Box,2470.0
+10,4,1,Box,2462.5
+27,3,1,Box,2445.0
+21,1,7,Box,2432.5
+19,5,5,Box,2430.0
+15,3,8,Box,2425.0
+11,2,2,Box,2425.0
+33,2,9,Box,2415.0
+16,1,6,Box,2415.0
+12,3,7,Box,2405.0
+12,3,1,Box,2405.0
+35,4,3,Box,2400.0
+3,4,3,Box,2392.5
+14,1,1,Box,2385.0
+9,3,1,Box,2370.0
+37,2,1,Box,2367.5
+14,2,7,Box,2365.0
+11,4,6,Box,2365.0
+39,1,1,Box,2355.0
+16,4,1,Box,2355.0
+37,1,1,Box,2352.5
+10,2,2,Box,2347.5
+17,1,4,Box,2342.5
+14,4,1,Box,2340.0
+11,3,2,Box,2337.5
+22,4,2,Box,2332.5
+19,1,1,Box,2332.5
+4,1,7,Box,2301.5
+24,2,3,Box,2292.5
+15,1,1,Box,2292.5
+4,5,6,Box,2292.5
+23,4,3,Box,2290.0
+20,3,1,Box,2277.5
+25,4,4,Box,2270.0
+40,5,4,Box,2260.0
+35,3,10,Box,2257.5
+16,3,3,Box,2255.0
+3,1,6,Box,2240.0
+37,4,1,Box,2235.0
+30,3,2,Box,2235.0
+19,3,4,Box,2217.5
+24,4,5,Box,2215.0
+22,4,4,Box,2215.0
+35,3,12,Box,2210.0
+13,4,7,Box,2182.5
+9,5,1,Box,2175.0
+19,4,5,Box,2160.0
+11,4,10,Box,2160.0
+13,4,6,Box,2155.0
+21,2,4,Box,2150.0
+12,5,1,Box,2150.0
+10,3,4,Box,2150.0
+40,3,2,Box,2137.5
+3,1,8,Box,2137.5
+37,5,2,Box,2130.0
+9,3,3,Box,2130.0
+8,3,4,Box,2125.0
+4,5,4,Box,2112.5
+25,3,6,Box,2107.5
+9,4,11,Box,2107.5
+13,3,1,Box,2097.5
+30,2,1,Box,2095.0
+19,5,1,Box,2070.0
+3,1,9,Box,2060.0
+14,2,10,Box,2050.0
+18,4,3,Box,2045.0
+3,3,4,Box,2045.0
+40,5,3,Box,2042.5
+18,2,4,Box,2040.0
+40,2,8,Box,2035.0
+4,4,3,Box,2012.5
+28,5,3,Box,2012.2200000000012
+12,5,2,Box,1997.5
+10,1,2,Box,1997.5
+9,2,3,Box,1997.5
+23,5,2,Box,1987.5
+35,5,3,Box,1985.0
+39,3,5,Box,1960.0
+19,4,2,Box,1960.0
+7,2,2,Box,1950.0
+10,3,8,Box,1945.0
+17,2,4,Box,1937.5
+12,4,1,Box,1937.5
+10,1,3,Box,1935.0
+7,2,3,Box,1932.5
+19,2,2,Box,1930.0
+16,5,3,Box,1930.0
+8,5,1,Box,1930.0
+38,5,2,Box,1925.0
+21,2,2,Box,1925.0
+16,4,7,Box,1922.5
+15,3,2,Box,1920.0
+10,3,1,Box,1915.0
+6,2,4,Box,1912.5
+35,2,1,Box,1897.5
+17,5,3,Box,1897.5
+37,1,5,Box,1890.0
+33,3,2,Box,1890.0
+3,2,5,Box,1885.0
+28,3,1,Box,1880.0
+35,4,4,Box,1866.520000000004
+6,4,3,Box,1865.0
+23,2,2,Box,1862.5
+20,3,5,Box,1862.5
+12,4,4,Box,1825.0
+14,4,4,Box,1810.0
+15,4,4,Box,1802.5
+9,1,1,Box,1802.5
+14,1,3,Box,1795.0
+21,2,3,Box,1785.0
+38,1,3,Box,1780.0
+10,2,6,Box,1780.0
+10,3,5,Box,1777.5
+7,4,1,Box,1742.5
+40,3,3,Box,1735.0
+40,1,3,Box,1730.0
+7,2,4,Box,1730.0
+37,4,4,Box,1725.0
+38,3,6,Box,1720.0
+32,2,2,Box,1717.5
+25,4,1,Box,1715.0
+27,3,3,Box,1710.0
+35,1,1,Box,1705.0
+14,2,9,Box,1700.0
+7,2,1,Box,1700.0
+30,3,1,Box,1692.5
+11,2,1,Box,1687.5
+23,5,1,Box,1675.0
+13,4,10,Box,1672.5
+18,3,1,Box,1665.0
+20,2,5,Box,1660.0
+21,3,1,Box,1652.5
+15,1,4,Box,1652.5
+4,2,4,Box,1645.0
+33,4,2,Box,1642.5
+21,4,6,Box,1640.0
+33,3,1,Box,1635.0
+17,5,6,Box,1635.0
+27,5,3,Box,1625.0
+7,5,3,Box,1622.5
+19,3,5,Box,1620.0
+35,1,8,Box,1617.5
+15,1,3,Box,1615.0
+38,1,1,Box,1612.5
+28,4,4,Box,1607.5
+19,3,7,Box,1607.5
+4,5,11,Box,1605.0
+15,1,5,Box,1592.5
+7,4,5,Box,1590.0
+23,1,2,Box,1585.0
+6,2,6,Box,1576.1379310344855
+18,2,3,Box,1575.0
+25,3,8,Box,1572.5
+14,3,3,Box,1552.5
+38,3,5,Box,1547.5
+12,4,3,Box,1547.5
+22,5,3,Box,1545.0
+40,1,2,Box,1525.0
+25,5,1,Box,1517.5
+32,5,2,Box,1510.0
+40,2,11,Box,1505.0
+16,5,1,Box,1497.5
+36,3,2,Box,1495.0
+11,5,5,Box,1495.0
+10,5,2,Box,1487.5
+10,2,4,Box,1477.5
+18,2,5,Box,1472.5
+11,5,2,Box,1467.5
+28,3,2,Box,1462.5
+12,3,8,Box,1450.0
+13,2,3,Box,1445.0
+24,3,3,Box,1442.5
+14,1,4,Box,1442.5
+16,2,5,Box,1437.5
+4,3,3,Box,1437.5
+25,4,2,Box,1435.0
+20,4,5,Box,1420.0
+16,3,5,Box,1420.0
+14,1,6,Box,1400.0
+3,2,4,Box,1395.0
+30,4,3,Box,1390.0
+39,3,3,Box,1387.5
+14,4,6,Box,1387.5
+12,1,6,Box,1385.0
+16,3,4,Box,1382.5
+12,3,6,Box,1372.5
+18,2,1,Box,1357.5
+35,3,4,Box,1335.0
+24,1,5,Box,1335.0
+24,1,3,Box,1332.5
+38,5,6,Box,1328.142857142855
+36,2,2,Box,1322.5
+12,1,3,Box,1320.0
+17,5,7,Box,1317.0
+7,4,6,Box,1311.0
+35,1,2,Box,1307.5
+13,1,9,Box,1305.0
+10,5,1,Box,1280.0
+35,3,7,Box,1277.5
+15,3,5,Box,1277.5
+17,2,2,Box,1265.0
+40,2,2,Box,1260.0
+6,2,1,Box,1257.5
+36,3,1,Box,1255.0
+7,4,3,Box,1252.5
+33,5,3,Box,1250.0
+17,1,5,Box,1246.975609756104
+25,1,4,Box,1245.0
+19,5,3,Box,1242.5
+36,3,6,Box,1240.0
+12,3,4,Box,1235.0
+9,2,10,Box,1232.9333333333343
+15,1,12,Box,1230.0
+13,1,2,Box,1225.0
+12,1,4,Box,1225.0
+12,1,1,Box,1225.0
+24,4,1,Box,1202.5
+9,2,4,Box,1192.5
+21,5,2,Box,1190.0
+18,3,2,Box,1181.2307692307804
+35,1,4,Box,1180.0
+14,2,3,Box,1180.0
+4,1,1,Box,1177.5
+13,1,3,Box,1170.0
+36,1,3,Box,1160.0
+13,1,7,Box,1160.0
+11,4,2,Box,1150.0
+25,3,2,Box,1147.5
+40,4,5,Box,1143.8499999999985
+40,2,6,Box,1140.0
+9,1,5,Box,1135.0
+12,5,6,Box,1132.5
+28,1,5,Box,1127.5
+21,3,4,Box,1117.5
+28,5,2,Box,1115.0
+16,4,5,Box,1110.0
+36,3,4,Box,1105.0
+35,2,5,Box,1100.0
+19,2,3,Box,1100.0
+4,4,1,Box,1095.0
+14,2,11,Box,1092.5
+15,4,1,Box,1085.0
+11,5,6,Box,1072.5
+36,4,1,Box,1047.5
+3,1,4,Box,1045.0
+14,1,11,Box,1040.0
+11,3,3,Box,1020.0
+13,4,11,Box,1014.5
+10,1,6,Box,1012.5
+35,3,5,Box,1000.0
+25,2,10,Box,999.5
+36,5,6,Box,987.5
+21,4,7,Box,985.0
+25,2,9,Box,980.0
+21,2,1,Box,977.5
+9,4,7,Box,970.0
+4,5,7,Box,967.5
+21,5,1,Box,957.5
+21,2,5,Box,955.0
+11,5,1,Box,940.0
+30,4,6,Box,937.5
+9,2,5,Box,915.0
+24,4,4,Box,902.5
+12,3,3,Box,890.0
+11,4,8,Box,890.0
+12,2,3,Box,882.5
+20,3,2,Box,820.0
+19,4,4,Box,820.0
+12,3,2,Box,820.0
+7,5,5,Box,778.5
+12,4,7,Box,727.5
+4,4,2,Box,725.0
+4,2,5,Box,724.0
+10,3,9,Box,688.0
+9,3,5,Box,669.0
+40,2,5,Box,647.5
+22,5,6,Box,618.7237837837856
+21,3,3,Box,600.0
+36,2,4,Box,569.7200000000012
+39,1,5,Box,197.2407407407445
+38,4,7,Box,84.50000000000728
+39,3,6,Box,46.5
+27,1,6,Box,40.0
+8,5,5,Box,6.314814814810234
+13,2,5,Box,2.0

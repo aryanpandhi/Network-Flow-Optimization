@@ -10,7 +10,7 @@ PS = read_csv('packaging_statistics.csv')
 
 # store the data for the facilities in arrays
 NAME = ['Detroit','Columbus','Springfield','Green Bay','Omaha']
-NUM_OF_RMI_DRUMS = [40,30,50,20,30]
+RMI_DRUMS = [40,30,50,20,30]
 START_FROM = [0,40,70,120,140]
 PREFINISH_EQUIPMENT = [2,3,1,2,3]
 BAG_EQUIPMENT = [1,2,1,1,1]
@@ -37,7 +37,7 @@ def simulate(k):
 
     # create the RMI store
     rmi_store = [0]*40
-    for i in range(START_FROM[k],START_FROM[k] + NUM_OF_RMI_DRUMS[k]):
+    for i in range(START_FROM[k],START_FROM[k] + RMI_DRUMS[k]):
         if not isna(RMIDF.iloc[i,3]):
             color_number = int(str(RMIDF.iloc[i,2])[14:])
             rmi_store[color_number-1] += int(RMIDF.iloc[i,3])
@@ -140,7 +140,8 @@ def simulate(k):
             float: pounds of jellybeans to be emptied from the RMI
         """
         amount_existing = pfi_store[find_pit(color,size)]
-        quantity_to_remove = (quantity-amount_existing) if amount_existing <= quantity else 0
+        difference = (quantity-amount_existing)
+        quantity_to_remove = difference if amount_existing <= quantity else 0
         percentage = find_percentage(color,size)
         return (quantity_to_remove * 100)/percentage 
         
@@ -199,18 +200,19 @@ def simulate(k):
         """
 
         # setting up the information of the work order
-        ID = info.iloc[1]
-        color = int(str(info.iloc[2])[14:])
-        size = int(str(info.iloc[3])[1:])
-        flavor = int(str(info.iloc[4])[1:])
-        packaging_type = str(info.iloc[5])
-        quantity_in_pounds = float(info.iloc[6])
+        color = int(info.iloc[0])
+        size = int(info.iloc[1])
+        flavor = int(info.iloc[2])
+        packaging_type = str(info.iloc[3])
+        quantity_in_pounds = float(info.iloc[4])
 
         # using the classifier machine
         with classifier.request() as classifier_req:
             yield classifier_req
             amount = amount_to_remove(color,size,quantity_in_pounds)
             rmi_store[color-1] -= amount
+            if round(rmi_store[color-1])<0 and amount!=0:
+                print(str(color)+str(rmi_store[color-1]))
             fill_the_drums(color,size,amount)
             yield env.timeout(amount/CLASSIFIER_RATE[k])
 
