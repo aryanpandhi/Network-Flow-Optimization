@@ -31,12 +31,27 @@ for i in range(0,50,10):
     PACKAGING_RATE[int(i/10)] = total/10
 
 def find_percentage(color,size):
+    """ 
+    Returns the percentage split in the classifier of the given size for
+    the given color
+    """
     index = (color-1)*5
     while not (int(str(cs.CLSP.iloc[index,1])[1:])==size):
         index += 1
     return int(cs.CLSP.iloc[index,2])
 
 def rmi_only_color(k):
+    """
+    Returns the amount of jellybeans of each color in the rmi store
+    of a facility
+
+    Args:
+        k (int): index of the facility in the arrays storing facility data
+
+    Returns: 
+        list: 1-d list of length 40 that stores the amount of each of the 40 colors
+        in the rmi of facility k
+    """
     rmi_store_color = [0]*40
     for i in range(cs.START_FROM[k],cs.START_FROM[k] + cs.RMI_DRUMS[k]):
         if not isna(cs.RMIDF.iloc[i,3]):
@@ -45,6 +60,18 @@ def rmi_only_color(k):
     return rmi_store_color
 
 def rmi_color_size(rmi_store_color):
+    """
+    Returns the amount of jellybeans of each color and size in the rmi store
+    of a facility
+
+    Args:
+        rmi_store_color (list):  1-d list of length 40 that stores the amount of each 
+        of the 40 colors in the rmi of facility k
+
+    Returns: 
+        list:  1-d list of length 200 to store the amount of each of the 40 colors and
+        5 sizes in the rmi of facility k
+    """
     rmi_store = [0]*200
     for i in range(40):
         for j in range(5):
@@ -53,6 +80,14 @@ def rmi_color_size(rmi_store_color):
     return rmi_store
 
 def setup_rmi():
+    """
+    Returns the amount of jellybeans of each color and size in the rmi store
+    of all the facilities
+
+    Returns:
+        list: 2-d list of size (5,200) such that each row contains the amount
+        of jellybeans for each color and size in the rmi of a particular facility
+    """
     rmi_amount = []
     for k in range(5):
         rmi_store_color = rmi_only_color(k)
@@ -64,6 +99,10 @@ def setup_rmi():
 rmi_amount = setup_rmi()
 
 def convert_to_pounds(quantity,packaging_type):
+    """
+    Returns the amount of jellybeans in pounds based on the quantity of packages
+    and the packaging type for each
+    """
     return 0.25*quantity if packaging_type=='Bag' else 2.5*quantity
 
 # determine total demand for jellybeans
@@ -87,10 +126,27 @@ collected_amount = [[0]*200 for _ in range(5)]
 total_time = [0,0,0,0,0]
 
 def determine_amount(color,size,quantity):
+    """
+    Returns the amount that needs to be taken out of an rmi drum of a
+    particular color based on the quantity of a particular size needed
+    """
     percentage = find_percentage(color,size)
     return (quantity * 100)/percentage 
 
 def approx_time(color,size,quantity):
+    """
+    Returns the approximate time taken by an order (containing only the color, size
+    and quantity) at each of the facilities. 
+
+    Args:
+        color (int):  color of jellybeans to produce in the order
+        size (int):  size of jellybeans to produce in the order
+        quantity (float): quantity (in pounds) of the jellybeans to produce
+
+    Returns:
+        list: 1-d list of length 5 containing the approximate time taken by
+        each of the 5 facilities
+    """
     times = [0]*5
     amount = determine_amount(color,size,quantity)
     for i in range(5):
@@ -108,6 +164,21 @@ for i in range(40):
         TA[i*5+j] = [demand_color_size[i*5+j]] + times
 
 def select_facility(color,set_amounts,facilities):
+    """
+    Returns the facility and the approximated time it would take to distribute
+    a given set of jellybeans of a particular color. The facility is selected 
+    on the base of distributing work equally among all facilities and keeping
+    the total time low.
+
+    Args:
+        color (int): color of jellybeans that are to be distributed
+        set_amounts (list): amounts of jellybeans for each of the sizes
+        facilities (list): facilities that have enough rmi to produce these amounts
+
+    Returns:
+        list: 1-d list of length 2 consisting of the selected facility and the 
+        approximate time it takes to process these amounts
+    """
     max_values = [0]*5
     time_values = [0]*5
     for i in range(5):
@@ -128,6 +199,9 @@ def select_facility(color,set_amounts,facilities):
     return [selected_facility,time_values[selected_facility]]
 
 def update_times(times,set_amounts,color):
+    """
+    Returns the updated time approximates for each of the facilities
+    """
     for i in range(5):
         if times[i] is not None:
             time = 0
@@ -138,6 +212,17 @@ def update_times(times,set_amounts,color):
     return times
 
 def fastest_facility(times):
+    """
+    Returns the facility to distribute the order to such that the
+    total order is equally distributed and the total time is low.
+
+    Args: 
+        times (list): list of length 5 containing approximate times
+        for each of the facilities to produce the set amounts
+
+    Returns:
+        int: facility that causes the most equal distribution
+    """
     minimum = inf
     index = -1
     for i in range(5):
@@ -151,12 +236,25 @@ def fastest_facility(times):
     return index
 
 def facility_exists(times):
+    """
+    Checks whether there exists a facility that can take any amount
+    """
     for i in range(5):
         if times[i] != None:
             return True
     return False
 
 def separated_distribution(times,set_amounts,color):
+    """
+    Distributes the given set amounts in parts to more than one facility
+    that are selected based on the most equal distribution of approximate time
+
+    Args:
+        times (list): approx time for each facility to process set_amounts
+        set_amounts (list): amounts of jellybeans for each of the sizes to be
+        distributed
+        color (int): color of the jellybeans in set_amounts that are to be distributed
+    """
     total_amount = sum(set_amounts)
     while facility_exists(times) and round(total_amount)>0:
         facility = fastest_facility(times)
@@ -172,6 +270,10 @@ def separated_distribution(times,set_amounts,color):
     assert round(total_amount)==0
 
 def facility_times(color,set_amounts):
+    """
+    Returns the approximate time it would take each facility to produce the
+    given set of jellybeans
+    """
     times = [None]*5
     for i in range(5):
         time = 0
@@ -183,6 +285,10 @@ def facility_times(color,set_amounts):
     return times
 
 def feasible_facilities(color,set_amounts):
+    """
+    Returns the facilities that have enough rmi to produce the whole set of jellybeans
+    given
+    """
     facilities = []
     for i in range(5):
         feasible = True
@@ -193,6 +299,23 @@ def feasible_facilities(color,set_amounts):
     return facilities
 
 def distribute(total,size,color,size_amounts,percentages):
+    """
+    Distributes the input amount of jellybeans to facilities based on the goal 
+    to minimize the total time taken to produce by all facilities.
+
+    Args:
+        total (float): amount of jellybeans to distribute
+        size (int): size of jellybeans to distribute
+        color (int): color of jellybeans to distribute
+        size_amounts (list): amount of jellybeans for each size of the color that have 
+        to be distributed
+        percentages (list): the percentage in classifier split of each combination 
+        of the color and size
+
+    Returns:
+        list: 2-d list containing the updating size_amounts and percentages after
+        the distribution of the given amount
+    """
     set_amounts = [0]*5
     for i in range(5):
         if size_amounts[i] != None:
@@ -222,6 +345,20 @@ def distribute(total,size,color,size_amounts,percentages):
     return [size_amounts,percentages]
 
 def find_smallest_total(size_amounts,percentages):
+    """
+    Returns the smallest amount to remove from the an rmi drum in order
+    to completely distribute one of the sizes, and returns this size
+
+    Args:
+        size_amounts (list): amount of jellybeans for each size of the color that have 
+        to be distributed
+        percentages (list): the percentage in classifier split of each combination 
+        of the color and size
+
+    Returns:
+        list: 1-d list of length 2 containing the smallest total and the size that gets
+        completely distributed
+    """
     totals = [0]*5
     for i in range(5):
         check = size_amounts[i] != None
@@ -237,6 +374,16 @@ def find_smallest_total(size_amounts,percentages):
     return [smallest_total,index+1]
 
 def distribute_color(color,size_amounts,percentages):
+    """
+    Distributes all the sizes of one particular color to facilities
+
+    Args:
+        color (int): color to be distributed to facilities
+        size_amounts (list): amount of jellybeans for each size that have 
+        to be distributed
+        percentages (list): the percentage in classifier split of each 
+        combination of the color and size
+    """
     for i in range(5):
         [total,size] = find_smallest_total(size_amounts,percentages)
         [size_amounts,percentages] = distribute(total,size,color,size_amounts,percentages)
@@ -244,6 +391,9 @@ def distribute_color(color,size_amounts,percentages):
         assert size_amounts[i]==None
 
 def distribute_total_order():
+    """
+    Distributes the total order to facilities based on color and size 
+    """
     for i in range(0,200,5):
         size_amounts = [0]*5
         percentages = [0]*5
@@ -261,6 +411,10 @@ for i in range(5):
     total_order += [[[0]*200 for _ in range(24)]]
 
 def assign_combination(i,j,amount):
+    """
+    Assigns flavor and packaging type in facilities for the given combination
+    of color, size, flavor, packaging type
+    """
     for k in range(5):
         if collected_amount[k][j] >= amount:
             total_order[k][i][j] += amount
@@ -272,6 +426,10 @@ def assign_combination(i,j,amount):
             collected_amount[k][j] = 0
 
 def assign_flavor_package():
+    """
+    Assigns the flavor and packaging type to the jellybeans that were 
+    distributed based on colors and sizes
+    """
     for j in range(200):
         for i in range(24):
             assign_combination(i,j,demand_total[i][j])
@@ -280,6 +438,9 @@ def assign_flavor_package():
 assign_flavor_package()
 
 def bag_arrays(facility):
+    """
+    Returns a list of orders that contain the packaging type of bag
+    """
     order = total_order[facility]
     bag_array = []
     for j in range(200):
@@ -289,6 +450,9 @@ def bag_arrays(facility):
     return bag_array
 
 def box_arrays(facility):
+    """
+    Returns a list of orders that contain the packaging type of box
+    """
     order = total_order[facility]
     box_array = []
     for j in range(200):
@@ -298,6 +462,9 @@ def box_arrays(facility):
     return box_array
 
 def sort_array(arr):
+    """
+    Returns the given list sorted in decreasing order
+    """
     for i in range(len(arr)):
         j = i
         while(j > 0 and arr[j][4] < arr[j-1][4]):
@@ -308,6 +475,9 @@ def sort_array(arr):
     return arr
 
 def create_data_frames(bag_array,box_array,facility):
+    """
+    Returns the data frame containing the internal work order for the given facility
+    """
     collect_list = []
     for i in range(len(bag_array)-1,-1,-1):
         collect_list.append([bag_array[i][0],bag_array[i][1],bag_array[i][2],bag_array[i][3],bag_array[i][4]])
@@ -317,6 +487,10 @@ def create_data_frames(bag_array,box_array,facility):
     return df
 
 def internal_work_orders(facility):
+    """
+    Creates the internal work order of a particular facility and outputs it
+    as a .csv file
+    """
     bag_array = sort_array(bag_arrays(facility))
     box_array = sort_array(box_arrays(facility))
     df = create_data_frames(bag_array,box_array,facility)
