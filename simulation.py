@@ -1,20 +1,15 @@
+"""
+This script simulates the manufacturing processes at each of the facilities based 
+on its equipment (constants.py) and its respective internal work order. It prints
+the time taken by each facility to complete its production.
+
+Author: Aryan Pandhi
+Date: 30 May, 2020 (Python 3 Version)
+"""
 from numpy import random 
 from pandas import read_csv, isna
 from simpy import Environment, Resource
-
-# read and create data frames for the csv files
-RMIDF = read_csv('rmi_inventory_level.csv')
-CLSP = read_csv('classifier_split.csv')
-PFS = read_csv('prefinish_statistics.csv')
-PS = read_csv('packaging_statistics.csv')
-
-# store the data for the facilities in arrays
-NAME = ['Detroit','Columbus','Springfield','Green Bay','Omaha']
-RMI_DRUMS = [40,30,50,20,30]
-START_FROM = [0,40,70,120,140]
-PREFINISH_EQUIPMENT = [2,3,1,2,3]
-BAG_EQUIPMENT = [1,2,1,1,1]
-CLASSIFIER_RATE = [3420,2280,1260,2050,4440]
+import constants as cs
 
 def simulate(k):
     """
@@ -33,14 +28,14 @@ def simulate(k):
     """
 
     # read the internal work order
-    df = read_csv(NAME[k].lower() + '.csv')
+    df = read_csv(cs.NAME[k].lower() + '.csv')
 
     # create the RMI store
     rmi_store = [0]*40
-    for i in range(START_FROM[k],START_FROM[k] + RMI_DRUMS[k]):
-        if not isna(RMIDF.iloc[i,3]):
-            color_number = int(str(RMIDF.iloc[i,2])[14:])
-            rmi_store[color_number-1] += int(RMIDF.iloc[i,3])
+    for i in range(cs.START_FROM[k],cs.START_FROM[k] + cs.RMI_DRUMS[k]):
+        if not isna(cs.RMIDF.iloc[i,3]):
+            color_number = int(str(cs.RMIDF.iloc[i,2])[14:])
+            rmi_store[color_number-1] += int(cs.RMIDF.iloc[i,3])
     
     # initialize the PFI store
     pfi_store = [0]*200
@@ -48,8 +43,8 @@ def simulate(k):
     # set up the simulation environment and resources
     env = Environment()
     classifier = Resource(env,1)
-    prefinish = Resource(env,PREFINISH_EQUIPMENT[k])
-    bag_machine = Resource(env,BAG_EQUIPMENT[k])
+    prefinish = Resource(env,cs.PREFINISH_EQUIPMENT[k])
+    bag_machine = Resource(env,cs.BAG_EQUIPMENT[k])
     box_machine = Resource(env,1)
 
     def calculate_prefinish_rate(size,flavor):
@@ -68,13 +63,9 @@ def simulate(k):
         Returns: 
             float: processing rate in pounds per hour
         """
-        index = (size-1)*12 + flavor-1
-
-        while not (str(PFS.iloc[index,1]) == NAME[k]):
-            index += 60
-        
-        mean = PFS.iloc[index,4]
-        sd = PFS.iloc[index,5]
+        index = (size-1)*12 + flavor-1 + 60*k
+        mean = cs.PFS.iloc[index,4]
+        sd = cs.PFS.iloc[index,5]
         return float(random.normal(mean,sd))
 
     def calculate_packaging_rate(size,packaging_type):
@@ -95,13 +86,9 @@ def simulate(k):
             float: processing rate in pounds per hour
         """
         packaging_number = 1 if packaging_type=='Bag' else 0
-        index = packaging_number + (size-1)*2
-
-        while not (str(PS.iloc[index,1]) == NAME[k]):
-            index += 10
-
-        mean = PS.iloc[index,4]
-        sd = PS.iloc[index,5]
+        index = packaging_number + (size-1)*2 + 10*k
+        mean = cs.PS.iloc[index,4]
+        sd = cs.PS.iloc[index,5]
         return float(random.normal(mean,sd)) 
 
     def find_pit(color,size):
@@ -162,10 +149,10 @@ def simulate(k):
             int: percentage split of the size
         """
         index = (color-1)*5
-        while not (int(str(CLSP.iloc[index,1])[1:])==size):
+        while not (int(str(cs.CLSP.iloc[index,1])[1:])==size):
             index += 1
 
-        return int(CLSP.iloc[index,2])
+        return int(cs.CLSP.iloc[index,2])
 
     def fill_the_drums(color,size,amount):
         """ 
@@ -211,10 +198,9 @@ def simulate(k):
             yield classifier_req
             amount = amount_to_remove(color,size,quantity_in_pounds)
             rmi_store[color-1] -= amount
-            if round(rmi_store[color-1])<0 and amount!=0:
-                print(str(color)+str(rmi_store[color-1]))
+            assert round(rmi_store[color-1]) >= 0
             fill_the_drums(color,size,amount)
-            yield env.timeout(amount/CLASSIFIER_RATE[k])
+            yield env.timeout(amount/cs.CLASSIFIER_RATE[k])
 
         # using one of the pre-finish operation machines
         with prefinish.request() as prefinish_req:

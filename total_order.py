@@ -1,29 +1,22 @@
-import numpy as np 
-import pandas as pd 
-import math
+"""
+This script generates internal work orders based on the order bank (order_bank.csv) received by 
+the firm and the equipment (constants.py) at the various jellybean manufacturing facilities. It
+outputs a .csv file for each facility containing its internal work order.
 
-# read and create data frames for the csv files
-OB = pd.read_csv('order_bank.csv')
-PFS = pd.read_csv('prefinish_statistics.csv')
-PS = pd.read_csv('packaging_statistics.csv')
-CLSP = pd.read_csv('classifier_split.csv')
-RMIDF = pd.read_csv('rmi_inventory_level.csv')
-
-# Detroit, Columbus, Green Bay, Springfield, Omaha
-NAME = ['Detroit','Columbus','Green Bay', 'Springfield', 'Omaha']
-RMI_DRUMS = [40,30,20,50,30]
-START_FROM = [0,40,120,70,140]
-CLASSIFIER_RATE = [3420, 2280, 2050, 1260, 4440]
-PREFINISH_EQUIPMENT = [2,3,2,1,3]
-BAG_EQUIPMENT = [1,2,1,1,1]
-BOX_EQUIPMENT = [1,1,1,1,1]
+Author: Aryan Pandhi
+Date: 30 May, 2020 (Python 3 Version)
+"""
+from numpy import amax, sum
+from pandas import DataFrame, isna, read_csv
+from math import inf
+import constants as cs
 
 # set up the prefinish rates for each facility 
 PREFINISH_RATE = [0]*5
 for i in range(0,300,60):
     total = 0
     for j in range(60):
-        total += float(PFS.iloc[i+j,4])
+        total += float(cs.PFS.iloc[i+j,4])
     PREFINISH_RATE[int(i/60)] = total/60
 
 # set up the packaging rates for each facility
@@ -32,23 +25,23 @@ for i in range(0,50,10):
     total = 0
     for j in range(10):
             if i%10 == 1:
-                total += 2*PS.iloc[i+j,4] if j%2==1 else PS.iloc[i+j,4]
+                total += 2*cs.PS.iloc[i+j,4] if j%2==1 else cs.PS.iloc[i+j,4]
             else:
-                total += PS.iloc[i+j,4]
+                total += cs.PS.iloc[i+j,4]
     PACKAGING_RATE[int(i/10)] = total/10
 
 def find_percentage(color,size):
     index = (color-1)*5
-    while not (int(str(CLSP.iloc[index,1])[1:])==size):
+    while not (int(str(cs.CLSP.iloc[index,1])[1:])==size):
         index += 1
-    return int(CLSP.iloc[index,2])
+    return int(cs.CLSP.iloc[index,2])
 
 def rmi_only_color(k):
     rmi_store_color = [0]*40
-    for i in range(START_FROM[k],START_FROM[k] + RMI_DRUMS[k]):
-        if not pd.isna(RMIDF.iloc[i,3]):
-            color_number = int(str(RMIDF.iloc[i,2])[14:])
-            rmi_store_color[color_number-1] += int(RMIDF.iloc[i,3])
+    for i in range(cs.START_FROM[k],cs.START_FROM[k] + cs.RMI_DRUMS[k]):
+        if not isna(cs.RMIDF.iloc[i,3]):
+            color_number = int(str(cs.RMIDF.iloc[i,2])[14:])
+            rmi_store_color[color_number-1] += int(cs.RMIDF.iloc[i,3])
     return rmi_store_color
 
 def rmi_color_size(rmi_store_color):
@@ -76,16 +69,16 @@ def convert_to_pounds(quantity,packaging_type):
 # determine total demand for jellybeans
 demand_color_size = [0]*200
 demand_total = [[0]*200 for _ in range(24)]
-(rows,cols) = OB.shape
+(rows,cols) = cs.OB.shape
 for i in range(rows):
-    color_number = (int(str(OB.iloc[i,1])[11:])-1)*5
-    size_number = int(str(OB.iloc[i,2])[1:])-1
+    color_number = (int(str(cs.OB.iloc[i,1])[11:])-1)*5
+    size_number = int(str(cs.OB.iloc[i,2])[1:])-1
     col_index = color_number + size_number
-    flavor_number = (int(str(OB.iloc[i,3])[1:])-1)*2
-    packaging_number = 0 if str(OB.iloc[i,4]) == 'Bag' else 1
+    flavor_number = (int(str(cs.OB.iloc[i,3])[1:])-1)*2
+    packaging_number = 0 if str(cs.OB.iloc[i,4])=='Bag' else 1
     row_index = flavor_number + packaging_number
-    demand_color_size[col_index] += convert_to_pounds(int(OB.iloc[i,5]),str(OB.iloc[i,4]))   
-    demand_total[row_index][col_index] += convert_to_pounds(int(OB.iloc[i,5]),str(OB.iloc[i,4])) 
+    demand_color_size[col_index] += convert_to_pounds(int(cs.OB.iloc[i,5]),str(cs.OB.iloc[i,4]))   
+    demand_total[row_index][col_index] += convert_to_pounds(int(cs.OB.iloc[i,5]),str(cs.OB.iloc[i,4])) 
 
 # initialize array to store the amount assigned to facilities
 collected_amount = [[0]*200 for _ in range(5)]
@@ -101,10 +94,10 @@ def approx_time(color,size,quantity):
     times = [0]*5
     amount = determine_amount(color,size,quantity)
     for i in range(5):
-        classifier_time = amount/CLASSIFIER_RATE[i]
-        prefinish_time = quantity/(PREFINISH_RATE[i]*PREFINISH_EQUIPMENT[i])
+        classifier_time = amount/cs.CLASSIFIER_RATE[i]
+        prefinish_time = quantity/(PREFINISH_RATE[i]*cs.PREFINISH_EQUIPMENT[i])
         packaging_time = quantity/(PACKAGING_RATE[i])
-        times[i] = classifier_time+prefinish_time+packaging_time
+        times[i] = classifier_time + prefinish_time + packaging_time
     return times
 
 # determines amount demanded and its time approximations for each facility
@@ -124,7 +117,7 @@ def select_facility(color,set_amounts,facilities):
             time += (set_amounts[j]/TA[row][0])*TA[row][i + 1]
         time_values[i] = time
         total_time[i] += time
-        max_values[i] = np.amax(total_time)
+        max_values[i] = amax(total_time)
         total_time[i] -= time
     minimum = max_values[facilities[0]]
     selected_facility = facilities[0]
@@ -145,13 +138,13 @@ def update_times(times,set_amounts,color):
     return times
 
 def fastest_facility(times):
-    minimum = math.inf
+    minimum = inf
     index = -1
     for i in range(5):
         if times[i] is not None:
             total_time[i] += times[i]
-            if np.amax(total_time) < minimum:
-                minimum = np.amax(total_time)
+            if amax(total_time) < minimum:
+                minimum = amax(total_time)
                 index = i
             total_time[i] -= times[i]
     assert index != -1
@@ -164,7 +157,7 @@ def facility_exists(times):
     return False
 
 def separated_distribution(times,set_amounts,color):
-    total_amount = np.sum(set_amounts)
+    total_amount = sum(set_amounts)
     while facility_exists(times) and round(total_amount)>0:
         facility = fastest_facility(times)
         for i in range(5):
@@ -172,7 +165,7 @@ def separated_distribution(times,set_amounts,color):
             rmi_amount[facility][(color-1)*5+i] -= to_remove
             set_amounts[i] -= to_remove
             collected_amount[facility][(color-1)*5+i] += to_remove
-        total_amount = np.sum(set_amounts)
+        total_amount = sum(set_amounts)
         total_time[facility] += times[facility]
         times[facility] = None
         times = update_times(times,set_amounts,color)           
@@ -234,7 +227,7 @@ def find_smallest_total(size_amounts,percentages):
         check = size_amounts[i] != None
         totals[i] = (size_amounts[i]/percentages[i])*100 if check else None
     
-    smallest_total = math.inf
+    smallest_total = inf
     index = -1
     for i in range(5):
         if totals[i] != None and totals[i] < smallest_total:
@@ -320,14 +313,14 @@ def create_data_frames(bag_array,box_array,facility):
         collect_list.append([bag_array[i][0],bag_array[i][1],bag_array[i][2],bag_array[i][3],bag_array[i][4]])
     for i in range(len(box_array)-1,-1,-1):
         collect_list.append([box_array[i][0],box_array[i][1],box_array[i][2],box_array[i][3],box_array[i][4]])
-    df = pd.DataFrame(collect_list,columns=['Color','Size','Flavor','Packaging Type','Quantity'])
+    df = DataFrame(collect_list,columns=['Color','Size','Flavor','Packaging Type','Quantity'])
     return df
 
 def internal_work_orders(facility):
     bag_array = sort_array(bag_arrays(facility))
     box_array = sort_array(box_arrays(facility))
     df = create_data_frames(bag_array,box_array,facility)
-    df.to_csv(NAME[facility]+'.csv',index=False)
+    df.to_csv(cs.NAME[facility]+'.csv',index=False)
 
 # creates and outputs internal work orders for each facility
 for i in range(5):

@@ -1,3 +1,10 @@
+"""
+This script reads the prefinish data for each site, fits it to a gaussian distribution and
+performs the Kolmogorov Smirnov test on it. It outputs the statistics as a .csv file.
+
+Author: Aryan Pandhi
+Date: 30 May, 2020 (Python 3 Version)
+"""
 from pandas import read_csv, DataFrame 
 from scipy.stats import norm
 from scipy.stats import kstest
